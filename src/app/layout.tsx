@@ -43,6 +43,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
+      <head>
+        <GoogleAdSense />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50 flex flex-col min-h-screen`}
       >
@@ -53,7 +56,6 @@ export default function RootLayout({
           <Footer />
           <CookieConsent />
           <GoogleAnalytics />
-          <GoogleAdSense />
         </ConsentProvider>
       </body>
     </html>

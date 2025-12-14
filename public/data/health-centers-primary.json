@@ -11622,5 +11622,261 @@
     "lng": -5.1057187,
     "city": "POSADAS",
     "address": "CALLE GAITAN, Nº 1"
+  },
+  {
+    "name": "ALMODÓVAR DEL RÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8147008,
+    "lng": -5.0172479,
+    "city": "ALMODÓVAR DEL RÍO",
+    "address": "CALLE PINTOR VELAZQUEZ, S/N"
+  },
+  {
+    "name": "GUADALCÁZAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.7588932,
+    "lng": -4.9381747,
+    "city": "GUADALCÁZAR",
+    "address": "PLAZA PALACIO BAJO, Nº 6"
+  },
+  {
+    "name": "HORNACHUELOS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.77388,
+    "lng": -5.2059823,
+    "city": "HORNACHUELOS",
+    "address": "CARRETERA SAN CALIXTO, S/N"
+  },
+  {
+    "name": "LOS MOCHOS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8354048,
+    "lng": -4.949489,
+    "city": "MOCHOS (LOS)",
+    "address": "BARRIADA LOS MOCHOS, Nº 110"
+  },
+  {
+    "name": "ALBUÑOL",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7872531,
+    "lng": -3.2001026,
+    "city": "ALBUÑOL",
+    "address": "CARRETERA ORGIVA, S/N"
+  },
+  {
+    "name": "ALBONDÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8282892,
+    "lng": -3.2108972,
+    "city": "ALBONDÓN",
+    "address": "CALLE LA LOMILLA, S/N"
+  },
+  {
+    "name": "LA RÁBITA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7492752,
+    "lng": -3.1698824,
+    "city": "RÁBITA (LA)",
+    "address": "CALLE CASTILLO, S/N"
+  },
+  {
+    "name": "LOS CASTILLAS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7724088,
+    "lng": -3.1868385,
+    "city": "CASTILLAS (LOS)",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "SORVILÁN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7963898,
+    "lng": -3.2640668,
+    "city": "SORVILÁN",
+    "address": "CALLE NUEVA ANDALUCÍA, S/N"
+  },
+  {
+    "name": "ALFORNÓN (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8179718,
+    "lng": -3.2790054,
+    "city": "ALFORNÓN",
+    "address": "CALLE REAL, S/N"
+  },
+  {
+    "name": "EL POZUELO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7483029,
+    "lng": -3.1535547,
+    "city": "POZUELO (EL)",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "ALMUÑÉCAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7332791,
+    "lng": -3.6846,
+    "city": "ALMUÑÉCAR",
+    "address": "CALLE CHINGUETTI, S/N"
+  },
+  {
+    "name": "EL CASTILLO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7378635,
+    "lng": -3.7483976,
+    "city": "ALMUÑÉCAR",
+    "address": "CALLE CUEVAS SIETE PALACIOS, Nº 7"
+  },
+  {
+    "name": "JETE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7954468,
+    "lng": -3.6679452,
+    "city": "JETE",
+    "address": "CARRETERA DEL SUSPIRO, S/N"
+  },
+  {
+    "name": "LA HERRADURA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7354718,
+    "lng": -3.7434671,
+    "city": "HERRADURA (LA)",
+    "address": "CALLE GONZALO BARBERO, Nº 18"
+  },
+  {
+    "name": "LENTEJÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 36.833865,
+    "lng": -3.6754533,
+    "city": "LENTEGÍ",
+    "address": "PLAZA GRANADA, S/N"
+  },
+  {
+    "name": "OTÍVAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8140095,
+    "lng": -3.6794397,
+    "city": "OTÍVAR",
+    "address": "CARRETERA EL SUSPIRO, S/N"
+  },
+  {
+    "name": "RÁGOL (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9953371,
+    "lng": -2.6817213,
+    "city": "RÁGOL",
+    "address": "CALLE CARRERA DEL CARMEN, S/N"
+  },
+  {
+    "name": "SANTA CRUZ (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0161503,
+    "lng": -2.6023762,
+    "city": "SANTA CRUZ DE MARCHENA",
+    "address": "CALLE CASTAÑOS, S/N"
+  },
+  {
+    "name": "BENAHADUX",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9270367,
+    "lng": -2.4603957,
+    "city": "BENAHADUX",
+    "address": "CALLE SEVILLA, S/N"
+  },
+  {
+    "name": "GÁDOR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9531733,
+    "lng": -2.4919539,
+    "city": "GÁDOR",
+    "address": "CALLE LA PAZ, Nº 3"
+  },
+  {
+    "name": "HUÉRCAL DE ALMERÍA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8834306,
+    "lng": -2.4363827,
+    "city": "HUÉRCAL DE ALMERÍA",
+    "address": "CALLE II REPUBLICA, Nº1"
+  },
+  {
+    "name": "PECHINA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9143144,
+    "lng": -2.4399489,
+    "city": "PECHINA",
+    "address": "CALLE LIMÓN, Nº 1"
+  },
+  {
+    "name": "RIOJA",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3059,
+    "lng": -1.9671997,
+    "city": "RIOJA",
+    "address": "CALLE CONSTITUCIÓN, S/N"
+  },
+  {
+    "name": "VIATOR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8895873,
+    "lng": -2.4268474,
+    "city": "VIATOR",
+    "address": "CALLE GREGORIO TORRES, S/N"
+  },
+  {
+    "name": "ARGAMASÓN (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9982768,
+    "lng": -1.978185,
+    "city": "ARGAMASÓN (EL)",
+    "address": "CALLE ARGAMASÓN, S/N"
+  },
+  {
+    "name": "NÍJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0010185,
+    "lng": -2.2117126,
+    "city": "NÍJAR",
+    "address": "CALLE FEDERICO GARCÍA LORCA, S/N"
+  },
+  {
+    "name": "CAMPOHERMOSO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9354865,
+    "lng": -2.1336833,
+    "city": "CAMPOHERMOSO",
+    "address": "CALLE LOS GALLARDOS, S/N"
+  },
+  {
+    "name": "SAN ISIDRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9132609,
+    "lng": -2.1786438,
+    "city": "SAN ISIDRO DE NÍJAR",
+    "address": "CALLE COLINAS, S/N"
+  },
+  {
+    "name": "AGUA AMARGA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1165203,
+    "lng": -1.3159061,
+    "city": "AGUA AMARGA",
+    "address": "CALLE AGUA AMARGA, S/N"
+  },
+  {
+    "name": "ALBARICOQUES (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8497778,
+    "lng": -2.1207484,
+    "city": "ALBARICOQUES",
+    "address": "CALLE ALBARICOQUES, S/N"
+  },
+  {
+    "name": "ATOCHARES (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8795383,
+    "lng": -2.1606148,
+    "city": "ATOCHARES",
+    "address": "CALLE ATOCHARES, S/N"
   }
 ]
