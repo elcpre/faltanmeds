@@ -11878,5 +11878,901 @@
     "lng": -2.1606148,
     "city": "ATOCHARES",
     "address": "CALLE ATOCHARES, S/N"
+  },
+  {
+    "name": "EL VISO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7581309,
+    "lng": -2.4775678,
+    "city": "VISO (EL)",
+    "address": "CALLE EL VISO, S/N"
+  },
+  {
+    "name": "FERNÁN PÉREZ (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9125382,
+    "lng": -2.0662682,
+    "city": "FERNÁN PÉREZ",
+    "address": "CALLE FERNÁN PÉREZ, S/N"
+  },
+  {
+    "name": "HORTICHUELAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8077586,
+    "lng": -2.5964157,
+    "city": "HORTICHUELAS",
+    "address": "CALLE HORTICHUELAS, S/N"
+  },
+  {
+    "name": "LA ISLETA DEL MORO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8157255,
+    "lng": -2.0525758,
+    "city": "ISLETA DEL MORO",
+    "address": "CALLE LA ISLETA DEL MORO, S/N"
+  },
+  {
+    "name": "LOS NIETOS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8848631,
+    "lng": -2.1836071,
+    "city": "NIETOS (LOS)",
+    "address": "CAMINO DEL AZABACHE, S/N"
+  },
+  {
+    "name": "POZO DE LOS FRAILES (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7884643,
+    "lng": -2.110573,
+    "city": "POZO DE LOS FRAILES",
+    "address": "CALLE POZO DE LOS FRAILES, S/N"
+  },
+  {
+    "name": "PUEBLO BLANCO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9118653,
+    "lng": -2.1318445,
+    "city": "PUEBLO BLANCO",
+    "address": "AVENIDA COLONIZACIÓN, S/N"
+  },
+  {
+    "name": "RODALQUILAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8456014,
+    "lng": -2.0424364,
+    "city": "RODALQUILAR",
+    "address": "CALLE RODALQUILAR, S/N"
+  },
+  {
+    "name": "SAN JOSÉ (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": -27.367054,
+    "lng": -55.8892527,
+    "city": "SAN JOSÉ",
+    "address": "CALLE SAN JOSÉ, S/N"
+  },
+  {
+    "name": "VENTA DEL POBRE (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9908606,
+    "lng": -2.0671282,
+    "city": "VENTA DEL POBRE",
+    "address": "CALLE VENTA DEL POBRE, S/N"
+  },
+  {
+    "name": "ABLA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1674546,
+    "lng": -2.783981,
+    "city": "ABLA",
+    "address": "CALLE SANTOS MÁRTIRES, Nº 22"
+  },
+  {
+    "name": "ABRUCENA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1345203,
+    "lng": -2.7934351,
+    "city": "ABRUCENA",
+    "address": "CALLE BALSILLAS, S/N"
+  },
+  {
+    "name": "FIÑANA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.184716,
+    "lng": -2.8394834,
+    "city": "FIÑANA",
+    "address": "AVENIDA JUAN APARICIO, Nº8"
+  },
+  {
+    "name": "GÉRGAL",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1197856,
+    "lng": -2.5394627,
+    "city": "GÉRGAL",
+    "address": "CALLE SEBASTIÁN PÉREZ, Nº 3"
+  },
+  {
+    "name": "NACIMIENTO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.105783,
+    "lng": -2.64794,
+    "city": "NACIMIENTO",
+    "address": "CALLE MEZQUITA, Nº 11"
+  },
+  {
+    "name": "JAIME VERA - LEGANÉS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3314777,
+    "lng": -3.7457017,
+    "city": "LEGANÉS",
+    "address": "AVENIDA DE EUROPA, Nº 1"
+  },
+  {
+    "name": "MARÍA MONTESSORI",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3388774,
+    "lng": -3.7413144,
+    "city": "LEGANÉS",
+    "address": "AVENIDA DE PORTUGAL, Nº 2"
+  },
+  {
+    "name": "MARIE CURIE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.360348,
+    "lng": -3.7795441,
+    "city": "LEGANÉS",
+    "address": "CALLE SAN BERNARDO, Nº 13"
+  },
+  {
+    "name": "DR. MENDIGUCHÍA CARRICHE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3271234,
+    "lng": -3.7576849,
+    "city": "LEGANÉS",
+    "address": "PLAZA COMUNIDAD DE MADRID, S/N"
+  },
+  {
+    "name": "LEGANÉS NORTE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3455596,
+    "lng": -3.7419953,
+    "city": "LEGANÉS",
+    "address": "AVENIDA CARMEN MARTÍN GAITE, Nº 16"
+  },
+  {
+    "name": "CUZCO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.288606,
+    "lng": -3.7827421,
+    "city": "FUENLABRADA",
+    "address": "CALLE CUZCO, Nº 10"
+  },
+  {
+    "name": "ALICANTE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.289323,
+    "lng": -3.7927037,
+    "city": "FUENLABRADA",
+    "address": "CALLE ALICANTE, Nº 3"
+  },
+  {
+    "name": "CASTILLA LA NUEVA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2943853,
+    "lng": -3.7966651,
+    "city": "FUENLABRADA",
+    "address": "CALLE TERUEL, Nº 4"
+  },
+  {
+    "name": "EL NARANJO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2994307,
+    "lng": -3.8095582,
+    "city": "FUENLABRADA",
+    "address": "CALLE AVENIDAILÉS, Nº 2"
+  },
+  {
+    "name": "PANADERAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2785889,
+    "lng": -3.798492,
+    "city": "FUENLABRADA",
+    "address": "CALLE PANADERAS, Nº 9"
+  },
+  {
+    "name": "FRANCIA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2847782,
+    "lng": -3.8081252,
+    "city": "FUENLABRADA",
+    "address": "CALLE FRANCIA, Nº 38 POSTERIOR"
+  },
+  {
+    "name": "PARQUE LORANCA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2967262,
+    "lng": -3.8380466,
+    "city": "FUENLABRADA",
+    "address": "CALLE ALEGRÍA, Nº 2"
+  },
+  {
+    "name": "PARQUE MIRAFLORES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3131952,
+    "lng": -3.8370387,
+    "city": "FUENLABRADA",
+    "address": "URBANIZACIÓN PARQUE MIRAFLORES,Nº 63"
+  },
+  {
+    "name": "HUMANES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2555399,
+    "lng": -3.8276642,
+    "city": "HUMANES DE MADRID",
+    "address": "CALLE FERROCARRIL, Nº 4"
+  },
+  {
+    "name": "MORALEJA DE ENMEDIO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2593197,
+    "lng": -3.8707792,
+    "city": "MORALEJA DE ENMEDIO",
+    "address": "PLAZA LA FUENTE, Nº 1"
+  },
+  {
+    "name": "GRIÑÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2044775,
+    "lng": -3.8610234,
+    "city": "GRIÑÓN",
+    "address": "CALLE EL CALVARIO, Nº 1"
+  },
+  {
+    "name": "BATRES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2073177,
+    "lng": -3.9210672,
+    "city": "BATRES",
+    "address": "CALLE SECADEROS, Nº 3"
+  },
+  {
+    "name": "CASARRUBUELOS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1726535,
+    "lng": -3.8261591,
+    "city": "CASARRUBUELOS",
+    "address": "CALLE CIUDAD REAL, Nº 3"
+  },
+  {
+    "name": "CUBAS DE LA SAGRA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.187788,
+    "lng": -3.8386645,
+    "city": "CUBAS DE LA SAGRA",
+    "address": "CALLE SAN ISIDRO, Nº 5"
+  },
+  {
+    "name": "SERRANILLOS DEL VALLE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2039388,
+    "lng": -3.88059,
+    "city": "SERRANILLOS DEL VALLE",
+    "address": "CALLE MORALEJA DE ENMEDIO, Nº 8"
+  },
+  {
+    "name": "TORREJÓN DE LA CALZADA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1967858,
+    "lng": -3.8181381,
+    "city": "TORREJÓN DE LA CALZADA",
+    "address": "CALLE JOAQUÍN FERNÁNDEZ CUERVO, Nº 19"
+  },
+  {
+    "name": "TORREJÓN DE VELASCO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.187906,
+    "lng": -3.7799366,
+    "city": "TORREJÓN DE VELASCO",
+    "address": "CALLE TRAVESÍA DEL HOSPITAL, Nº 5"
+  },
+  {
+    "name": "ISABEL II",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2357605,
+    "lng": -3.7657128,
+    "city": "PARLA",
+    "address": "CALLE ISABEL II, Nº 15"
+  },
+  {
+    "name": "LOS PINTORES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2398906,
+    "lng": -3.7652868,
+    "city": "PARLA",
+    "address": "CALLE CUENCA, S/N"
+  },
+  {
+    "name": "SAN BLAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.24079,
+    "lng": -3.7733278,
+    "city": "PARLA",
+    "address": "CALLE SAN BLAS, Nº 24"
+  },
+  {
+    "name": "LAS AMÉRICAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.230208,
+    "lng": -3.7661275,
+    "city": "PARLA",
+    "address": "AVENIDA DE LAS AMÉRICAS, Nº 6"
+  },
+  {
+    "name": "PARQUE EUROPA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2533219,
+    "lng": -3.6935845,
+    "city": "PINTO",
+    "address": "PLAZA DAVID MARTÍN, S/N"
+  },
+  {
+    "name": "PINTO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2425399,
+    "lng": -3.697192,
+    "city": "PINTO",
+    "address": "CALLE MARQUÉS, S/N"
+  },
+  {
+    "name": "EL BERCIAL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.323019,
+    "lng": -3.7364007,
+    "city": "GETAFE",
+    "address": "AVENIDA DEL PARQUE, Nº 12"
+  },
+  {
+    "name": "EL GRECO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3117529,
+    "lng": -3.7392347,
+    "city": "GETAFE",
+    "address": "AVENIDA REYES CATÓLICOS, Nº 37"
+  },
+  {
+    "name": "GETAFE NORTE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3208243,
+    "lng": -3.7180034,
+    "city": "GETAFE",
+    "address": "CALLE RIGOBERTA MENCHÚ, Nº 2"
+  },
+  {
+    "name": "LAS CIUDADES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3137559,
+    "lng": -3.7140293,
+    "city": "GETAFE",
+    "address": "CALLE PALESTINA, S/N"
+  },
+  {
+    "name": "LUIS VIVES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4747048,
+    "lng": -3.3672279,
+    "city": "ALCALÁ DE HENARES",
+    "address": "CALLE LUIS VIVES, Nº 16"
+  },
+  {
+    "name": "MANUEL MERINO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4827942,
+    "lng": -3.357374,
+    "city": "ALCALÁ DE HENARES",
+    "address": "CALLE MANUEL MERINO, Nº 1"
+  },
+  {
+    "name": "JUAN DE AUSTRIA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4873298,
+    "lng": -3.3508178,
+    "city": "ALCALÁ DE HENARES",
+    "address": "CALLE JUAN DE AUSTRIA, Nº 19"
+  },
+  {
+    "name": "MARÍA DE GUZMÁN",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4893428,
+    "lng": -3.3574868,
+    "city": "ALCALÁ DE HENARES",
+    "address": "CALLE JUAN DE BORGOÑA, Nº 1"
+  },
+  {
+    "name": "MIGUEL DE CERVANTES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5107902,
+    "lng": -3.3707866,
+    "city": "ALCALÁ DE HENARES",
+    "address": "CALLE GUSTAVO ADOLFO BECQUER,Nº 23"
+  },
+  {
+    "name": "LA GARENA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4804419,
+    "lng": -3.394971,
+    "city": "ALCALÁ DE HENARES",
+    "address": "CALLE ARTURO SORIA, Nº 10"
+  },
+  {
+    "name": "MECO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5346404,
+    "lng": -3.2986035,
+    "city": "MECO",
+    "address": "CAMINO  VIRGEN DE LA CABEZA, Nº 6"
+  },
+  {
+    "name": "CAMARMA DE ESTERUELAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.548336,
+    "lng": -3.378612,
+    "city": "CAMARMA DE ESTERUELAS",
+    "address": "CALLE DE LAS CASQUERAS, Nº 4"
+  },
+  {
+    "name": "LOS SANTOS DE LA HUMOSA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5020913,
+    "lng": -3.25653,
+    "city": "SANTOS DE LA HUMOSA (LOS)",
+    "address": "CALLE MAYOR, Nº 4"
+  },
+  {
+    "name": "VALDEAVERO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.6300498,
+    "lng": -3.3320157,
+    "city": "VALDEAVERO",
+    "address": "CALLE LA FUENTE, Nº 1"
+  },
+  {
+    "name": "TORRES DE LA ALAMEDA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4167218,
+    "lng": -3.327219,
+    "city": "TORRES DE LA ALAMEDA",
+    "address": "PLAZA JUEGO DE LA PELOTA, Nº 3"
+  },
+  {
+    "name": "ANCHUELO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4658178,
+    "lng": -3.2674062,
+    "city": "ANCHUELO",
+    "address": "AVENIDA DE LA PLAZA, Nº 2"
+  },
+  {
+    "name": "PEZUELA DE LAS TORRES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4186862,
+    "lng": -3.1775835,
+    "city": "PEZUELA DE LAS TORRES",
+    "address": "CALLE LA RONDA, Nº 6"
+  },
+  {
+    "name": "SANTORCAZ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4724103,
+    "lng": -3.233033,
+    "city": "SANTORCAZ",
+    "address": "PLAZA DE LA CONSTITUCIÓN, Nº 1"
+  },
+  {
+    "name": "VALVERDE DE ALCALÁ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4184311,
+    "lng": -3.3000839,
+    "city": "VALVERDE DE ALCALÁ",
+    "address": "CALLE SAN ROQUE, Nº 5"
+  },
+  {
+    "name": "VILLALBILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4335552,
+    "lng": -3.2996965,
+    "city": "VILLALBILLA",
+    "address": "CALLE ESCUELAS, S/N"
+  },
+  {
+    "name": "CORPA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4268151,
+    "lng": -3.2613607,
+    "city": "CORPA",
+    "address": "PLAZA DE ESPAÑA, Nº 3"
+  },
+  {
+    "name": "LOS HUEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4439938,
+    "lng": -3.3521965,
+    "city": "HUEROS (LOS)",
+    "address": "CALLE MAYOR, Nº 28"
+  },
+  {
+    "name": "ZULEMA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4487869,
+    "lng": -3.3758001,
+    "city": "VILLALBILLA",
+    "address": "AVENIDA MADRID, S/N"
+  },
+  {
+    "name": "FRONTERAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4597444,
+    "lng": -3.4844496,
+    "city": "TORREJÓN DE ARDOZ",
+    "address": "CALLE PUERTO DE NAVACERRADA, Nº 4"
+  },
+  {
+    "name": "LAS VEREDILLAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4630842,
+    "lng": -3.4722318,
+    "city": "TORREJÓN DE ARDOZ",
+    "address": "CALLE TURÍN, Nº 37"
+  },
+  {
+    "name": "JUNCAL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4640057,
+    "lng": -3.4646806,
+    "city": "TORREJÓN DE ARDOZ",
+    "address": "AVENIDA DE MADRID, Nº 39"
+  },
+  {
+    "name": "BRÚJULA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4473132,
+    "lng": -3.4561103,
+    "city": "TORREJÓN DE ARDOZ",
+    "address": "CALLE BRÚJULA, S/N"
+  },
+  {
+    "name": "LA PLATA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4560299,
+    "lng": -3.4523757,
+    "city": "TORREJÓN DE ARDOZ",
+    "address": "CALLE UNIÓN EUROPEA, Nº 4"
+  },
+  {
+    "name": "LOS FRESNOS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4441555,
+    "lng": -3.471753,
+    "city": "TORREJÓN DE ARDOZ",
+    "address": "CALLE ZEUS, esq JOAQUÍN BLUME S/N"
+  },
+  {
+    "name": "DAROCA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4249831,
+    "lng": -3.6426594,
+    "city": "MADRID",
+    "address": "AVENIDA DE DAROCA, Nº 4"
+  },
+  {
+    "name": "DOCTOR CIRAJAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4353093,
+    "lng": -3.6375936,
+    "city": "MADRID",
+    "address": "CALLE DOCTOR CIRAJAS, Nº 20"
+  },
+  {
+    "name": "GANDHI",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4246414,
+    "lng": -3.633218,
+    "city": "MADRID",
+    "address": "CALLE GANDHI, Nº 30"
+  },
+  {
+    "name": "ESTRECHO DE COREA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4404921,
+    "lng": -3.6478007,
+    "city": "MADRID",
+    "address": "CALLE ESTRECHO DE COREA, Nº 1"
+  },
+  {
+    "name": "CANILLEJAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4460317,
+    "lng": -3.6122368,
+    "city": "MADRID",
+    "address": "CALLE BOLTAÑA, Nº 5"
+  },
+  {
+    "name": "LOS ALPES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3241434,
+    "lng": -3.7356142,
+    "city": "MADRID",
+    "address": "CALLE SUECIA, Nº 62"
+  },
+  {
+    "name": "CÁDIAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9483921,
+    "lng": -3.1715372,
+    "city": "CÁDIAR",
+    "address": "CALLE EDIFICIO ANTONIO DE ALARCON, Nº 1"
+  },
+  {
+    "name": "BÉRCHULES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9739069,
+    "lng": -3.1903287,
+    "city": "BÉRCHULES",
+    "address": "PLAZA  LA PLAZA, S/N"
+  },
+  {
+    "name": "CÁSTARAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9313516,
+    "lng": -3.2538335,
+    "city": "CÁSTARAS",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "MECINA BOMBARÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9808718,
+    "lng": -3.1556743,
+    "city": "MECINA BOMBARÓN",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "MURTAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.887623,
+    "lng": -3.107945,
+    "city": "MURTAS",
+    "address": "CALLE CALVARIO, Nº 2"
+  },
+  {
+    "name": "TURÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8646213,
+    "lng": -3.0585481,
+    "city": "TURÓN",
+    "address": "CALLE MILAGROS, S/N"
+  },
+  {
+    "name": "COJÁYAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9080979,
+    "lng": -3.0977908,
+    "city": "COJÁYAR",
+    "address": "CALLE BARRANCO, S/N"
+  },
+  {
+    "name": "JUVILES (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.948196,
+    "lng": -3.2253511,
+    "city": "JUVILES",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "LOBRAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9096249,
+    "lng": -3.2041648,
+    "city": "LOBRAS",
+    "address": "CARRETERA, S/N"
+  },
+  {
+    "name": "NIELES (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9334867,
+    "lng": -3.2306216,
+    "city": "NIELES",
+    "address": "CALLE LAS PENAS, S/N"
+  },
+  {
+    "name": "TÍMAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9442486,
+    "lng": -3.2111265,
+    "city": "TÍMAR",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "YÁTOR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9578582,
+    "lng": -3.1363203,
+    "city": "YÁTOR",
+    "address": "CALLE HORNILLO, Nº 9"
+  },
+  {
+    "name": "YEGEN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9798605,
+    "lng": -3.119147,
+    "city": "YEGEN",
+    "address": "PLAZA, S/N"
+  },
+  {
+    "name": "MOTRIL - CENTRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7432689,
+    "lng": -3.5202251,
+    "city": "MOTRIL",
+    "address": "AVENIDA SALOBREÑA, S/N"
+  },
+  {
+    "name": "MOTRIL - ESTE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7460727,
+    "lng": -3.5142249,
+    "city": "MOTRIL",
+    "address": "AVENIDA PIO XII, S/N"
+  },
+  {
+    "name": "MOTRIL - SAN ANTONIO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7564467,
+    "lng": -3.5184133,
+    "city": "MOTRIL",
+    "address": "CAMINO DE SAN ANTONIO, S/N"
+  },
+  {
+    "name": "CALAHONDA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7011153,
+    "lng": -3.4173381,
+    "city": "CALAHONDA",
+    "address": "PLAZA NEPTUNO, Nº 1"
+  },
+  {
+    "name": "CARCHUNA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7028598,
+    "lng": -3.4439216,
+    "city": "CARCHUNA",
+    "address": "CALLE SEBASTIAN DE BELALCAZAR, S/N"
+  },
+  {
+    "name": "CASTELL DE FERRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7241006,
+    "lng": -3.3610793,
+    "city": "CASTELL DE FERRO",
+    "address": "CAMINO DEL TRANSFORMADOR, S/N"
+  },
+  {
+    "name": "GUALCHOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7436798,
+    "lng": -3.3896776,
+    "city": "GUALCHOS",
+    "address": "PLAZA CONSTITUCIÓN, Nº 11"
+  },
+  {
+    "name": "LA MAMOLA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7471266,
+    "lng": -3.2797841,
+    "city": "MAMOLA (LA)",
+    "address": "PASEO MARÍTIMO, S/N"
+  },
+  {
+    "name": "LÚJAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7874943,
+    "lng": -3.4022982,
+    "city": "LÚJAR",
+    "address": "CALLE MANTILLO, S/N"
+  },
+  {
+    "name": "TORRENUEVA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.705816,
+    "lng": -3.4926271,
+    "city": "TORRENUEVA COSTA",
+    "address": "CALLE TORRES QUEVEDO, Nº 2"
+  },
+  {
+    "name": "VARADERO - SANTA ADELA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7239397,
+    "lng": -3.5336214,
+    "city": "VARADERO (EL)",
+    "address": "CARRETERA DEL MAR, S/N"
+  },
+  {
+    "name": "VÉLEZ - BENAUDALLA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8302575,
+    "lng": -3.5169138,
+    "city": "VÉLEZ DE BENAUDALLA",
+    "address": "CALLE MERCADO, Nº 3"
+  },
+  {
+    "name": "POLOPOS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7580579,
+    "lng": -3.3117367,
+    "city": "POLOPOS",
+    "address": "CALLE PLAZA, Nº 1"
+  },
+  {
+    "name": "ÓRGIVA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9039043,
+    "lng": -3.4211809,
+    "city": "ÓRGIVA",
+    "address": "CALLE ALCALDE JESUS MORENO, S/N"
+  },
+  {
+    "name": "ALMEGÍJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9017389,
+    "lng": -3.300087,
+    "city": "ALMEGÍJAR",
+    "address": "CALLE SILENCIO, S/N"
+  },
+  {
+    "name": "BUBIÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9489879,
+    "lng": -3.3551834,
+    "city": "BUBIÓN",
+    "address": "CALLE CARRIL, S/N"
+  },
+  {
+    "name": "BUSQUÍSTAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9580254,
+    "lng": -3.2787385,
+    "city": "BUSQUÍSTAR",
+    "address": "CARRETERA, S/N"
+  },
+  {
+    "name": "CÁÑAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9259912,
+    "lng": -3.427575,
+    "city": "CÁÑAR",
+    "address": "CALLE IGLESIA, S/N"
+  },
+  {
+    "name": "LANJARÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9183409,
+    "lng": -3.4825049,
+    "city": "LANJARÓN",
+    "address": "CALLE HUERTOS, S/N"
+  },
+  {
+    "name": "PITRES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9292471,
+    "lng": -3.3135515,
+    "city": "PITRES",
+    "address": "PLAZA, Nº 1"
+  },
+  {
+    "name": "RUBITE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8171628,
+    "lng": -3.3444476,
+    "city": "RUBITE",
+    "address": "CARRETERA, S/N"
   }
 ]

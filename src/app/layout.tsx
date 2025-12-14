@@ -32,7 +32,6 @@ export const metadata: Metadata = {
 
 import { CookieConsent } from "@/components/CookieConsent";
 import { GoogleAnalytics } from "@/components/GoogleAnalytics";
-import { GoogleAdSense } from "@/components/GoogleAdSense";
 
 import { ConsentProvider } from "@/context/ConsentContext";
 
@@ -44,7 +43,11 @@ export default function RootLayout({
   return (
     <html lang="es">
       <head>
-        <GoogleAdSense />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1881793666340506"
+          crossOrigin="anonymous"
+        ></script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50 flex flex-col min-h-screen`}
@@ -57,7 +60,8 @@ export default function RootLayout({
           <CookieConsent />
           <GoogleAnalytics />
         </ConsentProvider>
-      </body>
-    </html>
+      </ConsentProvider>
+    </body>
+    </html >
   );
 }
