@@ -1,33 +1,29 @@
-
-import React from 'react';
+import React, { useEffect } from 'react';
 
 interface AdSenseBlockProps {
-    slot: string;
+    slot?: string; // Optional for auto ads, but good if we have specific units later
     format?: 'auto' | 'fluid' | 'rectangle';
+    className?: string;
 }
 
-export function AdSenseBlock({ slot, format = 'auto' }: AdSenseBlockProps) {
+export function AdSenseBlock({ slot, format = 'auto', className = '' }: AdSenseBlockProps) {
+    useEffect(() => {
+        try {
+            // @ts-ignore
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+        } catch (err) {
+            console.error('AdSense error:', err);
+        }
+    }, []);
+
     return (
-        <div className="my-8 flex justify-center overflow-hidden">
-            {/* 
-        This is a placeholder. In production, you would add the Script tag in layout.tsx 
-        and render the <ins> tag here.
-      */}
-            <div className="bg-gray-100 border border-gray-200 text-gray-400 p-8 rounded-lg w-full text-center text-sm">
-                <span className="font-semibold block mb-1">Publicidad (Google AdSense)</span>
-                <span className="text-xs">Slot ID: {slot}</span>
-                {/*
-        <ins className="adsbygoogle"
-            style={{ display: 'block' }}
-            data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-            data-ad-slot={slot}
-            data-ad-format={format}
-            data-full-width-responsive="true"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        */}
-            </div>
+        <div className={`my-8 flex justify-center overflow-hidden ${className}`}>
+            <ins className="adsbygoogle"
+                style={{ display: 'block', minWidth: '300px', width: '100%' }}
+                data-ad-client="ca-pub-1881793666340506"
+                data-ad-slot={slot || "8956275821"} // Use a generic slot or just rely on auto
+                data-ad-format={format}
+                data-full-width-responsive="true" />
         </div>
     );
 }

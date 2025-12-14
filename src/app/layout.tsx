@@ -20,6 +20,7 @@ export const metadata: Metadata = {
 
 import { CookieConsent } from "@/components/CookieConsent";
 import { GoogleAnalytics } from "@/components/GoogleAnalytics";
+import { GoogleAdSense } from "@/components/GoogleAdSense";
 
 export default function RootLayout({
   children,
@@ -37,6 +38,7 @@ export default function RootLayout({
         <Footer />
         <CookieConsent />
         <GoogleAnalytics />
+        <GoogleAdSense />
       </body>
     </html>
   );
