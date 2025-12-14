@@ -2,29 +2,20 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { useConsent } from '@/context/ConsentContext';
 
 export function CookieConsent() {
+    const { consent, setConsent } = useConsent();
     const [isVisible, setIsVisible] = useState(false);
 
     useEffect(() => {
-        // Check if user has already made a choice
-        const consent = localStorage.getItem('cookie_consent');
-        if (consent === null) {
-            // Slight delay for better UX
+        if (consent === 'undecided') {
             const timer = setTimeout(() => setIsVisible(true), 1000);
             return () => clearTimeout(timer);
+        } else {
+            setIsVisible(false);
         }
-    }, []);
-
-    const handleAccept = () => {
-        localStorage.setItem('cookie_consent', 'true');
-        setIsVisible(false);
-    };
-
-    const handleReject = () => {
-        localStorage.setItem('cookie_consent', 'false');
-        setIsVisible(false);
-    };
+    }, [consent]);
 
     if (!isVisible) return null;
 
@@ -43,13 +34,13 @@ export function CookieConsent() {
                 </div>
                 <div className="flex gap-3 shrink-0">
                     <button
-                        onClick={handleReject}
+                        onClick={() => setConsent('rejected')}
                         className="px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-md hover:bg-gray-200 transition-colors"
                     >
                         Rechazar
                     </button>
                     <button
-                        onClick={handleAccept}
+                        onClick={() => setConsent('accepted')}
                         className="px-4 py-2 text-sm font-medium text-white bg-green-600 rounded-md hover:bg-green-700 shadow-sm transition-colors"
                     >
                         Aceptar

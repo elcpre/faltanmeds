@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useEffect } from 'react';
+import { useConsent } from '@/context/ConsentContext';
 
 interface AdSenseBlockProps {
     slot?: string; // Optional for auto ads, but good if we have specific units later
@@ -9,14 +10,26 @@ interface AdSenseBlockProps {
 }
 
 export function AdSenseBlock({ slot, format = 'auto', className = '' }: AdSenseBlockProps) {
+    const { consent } = useConsent();
+
     useEffect(() => {
-        try {
-            // @ts-ignore
-            (window.adsbygoogle = window.adsbygoogle || []).push({});
-        } catch (err) {
-            console.error('AdSense error:', err);
+        if (consent === 'accepted') {
+            try {
+                // @ts-ignore
+                (window.adsbygoogle = window.adsbygoogle || []).push({});
+            } catch (err) {
+                console.error('AdSense error:', err);
+            }
         }
-    }, []);
+    }, [consent]);
+
+    if (consent === 'rejected') {
+        return null; // Or show a small message: "Publicidad desactivada"
+    }
+
+    if (consent === 'undecided') {
+        return null; // Don't show anything until decided
+    }
 
     return (
         <div className={`my-8 flex justify-center overflow-hidden ${className}`}>

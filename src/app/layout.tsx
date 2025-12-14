@@ -22,6 +22,8 @@ import { CookieConsent } from "@/components/CookieConsent";
 import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 import { GoogleAdSense } from "@/components/GoogleAdSense";
 
+import { ConsentProvider } from "@/context/ConsentContext";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -32,13 +34,15 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50 flex flex-col min-h-screen`}
       >
-        <main className="flex-grow">
-          {children}
-        </main>
-        <Footer />
-        <CookieConsent />
-        <GoogleAnalytics />
-        <GoogleAdSense />
+        <ConsentProvider>
+          <main className="flex-grow">
+            {children}
+          </main>
+          <Footer />
+          <CookieConsent />
+          <GoogleAnalytics />
+          <GoogleAdSense />
+        </ConsentProvider>
       </body>
     </html>
   );

@@ -9030,5 +9030,629 @@
     "lng": 1.4551908,
     "city": "RODA DE BERÀ",
     "address": "CALLE DE LA FONT, Nº 7"
+  },
+  {
+    "name": "SALOMÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2233947,
+    "lng": 1.3765911,
+    "city": "SALOMÓ",
+    "address": "PASEO JOAN CREUS, S/N"
+  },
+  {
+    "name": "TORREFORTA-LA GRANJA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1187029,
+    "lng": 1.217407,
+    "city": "TARRAGONA",
+    "address": "CALLE LA GOMERA, Nº 10"
+  },
+  {
+    "name": "VILA-SECA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1128765,
+    "lng": 1.1504424,
+    "city": "VILA-SECA",
+    "address": "CALLE GALCERAN DE PINÓS, Nº 25"
+  },
+  {
+    "name": "LA PINEDA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.0890512,
+    "lng": 1.1932691,
+    "city": "PINEDA (LA)",
+    "address": "CALLE ALFREDO KRAUS, Nº 18"
+  },
+  {
+    "name": "LA PLANA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.082916,
+    "lng": 0.1446661,
+    "city": "PLANA (LA)",
+    "address": "CALLE ALMERIA, Nº 26"
+  },
+  {
+    "name": "SANT SADURNÍ D'ANOIA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4203274,
+    "lng": 1.7946769,
+    "city": "SANT SADURNÍ D'ANOIA",
+    "address": "CALLE GELIDA, S/N"
+  },
+  {
+    "name": "MEDIONA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4791553,
+    "lng": 1.6096482,
+    "city": "MEDIONA",
+    "address": "CALLE DOCTOR TRUETA, Nº 10"
+  },
+  {
+    "name": "SANT PERE DE RIUDEBITLLES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4485805,
+    "lng": 1.6998457,
+    "city": "SANT PERE DE RIUDEBITLLES",
+    "address": "RAMBLA SANT JORDI, Nº 1"
+  },
+  {
+    "name": "SANT QUINTÍ DE MEDIONA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4627386,
+    "lng": 1.6636194,
+    "city": "SANT QUINTÍ DE MEDIONA",
+    "address": "CALLE JOAN AMADES, Nº 6"
+  },
+  {
+    "name": "CABRERA D'ANOIA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.513814,
+    "lng": 1.692712,
+    "city": "CABRERA D'ANOIA",
+    "address": "RAMBLA CANALETES, Nº 1"
+  },
+  {
+    "name": "TORRELAVIT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4463527,
+    "lng": 1.7298934,
+    "city": "TORRELAVIT",
+    "address": "CALLE MOLÍ, Nº 29"
+  },
+  {
+    "name": "SANTA MARGARIDA I ELS MONJOS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3238489,
+    "lng": 1.6655354,
+    "city": "SANTA MARGARIDA I ELS MONJOS",
+    "address": "PASEO FLUVIAL, S/N"
+  },
+  {
+    "name": "ALT PENEDÈS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3460397,
+    "lng": 1.6960505,
+    "city": "VILAFRANCA DEL PENEDÈS",
+    "address": "PLAZA DEL PENEDÈS, Nº 1"
+  },
+  {
+    "name": "CABANYES (LES)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3690766,
+    "lng": 1.6843531,
+    "city": "CABANYES (LES)",
+    "address": "CARRETERA DE GUARDIOLA, S/N"
+  },
+  {
+    "name": "GUARDIOLA DE FONT-RUBÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4366566,
+    "lng": 1.6310489,
+    "city": "GUARDIOLA DE FONT-RUBÍ",
+    "address": "PLAZA DE L'AJUNTAMENT, Nº 1"
+  },
+  {
+    "name": "LA GRANADA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1734995,
+    "lng": -3.5995337,
+    "city": "GRANADA (LA)",
+    "address": "CALLE SANT CRISTÒFOL, S/N"
+  },
+  {
+    "name": "MOJA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3262596,
+    "lng": 1.690307,
+    "city": "MOJA",
+    "address": "CALLE LA CALLEADA, Nº 12"
+  },
+  {
+    "name": "LA MÚNIA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4948387,
+    "lng": 1.5270431,
+    "city": "MÚNIA (LA)",
+    "address": "CALLE ANSELM CLAVÉ, Nº 11"
+  },
+  {
+    "name": "OLESA DE BONESVALLS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3723494,
+    "lng": 1.8325112,
+    "city": "OLESA DE BONESVALLS",
+    "address": "CALLE L'ANTIGUA, S/N"
+  },
+  {
+    "name": "PACS DEL PENEDÈS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3583252,
+    "lng": 1.6720758,
+    "city": "PACS DEL PENEDÈS",
+    "address": "CALLE DE LES ESCOLES, Nº 19"
+  },
+  {
+    "name": "PLA DEL PENEDÈS (EL)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4149333,
+    "lng": 1.713912,
+    "city": "PLA DEL PENEDÈS (EL)",
+    "address": "PLAZA PAU FONTANALS, Nº 1"
+  },
+  {
+    "name": "PONTONS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4149998,
+    "lng": 1.5168463,
+    "city": "PONTONS",
+    "address": "PLAZA DE LA VILA, S/N"
+  },
+  {
+    "name": "PUIGDÀLBER",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4051403,
+    "lng": 1.6954187,
+    "city": "PUIGDÀLBER",
+    "address": "PLAZA DE LA VILA, Nº 1"
+  },
+  {
+    "name": "SANT CUGAT SESGARRIGUES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3586655,
+    "lng": 1.7492223,
+    "city": "SANT CUGAT SESGARRIGUES",
+    "address": "CALLE MILÀ I FONTANALS, Nº 27"
+  },
+  {
+    "name": "SANT MARTÍ SARROCA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3839527,
+    "lng": 1.6119375,
+    "city": "SANT MARTÍ SARROCA",
+    "address": "RAMBLA CATALUNYA, S/N"
+  },
+  {
+    "name": "SANT MIQUEL D'OLÈRDOLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3168206,
+    "lng": 1.7198234,
+    "city": "SANT MIQUEL D'OLÈRDOLA",
+    "address": "AVENIDA CATALUNYA, Nº 12"
+  },
+  {
+    "name": "SANT PERE MOLANTA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3418548,
+    "lng": 1.7440245,
+    "city": "SANT PERE MOLANTA",
+    "address": "CALLE MILÀ I FONTANALS, S/N"
+  },
+  {
+    "name": "SANTA FE DEL PENEDÈS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3845658,
+    "lng": 1.7211005,
+    "city": "SANTA FE DEL PENEDÈS",
+    "address": "CALLE DE L'HORTA, Nº 1"
+  },
+  {
+    "name": "VILOBÍ DEL PENEDÈS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3878593,
+    "lng": 1.6635,
+    "city": "VILOBÍ DEL PENEDÈS",
+    "address": "CALLE TORRENT, Nº 3"
+  },
+  {
+    "name": "ABRERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5225925,
+    "lng": 1.9068327,
+    "city": "ABRERA",
+    "address": "CALLE MANRESA, Nº 15"
+  },
+  {
+    "name": "ESPARREGUERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.530525,
+    "lng": 1.8811012,
+    "city": "ESPARREGUERA",
+    "address": "VÍA DEL MILLENARI, Nº 16"
+  },
+  {
+    "name": "COLLBATÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5694258,
+    "lng": 1.8301335,
+    "city": "COLLBATÓ",
+    "address": "PASEO DE LA FUMADA, Nº 6"
+  },
+  {
+    "name": "EL BRUC",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5948401,
+    "lng": 1.7678972,
+    "city": "BRUC (EL)",
+    "address": "CALLE BRUC DEL MIG, Nº 23"
+  },
+  {
+    "name": "GELIDA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4486219,
+    "lng": 1.8653815,
+    "city": "GELIDA",
+    "address": "PASEO CIRCUNVALACIÓN, Nº 41"
+  },
+  {
+    "name": "OLESA DE MONTSERRAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5414667,
+    "lng": 1.8879099,
+    "city": "OLESA DE MONTSERRAT",
+    "address": "CALLE LLUÍS PUIGJANER, Nº 22"
+  },
+  {
+    "name": "SANTA TECLA-LLEVANT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1221682,
+    "lng": 1.2677426,
+    "city": "TARRAGONA",
+    "address": "CALLE JOAN FUSTER I ORTELLS, S/N"
+  },
+  {
+    "name": "CABAÑUELAS BAJAS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8019029,
+    "lng": -2.631032,
+    "city": "CABAÑUELAS (LAS)",
+    "address": "AVENIDA DE ARGENTINA, S/N"
+  },
+  {
+    "name": "LA ENVÍA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.834397,
+    "lng": -2.6110089,
+    "city": "ENVÍA (LA)",
+    "address": "CALLE CASTAÑOS, S/N"
+  },
+  {
+    "name": "LA GANGOSA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8070644,
+    "lng": -2.6236073,
+    "city": "GANGOSA (LA)",
+    "address": "CALLE ESMERALDA, Nº 6"
+  },
+  {
+    "name": "LA MOJONERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7516155,
+    "lng": -2.687494,
+    "city": "MOJONERA (LA)",
+    "address": "CALLE LOS OLIVOS, S/N"
+  },
+  {
+    "name": "VENTA DEL VISO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7952612,
+    "lng": -2.6973894,
+    "city": "URBANIZACIÓN FÉLIX",
+    "address": "CALLE SALVADOR DALÍ, N 13"
+  },
+  {
+    "name": "LLANOS DE VÍCAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7495344,
+    "lng": -2.6695824,
+    "city": "LLANOS DE VÍCAR",
+    "address": "CALLE DEL MAR DE ALBORAN, Nº 3"
+  },
+  {
+    "name": "ALGECIRAS - NORTE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1442107,
+    "lng": -5.4517693,
+    "city": "ALGECIRAS",
+    "address": "AVENIDA VENECIA , Nº 6"
+  },
+  {
+    "name": "ALGECIRAS - SUR SALADILLO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1217027,
+    "lng": -5.4488848,
+    "city": "ALGECIRAS",
+    "address": "CALLE SANTO DOMINGO DE GUZMAN, S/N"
+  },
+  {
+    "name": "LA BAJADILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.134417,
+    "lng": -5.4553567,
+    "city": "ALGECIRAS",
+    "address": "AVENIDA LA CAÑA, S/N"
+  },
+  {
+    "name": "EL COBRE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1174623,
+    "lng": -5.4755971,
+    "city": "ALGECIRAS",
+    "address": "CALLE EL COBRE, S/N"
+  },
+  {
+    "name": "LA JULIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1119204,
+    "lng": -5.4488976,
+    "city": "ALGECIRAS",
+    "address": "CALLE PASTORA, S/N"
+  },
+  {
+    "name": "SAN GARCÍA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1109074,
+    "lng": -5.4394086,
+    "city": "ALGECIRAS",
+    "address": "CALLE EL BARBO, S/N"
+  },
+  {
+    "name": "EL PELAYO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.0824418,
+    "lng": -5.4997883,
+    "city": "PELAYO (EL)",
+    "address": "CALLE PEÑA LARA, BD EL PELAYO"
+  },
+  {
+    "name": "JIMENA DE LA FRONTERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4310789,
+    "lng": -5.44252,
+    "city": "JIMENA DE LA FRONTERA",
+    "address": "AVENIDA DE LOS DEPORTES, S/N"
+  },
+  {
+    "name": "CASTELLAR DE LA FRONTERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2857876,
+    "lng": -5.4211722,
+    "city": "CASTELLAR DE LA FRONTERA",
+    "address": "CALLE ROMERO, S/N"
+  },
+  {
+    "name": "SAN MARTÍN DEL TESORILLO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.3407847,
+    "lng": -5.3247202,
+    "city": "SAN MARTÍN DEL TESORILLO",
+    "address": "CALLE SEVILLA, SN"
+  },
+  {
+    "name": "SAN PABLO DE BUCEITE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.469315,
+    "lng": -5.4127112,
+    "city": "SAN PABLO DE BUCEITE",
+    "address": "CALLE LA VIÑA, S/N"
+  },
+  {
+    "name": "ALMORAIMA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2776983,
+    "lng": -5.4288101,
+    "city": "ALMORAIMA",
+    "address": "CALLE CHIRINA, Nº 1"
+  },
+  {
+    "name": "LA LÍNEA PONIENTE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1665825,
+    "lng": -5.3592953,
+    "city": "LÍNEA DE LA CONCEPCIÓN (LA)",
+    "address": "CALLE ANDALUCÍA, S/N"
+  },
+  {
+    "name": "LOS BARRIOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1737741,
+    "lng": -5.4606314,
+    "city": "BARRIOS (LOS)",
+    "address": "AVENIDA BLASCO IBAÑEZ, S/N"
+  },
+  {
+    "name": "LOS CORTIJILLOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9159284,
+    "lng": -4.125263,
+    "city": "CORTIJILLOS",
+    "address": "CALLE ALUGARECIRAS, S/N"
+  },
+  {
+    "name": "PALMONES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1748034,
+    "lng": -5.428369,
+    "city": "PALMONES",
+    "address": "CALLE EL LENGUADO, S/N"
+  },
+  {
+    "name": "SAN ROQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2367535,
+    "lng": -4.1925611,
+    "city": "SAN ROQUE",
+    "address": "AVENIDA CASTIELLA, Nº 4"
+  },
+  {
+    "name": "CAMPAMENTO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3841078,
+    "lng": -3.786398,
+    "city": "CAMPAMENTO",
+    "address": "CALLE CUARTEL, S/N"
+  },
+  {
+    "name": "ESTACIÓN SAN ROQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2125812,
+    "lng": -5.4306973,
+    "city": "ESTACIÓN FÉRREA",
+    "address": "CALLE LEDESMA, Nº 41"
+  },
+  {
+    "name": "GUADIARO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2989766,
+    "lng": -5.303671,
+    "city": "GUADIARO",
+    "address": "AVENIDA PROFESOR TIERNO GALVAN, S/N"
+  },
+  {
+    "name": "PUENTE MAYORGA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1817105,
+    "lng": -5.3864187,
+    "city": "PUENTE MAYORGA",
+    "address": "CALLE PI Y MARGALL, S/N"
+  },
+  {
+    "name": "SAN ENRIQUE GUADIARO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.3051047,
+    "lng": -5.2913147,
+    "city": "SAN ENRIQUE",
+    "address": "AVENIDA SAN ENRIQUE, EDIFICIO F. MARINA, S/N"
+  },
+  {
+    "name": "TARAGUILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2061139,
+    "lng": -5.4222846,
+    "city": "TARAGUILLA",
+    "address": "CALLE BEGONIA, S/N"
+  },
+  {
+    "name": "GUADARRANQUE (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1837467,
+    "lng": -5.4152366,
+    "city": "CARTEYA-GUADARRANQUE",
+    "address": "CALLE REDES, S/N"
+  },
+  {
+    "name": "TARIFA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.0149202,
+    "lng": -5.6034551,
+    "city": "TARIFA",
+    "address": "CALLE AMADOR DE LOS RÍOS, S/N"
+  },
+  {
+    "name": "FACINAS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1414647,
+    "lng": -5.6983802,
+    "city": "FACINAS",
+    "address": "PLAZA ESPAÑA, Nº 2"
+  },
+  {
+    "name": "TAHIVILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1836146,
+    "lng": -5.7551702,
+    "city": "TAHIVILLA",
+    "address": "LUGAR TAHIVILLAS, S/N"
+  },
+  {
+    "name": "BOLONIA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 28.0487772,
+    "lng": -15.4848431,
+    "city": "LENTISCAL (EL)",
+    "address": "LUGAR EL LENTISCAL, S/N"
+  },
+  {
+    "name": "BARBATE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.193583,
+    "lng": -5.9186925,
+    "city": "BARBATE",
+    "address": "AVENIDA DEL MAR, S/N"
+  },
+  {
+    "name": "ZAHARA DE LOS ATUNES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.135314,
+    "lng": -5.8434616,
+    "city": "ZAHARA DE LOS ATUNES",
+    "address": "CALLE MAESTRA ANGELINES SÁEZ, S/N"
+  },
+  {
+    "name": "LA LAGUNA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5053679,
+    "lng": -6.2745522,
+    "city": "CÁDIZ",
+    "address": "PLAZA REINA SOFÍA, S/N"
+  },
+  {
+    "name": "LA MERCED",
+    "type": "PRIMARY_CARE",
+    "lat": 36.528341,
+    "lng": -6.29084,
+    "city": "CÁDIZ",
+    "address": "PLAZA LA MERCED, S/N"
+  },
+  {
+    "name": "LA PAZ",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5157923,
+    "lng": -6.2745071,
+    "city": "CÁDIZ",
+    "address": "CALLE PADRE JERÓNIMO DE LA CONCEPCIÓN, S/N"
+  },
+  {
+    "name": "LORETO - PUNTALES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5057097,
+    "lng": -6.2717646,
+    "city": "CÁDIZ",
+    "address": "CALLE HÉROES DE LA AVIACIÓN ESPAÑOLA, S/N"
+  },
+  {
+    "name": "MENTIDERO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5341535,
+    "lng": -6.2993163,
+    "city": "CÁDIZ",
+    "address": "CALLE CERVANTES, Nº 9"
+  },
+  {
+    "name": "OLIVILLO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.533053,
+    "lng": -6.3048259,
+    "city": "CÁDIZ",
+    "address": "CALLE DOCTOR MARAÑÓN, S/N"
   }
 ]

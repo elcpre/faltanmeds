@@ -22,6 +22,9 @@ export default function CookiesPage() {
                 </p>
 
                 <h3>Cookies de terceros</h3>
+                <p className="mb-2 italic bg-blue-50 p-2 rounded text-sm text-blue-800">
+                    <strong>Importante:</strong> Las siguientes cookies solo se activan si usted ha dado su consentimiento explícito pulsando "Aceptar" en nuestro aviso de cookies.
+                </p>
                 <ul className="list-disc list-inside">
                     <li><strong>Google Analytics:</strong> Almacena cookies para poder elaborar estadísticas sobre el tráfico y volumen de visitas de esta web. Al utilizar este sitio web está consintiendo el tratamiento de información acerca de usted por Google.</li>
                     <li><strong>Google AdSense:</strong> Utiliza cookies para mejorar la publicidad. Una cookie común es la de "DoubleClick", que permite mostrar anuncios relevantes basados en sus búsquedas anteriores.</li>

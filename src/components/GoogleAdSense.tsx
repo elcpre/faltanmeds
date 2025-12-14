@@ -1,8 +1,13 @@
 'use client';
 
 import Script from 'next/script';
+import { useConsent } from '@/context/ConsentContext';
 
 export function GoogleAdSense() {
+    const { consent } = useConsent();
+
+    if (consent !== 'accepted') return null;
+
     return (
         <Script
             async
