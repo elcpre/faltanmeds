@@ -9,43 +9,48 @@ export const metadata: Metadata = {
 
 export default function DisclaimerPage() {
     return (
-        <main className="max-w-3xl mx-auto px-4 py-12">
-            <div className="flex items-center space-x-4 mb-8 pb-4 border-b border-gray-200">
-                <AlertTriangle className="w-10 h-10 text-red-600" />
-                <h1 className="text-3xl font-bold text-gray-900">Exención de Responsabilidad</h1>
+        <main className="max-w-4xl mx-auto px-6 py-16">
+            <div className="flex flex-col md:flex-row md:items-center gap-4 mb-10 pb-4 border-b-2 border-slate-100">
+                <AlertTriangle className="w-12 h-12 text-red-600 shrink-0" />
+                <h1 className="text-4xl font-bold text-gray-900">Exención de Responsabilidad</h1>
             </div>
 
-            <div className="prose prose-blue max-w-none text-gray-700">
-                <div className="bg-red-50 p-8 rounded-lg border-l-4 border-red-500 mb-8">
-                    <p className="text-lg font-bold text-red-800 mb-2">IMPORTANTE: Este sitio web NO proporciona consejo médico.</p>
-                    <p className="text-red-700 m-0">
-                        FaltanMeds es una herramienta informativa que automatiza la consulta de datos públicos. El contenido nunca debe sustituir el juicio clínico de un médico o farmacéutico.
+            <div className="prose prose-lg prose-slate max-w-none">
+                <div className="bg-red-50 p-8 rounded-xl border-l-8 border-red-500 mb-10 shadow-sm">
+                    <p className="text-xl font-bold text-red-900 mb-3 mt-0">
+                        IMPORTANTE: Este sitio web NO proporciona consejo médico.
+                    </p>
+                    <p className="text-red-800 m-0 leading-relaxed">
+                        FaltanMeds es una herramienta informativa que automatiza la consulta de datos públicos. El contenido nunca debe sustituir el juicio clínico de un médico o farmacéutico profesional.
                     </p>
                 </div>
 
-                <h2>1. Naturaleza de la Información</h2>
-                <p>
-                    La información contenida en FaltanMeds se obtiene de forma automatizada de la base de datos pública CIMA (Centro de Información online de Medicamentos de la AEMPS). Aunque nos esforzamos por mantener la información actualizada, <strong>no podemos garantizar la exactitud, integridad o inmediatez de los datos</strong> mostrados.
-                </p>
-                <p>
-                    Puede haber un desfase temporal entre la publicación oficial de la AEMPS y su reflejo en este sitio web.
-                </p>
+                <section className="mb-10">
+                    <h2 className="text-2xl font-bold text-gray-800 mb-4">1. Naturaleza de la Información</h2>
+                    <p className="text-gray-600 mb-4 leading-relaxed">
+                        La información de desabastecimiento se obtiene de forma automatizada de la base de datos CIMA (AEMPS). Aunque nos esforzamos por mantener la inmediatez, pueden existir desfases técnicos.
+                    </p>
+                    <p className="text-gray-600 leading-relaxed">
+                        <strong>Sobre el Mapa Sanitario:</strong> La ubicación de hospitales y centros de salud proviene del "Catálogo Nacional de Hospitales 2025" y el SIAP. Esta es una base de datos estática y podría no reflejar cambios recientes de dirección o cierres temporales.
+                    </p>
+                </section>
 
-                <h2>2. No es un Servicio Médico</h2>
-                <p>
-                    El contenido de este sitio web (texto, gráficos, imágenes y otra información) tiene únicamente fines informativos generales.
-                    <strong>Nunca ignore el consejo médico profesional ni demore en buscarlo debido a algo que haya leído en FaltanMeds.</strong>
-                </p>
+                <section className="mb-10">
+                    <h2 className="text-2xl font-bold text-gray-800 mb-4">2. Uso Responsable</h2>
+                    <p className="text-gray-600 mb-4 leading-relaxed">
+                        Nunca ignore el consejo médico profesional ni demore en buscarlo debido a algo que haya leído en FaltanMeds. No tome decisiones sobre su medicación (interrupción, cambio de dosis) basándose únicamente en esta web.
+                    </p>
+                    <div className="bg-yellow-50 p-6 rounded-lg text-yellow-900 text-sm font-medium border border-yellow-200">
+                        Ante la duda sobre un medicamento en desabastecimiento, contacte siempre con su farmacia de confianza o su médico de cabecera.
+                    </div>
+                </section>
 
-                <h2>3. Uso de Medicamentos</h2>
-                <p>
-                    No tome decisiones sobre la medicación (como dejar de tomarla, cambiar la dosis o sustituirla por otra) basándose únicamente en la información de este sitio web. Consulte siempre con su médico o farmacéutico ante cualquier duda sobre su tratamiento o problemas de suministro.
-                </p>
-
-                <h2>4. Enlaces Externos</h2>
-                <p>
-                    Este sitio puede contener enlaces a sitios web de terceros (como farmacias online, Amazon, etc.). FaltanMeds no recomienda ni respalda ningún producto o servicio específico y no es responsable del contenido o servicios de dichos sitios de terceros.
-                </p>
+                <section className="mb-10">
+                    <h2 className="text-2xl font-bold text-gray-800 mb-4">3. Enlaces Externos</h2>
+                    <p className="text-gray-600 mb-4 leading-relaxed">
+                        Este sitio puede contener enlaces a sitios web de terceros. FaltanMeds no tiene control sobre el contenido, políticas de privacidad o prácticas de sitios web de terceros y no asume ninguna responsabilidad por ellos.
+                    </p>
+                </section>
             </div>
         </main>
     );
