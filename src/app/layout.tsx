@@ -60,8 +60,7 @@ export default function RootLayout({
           <CookieConsent />
           <GoogleAnalytics />
         </ConsentProvider>
-      </ConsentProvider>
-    </body>
+      </body>
     </html >
   );
 }
