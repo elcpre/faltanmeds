@@ -10326,5 +10326,477 @@
     "lng": -3.6703106,
     "city": "CÚLLAR VEGA",
     "address": "CALLE PABLO PICASSO, Nº 21"
+  },
+  {
+    "name": "ESCÚZAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0620928,
+    "lng": -3.7607237,
+    "city": "ESCÚZAR",
+    "address": "PLAZA ESPAÑA, Nº 14"
+  },
+  {
+    "name": "GABIA LA GRANDE - LAS GABIAS -",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1338687,
+    "lng": -3.6670081,
+    "city": "GABIA GRANDE",
+    "address": "PLAZA MONTES JOVELLAR, S/N"
+  },
+  {
+    "name": "HÍJAR - LAS GABIAS -",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1500062,
+    "lng": -3.6738732,
+    "city": "HÍJAR",
+    "address": "CALLE YASMINA, S/N"
+  },
+  {
+    "name": "LA MALAHÁ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1004046,
+    "lng": -3.7207206,
+    "city": "MALAHÁ (LA)",
+    "address": "PLAZA CONSTITUCIÓN, S/N"
+  },
+  {
+    "name": "PURCHIL",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1699996,
+    "lng": -3.6642219,
+    "city": "PURCHIL",
+    "address": "CALLE SELVA FLORIDA, Nº 16"
+  },
+  {
+    "name": "VENTAS DE HUELMA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0667673,
+    "lng": -3.8210079,
+    "city": "VENTAS DE HUELMA",
+    "address": "AVENIDA DEL TEMPLE, S/N"
+  },
+  {
+    "name": "GABIA LA CHICA - LAS GABIAS - (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1236407,
+    "lng": -3.6544707,
+    "city": "GABIA CHICA",
+    "address": "CALLE NAVAS DE TOLOSA, Nº 7"
+  },
+  {
+    "name": "ÁCULA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0824388,
+    "lng": -3.8099858,
+    "city": "ÁCULA",
+    "address": "CALLE NUESTRA SEÑORA DEL ROSARIO, Nº 21"
+  },
+  {
+    "name": "AGRÓN (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0310631,
+    "lng": -3.8288792,
+    "city": "AGRÓN",
+    "address": "AVENIDA CATEDRATICO ANTONIO ROMERO, S/N"
+  },
+  {
+    "name": "AMBROZ-BELICENA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1651535,
+    "lng": -3.6620019,
+    "city": "AMBROZ",
+    "address": "CALLE DON QUIJOTE DE LA MANCHA, Nº 1"
+  },
+  {
+    "name": "HUÉTOR - TÁJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1958679,
+    "lng": -4.0505061,
+    "city": "HUÉTOR TÁJAR",
+    "address": "CALLE ERAS BAJAS, S/N"
+  },
+  {
+    "name": "LORETO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1862601,
+    "lng": -3.9570498,
+    "city": "LORETO",
+    "address": "PLAZA IGLESIA, S/N"
+  },
+  {
+    "name": "MORALEDA DE ZAFAYONA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1689483,
+    "lng": -3.9678249,
+    "city": "MORALEDA DE ZAFAYONA",
+    "address": "AVENIDA SANCHEZ DEL CORRAL, S/N"
+  },
+  {
+    "name": "SALAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1480506,
+    "lng": -4.0664921,
+    "city": "SALAR",
+    "address": "PLAZA TIERNO GALVAN, S/N"
+  },
+  {
+    "name": "VILLANUEVA MESÍA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.214864,
+    "lng": -4.0205811,
+    "city": "VILLANUEVA MESÍA",
+    "address": "PLAZA INDEPENDENCIA, Nº3"
+  },
+  {
+    "name": "LOS OLIVOS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1808451,
+    "lng": -3.9585145,
+    "city": "MORALEDA DE ZAFAYONA",
+    "address": "CALLE OTURA, S/N"
+  },
+  {
+    "name": "LA ZUBIA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1163385,
+    "lng": -3.5827775,
+    "city": "ZUBIA (LA)",
+    "address": "CALLE CORVALES, Nº 5"
+  },
+  {
+    "name": "BARRIO MONACHIL",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1308592,
+    "lng": -3.5587575,
+    "city": "MONACHIL",
+    "address": "BARRIADA MADRID, S/N"
+  },
+  {
+    "name": "BELLAVISTA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1270655,
+    "lng": -3.5679173,
+    "city": "CÁJAR",
+    "address": "PLAZA ANDALUCÍA, S/N"
+  },
+  {
+    "name": "CÁJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1342887,
+    "lng": -3.5714304,
+    "city": "CÁJAR",
+    "address": "PLAZA IGLESIA, S/N"
+  },
+  {
+    "name": "GÓJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.103107,
+    "lng": -3.6059397,
+    "city": "GÓJAR",
+    "address": "CALLE IGLESIA, Nº 1"
+  },
+  {
+    "name": "HUÉTOR VEGA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1481548,
+    "lng": -3.5693413,
+    "city": "HUÉTOR VEGA",
+    "address": "CALLE MIRADOR DE LA NAVA, Nº 11"
+  },
+  {
+    "name": "MONACHIL",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1314957,
+    "lng": -3.5392637,
+    "city": "MONACHIL",
+    "address": "PLAZA ALTA, Nº 1"
+  },
+  {
+    "name": "OGÍJARES",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1155231,
+    "lng": -3.6088666,
+    "city": "OGÍJARES",
+    "address": "CALLE CRUCES, Nº 47"
+  },
+  {
+    "name": "SIERRA NEVADA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0935924,
+    "lng": -3.4005154,
+    "city": "SIERRA NEVADA",
+    "address": "PLAZA ANDALUCIA, S/N"
+  },
+  {
+    "name": "LOJA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1710298,
+    "lng": -4.1533743,
+    "city": "LOJA",
+    "address": "AVENIDA TIERNO GALVÁN, S/N"
+  },
+  {
+    "name": "RIOFRÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1545074,
+    "lng": -4.2102983,
+    "city": "RIOFRÍO",
+    "address": "AVENIDA DEL RÍO, S/N"
+  },
+  {
+    "name": "VENTORROS DE BALERMA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2290242,
+    "lng": -4.2543557,
+    "city": "VENTORROS DE BALERMA",
+    "address": "CALLE GRANADA, Nº 71"
+  },
+  {
+    "name": "VENTORROS DE SAN JOSÉ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2458739,
+    "lng": -4.1497788,
+    "city": "VENTORROS DE SAN JOSÉ",
+    "address": "AVENIDA DE ANDALUCÍA, S/N"
+  },
+  {
+    "name": "ZAGRA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2543762,
+    "lng": -4.1686394,
+    "city": "ZAGRA",
+    "address": "CALLE HUERTOS, S/N"
+  },
+  {
+    "name": "FUENTE CAMACHO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1000672,
+    "lng": -4.2550738,
+    "city": "FUENTE CAMACHO",
+    "address": "CALLE FUENTE CAMACHO, S/N"
+  },
+  {
+    "name": "LA FÁBRICA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2155856,
+    "lng": -4.0700916,
+    "city": "FÁBRICA (LA)",
+    "address": "CALLE ALMENDRO, S/N"
+  },
+  {
+    "name": "VENTORROS DE LA LAGUNA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2029178,
+    "lng": -4.2280395,
+    "city": "VENTORROS DE LA LAGUNA",
+    "address": "CALLE ESCUELAS, S/N"
+  },
+  {
+    "name": "MARACENA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2071251,
+    "lng": -3.6304072,
+    "city": "MARACENA",
+    "address": "CALLE CAMINO DE LOS ERIALES, S/N"
+  },
+  {
+    "name": "MONTEFRÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3257818,
+    "lng": -4.0057237,
+    "city": "MONTEFRÍO",
+    "address": "CALLE MARIANA PINEDA, Nº 2"
+  },
+  {
+    "name": "ALGARINEJO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3258809,
+    "lng": -4.1562356,
+    "city": "ALGARINEJO",
+    "address": "CALLE SALVADOR DALI, S/N"
+  },
+  {
+    "name": "FUENTES DE CESNA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2614966,
+    "lng": -4.2390056,
+    "city": "FUENTES DE CESNA",
+    "address": "CALLE FUENTES DE CESNA, S/N"
+  },
+  {
+    "name": "LA VIÑA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.285108,
+    "lng": -4.1510131,
+    "city": "CARRERA DE LA VIÑA (LA)",
+    "address": "CALLE LA VIÑA, S/N"
+  },
+  {
+    "name": "PELIGROS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2302729,
+    "lng": -3.6258263,
+    "city": "PELIGROS",
+    "address": "CALLE VALENCIA, S/N"
+  },
+  {
+    "name": "PULIANAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2176125,
+    "lng": -3.6096976,
+    "city": "PULIANAS",
+    "address": "PLAZA NAZARIES, S/N"
+  },
+  {
+    "name": "ÍLLORA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2870855,
+    "lng": -3.8780424,
+    "city": "ÍLLORA",
+    "address": "AVENIDA SAN ROGELIO, S/N"
+  },
+  {
+    "name": "ALOMARTES",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2610733,
+    "lng": -3.9165649,
+    "city": "ALOMARTES",
+    "address": "CALLE REAL DE ALOMARTES, S/N"
+  },
+  {
+    "name": "ESCOZNAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2362514,
+    "lng": -3.8456244,
+    "city": "ÍLLORA",
+    "address": "CALLE SAN LUIS DE ESCOZNAR, S/N"
+  },
+  {
+    "name": "TOCÓN  (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2376891,
+    "lng": -3.967888,
+    "city": "TOCÓN",
+    "address": "CALLE VEINTIOCHO DE FEBRERO, S/N"
+  },
+  {
+    "name": "BRACANÁ (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.228501,
+    "lng": -3.9447713,
+    "city": "BRÁCANA",
+    "address": "CALLE MAGNOLIA, S/N"
+  },
+  {
+    "name": "OBÉILAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2505953,
+    "lng": -3.8548987,
+    "city": "OBÉILAR",
+    "address": "CALLE MANZANO, S/N"
+  },
+  {
+    "name": "IZNALLOZ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3958204,
+    "lng": -3.527761,
+    "city": "IZNALLOZ",
+    "address": "BARRIADA PRIMERO DE MAYO, S/N"
+  },
+  {
+    "name": "BENALÚA DE LAS VILLAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4273951,
+    "lng": -3.68314,
+    "city": "BENALÚA DE LAS VILLAS",
+    "address": "CALLE ESCUELAS, S/N"
+  },
+  {
+    "name": "CAMPOTÉJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4826016,
+    "lng": -3.6155501,
+    "city": "CAMPOTÉJAR",
+    "address": "CALLE LABRADORES, Nº 11"
+  },
+  {
+    "name": "DEHESAS VIEJAS ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4723721,
+    "lng": -3.5529834,
+    "city": "DEHESAS VIEJAS",
+    "address": "CALLE ERAS DE DEHESAS VIEJAS, S/N"
+  },
+  {
+    "name": "DOMINGO PÉREZ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4952373,
+    "lng": -3.5102045,
+    "city": "DOMINGO PÉREZ DE GRANADA",
+    "address": "CALLE LA CRUZ DE DOMINGO PEREZ, S/N"
+  },
+  {
+    "name": "GUADAHORTUNA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5544182,
+    "lng": -3.396107,
+    "city": "GUADAHORTUNA",
+    "address": "AVENIDA DE LOS EMIGRANTES, S/N"
+  },
+  {
+    "name": "MONTEJÍCAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.571934,
+    "lng": -3.5052649,
+    "city": "MONTEJÍCAR",
+    "address": "CALLE HOSPITAL, S/N"
+  },
+  {
+    "name": "MONTILLANA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4932677,
+    "lng": -3.722531,
+    "city": "MONTILLANA",
+    "address": "CALLE NUEVA DE DE LA CONCEPCION , Nº 1"
+  },
+  {
+    "name": "PÍÑAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3997462,
+    "lng": -3.4228537,
+    "city": "PÍÑAR",
+    "address": "PLAZA RAFAEL EXPOSITO, S/N"
+  },
+  {
+    "name": "TORRE - CARDELA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5038557,
+    "lng": -3.3560968,
+    "city": "TORRE-CARDELA",
+    "address": "CALLE DOCTOR PALACIOS PRADOS, S/N"
+  },
+  {
+    "name": "BOGARRE (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4100273,
+    "lng": -3.3715655,
+    "city": "BOGARRE",
+    "address": "CALLE CERRO DE LA ERA, S/N"
+  },
+  {
+    "name": "GOBERNADOR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4772209,
+    "lng": -3.3203599,
+    "city": "GOBERNADOR",
+    "address": "PLAZA IGLESIA, S/N"
+  },
+  {
+    "name": "SANTA FE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1852637,
+    "lng": -3.7203173,
+    "city": "SANTA FE",
+    "address": "CALLE LA PAZ, Nº 2"
   }
 ]

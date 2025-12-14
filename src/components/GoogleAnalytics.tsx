@@ -6,7 +6,7 @@ import { useConsent } from '@/context/ConsentContext';
 export function GoogleAnalytics() {
     const { consent } = useConsent();
 
-    if (consent !== 'accepted') return null;
+    if (!consent.analytics) return null;
 
     return (
         <>

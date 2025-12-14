@@ -6,7 +6,7 @@ import { useConsent } from '@/context/ConsentContext';
 export function GoogleAdSense() {
     const { consent } = useConsent();
 
-    if (consent !== 'accepted') return null;
+    if (!consent.marketing) return null;
 
     return (
         <Script

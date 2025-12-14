@@ -13,7 +13,7 @@ export function AdSenseBlock({ slot, format = 'auto', className = '' }: AdSenseB
     const { consent } = useConsent();
 
     useEffect(() => {
-        if (consent === 'accepted') {
+        if (consent.marketing) {
             try {
                 // @ts-ignore
                 (window.adsbygoogle = window.adsbygoogle || []).push({});
@@ -21,14 +21,10 @@ export function AdSenseBlock({ slot, format = 'auto', className = '' }: AdSenseB
                 console.error('AdSense error:', err);
             }
         }
-    }, [consent]);
+    }, [consent.marketing]);
 
-    if (consent === 'rejected') {
+    if (!consent.marketing) {
         return null; // Or show a small message: "Publicidad desactivada"
-    }
-
-    if (consent === 'undecided') {
-        return null; // Don't show anything until decided
     }
 
     return (
