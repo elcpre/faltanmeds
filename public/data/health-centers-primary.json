@@ -9654,5 +9654,677 @@
     "lng": -6.3048259,
     "city": "CÁDIZ",
     "address": "CALLE DOCTOR MARAÑÓN, S/N"
+  },
+  {
+    "name": "PUERTA DE TIERRA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5099139,
+    "lng": -6.2763547,
+    "city": "CÁDIZ",
+    "address": "CALLE GARCÍA CARRERA, Nº 7"
+  },
+  {
+    "name": "CHICLANA - LA BANDA \"PADRE SALADO\"",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4198184,
+    "lng": -6.1430092,
+    "city": "CHICLANA DE LA FRONTERA",
+    "address": "CALLE JARDINES, Nº 17"
+  },
+  {
+    "name": "LA ATALAYA - CONIL DE LA FRONTERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2820016,
+    "lng": -6.090694,
+    "city": "CONIL DE LA FRONTERA",
+    "address": "CALLE GONZALO SANCHEZ FUENTES, Nº 1"
+  },
+  {
+    "name": "EL COLORADO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.3371495,
+    "lng": -6.086621,
+    "city": "CONIL DE LA FRONTERA",
+    "address": "CARRETERA NACIONAL KM 340, S/N"
+  },
+  {
+    "name": "BENALUP",
+    "type": "PRIMARY_CARE",
+    "lat": 36.3470731,
+    "lng": -5.8130632,
+    "city": "BENALUP",
+    "address": "CALLE ALMERÍA, S/N"
+  },
+  {
+    "name": "MEDINA - SIDONIA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4662348,
+    "lng": -5.9279017,
+    "city": "MEDINA SIDONIA",
+    "address": "AVENIDA AL-ANDALUS, S/N"
+  },
+  {
+    "name": "ALCALÁ DE LOS GAZULES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4606938,
+    "lng": -5.7235004,
+    "city": "ALCALÁ DE LOS GAZULES",
+    "address": "PASEO DE LA PLAYA, S/N"
+  },
+  {
+    "name": "SAN JOSÉ DE MALCOCINADO - LOS BADALEJOS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.358887,
+    "lng": -5.869291,
+    "city": "MALCOCINADO",
+    "address": "CALLE MORERA, S/N"
+  },
+  {
+    "name": "CASA DEL MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5966737,
+    "lng": -6.2245105,
+    "city": "PUERTO DE SANTA MARÍA (EL)",
+    "address": "AVENIDA BAJAMAR, S/N"
+  },
+  {
+    "name": "DOCTOR FEDERICO RUBIO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6024685,
+    "lng": -6.2284246,
+    "city": "PUERTO DE SANTA MARÍA (EL)",
+    "address": "CALLE GANADO, Nº 23"
+  },
+  {
+    "name": "VALDELAGRANA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5847067,
+    "lng": -6.2160499,
+    "city": "VALDELAGRANA",
+    "address": "AVENIDA RÍO DAN PEDRO, Nº 14"
+  },
+  {
+    "name": "POBLADO DE DOÑA BLANCA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6165259,
+    "lng": -6.1657666,
+    "city": "DOÑA BLANCA-POBLADO",
+    "address": "PLAZA SAN CRISTÓBAL, S/N"
+  },
+  {
+    "name": "PUERTO REAL",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5296669,
+    "lng": -6.2027431,
+    "city": "PUERTO REAL",
+    "address": "RIBERA DEL MUELLE, S/N"
+  },
+  {
+    "name": "BARRIO JARANA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5029019,
+    "lng": -6.1436331,
+    "city": "BARRIO DE JARANA",
+    "address": "CALLE FIESTA, S/N"
+  },
+  {
+    "name": "RIO SAN PEDRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.5218147,
+    "lng": -6.226486,
+    "city": "BARRIADA RÍO SAN PEDRO",
+    "address": "CALLE PROA, S/N"
+  },
+  {
+    "name": "DR. JOAQUÍN PECE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4583308,
+    "lng": -6.2086614,
+    "city": "SAN FERNANDO",
+    "address": "AVENIDA CORNELIO BALBO, S/N"
+  },
+  {
+    "name": "RODRÍGUEZ ARIAS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4617046,
+    "lng": -6.1991718,
+    "city": "SAN FERNANDO",
+    "address": "PLAZA RODRÍGUEZ ARIAS, S/N"
+  },
+  {
+    "name": "SAN FERNANDO - DR CAYETANO ROLDAN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.4683739,
+    "lng": -6.1900274,
+    "city": "SAN FERNANDO",
+    "address": "AVENIDA DEL CID, Nº 1"
+  },
+  {
+    "name": "VEJER DE LA FRONTERA ",
+    "type": "PRIMARY_CARE",
+    "lat": 36.2504625,
+    "lng": -5.9682172,
+    "city": "VEJER DE LA FRONTERA",
+    "address": "CALLE TERESA DE CALCULTA, S/N"
+  },
+  {
+    "name": "CANTARRANAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.3158369,
+    "lng": -5.8850175,
+    "city": "CANTARRANAS",
+    "address": "PLAZA ESPAÑA , Nº 3"
+  },
+  {
+    "name": "CHIPIONA \" DOCTOR TOLOSA LATOUR\"",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7419091,
+    "lng": -6.4296608,
+    "city": "CHIPIONA",
+    "address": "AVENIDA ROCIO JURADO, S/N"
+  },
+  {
+    "name": "JEREZ CENTRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6830053,
+    "lng": -6.1397875,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "CALLE JOSE LUIS DÍEZ, Nº 14"
+  },
+  {
+    "name": "JEREZ DELICIAS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6847921,
+    "lng": -6.115163,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "CALLE PAQUERA DE JEREZ,Nº 19"
+  },
+  {
+    "name": "LA BARCA - JEREZ",
+    "type": "PRIMARY_CARE",
+    "lat": 36.649978,
+    "lng": -5.9337751,
+    "city": "BARCA DE LA FLORIDA (LA)",
+    "address": "CALLE CRISTINA, S/N"
+  },
+  {
+    "name": "LA SERRANA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6930453,
+    "lng": -6.1497999,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "AVENIDA MOSTO, S/N"
+  },
+  {
+    "name": "MADRE DE DIOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6787595,
+    "lng": -6.1299277,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "CALLE PORVENIR, Nº 42"
+  },
+  {
+    "name": "MONTEALEGRE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6742701,
+    "lng": -6.1109376,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "AVENIDA JUAN CARLOS I, Nº 5"
+  },
+  {
+    "name": "SAN BENITO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6986551,
+    "lng": -6.1382534,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "CALLE DOCTOR FLEMING, S/N"
+  },
+  {
+    "name": "SAN TELMO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6726055,
+    "lng": -6.1326627,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "CALLE BEATO DIEGO DE CADIZ, S/N"
+  },
+  {
+    "name": "GUADALCACÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7153543,
+    "lng": -6.0887314,
+    "city": "GUADALCACÍN",
+    "address": "CALLE FERIA, S/N"
+  },
+  {
+    "name": "NUEVA JARILLA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7575347,
+    "lng": -6.0316003,
+    "city": "NUEVA JARILLA",
+    "address": "CALLE RONDA TROBAL, S/N"
+  },
+  {
+    "name": "SAN JOSÉ DEL VALLE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.604928,
+    "lng": -5.7997738,
+    "city": "SAN JOSÉ DEL VALLE",
+    "address": "AVENIDA DE LA INDEPENDENCIA, S/N"
+  },
+  {
+    "name": "CUARTILLOS  (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6763287,
+    "lng": -6.0186132,
+    "city": "CUARTILLOS",
+    "address": "CALLE CIELO, Nº 2"
+  },
+  {
+    "name": "EL PORTAL (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6387276,
+    "lng": -6.1325596,
+    "city": "PORTAL (EL)",
+    "address": "CALLE SALVADOR MAIRENA, S/N"
+  },
+  {
+    "name": "EL TORNO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6208513,
+    "lng": -5.970763,
+    "city": "TORNO (EL)",
+    "address": "CALLE REAL, S/N"
+  },
+  {
+    "name": "MAJARROMAQUE (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6705677,
+    "lng": -5.9065865,
+    "city": "JEREZ DE LA FRONTERA",
+    "address": "CALLE LARGA, S/N"
+  },
+  {
+    "name": "MESAS DE ASTA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7896077,
+    "lng": -6.1745697,
+    "city": "MESAS DE ASTA",
+    "address": "CALLE PADRE FIDEL, S/N"
+  },
+  {
+    "name": "SAN ISIDRO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6438113,
+    "lng": -5.9885089,
+    "city": "SAN ISIDRO DEL GUADALETE",
+    "address": "CALLE EL TORNO, S/N"
+  },
+  {
+    "name": "ROTA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6219106,
+    "lng": -6.3621294,
+    "city": "ROTA",
+    "address": "AVENIDA MARÍA AUXILIADORA, Nº 42"
+  },
+  {
+    "name": "SANLÚCAR - BARRIO ALTO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7782368,
+    "lng": -6.3503596,
+    "city": "SANLÚCAR DE BARRAMEDA",
+    "address": "CALLE CARRIL DE SAN DIEGO, S/N"
+  },
+  {
+    "name": "SANLÚCAR - BARRIO BAJO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7809883,
+    "lng": -6.3558836,
+    "city": "SANLÚCAR DE BARRAMEDA",
+    "address": "CALLE DUQUESA LUISA ISABEL, Nº 9"
+  },
+  {
+    "name": "TREBUJENA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.866074,
+    "lng": -6.1732893,
+    "city": "TREBUJENA",
+    "address": "AVENIDA DE JEREZ, S/N"
+  },
+  {
+    "name": "ALGAIDA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8324985,
+    "lng": -6.3184431,
+    "city": "ALGAIDA (LA)",
+    "address": "CALLE CENTRAL, S/N"
+  },
+  {
+    "name": "BONANZA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7979068,
+    "lng": -6.3355978,
+    "city": "BONANZA",
+    "address": "CALLE ASTILLEROS, S/N"
+  },
+  {
+    "name": "LA DEHESILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7674942,
+    "lng": -6.3545522,
+    "city": "SANLÚCAR DE BARRAMEDA",
+    "address": "AVENIDA MADRID, S/N"
+  },
+  {
+    "name": "ALCALÁ DEL VALLE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.90347,
+    "lng": -5.1720857,
+    "city": "ALCALÁ DEL VALLE",
+    "address": "AVENIDA LIBERTAD, S/N"
+  },
+  {
+    "name": "SETENIL",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8623268,
+    "lng": -5.1762499,
+    "city": "SETENIL",
+    "address": "CALLE CORONILLA, S/N"
+  },
+  {
+    "name": "ARCOS DE LA FRONTERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8124688,
+    "lng": -5.7466544,
+    "city": "ARCOS DE LA FRONTERA",
+    "address": "CALLE CALVARIO, S/N"
+  },
+  {
+    "name": "ALGAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6595235,
+    "lng": -5.6665395,
+    "city": "ALGAR",
+    "address": "CALLE DOCTOR PÉREZ ZABRA, S/N"
+  },
+  {
+    "name": "EL POSITO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.750349,
+    "lng": -5.8105848,
+    "city": "ARCOS DE LA FRONTERA",
+    "address": "CALLE CORREDERA, Nº 36"
+  },
+  {
+    "name": "ESPERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8698133,
+    "lng": -5.8064043,
+    "city": "ESPERA",
+    "address": "CALLE DOCTOR FLEMING, S/N"
+  },
+  {
+    "name": "JÉDULA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7248919,
+    "lng": -5.9298093,
+    "city": "JÉDULA",
+    "address": "CALLE SAN ISIDRO LABRADOR, S/N"
+  },
+  {
+    "name": "OLVERA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9358414,
+    "lng": -5.2672073,
+    "city": "OLVERA",
+    "address": "AVENIDA JULIAN BESTEIRO, S/N"
+  },
+  {
+    "name": "ALGODONALES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.879681,
+    "lng": -5.4026624,
+    "city": "ALGODONALES",
+    "address": "CALLE SETENIL DE LAS BODEGAS, S/N"
+  },
+  {
+    "name": "EL GASTOR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8539491,
+    "lng": -5.3207272,
+    "city": "GASTOR (EL)",
+    "address": "CALLE CALZADA, Nº 18"
+  },
+  {
+    "name": "TORRE - ALHÁQUIME",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9182737,
+    "lng": -5.2305473,
+    "city": "TORRE ALHÁQUIME",
+    "address": "CALLE PILAR, Nº 19"
+  },
+  {
+    "name": "ZAHARA DE LA SIERRA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8393486,
+    "lng": -5.3914771,
+    "city": "ZAHARA",
+    "address": "CALLE RONDA, Nº 27"
+  },
+  {
+    "name": "UBRIQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6582916,
+    "lng": -5.4231853,
+    "city": "UBRIQUE",
+    "address": "CALLE MENENDEZ PIDAL, Nº 1"
+  },
+  {
+    "name": "CACÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0621399,
+    "lng": -3.917376,
+    "city": "CACÍN",
+    "address": "CALLE REAL, Nº 1"
+  },
+  {
+    "name": "ARENAS DEL REY",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9577463,
+    "lng": -3.8944305,
+    "city": "ARENAS DEL REY",
+    "address": "PLAZA ALFONSO XII, S/N"
+  },
+  {
+    "name": "FORNES",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9542966,
+    "lng": -3.8565786,
+    "city": "FORNES",
+    "address": "CALLE REAL, S/N"
+  },
+  {
+    "name": "JAYENA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9488443,
+    "lng": -3.8238962,
+    "city": "JAYENA",
+    "address": "AVENIDA MEDITERRANEO, Nº 33"
+  },
+  {
+    "name": "SANTA CRUZ DEL COMERCIO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0631472,
+    "lng": -3.973418,
+    "city": "SANTA CRUZ DEL COMERCIO",
+    "address": "CALLE REGINO MARTINEZ, S/N"
+  },
+  {
+    "name": "VENTAS DE ZAFARRAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.957267,
+    "lng": -4.1206261,
+    "city": "VENTAS DE ZAFARRAYA",
+    "address": "PLAZA  SANTO DOMINGO,  S/N"
+  },
+  {
+    "name": "ZAFARRAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9972329,
+    "lng": -4.19359,
+    "city": "ZAFARRAYA",
+    "address": "CARRETERA GRANADA, S/N"
+  },
+  {
+    "name": "BUENAVISTA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1056042,
+    "lng": -3.988005,
+    "city": "BUENAVISTA",
+    "address": "CALLE PRINCIPAL, S/N"
+  },
+  {
+    "name": "JÁTAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9347884,
+    "lng": -3.911789,
+    "city": "JÁTAR",
+    "address": "AVENIDA DE LAS PEÑUELAS, S/N"
+  },
+  {
+    "name": "PANTANO LOS BERMEJALES (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.997385,
+    "lng": -3.8950978,
+    "city": "PANTANO DE LOS BERMEJALES",
+    "address": "CARRETERA DE GRANADA, S/N"
+  },
+  {
+    "name": "TURRO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1333952,
+    "lng": -3.9411715,
+    "city": "TURRO (EL)",
+    "address": "CALLE ALCALDE DE BULLEJOS, S/N"
+  },
+  {
+    "name": "VALENZUELA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0816325,
+    "lng": -3.9845914,
+    "city": "VALENZUELA",
+    "address": "CALLE VALENZUELA, S/N"
+  },
+  {
+    "name": "ARMILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1411229,
+    "lng": -3.6243122,
+    "city": "ARMILLA",
+    "address": "CALLE SEVILLA, Nº 34"
+  },
+  {
+    "name": "ALHENDÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1079775,
+    "lng": -3.644459,
+    "city": "ALHENDÍN",
+    "address": "PLAZA ALAMO, Nº 8"
+  },
+  {
+    "name": "DÍLAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0755329,
+    "lng": -3.6019714,
+    "city": "DÍLAR",
+    "address": "CALLE SAN RAFAEL, Nº 4"
+  },
+  {
+    "name": "OTURA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0910102,
+    "lng": -3.6361284,
+    "city": "VILLA DE OTURA",
+    "address": "CALLE SAN EMILIO, Nº 1"
+  },
+  {
+    "name": "ATARFE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2214549,
+    "lng": -3.6918474,
+    "city": "ATARFE",
+    "address": "CALLE LA VEGA, S/N"
+  },
+  {
+    "name": "CENES DE LA VEGA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1605496,
+    "lng": -3.5364663,
+    "city": "CENES DE LA VEGA",
+    "address": "CALLE MARÍA UCEDA DÍAZ, Nº 11"
+  },
+  {
+    "name": "GÜÉJAR - SIERRA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1588736,
+    "lng": -3.4401413,
+    "city": "GÜÉJAR SIERRA",
+    "address": "AVENIDA DUQUE SAN PEDRO, Nº 19"
+  },
+  {
+    "name": "PINOS - GENIL",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1614215,
+    "lng": -3.4796237,
+    "city": "PINOS GENIL",
+    "address": "CALLE REY JUAN CARLOS, S/N"
+  },
+  {
+    "name": "QUÉNTAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1922161,
+    "lng": -3.4680765,
+    "city": "QUÉNTAR",
+    "address": "CALLE SAN SEBASTIAN, S/N"
+  },
+  {
+    "name": "DÚDAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1861651,
+    "lng": -3.4837703,
+    "city": "DÚDAR",
+    "address": "PLAZA MAYOR, S/N"
+  },
+  {
+    "name": "TOCÓN (QUÉNTAR) (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2419171,
+    "lng": -3.3726338,
+    "city": "TOCÓN",
+    "address": "CALLE SOLANA, S/N"
+  },
+  {
+    "name": "CHURRIANA DE LA VEGA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1479837,
+    "lng": -3.6554192,
+    "city": "CHURRIANA DE LA VEGA",
+    "address": "CALLE SAN RAMON, Nº 1"
+  },
+  {
+    "name": "BELICENA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1725881,
+    "lng": -3.6898254,
+    "city": "BELICENA",
+    "address": "PLAZA SAN MARCOS, S/N"
+  },
+  {
+    "name": "CÚLLAR - VEGA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1530966,
+    "lng": -3.6703106,
+    "city": "CÚLLAR VEGA",
+    "address": "CALLE PABLO PICASSO, Nº 21"
   }
 ]
