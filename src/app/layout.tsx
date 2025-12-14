@@ -27,7 +27,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/favicon.ico",
-  }
+  },
+  other: {
+    "google-adsense-account": "ca-pub-1881793666340506",
+  },
 };
 
 import { CookieConsent } from "@/components/CookieConsent";

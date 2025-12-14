@@ -13782,5 +13782,165 @@
     "lng": -3.5628281,
     "city": "ALFACAR",
     "address": "AVENIDA PARQUE FEDERICO GARCIA LORCA, S/N"
+  },
+  {
+    "name": "COGOLLOS VEGA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2752513,
+    "lng": -3.5732294,
+    "city": "COGOLLOS DE LA VEGA",
+    "address": "PLAZA MERCADO, S/N"
+  },
+  {
+    "name": "GÜEVÉJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2562021,
+    "lng": -3.5982763,
+    "city": "GÜEVÉJAR",
+    "address": "AVENIDA ANDALUCÍA, S/N"
+  },
+  {
+    "name": "VÍZNAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2312568,
+    "lng": -3.5540017,
+    "city": "VÍZNAR",
+    "address": "PLAZA CONSTITUCIÓN, Nº 5"
+  },
+  {
+    "name": "NÍVAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2577259,
+    "lng": -3.5772556,
+    "city": "NÍVAR",
+    "address": "CALLE PRETILES, Nº 12"
+  },
+  {
+    "name": "ALHAMA DE GRANADA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0089199,
+    "lng": -3.9861509,
+    "city": "ALHAMA DE GRANADA",
+    "address": "CARRETERA DE GRANADA, S/N"
+  },
+  {
+    "name": "ALMERÍA CENTRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8413617,
+    "lng": -2.4603465,
+    "city": "ALMERÍA",
+    "address": "CALLE SAN LEONARDO, Nº 7"
+  },
+  {
+    "name": "CASA DEL MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8378439,
+    "lng": -2.4745548,
+    "city": "ALMERÍA",
+    "address": "PARQUE NICOLAS SALMERON, Nº 64"
+  },
+  {
+    "name": "CIUDAD JARDÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9603994,
+    "lng": -2.5726218,
+    "city": "ALMERÍA",
+    "address": "PLAZA ESPAÑA, S/N"
+  },
+  {
+    "name": "CRUZ DE CARAVACA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8501151,
+    "lng": -2.4571739,
+    "city": "ALMERÍA",
+    "address": "CALLE QUINTA AVENIDA, S/N"
+  },
+  {
+    "name": "NUEVA ANDALUCÍA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8473401,
+    "lng": -2.4467926,
+    "city": "ALMERÍA",
+    "address": "AVENIDA DEL MEDITERRÁNEO, S/N"
+  },
+  {
+    "name": "OLIVEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8340805,
+    "lng": -2.4621611,
+    "city": "ALMERÍA",
+    "address": "CALLE MAESTRO SERRANO, S/N"
+  },
+  {
+    "name": "PLAZA DE TOROS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8478556,
+    "lng": -2.4629178,
+    "city": "ALMERÍA",
+    "address": "CALLE CONDE VILLAMONTE, S/N"
+  },
+  {
+    "name": "VIRGEN DEL MAR-LOS MOLINOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8460034,
+    "lng": -2.4474897,
+    "city": "ALMERÍA",
+    "address": "CALLE HAZA DE ACOSTA, S/N"
+  },
+  {
+    "name": "LA CAÑADA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8400035,
+    "lng": -2.4046957,
+    "city": "CAÑADA DE SAN URBANO (LA)",
+    "address": "CALLE CRISTÓBAL URREA ACOSTA, S/N"
+  },
+  {
+    "name": "CABO DE GATA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7806719,
+    "lng": -2.2418724,
+    "city": "CABO DE GATA",
+    "address": "PLAZA SAN FRANCISCO, S/N"
+  },
+  {
+    "name": "EL ALQUIÁN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8516018,
+    "lng": -2.3520803,
+    "city": "ALQUIÁN (EL)",
+    "address": "CALLE LAS OLAS, S/N"
+  },
+  {
+    "name": "LOS MOLINOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8447355,
+    "lng": -2.4382725,
+    "city": "ALMERÍA",
+    "address": "CALLE BEGONIA, S/N"
+  },
+  {
+    "name": "LLANOS DE LA CAÑADA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8549199,
+    "lng": -2.3822657,
+    "city": "LOMA CABRERA",
+    "address": "CALLE EL BOTICARIO, S/N"
+  },
+  {
+    "name": "PUCHE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8487668,
+    "lng": -2.4338604,
+    "city": "ALMERÍA",
+    "address": "AVENIDA MARE NOSTRUM, S/N"
+  },
+  {
+    "name": "RETAMAR",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8486262,
+    "lng": -2.3061564,
+    "city": "ALMERÍA",
+    "address": "PASEO DEL TOYO, S/N"
   }
 ]
