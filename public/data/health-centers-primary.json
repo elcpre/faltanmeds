@@ -8870,5 +8870,165 @@
     "lng": 1.2098819,
     "city": "VILALLONGA DEL CAMP",
     "address": "PLAZA DE L'ESGLÉSIA, Nº 1"
+  },
+  {
+    "name": "VISTABELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0242182,
+    "lng": -0.8367597,
+    "city": "VISTABELLA",
+    "address": "CALLE ONZE DE SETEMBRE, S/N"
+  },
+  {
+    "name": "JAUME I",
+    "type": "PRIMARY_CARE",
+    "lat": 41.111815,
+    "lng": 1.2431395,
+    "city": "TARRAGONA",
+    "address": "CALLE JAUME I, Nº 45-49"
+  },
+  {
+    "name": "MURALLES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.0505022,
+    "lng": 0.8719457,
+    "city": "TARRAGONA",
+    "address": "CALLE ESCULTOR VERDEROL, S/N"
+  },
+  {
+    "name": "NOU TÀRRACO",
+    "type": "PRIMARY_CARE",
+    "lat": 41.127007,
+    "lng": 1.2736358,
+    "city": "TARRAGONA",
+    "address": "CALLE DOCTOR MALLAFRÉ GUASCH, Nº 4"
+  },
+  {
+    "name": "SALOU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.0744245,
+    "lng": 1.119329,
+    "city": "SALOU",
+    "address": "CALLE CARRILET, Nº 12"
+  },
+  {
+    "name": "SANT PERE I SANT PAU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1387436,
+    "lng": 1.251514,
+    "city": "TARRAGONA",
+    "address": "CALLE EDIFICI DE SANT PERE, S/N"
+  },
+  {
+    "name": "SANT SALVADOR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3482042,
+    "lng": 0.9553823,
+    "city": "TARRAGONA",
+    "address": "CALLE ALZINA DE MAS,  Nº 2"
+  },
+  {
+    "name": "ELS PALLARESOS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1619424,
+    "lng": 1.2719484,
+    "city": "PALLARESOS (ELS)",
+    "address": "AVENIDA PRATS DE MOLLO, Nº 2"
+  },
+  {
+    "name": "CONESA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5183793,
+    "lng": 1.2915028,
+    "city": "CONESA",
+    "address": "CARRETERA ROCAFORT, Nº 15"
+  },
+  {
+    "name": "EL CATLLAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.170274,
+    "lng": 1.3185024,
+    "city": "CATLLAR (EL)",
+    "address": "AVENIDA CATALUNYA, S/N"
+  },
+  {
+    "name": "TORREDEMBARRA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1427922,
+    "lng": 1.4057092,
+    "city": "TORREDEMBARRA",
+    "address": "CALLE ONZE DE SETEMBRE, S/N"
+  },
+  {
+    "name": "ALTAFULLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1366062,
+    "lng": 1.3732969,
+    "city": "ALTAFULLA",
+    "address": "CALLE BRUIXES, S/N"
+  },
+  {
+    "name": "ARDENYA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1684202,
+    "lng": 1.3434271,
+    "city": "ARDENYA",
+    "address": "CALLE MAJOR, Nº 16"
+  },
+  {
+    "name": "BONASTRE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2228008,
+    "lng": 1.4425536,
+    "city": "BONASTRE",
+    "address": "PLAZA MAJOR, Nº 1"
+  },
+  {
+    "name": "CREIXELL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1682326,
+    "lng": 1.4410031,
+    "city": "CREIXELL",
+    "address": "AVENIDA DE VALLS, S/N"
+  },
+  {
+    "name": "LA NOU DE GAIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1827143,
+    "lng": 1.3756028,
+    "city": "NOU DE GAIÀ (LA)",
+    "address": "PLAZA DEL CENTENARI, Nº 2"
+  },
+  {
+    "name": "LA POBLA DE MONTORNÈS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1829606,
+    "lng": 1.4126206,
+    "city": "POBLA DE MONTORNÈS (LA)",
+    "address": "CALLE SANT ANTONI, Nº 5"
+  },
+  {
+    "name": "LA RIERA DE GAIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1649496,
+    "lng": 1.3616641,
+    "city": "RIERA DE GAIÀ (LA)",
+    "address": "CALLE VIAL DE LA SÈQUIA, Nº 32"
+  },
+  {
+    "name": "LA VESPELLA DE GAIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2063711,
+    "lng": 1.3921184,
+    "city": "VESPELLA DE GAIÀ",
+    "address": "AVENIDA SANT MIQUEL, S/N"
+  },
+  {
+    "name": "RODA DE BARÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1864325,
+    "lng": 1.4551908,
+    "city": "RODA DE BERÀ",
+    "address": "CALLE DE LA FONT, Nº 7"
   }
 ]
