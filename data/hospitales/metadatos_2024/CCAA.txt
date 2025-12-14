@@ -1,0 +1,20 @@
+CODAUTO	AUTONOMIA	TEXTO_AUTONOMIA
+01	Andalucía	Comunidad Autónoma de Andalucía
+02	Aragón	Comunidad Autónoma de Aragón
+03	Ppdo. de Asturias	Principado de Asturias
+04	Illes Balears	Comunidad Autónoma de Las Illes Balears
+05	Canarias	Comunidad Autónoma de Canarias
+06	Cantabria	Comunidad Autónoma de Cantabria
+07	Castilla y León	Comunidad Autónoma de Castilla Y León
+08	Castilla-La Mancha	Comunidad Autónoma de Castilla-La Mancha
+09	Cataluña	Comunidad Autónoma de Cataluña
+10	Comunidad Valenciana	Comunidad Autónoma de Valencia
+11	Extremadura	Comunidad Autónoma de Extremadura
+12	Galicia	Comunidad Autónoma de Galicia
+13	Madrid	Comunidad Autónoma de Madrid
+14	Región de Murcia	Región de Murcia
+15	C. Foral de Navarra	Comunidad Foral de Navarra
+16	País Vasco	Comunidad Autónoma Del País Vasco
+17	La Rioja	Comunidad Autónoma de La Rioja
+18	Ceuta	Ciudad Autónoma de Ceuta
+19	Melilla	Ciudad Autónoma de Melilla

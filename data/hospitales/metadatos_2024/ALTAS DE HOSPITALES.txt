@@ -1,0 +1,12 @@
+CODCCN	CODCNH	Nombre Centro	Municipio	Provincia	CCAA
+0407004406	070456	Clínica Juaneda Ciutadella	Ciutadella de Menorca	Illes Balears	Illes Balears
+0908015458	082337	Residencia Nazaret	Malgrat de Mar	Barcelona	Cataluña
+0908015997	082338	Mas Amigo Centre Especialitzat En Addiccions	Santa Margarida de Montbui	Barcelona	Cataluña
+1328030390	281491	HM Hospitales 1989, S.A.	Madrid	Madrid	Madrid
+1430006933	300395	Hospital IMED Virgen de La Fuensanta	Murcia	Murcia	Región de Murcia
+1430006876	300406	Hospital del Guadalentín	Mazarrón	Murcia	Región de Murcia
+0943002181	430344	Llarga Estada Gipss	Tarragona	Tarragona	Cataluña
+0943002180	430355	Centro Zeus	Ulldecona	Tarragona	Cataluña
+1046011007	460459	IMED Colón	València	Valencia	Comunidad Valenciana
+1046011151	460460	Hospital Infanto-Juvenil J. Peirón	Pobla de Vallbona, la	Valencia	Comunidad Valenciana
+1952000235	520042	EV Medical-Rusadir	Melilla	Melilla	Melilla

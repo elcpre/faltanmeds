@@ -1,0 +1,5234 @@
+[
+  {
+    "name": "Hospital Garcia Orcoyen",
+    "type": "HOSPITAL",
+    "lat": 42.6833295,
+    "lng": -2.0388654,
+    "city": "Estella-Lizarra",
+    "address": "Calle Santa Soria 22 -"
+  },
+  {
+    "name": "Hospital San Juan de Dios",
+    "type": "HOSPITAL",
+    "lat": 42.8166433,
+    "lng": -1.6239739,
+    "city": "Pamplona/Iruña",
+    "address": "Calle Beloso Alto 3 -"
+  },
+  {
+    "name": "Clínica Universidad de Navarra",
+    "type": "HOSPITAL",
+    "lat": 42.8058167,
+    "lng": -1.664296,
+    "city": "Pamplona/Iruña",
+    "address": "Avenida Pio Xia 36 -"
+  },
+  {
+    "name": "Clínica Psiquiatrica Padre Menni",
+    "type": "HOSPITAL",
+    "lat": 42.8251919,
+    "lng": -1.6545788,
+    "city": "Pamplona/Iruña",
+    "address": "Calle Joaquín Beunza 45 -"
+  },
+  {
+    "name": "Clínica Arcángel San Miguel - Pamplona",
+    "type": "HOSPITAL",
+    "lat": 42.8191463,
+    "lng": -1.6207564,
+    "city": "Pamplona/Iruña",
+    "address": "Calle Beloso Alto 32 -"
+  },
+  {
+    "name": "Centro San Francisco Javier",
+    "type": "HOSPITAL",
+    "lat": 42.8314668,
+    "lng": -1.6269704,
+    "city": "Pamplona/Iruña",
+    "address": "Avenida Villava 53 -"
+  },
+  {
+    "name": "Hospital Universitario de Navarra",
+    "type": "HOSPITAL",
+    "lat": 42.8050865,
+    "lng": -1.6685459,
+    "city": "Pamplona/Iruña",
+    "address": "Calle Irunlarrea 3 -"
+  },
+  {
+    "name": "Hospital Reina Sofia",
+    "type": "HOSPITAL",
+    "lat": 42.0449349,
+    "lng": -1.6184059,
+    "city": "Tudela",
+    "address": "Carretera Tarazona KM. 3 -"
+  },
+  {
+    "name": "Hospital Publico de Valdeorras",
+    "type": "HOSPITAL",
+    "lat": 42.4176449,
+    "lng": -6.9909488,
+    "city": "Barco de Valdeorras, O",
+    "address": "Avenida Conde de Fenosa 50"
+  },
+  {
+    "name": "Clínica Santa Teresa",
+    "type": "HOSPITAL",
+    "lat": 42.3439809,
+    "lng": -7.8658638,
+    "city": "Ourense",
+    "address": "Calle Sáenz Diez 11"
+  },
+  {
+    "name": "Complexo Hospitalario Universitario de Ourense",
+    "type": "HOSPITAL",
+    "lat": 42.3258516,
+    "lng": -7.860445,
+    "city": "Ourense",
+    "address": "Calle Ramon Puga 52"
+  },
+  {
+    "name": "Instituto de Traumatología de Unión de Mutuas (Matepss Nº 267)",
+    "type": "HOSPITAL",
+    "lat": 39.9896406,
+    "lng": -0.0330278,
+    "city": "Castelló de la Plana",
+    "address": "Avenida Virgen de Lidón 67"
+  },
+  {
+    "name": "Consorcio Hospitalario Provincial de Castellón",
+    "type": "HOSPITAL",
+    "lat": 39.9853416,
+    "lng": -0.0477751,
+    "city": "Castelló de la Plana",
+    "address": "Avenida Doctor Clara 19"
+  },
+  {
+    "name": "Hospital La Magdalena",
+    "type": "HOSPITAL",
+    "lat": 40.003397,
+    "lng": -0.0729706,
+    "city": "Castelló de la Plana",
+    "address": "Camino Collet 32"
+  },
+  {
+    "name": "Hospital General Universitario de Castellón",
+    "type": "HOSPITAL",
+    "lat": 39.9982668,
+    "lng": -0.0391582,
+    "city": "Castelló de la Plana",
+    "address": "Avenida Benicasim S/N"
+  },
+  {
+    "name": "Hospital Comarcal de Vinaros",
+    "type": "HOSPITAL",
+    "lat": 40.4671908,
+    "lng": 0.4549445,
+    "city": "Vinaròs",
+    "address": "Avenida Gil de Atrocillo S/N"
+  },
+  {
+    "name": "Hospital General La Mancha Centro",
+    "type": "HOSPITAL",
+    "lat": 39.3965364,
+    "lng": -3.2190994,
+    "city": "Alcázar de San Juan",
+    "address": "Avenida De La Constitución 3"
+  },
+  {
+    "name": "Hospital Quironsalud Ciudad Real",
+    "type": "HOSPITAL",
+    "lat": 38.9796916,
+    "lng": -3.9391167,
+    "city": "Ciudad Real",
+    "address": "Calle Alisos 19"
+  },
+  {
+    "name": "Hospital General Universitario de Ciudad Real",
+    "type": "HOSPITAL",
+    "lat": 38.9676539,
+    "lng": -3.9242238,
+    "city": "Ciudad Real",
+    "address": "Calle Obispo Rafael Torija S/N"
+  },
+  {
+    "name": "Hospital Virgen de Altagracia",
+    "type": "HOSPITAL",
+    "lat": 38.9992939,
+    "lng": -3.3617298,
+    "city": "Manzanares",
+    "address": "Avenida D. Emiliano Garcia Roldan 2"
+  },
+  {
+    "name": "Hospital Santa Barbara",
+    "type": "HOSPITAL",
+    "lat": 38.7052925,
+    "lng": -4.1120978,
+    "city": "Puertollano",
+    "address": "Carretera Malagón S/Nº"
+  },
+  {
+    "name": "Hospital General de Tomelloso",
+    "type": "HOSPITAL",
+    "lat": 39.1741911,
+    "lng": -3.0060501,
+    "city": "Tomelloso",
+    "address": "Calle Vereda de Socuellamos S/N"
+  },
+  {
+    "name": "Hospital General de Valdepeñas",
+    "type": "HOSPITAL",
+    "lat": 38.7710613,
+    "lng": -3.392311,
+    "city": "Valdepeñas",
+    "address": "Avenida De Los Estudiantes S/Nº"
+  },
+  {
+    "name": "Hospital Publico Virxe Da Xunqueira",
+    "type": "HOSPITAL",
+    "lat": 42.9538926,
+    "lng": -9.1913426,
+    "city": "Cee",
+    "address": "Paseo Alcalde Pepe Sánchez 7"
+  },
+  {
+    "name": "Hospital Infanta Margarita",
+    "type": "HOSPITAL",
+    "lat": 37.4683898,
+    "lng": -4.4247256,
+    "city": "Cabra",
+    "address": "Avenida Góngora S/N"
+  },
+  {
+    "name": "Hospital San Juan de Dios de Córdoba",
+    "type": "HOSPITAL",
+    "lat": 37.9099563,
+    "lng": -4.7931061,
+    "city": "Córdoba",
+    "address": "Avenida Del Brillante 106"
+  },
+  {
+    "name": "Hospital Quironsalud Córdoba",
+    "type": "HOSPITAL",
+    "lat": 37.8723309,
+    "lng": -4.8019351,
+    "city": "Córdoba",
+    "address": "Avenida Del Aeropuerto, S/N S/N"
+  },
+  {
+    "name": "Hospital Cruz Roja de Córdoba",
+    "type": "HOSPITAL",
+    "lat": 37.8838943,
+    "lng": -4.7846088,
+    "city": "Córdoba",
+    "address": "Paseo De La Victoria S/N"
+  },
+  {
+    "name": "Hospital Materno - Infantil del H.U. Reina Sofia",
+    "type": "HOSPITAL",
+    "lat": 37.8717383,
+    "lng": -4.7881559,
+    "city": "Córdoba",
+    "address": "Avenida Menéndez Pidal S/N"
+  },
+  {
+    "name": "Hospital Los Morales",
+    "type": "HOSPITAL",
+    "lat": 37.9341566,
+    "lng": -4.8048659,
+    "city": "Córdoba",
+    "address": "Carretera Los Molares S/N"
+  },
+  {
+    "name": "Hospital Provincial",
+    "type": "HOSPITAL",
+    "lat": 37.8717383,
+    "lng": -4.7881559,
+    "city": "Córdoba",
+    "address": "Avenida Menéndez Pidal S/N"
+  },
+  {
+    "name": "Hospital Universitario Reina Sofia",
+    "type": "HOSPITAL",
+    "lat": 37.8717383,
+    "lng": -4.7881559,
+    "city": "Córdoba",
+    "address": "Avenida Menéndez Pidal S/N"
+  },
+  {
+    "name": "Hospital Palma del Rio",
+    "type": "HOSPITAL",
+    "lat": 37.7013872,
+    "lng": -5.2692839,
+    "city": "Córdoba",
+    "address": "Avenida V Califa S/N"
+  },
+  {
+    "name": "Hospital Centro de Andalucía",
+    "type": "HOSPITAL",
+    "lat": 37.3867394,
+    "lng": -4.5090649,
+    "city": "Lucena",
+    "address": "Calle Pontevedra 1"
+  },
+  {
+    "name": "Hospital de Montilla",
+    "type": "HOSPITAL",
+    "lat": 37.5649758,
+    "lng": -4.6487107,
+    "city": "Montilla",
+    "address": "Carretera Ctra. Montoro-Puente Genil, Km. 65,350 S/N"
+  },
+  {
+    "name": "Hospital de Alta Resolución Valle del Guadiato",
+    "type": "HOSPITAL",
+    "lat": 38.308629,
+    "lng": -5.2707314,
+    "city": "Peñarroya-Pueblonuevo",
+    "address": "Calle Paraje Cerro del Camello S/N"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Puente Genil",
+    "type": "HOSPITAL",
+    "lat": 37.3991233,
+    "lng": -4.7507025,
+    "city": "Puente Genil",
+    "address": "Calle Burgos S/N"
+  },
+  {
+    "name": "Hospital Quironsalud A Coruña",
+    "type": "HOSPITAL",
+    "lat": 43.3288654,
+    "lng": -8.4001002,
+    "city": "Coruña, A",
+    "address": "Calle Londres 2"
+  },
+  {
+    "name": "Hospital San Rafael",
+    "type": "HOSPITAL",
+    "lat": 43.3452736,
+    "lng": -8.3880224,
+    "city": "Coruña, A",
+    "address": "Lugar Jubias de Arriba 82"
+  },
+  {
+    "name": "HM Modelo-Belen",
+    "type": "HOSPITAL",
+    "lat": 43.3666331,
+    "lng": -8.4185888,
+    "city": "Coruña, A",
+    "address": "Calle Virrey Osorio 30"
+  },
+  {
+    "name": "Centro Oncoloxico de Galicia",
+    "type": "HOSPITAL",
+    "lat": 43.3368719,
+    "lng": -8.390665,
+    "city": "Coruña, A",
+    "address": "Calle Doctor Camilo Veiras 1"
+  },
+  {
+    "name": "Complexo Hospitalario Universitario A Coruña",
+    "type": "HOSPITAL",
+    "lat": 43.3442634,
+    "lng": -8.3891462,
+    "city": "Coruña, A",
+    "address": "Lugar Jubias de Arriba 84"
+  },
+  {
+    "name": "Hospital Ribera Juan Cardona",
+    "type": "HOSPITAL",
+    "lat": 43.4796633,
+    "lng": -8.2017087,
+    "city": "Ferrol",
+    "address": "Calle Pardo Bazán S/N"
+  },
+  {
+    "name": "Hestia La Robleda",
+    "type": "HOSPITAL",
+    "lat": 42.926007,
+    "lng": -8.3979565,
+    "city": "Pino, O",
+    "address": "Lugar Santiso S/N"
+  },
+  {
+    "name": "Complexo Hospitalario Universitario de Santiago",
+    "type": "HOSPITAL",
+    "lat": 42.8652806,
+    "lng": -8.5605206,
+    "city": "Santiago de Compostela",
+    "address": "Calle Choupana (Da) S/N"
+  },
+  {
+    "name": "Hospital Recoletas Cuenca, S.L.U.",
+    "type": "HOSPITAL",
+    "lat": 40.0698682,
+    "lng": -2.1494401,
+    "city": "Cuenca",
+    "address": "Avenida De San Julián 1"
+  },
+  {
+    "name": "Hospital Virgen de La Luz",
+    "type": "HOSPITAL",
+    "lat": 40.0759593,
+    "lng": -2.1479837,
+    "city": "Cuenca",
+    "address": "Calle Hermandad Donantes de Sangre 1"
+  },
+  {
+    "name": "Clínica Salus Infirmorum",
+    "type": "HOSPITAL",
+    "lat": 42.1147739,
+    "lng": 2.7609439,
+    "city": "Banyoles",
+    "address": "Paseo Mossen Lluis Constans 130"
+  },
+  {
+    "name": "Hospital Comarcal de Blanes",
+    "type": "HOSPITAL",
+    "lat": 41.6884531,
+    "lng": 2.8022398,
+    "city": "Blanes",
+    "address": "Carretera Acces Cala Sant Francesc 5"
+  },
+  {
+    "name": "Hospital de Sant Jaume",
+    "type": "HOSPITAL",
+    "lat": 41.6761848,
+    "lng": 2.7870169,
+    "city": "Blanes",
+    "address": "Calle Jaume Arcelos 1"
+  },
+  {
+    "name": "Hospital de Campdevanol",
+    "type": "HOSPITAL",
+    "lat": 42.2226507,
+    "lng": 2.1669299,
+    "city": "Campdevànol",
+    "address": "Carretera De Gombren 20"
+  },
+  {
+    "name": "Hospital de Figueres",
+    "type": "HOSPITAL",
+    "lat": 42.2682696,
+    "lng": 2.9537651,
+    "city": "Figueres",
+    "address": "Ronda Rector Arolas S/N"
+  },
+  {
+    "name": "Clínica Santa Creu",
+    "type": "HOSPITAL",
+    "lat": 42.2619527,
+    "lng": 2.9618175,
+    "city": "Figueres",
+    "address": "Calle Pere Mii, 41"
+  },
+  {
+    "name": "Clínica Girona",
+    "type": "HOSPITAL",
+    "lat": 41.9626297,
+    "lng": 2.811291,
+    "city": "Girona",
+    "address": "Calle De Barcelona 204"
+  },
+  {
+    "name": "Clínica Bofill",
+    "type": "HOSPITAL",
+    "lat": 42.2642488,
+    "lng": 2.9622958,
+    "city": "Girona",
+    "address": "Ronda Sant Antoni Maria Claret 20"
+  },
+  {
+    "name": "Hospital D'Olot I Comarcal de La Garrotxa",
+    "type": "HOSPITAL",
+    "lat": 42.1874622,
+    "lng": 2.4675162,
+    "city": "Olot",
+    "address": "Avenida Països Catalans 86"
+  },
+  {
+    "name": "Hospital de Palamós",
+    "type": "HOSPITAL",
+    "lat": 41.8528079,
+    "lng": 3.1319285,
+    "city": "Palamós",
+    "address": "Calle Hospital. 36"
+  },
+  {
+    "name": "Centre Palamós Gent Gran",
+    "type": "HOSPITAL",
+    "lat": 41.8533008,
+    "lng": 3.1236609,
+    "city": "Palamós",
+    "address": "Calle Provença 36"
+  },
+  {
+    "name": "Hospital de Cerdanya / Hospital de Cerdagne",
+    "type": "HOSPITAL",
+    "lat": 42.4441739,
+    "lng": 1.9302047,
+    "city": "Puigcerdà",
+    "address": "Camino D'Ur 31"
+  },
+  {
+    "name": "Hospital de Baza",
+    "type": "HOSPITAL",
+    "lat": 37.5003048,
+    "lng": -2.7520943,
+    "city": "Baza",
+    "address": "Carretera Murcia, Km. 1,6 S/N"
+  },
+  {
+    "name": "Hospital de La Inmaculada Concepción",
+    "type": "HOSPITAL",
+    "lat": 37.1641908,
+    "lng": -3.6080793,
+    "city": "Granada",
+    "address": "Calle Doctor Alejandro Otero 8"
+  },
+  {
+    "name": "Hospital Vithas Granada",
+    "type": "HOSPITAL",
+    "lat": 37.1637978,
+    "lng": -3.5719264,
+    "city": "Granada",
+    "address": "Avenida Santa Maria de La Alhambra S/N"
+  },
+  {
+    "name": "Hospital San Rafael",
+    "type": "HOSPITAL",
+    "lat": 37.181361,
+    "lng": -3.6025582,
+    "city": "Granada",
+    "address": "Calle San Juan de Dios 19-23"
+  },
+  {
+    "name": "Hospital Universitario Clínico San Cecilio",
+    "type": "HOSPITAL",
+    "lat": 37.1468439,
+    "lng": -3.6033673,
+    "city": "Granada",
+    "address": "Avenida De La Investigación S/N"
+  },
+  {
+    "name": "Hospital de Neurotraumatologia y Rehabilitación del H.U. Virgen de Las Nieves",
+    "type": "HOSPITAL",
+    "lat": 37.2004464,
+    "lng": -3.6135426,
+    "city": "Granada",
+    "address": "Carretera De Jaén S/N"
+  },
+  {
+    "name": "Hospital Materno-Infantil del H.U. Virgen de Las Nieves",
+    "type": "HOSPITAL",
+    "lat": 37.1883096,
+    "lng": -3.6096637,
+    "city": "Granada",
+    "address": "Avenida De Las Fuerzas Armadas 2"
+  },
+  {
+    "name": "Hospital Universitario Virgen de Las Nieves",
+    "type": "HOSPITAL",
+    "lat": 37.1883096,
+    "lng": -3.6096637,
+    "city": "Granada",
+    "address": "Avenida De Las Fuerzas Armadas 2"
+  },
+  {
+    "name": "Hospital Doctor Oloriz",
+    "type": "HOSPITAL",
+    "lat": 37.1876231,
+    "lng": -3.6053926,
+    "city": "Granada",
+    "address": "Avenida Dr. Oloriz 16"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Guadix",
+    "type": "HOSPITAL",
+    "lat": 37.3048119,
+    "lng": -3.1436827,
+    "city": "Guadix",
+    "address": "Avenida Mariana Pineda S/N"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Loja",
+    "type": "HOSPITAL",
+    "lat": 37.1710298,
+    "lng": -4.1533743,
+    "city": "Loja",
+    "address": "Avenida Tierno Galván S/N"
+  },
+  {
+    "name": "Hospital Santa Ana",
+    "type": "HOSPITAL",
+    "lat": 36.7539044,
+    "lng": -3.5222549,
+    "city": "Motril",
+    "address": "Avenida Enrique Martin Cuevas S/N"
+  },
+  {
+    "name": "Clínica Doctor Sanz Vázquez",
+    "type": "HOSPITAL",
+    "lat": 40.6300103,
+    "lng": -3.1653507,
+    "city": "Guadalajara",
+    "address": "Paseo Doctor Fernandez Iparraguirre 6"
+  },
+  {
+    "name": "Hospital La Antigua",
+    "type": "HOSPITAL",
+    "lat": 40.6248864,
+    "lng": -3.1651621,
+    "city": "Guadalajara",
+    "address": "Calle Constitución 18"
+  },
+  {
+    "name": "Instituto de Enfermedades Neurológicas de Castilla-La Mancha",
+    "type": "HOSPITAL",
+    "lat": 40.6433856,
+    "lng": -3.1752472,
+    "city": "Guadalajara",
+    "address": "Paseo De La Estación 2"
+  },
+  {
+    "name": "Hospital Universitario de Guadalajara",
+    "type": "HOSPITAL",
+    "lat": 40.619931,
+    "lng": -3.1525521,
+    "city": "Guadalajara",
+    "address": "Avenida Donantes de Sangre S/N"
+  },
+  {
+    "name": "Hospital Aita Menni",
+    "type": "HOSPITAL",
+    "lat": 43.0624044,
+    "lng": -2.529843,
+    "city": "Arrasate/Mondragón",
+    "address": "Barrio Gesalibar 15"
+  },
+  {
+    "name": "Hospital San Juan de Dios Donostia",
+    "type": "HOSPITAL",
+    "lat": 43.3002321,
+    "lng": -1.9772687,
+    "city": "Donostia/San Sebastián",
+    "address": "Camino San Juan de Dios 12"
+  },
+  {
+    "name": "Mutualia Clínica Pakea",
+    "type": "HOSPITAL",
+    "lat": 43.3116698,
+    "lng": -2.0135188,
+    "city": "Donostia/San Sebastián",
+    "address": "Paseo Arriola 26"
+  },
+  {
+    "name": "Hospital Ricardo Bermingham",
+    "type": "HOSPITAL",
+    "lat": 43.3037145,
+    "lng": -2.0015857,
+    "city": "Donostia/San Sebastián",
+    "address": "Camino Los Pinos, Camino/Bidea 35"
+  },
+  {
+    "name": "Policlínica Gipuzkoa",
+    "type": "HOSPITAL",
+    "lat": 43.292303,
+    "lng": -1.9713462,
+    "city": "Donostia/San Sebastián",
+    "address": "Paseo Miramón 174"
+  },
+  {
+    "name": "Fundacion Onkologikoa Fundazioa",
+    "type": "HOSPITAL",
+    "lat": 43.2920045,
+    "lng": -1.9676602,
+    "city": "Donostia/San Sebastián",
+    "address": "Paseo Doctor Begiristain 121"
+  },
+  {
+    "name": "Hospital Universitario Donostia",
+    "type": "HOSPITAL",
+    "lat": 43.2925558,
+    "lng": -1.9682426,
+    "city": "Donostia/San Sebastián",
+    "address": "Paseo Doctor Begiristain 109"
+  },
+  {
+    "name": "Clínica Los Naranjos",
+    "type": "HOSPITAL",
+    "lat": 37.2623838,
+    "lng": -6.9494174,
+    "city": "Huelva",
+    "address": "Paseo De Los Naranjos 1"
+  },
+  {
+    "name": "Hospital Quironsalud Huelva",
+    "type": "HOSPITAL",
+    "lat": 37.2668565,
+    "lng": -6.9538937,
+    "city": "Huelva",
+    "address": "Calle Punta Umbría 8"
+  },
+  {
+    "name": "Hospital Infanta Elena",
+    "type": "HOSPITAL",
+    "lat": 37.2804759,
+    "lng": -6.9125979,
+    "city": "Huelva",
+    "address": "Calle Dr. Pedro Naranjo Rodríguez S/N"
+  },
+  {
+    "name": "Hospital Universitario Juan Ramon Jimenez",
+    "type": "HOSPITAL",
+    "lat": 37.2840353,
+    "lng": -6.9445635,
+    "city": "Huelva",
+    "address": "Ronda Exterior Norte S/N"
+  },
+  {
+    "name": "Hospital Vázquez Diaz",
+    "type": "HOSPITAL",
+    "lat": 37.279478,
+    "lng": -6.9211399,
+    "city": "Huelva",
+    "address": "Carretera Sevilla-Huelva S/N"
+  },
+  {
+    "name": "Hospital Virgen de La Bella",
+    "type": "HOSPITAL",
+    "lat": 37.2604353,
+    "lng": -7.1942073,
+    "city": "Lepe",
+    "address": "Avenida Las Rosas, S/N S/N"
+  },
+  {
+    "name": "Hospital de Riotinto",
+    "type": "HOSPITAL",
+    "lat": 37.6933561,
+    "lng": -6.5978415,
+    "city": "Minas de Riotinto",
+    "address": "Avenida La Esquila 5"
+  },
+  {
+    "name": "Hospital de Barbastro",
+    "type": "HOSPITAL",
+    "lat": 42.033265,
+    "lng": 0.1111519,
+    "city": "Barbastro",
+    "address": "Carretera Nacional 240 S/N"
+  },
+  {
+    "name": "Centro Sanitario Bajo Cinca-Baix Cinca",
+    "type": "HOSPITAL",
+    "lat": 41.5236713,
+    "lng": 0.3403364,
+    "city": "Fraga",
+    "address": "Calle Hermana Andresa 2"
+  },
+  {
+    "name": "Hospital Viamed Santiago",
+    "type": "HOSPITAL",
+    "lat": 42.141452,
+    "lng": -0.4169992,
+    "city": "Huesca",
+    "address": "Calle Sariñena 12"
+  },
+  {
+    "name": "Centro de Rehabilitación Psicosocial Santo Cristo de Los Milagros",
+    "type": "HOSPITAL",
+    "lat": 42.1511466,
+    "lng": -0.4142257,
+    "city": "Huesca",
+    "address": "Carretera Arguis KM 2,5"
+  },
+  {
+    "name": "Hospital Universitario San Jorge",
+    "type": "HOSPITAL",
+    "lat": 42.1325298,
+    "lng": -0.4176298,
+    "city": "Huesca",
+    "address": "Avenida Martínez de Velasco 36"
+  },
+  {
+    "name": "Hospital Sagrado Corazón de Jesús",
+    "type": "HOSPITAL",
+    "lat": 42.1398044,
+    "lng": -0.4007084,
+    "city": "Huesca",
+    "address": "Paseo Lucas Mallada 22"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Alcalá La Real",
+    "type": "HOSPITAL",
+    "lat": 37.4535339,
+    "lng": -3.9307255,
+    "city": "Alcalá la Real",
+    "address": "Avenida De Iberoamérica S/N"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Alcaudete",
+    "type": "HOSPITAL",
+    "lat": 37.5871232,
+    "lng": -4.0785805,
+    "city": "Alcaudete",
+    "address": "Camino Viejo de La Fuensanta 2"
+  },
+  {
+    "name": "Hospital Alto Guadalquivir",
+    "type": "HOSPITAL",
+    "lat": 38.0391167,
+    "lng": -4.0390718,
+    "city": "Andújar",
+    "address": "Avenida Blas Infante S/N"
+  },
+  {
+    "name": "Hospital Metropolitano de Jaén",
+    "type": "HOSPITAL",
+    "lat": 38.0195354,
+    "lng": -3.3979216,
+    "city": "Jaén",
+    "address": "Carretera Córdoba-Valencia S/N"
+  },
+  {
+    "name": "Clínica Cristo Rey",
+    "type": "HOSPITAL",
+    "lat": 37.775632,
+    "lng": -3.7888785,
+    "city": "Jaén",
+    "address": "Paseo La Estación 40"
+  },
+  {
+    "name": "Hospital Puerta de Andalucía",
+    "type": "HOSPITAL",
+    "lat": 37.7953136,
+    "lng": -3.7773456,
+    "city": "Jaén",
+    "address": "Carretera Carretera Bailen-Motril S/N"
+  },
+  {
+    "name": "Hospital Doctor Sagaz",
+    "type": "HOSPITAL",
+    "lat": 37.770606,
+    "lng": -3.817912,
+    "city": "Jaén",
+    "address": "Carretera Del Neveral S/N"
+  },
+  {
+    "name": "Hospital Materno-Infantil del H.U. de Jaén",
+    "type": "HOSPITAL",
+    "lat": 37.7742426,
+    "lng": -3.7909894,
+    "city": "Jaén",
+    "address": "Avenida Del Ejercito Español 10"
+  },
+  {
+    "name": "Hospital Neurotraumatologico del H.U. de Jaén",
+    "type": "HOSPITAL",
+    "lat": 37.8281534,
+    "lng": -3.7694067,
+    "city": "Jaén",
+    "address": "Carretera Bailen Motril S/N"
+  },
+  {
+    "name": "Hospital Universitario de Jaén",
+    "type": "HOSPITAL",
+    "lat": 37.7742426,
+    "lng": -3.7909894,
+    "city": "Jaén",
+    "address": "Avenida Ejercito Español 10"
+  },
+  {
+    "name": "Hospital San Agustín",
+    "type": "HOSPITAL",
+    "lat": 38.0896768,
+    "lng": -3.6418519,
+    "city": "Linares",
+    "address": "Avenida San Cristóbal S/N"
+  },
+  {
+    "name": "Hospital de Alta Resolución Sierra de Segura",
+    "type": "HOSPITAL",
+    "lat": 38.3600029,
+    "lng": -2.7873148,
+    "city": "Puente de Génave",
+    "address": "Carretera Puente Genave - La Puerta de Segura, Km. 0,300 S/N"
+  },
+  {
+    "name": "Hospital San Juan de La Cruz",
+    "type": "HOSPITAL",
+    "lat": 38.0194536,
+    "lng": -3.3850601,
+    "city": "Úbeda",
+    "address": "Carretera De Linares S/N"
+  },
+  {
+    "name": "HM Regla",
+    "type": "HOSPITAL",
+    "lat": 42.6006173,
+    "lng": -5.567085,
+    "city": "León",
+    "address": "Calle Cardenal Landázuri 2"
+  },
+  {
+    "name": "Hospital HM San Francisco",
+    "type": "HOSPITAL",
+    "lat": 42.5900105,
+    "lng": -5.5724093,
+    "city": "León",
+    "address": "Calle Marqueses de San Isidro 11"
+  },
+  {
+    "name": "Hospital Santa Isabel. Complejo Asistencial Universitario de León.",
+    "type": "HOSPITAL",
+    "lat": 42.5769667,
+    "lng": -5.5439189,
+    "city": "León",
+    "address": "Avenida De Madrid 118"
+  },
+  {
+    "name": "Hospital de La Reina",
+    "type": "HOSPITAL",
+    "lat": 42.5417195,
+    "lng": -6.593375,
+    "city": "Ponferrada",
+    "address": "Calle Hospital 28"
+  },
+  {
+    "name": "Clínica Ponferrada Recoletas",
+    "type": "HOSPITAL",
+    "lat": 42.5532204,
+    "lng": -6.6117205,
+    "city": "Ponferrada",
+    "address": "Camino De Santiago 101"
+  },
+  {
+    "name": "Hospital El Bierzo",
+    "type": "HOSPITAL",
+    "lat": 42.5723211,
+    "lng": -6.6436701,
+    "city": "Ponferrada",
+    "address": "Calle Médicos Sin Fronteras 7"
+  },
+  {
+    "name": "Hospital San Juan de Dios León",
+    "type": "HOSPITAL",
+    "lat": 42.6074959,
+    "lng": -5.5950147,
+    "city": "San Andrés del Rabanedo",
+    "address": "Avenida San Ignacio de Loyola 73"
+  },
+  {
+    "name": "Sant Joan de Deu Terres de Lleida",
+    "type": "HOSPITAL",
+    "lat": 41.7058554,
+    "lng": 0.4354407,
+    "city": "Almacelles",
+    "address": "Carretera N-240 ."
+  },
+  {
+    "name": "Hestia Balaguer.",
+    "type": "HOSPITAL",
+    "lat": 41.789068,
+    "lng": 0.8199189,
+    "city": "Balaguer",
+    "address": "Calle Gregori Gallego 22-28"
+  },
+  {
+    "name": "Avantmedic",
+    "type": "HOSPITAL",
+    "lat": 41.620964,
+    "lng": 0.6191199,
+    "city": "Lleida",
+    "address": "Calle Alfred Pereña 10"
+  },
+  {
+    "name": "Hospital Sant Joan de Deu Lleida",
+    "type": "HOSPITAL",
+    "lat": 41.6006459,
+    "lng": 0.634961,
+    "city": "Lleida",
+    "address": "Avenida Canadenca 28"
+  },
+  {
+    "name": "Vithas Hospital Montserrat",
+    "type": "HOSPITAL",
+    "lat": 41.6128576,
+    "lng": 0.620615,
+    "city": "Lleida",
+    "address": "Calle Bisbe Torres 13"
+  },
+  {
+    "name": "Hospital Santa Maria",
+    "type": "HOSPITAL",
+    "lat": 41.6227977,
+    "lng": 0.6164672,
+    "city": "Lleida",
+    "address": "Avenida Alcalde Rovira Roure 44"
+  },
+  {
+    "name": "Hospital Universitari Arnau de Vilanova de Lleida.",
+    "type": "HOSPITAL",
+    "lat": 41.6268968,
+    "lng": 0.6128942,
+    "city": "Lleida",
+    "address": "Avenida Alcalde Rovira Roure 80"
+  },
+  {
+    "name": "Fundacio Sant Hospital.",
+    "type": "HOSPITAL",
+    "lat": 42.3548545,
+    "lng": 1.4609585,
+    "city": "Seu d'Urgell, La",
+    "address": "Paseo Joan Brudieu 8"
+  },
+  {
+    "name": "Hospital Comarcal del Pallars",
+    "type": "HOSPITAL",
+    "lat": 42.164597,
+    "lng": 0.8977172,
+    "city": "Tremp",
+    "address": "Avenida Pau Casals 5"
+  },
+  {
+    "name": "Espitau Val D'Aran",
+    "type": "HOSPITAL",
+    "lat": 42.7022649,
+    "lng": 0.797351,
+    "city": "Vielha e Mijaran",
+    "address": "Calle Espitau, 8"
+  },
+  {
+    "name": "Centro Sociosanitario de Convalecencia Los Jazmines",
+    "type": "HOSPITAL",
+    "lat": 42.5679569,
+    "lng": -2.8542358,
+    "city": "Haro",
+    "address": "Calle Severo Ochoa 5"
+  },
+  {
+    "name": "Clínica Los Manzanos",
+    "type": "HOSPITAL",
+    "lat": 42.4376248,
+    "lng": -2.4482163,
+    "city": "Lardero",
+    "address": "Calle Hnos. Maristas S/N"
+  },
+  {
+    "name": "Policlínico Riojano Nuestra Señora de Valvanera",
+    "type": "HOSPITAL",
+    "lat": 42.4516085,
+    "lng": -2.4274696,
+    "city": "Logroño",
+    "address": "Calle Ramon y Cajal S/N"
+  },
+  {
+    "name": "Hospital Universitario San Pedro",
+    "type": "HOSPITAL",
+    "lat": 42.4513002,
+    "lng": -2.4264491,
+    "city": "Logroño",
+    "address": "Calle Piqueras 98"
+  },
+  {
+    "name": "Hospital de La Rioja",
+    "type": "HOSPITAL",
+    "lat": 42.4683188,
+    "lng": -2.4421329,
+    "city": "Logroño",
+    "address": "Avenida Avenida de Viana 1"
+  },
+  {
+    "name": "Hospital Publico Da Mariña",
+    "type": "HOSPITAL",
+    "lat": 43.6521415,
+    "lng": -7.3597041,
+    "city": "Burela",
+    "address": "Calle Medico Vior S/N"
+  },
+  {
+    "name": "Hospital Quirón Salud Lugo",
+    "type": "HOSPITAL",
+    "lat": 43.0115697,
+    "lng": -7.561901,
+    "city": "Lugo",
+    "address": "Calle Montevideo 23"
+  },
+  {
+    "name": "Hospital Ribera Polusa",
+    "type": "HOSPITAL",
+    "lat": 42.9979353,
+    "lng": -7.5680632,
+    "city": "Lugo",
+    "address": "Calle Doutor Iglesias Otero S/N"
+  },
+  {
+    "name": "Complexo Hospitalario Universitario de Lugo",
+    "type": "HOSPITAL",
+    "lat": 43.0222314,
+    "lng": -7.5292611,
+    "city": "Lugo",
+    "address": "Calle Ulises Romero 1"
+  },
+  {
+    "name": "Hospital Publico de Monforte",
+    "type": "HOSPITAL",
+    "lat": 42.5272908,
+    "lng": -7.5195886,
+    "city": "Monforte de Lemos",
+    "address": "Calle Corredoira S/N"
+  },
+  {
+    "name": "Hospital HM Valles",
+    "type": "HOSPITAL",
+    "lat": 40.4829946,
+    "lng": -3.367335,
+    "city": "Alcalá de Henares",
+    "address": "Calle Santiago 14"
+  },
+  {
+    "name": "Hospital Universitario Príncipe de Asturias",
+    "type": "HOSPITAL",
+    "lat": 40.5053346,
+    "lng": -3.3525853,
+    "city": "Alcalá de Henares",
+    "address": "Carretera De Meco S/N"
+  },
+  {
+    "name": "Hospital Quironsalud Sur",
+    "type": "HOSPITAL",
+    "lat": 40.3481949,
+    "lng": -3.8473099,
+    "city": "Alcorcón",
+    "address": "Calle De Estambul 30"
+  },
+  {
+    "name": "Hospital Universitario Fundacion Alcorcón",
+    "type": "HOSPITAL",
+    "lat": 40.3496135,
+    "lng": -3.8363318,
+    "city": "Alcorcón",
+    "address": "Calle Budapest 1"
+  },
+  {
+    "name": "Hospital Universitario del Tajo",
+    "type": "HOSPITAL",
+    "lat": 40.0537134,
+    "lng": -3.6135011,
+    "city": "Aranjuez",
+    "address": "Avenida Amazonas Central S/N"
+  },
+  {
+    "name": "Hospital Universitario del Sureste",
+    "type": "HOSPITAL",
+    "lat": 40.2958679,
+    "lng": -3.4441176,
+    "city": "Arganda del Rey",
+    "address": "Ronda Del Sur 10"
+  },
+  {
+    "name": "Hospital Universitario HM Monteprincipe",
+    "type": "HOSPITAL",
+    "lat": 40.414367,
+    "lng": -3.8442396,
+    "city": "Boadilla del Monte",
+    "address": "Avenida De Monteprincipe 25"
+  },
+  {
+    "name": "Hospital Los Madroños",
+    "type": "HOSPITAL",
+    "lat": 40.3988432,
+    "lng": -3.9991202,
+    "city": "Brunete",
+    "address": "Carretera De M-501 (De Alcorcón A Plasencia) KM.17,900"
+  },
+  {
+    "name": "Hospital de La Fuenfria",
+    "type": "HOSPITAL",
+    "lat": 40.7555196,
+    "lng": -4.0707495,
+    "city": "Cercedilla",
+    "address": "Carretera De Dehesas S/N"
+  },
+  {
+    "name": "Centro San Juan de Dios Ciempozuelos",
+    "type": "HOSPITAL",
+    "lat": 40.1617841,
+    "lng": -3.6143526,
+    "city": "Ciempozuelos",
+    "address": "Avenida De San Juan de Dios 1"
+  },
+  {
+    "name": "Complejo Asistencial Benito Menni",
+    "type": "HOSPITAL",
+    "lat": 40.1564106,
+    "lng": -3.6209966,
+    "city": "Ciempozuelos",
+    "address": "Calle De Los Jardines 1"
+  },
+  {
+    "name": "Hospital General de Villalba",
+    "type": "HOSPITAL",
+    "lat": 40.6541611,
+    "lng": -4.001147,
+    "city": "Collado Villalba",
+    "address": "Carretera De Alpedrete M-608, KM. 41"
+  },
+  {
+    "name": "Hospital Asepeyo Madrid",
+    "type": "HOSPITAL",
+    "lat": 40.436955,
+    "lng": -3.5317016,
+    "city": "Coslada",
+    "address": "Calle De Joaquín de Cárdenas 2"
+  },
+  {
+    "name": "Hospital Universitario del Henares",
+    "type": "HOSPITAL",
+    "lat": 40.4178292,
+    "lng": -3.5347764,
+    "city": "Coslada",
+    "address": "Avenida De Marie Curie S/N"
+  },
+  {
+    "name": "Hospital Universitario de Fuenlabrada",
+    "type": "HOSPITAL",
+    "lat": 40.2870798,
+    "lng": -3.8159213,
+    "city": "Fuenlabrada",
+    "address": "Camino Del Molino 2"
+  },
+  {
+    "name": "Hospital Universitario de Getafe",
+    "type": "HOSPITAL",
+    "lat": 40.3126896,
+    "lng": -3.7426311,
+    "city": "Getafe",
+    "address": "Carretera De Madrid-Toledo KM.12,500"
+  },
+  {
+    "name": "Casta Guadarrama",
+    "type": "HOSPITAL",
+    "lat": 40.6426698,
+    "lng": -4.0380648,
+    "city": "Guadarrama",
+    "address": "Carretera De La Coruña KM.50,300"
+  },
+  {
+    "name": "Hospital Asociado Universitario Guadarrama",
+    "type": "HOSPITAL",
+    "lat": 40.6694283,
+    "lng": -4.0860608,
+    "city": "Guadarrama",
+    "address": "Paseo Molino del Rey 2"
+  },
+  {
+    "name": "Hospital Universitario José Germain",
+    "type": "HOSPITAL",
+    "lat": 40.3315741,
+    "lng": -3.7750364,
+    "city": "Leganés",
+    "address": "Calle Aragón 17"
+  },
+  {
+    "name": "Hospital Universitario José Germain",
+    "type": "HOSPITAL",
+    "lat": 40.3271052,
+    "lng": -3.7680972,
+    "city": "Leganés",
+    "address": "Calle Luna 1"
+  },
+  {
+    "name": "Hospital Universitario Severo Ochoa",
+    "type": "HOSPITAL",
+    "lat": 40.3241184,
+    "lng": -3.7734178,
+    "city": "Leganés",
+    "address": "Avenida Orellana S/N"
+  },
+  {
+    "name": "Fraternidad Muprespa, Mutua Colaboradora Con La Seguridad Social Nº 275",
+    "type": "HOSPITAL",
+    "lat": 40.4569809,
+    "lng": -3.6819171,
+    "city": "Madrid",
+    "address": "Paseo De La Habana 83"
+  },
+  {
+    "name": "Clínica Universidad de Navarra",
+    "type": "HOSPITAL",
+    "lat": 40.4483209,
+    "lng": -3.6209305,
+    "city": "Madrid",
+    "address": "Calle Del Marquesado de Santa Marta 1"
+  },
+  {
+    "name": "Hospital Pardo de Aravaca",
+    "type": "HOSPITAL",
+    "lat": 40.4672771,
+    "lng": -3.783539,
+    "city": "Madrid",
+    "address": "Calle De La Salle 12"
+  },
+  {
+    "name": "Hospital Md Anderson Cáncer Center Madrid",
+    "type": "HOSPITAL",
+    "lat": 40.4708847,
+    "lng": -3.6657345,
+    "city": "Madrid",
+    "address": "Calle De Gómez Hemans 2"
+  },
+  {
+    "name": "Clínica Isadora S.A.",
+    "type": "HOSPITAL",
+    "lat": 40.4571777,
+    "lng": -3.7164487,
+    "city": "Madrid",
+    "address": "Calle De Los Pirineos 7"
+  },
+  {
+    "name": "Clínica San Miguel",
+    "type": "HOSPITAL",
+    "lat": 40.4601077,
+    "lng": -3.6601493,
+    "city": "Madrid",
+    "address": "Calle De Arturo Soria 204"
+  },
+  {
+    "name": "Hospital San Rafael",
+    "type": "HOSPITAL",
+    "lat": 40.4511303,
+    "lng": -3.6795724,
+    "city": "Madrid",
+    "address": "Calle De Serrano 199"
+  },
+  {
+    "name": "Hospital Universitario HM Madrid",
+    "type": "HOSPITAL",
+    "lat": 40.4312758,
+    "lng": -3.7067574,
+    "city": "Madrid",
+    "address": "Plaza Del Conde del Valle de Suchil 16"
+  },
+  {
+    "name": "Hospital San Camilo",
+    "type": "HOSPITAL",
+    "lat": 40.4327463,
+    "lng": -3.6776668,
+    "city": "Madrid",
+    "address": "Calle De Juan Bravo 39"
+  },
+  {
+    "name": "Hospital Universitario La Zarzuela",
+    "type": "HOSPITAL",
+    "lat": 40.3075065,
+    "lng": -3.8621357,
+    "city": "Madrid",
+    "address": "Calle De Pléyades 25"
+  },
+  {
+    "name": "Clínica La Luz, S.L.",
+    "type": "HOSPITAL",
+    "lat": 40.4441529,
+    "lng": -3.7137324,
+    "city": "Madrid",
+    "address": "Calle Del Maestro Ángel Llorca 8"
+  },
+  {
+    "name": "Hospital Fuensanta",
+    "type": "HOSPITAL",
+    "lat": 40.4400605,
+    "lng": -3.6402733,
+    "city": "Madrid",
+    "address": "Calle De Arturo Soria 17"
+  },
+  {
+    "name": "HM Hospitales 1989, S.A.",
+    "type": "HOSPITAL",
+    "lat": 40.4062677,
+    "lng": -3.7192035,
+    "city": "Madrid",
+    "address": "Calle De Cobos de Segovia 4"
+  },
+  {
+    "name": "Alm Univass S.L.",
+    "type": "HOSPITAL",
+    "lat": 40.3722714,
+    "lng": -3.7277439,
+    "city": "Madrid",
+    "address": "Calle De Las Cerilleras 7"
+  },
+  {
+    "name": "Hospital Universitario HM Sanchinarro",
+    "type": "HOSPITAL",
+    "lat": 40.4887169,
+    "lng": -3.6628386,
+    "city": "Madrid",
+    "address": "Calle De Oña 10"
+  },
+  {
+    "name": "Hospital Ha Universitario Moncloa",
+    "type": "HOSPITAL",
+    "lat": 40.4331072,
+    "lng": -3.7340032,
+    "city": "Madrid",
+    "address": "Avenida De Valladolid 83"
+  },
+  {
+    "name": "Hospital San Francisco de Asís",
+    "type": "HOSPITAL",
+    "lat": 40.4426588,
+    "lng": -3.6837301,
+    "city": "Madrid",
+    "address": "Calle De Joaquín Costa 28"
+  },
+  {
+    "name": "Hospital Viamed Santa Elena, S.L",
+    "type": "HOSPITAL",
+    "lat": 40.4062711,
+    "lng": -3.6747747,
+    "city": "Madrid",
+    "address": "Calle De Abtao 25"
+  },
+  {
+    "name": "Hospital Universitario Fundacion Jimenez Diaz",
+    "type": "HOSPITAL",
+    "lat": 40.4388366,
+    "lng": -3.7192802,
+    "city": "Madrid",
+    "address": "Avenida De Los Reyes Católicos 2"
+  },
+  {
+    "name": "Hospital Universitario La Moraleja",
+    "type": "HOSPITAL",
+    "lat": 40.4924994,
+    "lng": -3.6632253,
+    "city": "Madrid",
+    "address": "Avenida De Francisco Pi y Margall 81"
+  },
+  {
+    "name": "Hospital Ruber Internacional",
+    "type": "HOSPITAL",
+    "lat": 40.4962499,
+    "lng": -3.7057234,
+    "city": "Madrid",
+    "address": "Calle De La Maso 38"
+  },
+  {
+    "name": "Hospital La Milagrosa S.A.",
+    "type": "HOSPITAL",
+    "lat": 40.4369982,
+    "lng": -3.6959395,
+    "city": "Madrid",
+    "address": "Calle De Modesto Lafuente 14"
+  },
+  {
+    "name": "Hospital Beata Maria Ana",
+    "type": "HOSPITAL",
+    "lat": 40.4209279,
+    "lng": -3.6689584,
+    "city": "Madrid",
+    "address": "Calle Del Doctor Esquerdo 83"
+  },
+  {
+    "name": "Hospital Centro de Cuidados Laguna",
+    "type": "HOSPITAL",
+    "lat": 40.4006951,
+    "lng": -3.7475667,
+    "city": "Madrid",
+    "address": "Calle Del Concejal Francisco José Jimenez Martin 128"
+  },
+  {
+    "name": "Clínica Cemtro",
+    "type": "HOSPITAL",
+    "lat": 40.4841864,
+    "lng": -3.7159703,
+    "city": "Madrid",
+    "address": "Avenida Del Ventisquero de La Condesa 42"
+  },
+  {
+    "name": "Sanatorio Esquerdo, S.A.",
+    "type": "HOSPITAL",
+    "lat": 40.3821107,
+    "lng": -3.7595128,
+    "city": "Madrid",
+    "address": "Avenida De Los Poblados 70"
+  },
+  {
+    "name": "Clínica López Ibor",
+    "type": "HOSPITAL",
+    "lat": 40.4698759,
+    "lng": -3.7262907,
+    "city": "Madrid",
+    "address": "Calle Del Doctor Juan José López Ibor 2"
+  },
+  {
+    "name": "Clínica Dr. León",
+    "type": "HOSPITAL",
+    "lat": 40.4074957,
+    "lng": -3.6785155,
+    "city": "Madrid",
+    "address": "Plaza De Mariano de Cavia 3"
+  },
+  {
+    "name": "Hospital HM Nuevo Belen",
+    "type": "HOSPITAL",
+    "lat": 40.4549636,
+    "lng": -3.6574961,
+    "city": "Madrid",
+    "address": "Calle De José Silva 7"
+  },
+  {
+    "name": "Hospital Ruber Juan Bravo",
+    "type": "HOSPITAL",
+    "lat": 40.432612,
+    "lng": -3.6761828,
+    "city": "Madrid",
+    "address": "Calle De Juan Bravo 49"
+  },
+  {
+    "name": "Hospital Nuestra Señora de América",
+    "type": "HOSPITAL",
+    "lat": 40.4587583,
+    "lng": -3.659036,
+    "city": "Madrid",
+    "address": "Calle De Arturo Soria 103-105-107"
+  },
+  {
+    "name": "Hospital Hestia Madrid",
+    "type": "HOSPITAL",
+    "lat": 40.5357511,
+    "lng": -3.6973663,
+    "city": "Madrid",
+    "address": "Carretera De Colmenar Viejo KM.16"
+  },
+  {
+    "name": "Hospital Virgen del Mar",
+    "type": "HOSPITAL",
+    "lat": 40.4593232,
+    "lng": -3.6786952,
+    "city": "Madrid",
+    "address": "Calle De Honduras 14"
+  },
+  {
+    "name": "Clínica Nuestra Señora de La Paz",
+    "type": "HOSPITAL",
+    "lat": 40.4409565,
+    "lng": -3.6795565,
+    "city": "Madrid",
+    "address": "Calle De López de Hoyos 259"
+  },
+  {
+    "name": "Hospital Quironsalud San José",
+    "type": "HOSPITAL",
+    "lat": 40.4404787,
+    "lng": -3.6746226,
+    "city": "Madrid",
+    "address": "Calle De Cartagena 111"
+  },
+  {
+    "name": "Hospital de La V.O.T. de San Francisco de Asís",
+    "type": "HOSPITAL",
+    "lat": 40.4090737,
+    "lng": -3.7139252,
+    "city": "Madrid",
+    "address": "Calle De San Bernabé 13"
+  },
+  {
+    "name": "Fundacion Instituto San José",
+    "type": "HOSPITAL",
+    "lat": 40.3631362,
+    "lng": -3.7733964,
+    "city": "Madrid",
+    "address": "Calle Del Pinar de San José 98"
+  },
+  {
+    "name": "Sanatorio Nuestra Señora del Rosario",
+    "type": "HOSPITAL",
+    "lat": 40.4807163,
+    "lng": -3.370434,
+    "city": "Madrid",
+    "address": "Calle Del Cardenal Cisneros 7"
+  },
+  {
+    "name": "Hospital Central de La Defensa Gómez Ulla",
+    "type": "HOSPITAL",
+    "lat": 40.3880112,
+    "lng": -3.7447289,
+    "city": "Madrid",
+    "address": "Glorieta Del Ejercito S/N"
+  },
+  {
+    "name": "Hospital Universitario de La Princesa",
+    "type": "HOSPITAL",
+    "lat": 40.4339979,
+    "lng": -3.6757388,
+    "city": "Madrid",
+    "address": "Calle De Diego de León 62"
+  },
+  {
+    "name": "Hospital Universitario 12 de Octubre",
+    "type": "HOSPITAL",
+    "lat": 40.3801246,
+    "lng": -3.6967666,
+    "city": "Madrid",
+    "address": "Avenida De Córdoba S/N"
+  },
+  {
+    "name": "Hospital Universitario Ramon y Cajal",
+    "type": "HOSPITAL",
+    "lat": 40.427677,
+    "lng": -3.6845151,
+    "city": "Madrid",
+    "address": "Calle De Ayala 38"
+  },
+  {
+    "name": "Hospital Infantil Universitario Niño Jesús",
+    "type": "HOSPITAL",
+    "lat": 40.4142355,
+    "lng": -3.6760478,
+    "city": "Madrid",
+    "address": "Avenida De Menéndez Pelayo 65"
+  },
+  {
+    "name": "Hospital Universitario Santa Cristina",
+    "type": "HOSPITAL",
+    "lat": 40.4217973,
+    "lng": -3.6711563,
+    "city": "Madrid",
+    "address": "Calle Del Maestro Vives 2"
+  },
+  {
+    "name": "Hospital Universitario Clínico San Carlos",
+    "type": "HOSPITAL",
+    "lat": 40.4406325,
+    "lng": -3.7199109,
+    "city": "Madrid",
+    "address": "Calle Del Profesor Martin Lagos S/N"
+  },
+  {
+    "name": "Hospital Universitario La Paz",
+    "type": "HOSPITAL",
+    "lat": 40.480489,
+    "lng": -3.6887239,
+    "city": "Madrid",
+    "address": "Paseo De La Castellana 261"
+  },
+  {
+    "name": "Hospital General Universitario Gregorio Marañón",
+    "type": "HOSPITAL",
+    "lat": 40.4209279,
+    "lng": -3.6689584,
+    "city": "Madrid",
+    "address": "Calle Del Doctor Esquerdo 46"
+  },
+  {
+    "name": "Hospital de Cantoblanco",
+    "type": "HOSPITAL",
+    "lat": 40.5357511,
+    "lng": -3.6973663,
+    "city": "Madrid",
+    "address": "Carretera De Colmenar Viejo K.14,500"
+  },
+  {
+    "name": "Hospital Carlos III",
+    "type": "HOSPITAL",
+    "lat": 40.4718567,
+    "lng": -3.7050648,
+    "city": "Madrid",
+    "address": "Calle De Sinesio Delgado 8-10"
+  },
+  {
+    "name": "Hospital Universitario Infanta Leonor",
+    "type": "HOSPITAL",
+    "lat": 40.3860769,
+    "lng": -3.6176733,
+    "city": "Madrid",
+    "address": "Avenida De La Gran Vía del Este 80"
+  },
+  {
+    "name": "Instituto Provincial de Rehabilitación",
+    "type": "HOSPITAL",
+    "lat": 40.4333333,
+    "lng": -3.6724948,
+    "city": "Madrid",
+    "address": "Calle De Francisco Silvela 40"
+  },
+  {
+    "name": "Servicio Madrileño de Salud",
+    "type": "HOSPITAL",
+    "lat": 40.4834864,
+    "lng": -3.6063006,
+    "city": "Madrid",
+    "address": "Avenida De Manuel Fraga Iribarne 2"
+  },
+  {
+    "name": "Hospital Virgen de La Torre",
+    "type": "HOSPITAL",
+    "lat": 40.3810219,
+    "lng": -3.6192746,
+    "city": "Madrid",
+    "address": "Calle Del Puerto de Lumbreras 5"
+  },
+  {
+    "name": "Hospital Central de La Cruz Roja, San José y Santa Adela",
+    "type": "HOSPITAL",
+    "lat": 40.446943,
+    "lng": -3.7096916,
+    "city": "Madrid",
+    "address": "Avenida De La Reina Victoria 22-26"
+  },
+  {
+    "name": "Fremap Hospital Majadahonda",
+    "type": "HOSPITAL",
+    "lat": 40.4505848,
+    "lng": -3.8508254,
+    "city": "Majadahonda",
+    "address": "Carretera M-515 (Pozuelo) 61"
+  },
+  {
+    "name": "Hospital Universitario Puerta de Hierro Majadahonda",
+    "type": "HOSPITAL",
+    "lat": 40.4499988,
+    "lng": -3.8722667,
+    "city": "Majadahonda",
+    "address": "Calle Manuel de Falla 1"
+  },
+  {
+    "name": "Hospital Universitario HM Puerta del Sur",
+    "type": "HOSPITAL",
+    "lat": 40.3149903,
+    "lng": -3.8598448,
+    "city": "Móstoles",
+    "address": "Avenida De Carlos V 70"
+  },
+  {
+    "name": "Hospital Universitario de Móstoles",
+    "type": "HOSPITAL",
+    "lat": 40.315755,
+    "lng": -3.8774711,
+    "city": "Móstoles",
+    "address": "Calle Rio Júcar S/N"
+  },
+  {
+    "name": "ID Dalud Móstoles Sa",
+    "type": "HOSPITAL",
+    "lat": 40.3397709,
+    "lng": -3.8665965,
+    "city": "Móstoles",
+    "address": "Calle Gladiolo S/N"
+  },
+  {
+    "name": "Hospital Universitario Infanta Cristina",
+    "type": "HOSPITAL",
+    "lat": 40.2218502,
+    "lng": -3.7814676,
+    "city": "Parla",
+    "address": "Avenida 9 de Junio 2"
+  },
+  {
+    "name": "Hospital Universitario Quironsalud Madrid",
+    "type": "HOSPITAL",
+    "lat": 40.4026554,
+    "lng": -3.7833876,
+    "city": "Pozuelo de Alarcón",
+    "address": "Calle Diego de Velázquez 1"
+  },
+  {
+    "name": "HM Hospitales 1.989, S.A.",
+    "type": "HOSPITAL",
+    "lat": 40.3483077,
+    "lng": -3.5315678,
+    "city": "Rivas-Vaciamadrid",
+    "address": "Avenida De José Hierro 94"
+  },
+  {
+    "name": "Hospital El Escorial",
+    "type": "HOSPITAL",
+    "lat": 40.6156809,
+    "lng": -4.1142631,
+    "city": "San Lorenzo de El Escorial",
+    "address": "Carretera De Guadarrama 6,255"
+  },
+  {
+    "name": "Hospital Universitario Infanta Sofia",
+    "type": "HOSPITAL",
+    "lat": 40.5421773,
+    "lng": -3.6262906,
+    "city": "San Sebastián de los Reyes",
+    "address": "Paseo Europa 34"
+  },
+  {
+    "name": "Hospital Quirón Salud Valle del Henares",
+    "type": "HOSPITAL",
+    "lat": 40.4663369,
+    "lng": -3.4406463,
+    "city": "Torrejón de Ardoz",
+    "address": "Avenida Constitución 249"
+  },
+  {
+    "name": "Hospital Universitario de Torrejón",
+    "type": "HOSPITAL",
+    "lat": 40.4642371,
+    "lng": -3.4362634,
+    "city": "Torrejón de Ardoz",
+    "address": "Calle Mateo Inurria 1"
+  },
+  {
+    "name": "Hospital Universitario HM Torrelodones",
+    "type": "HOSPITAL",
+    "lat": 40.5699375,
+    "lng": -3.9260367,
+    "city": "Torrelodones",
+    "address": "Avenida Castillo de Olivares S/N"
+  },
+  {
+    "name": "Hospital Universitario Infanta Elena",
+    "type": "HOSPITAL",
+    "lat": 40.2001769,
+    "lng": -3.6959505,
+    "city": "Valdemoro",
+    "address": "Avenida Reyes Católicos 21"
+  },
+  {
+    "name": "Hospital de Antequera",
+    "type": "HOSPITAL",
+    "lat": 37.0306174,
+    "lng": -4.5282534,
+    "city": "Antequera",
+    "address": "Avenida Poeta Muñoz Rojas S/N"
+  },
+  {
+    "name": "Fundacion Cudeca. Centro de Cuidados Paliativos",
+    "type": "HOSPITAL",
+    "lat": 36.6071253,
+    "lng": -4.5406668,
+    "city": "Benalmádena",
+    "address": "Avenida Del Cosmos S/N"
+  },
+  {
+    "name": "Hospital Vithas Xanit Internacional",
+    "type": "HOSPITAL",
+    "lat": 36.599222,
+    "lng": -4.5603882,
+    "city": "Benalmádena",
+    "address": "Avenida De Los Argonautas S/N"
+  },
+  {
+    "name": "Hospital Vithas Xanit Estepona",
+    "type": "HOSPITAL",
+    "lat": 36.4294067,
+    "lng": -5.1417358,
+    "city": "Estepona",
+    "address": "Avenida Andalucía 2 y 4"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Estepona",
+    "type": "HOSPITAL",
+    "lat": 36.4114858,
+    "lng": -5.1979213,
+    "city": "Estepona",
+    "address": "Calle Irene Villa González 9"
+  },
+  {
+    "name": "Hospital Vithas Parque San Antonio",
+    "type": "HOSPITAL",
+    "lat": 36.7226782,
+    "lng": -4.3972308,
+    "city": "Málaga",
+    "address": "Avenida Pintor Joaquín Sorolla 2"
+  },
+  {
+    "name": "Hospital Quironsalud Málaga",
+    "type": "HOSPITAL",
+    "lat": 36.6841643,
+    "lng": -4.4580848,
+    "city": "Málaga",
+    "address": "Avenida Imperio Argentina 1"
+  },
+  {
+    "name": "Centro Asistencial Hnas. Hospitalarias del Sagrado Corazón de Jesús",
+    "type": "HOSPITAL",
+    "lat": 36.733423,
+    "lng": -4.4228669,
+    "city": "Málaga",
+    "address": "Calle San Juan Bosco 41"
+  },
+  {
+    "name": "HM Gálvez",
+    "type": "HOSPITAL",
+    "lat": 36.7209158,
+    "lng": -4.4194103,
+    "city": "Málaga",
+    "address": "Calle San Agustín 1"
+  },
+  {
+    "name": "Hospital Psiquiátrico San Francisco de Asís",
+    "type": "HOSPITAL",
+    "lat": 36.7292662,
+    "lng": -4.368526,
+    "city": "Málaga",
+    "address": "Avenida Hernan Núñez de Toledo 5"
+  },
+  {
+    "name": "Centro Asistencial San Juan de Dios",
+    "type": "HOSPITAL",
+    "lat": 36.759036,
+    "lng": -4.4225494,
+    "city": "Málaga",
+    "address": "Camino Casabermeja 126"
+  },
+  {
+    "name": "HM El Pilar",
+    "type": "HOSPITAL",
+    "lat": 36.7218829,
+    "lng": -4.4041545,
+    "city": "Málaga",
+    "address": "Paseo De Sancha 15"
+  },
+  {
+    "name": "Hospital El Ángel",
+    "type": "HOSPITAL",
+    "lat": 36.7154666,
+    "lng": -4.4532881,
+    "city": "Málaga",
+    "address": "Calle Corregidor Nicolas Isidro 16"
+  },
+  {
+    "name": "HM Málaga",
+    "type": "HOSPITAL",
+    "lat": 36.7220861,
+    "lng": -4.4466061,
+    "city": "Málaga",
+    "address": "Avenida Carlos Haya 121"
+  },
+  {
+    "name": "Hospital Civil",
+    "type": "HOSPITAL",
+    "lat": 36.7279003,
+    "lng": -4.4329929,
+    "city": "Málaga",
+    "address": "Plaza Del Hospital Civil S/N"
+  },
+  {
+    "name": "Hospital Valle de Guadalhorce de Cartama",
+    "type": "HOSPITAL",
+    "lat": 36.7218449,
+    "lng": -4.6710606,
+    "city": "Málaga",
+    "address": "Carretera Autovía A-357 Málaga S/N"
+  },
+  {
+    "name": "Hospital Universitario Regional de Málaga",
+    "type": "HOSPITAL",
+    "lat": 36.7220861,
+    "lng": -4.4466061,
+    "city": "Málaga",
+    "address": "Avenida Carlos Haya S/N"
+  },
+  {
+    "name": "Hospital Quironsalud Marbella",
+    "type": "HOSPITAL",
+    "lat": 36.5093208,
+    "lng": -4.8750379,
+    "city": "Marbella",
+    "address": "Avenida Severo Ochoa 22"
+  },
+  {
+    "name": "Hospital Recoletas Marbella Slu",
+    "type": "HOSPITAL",
+    "lat": 36.5156227,
+    "lng": -4.8967813,
+    "city": "Marbella",
+    "address": "Calle Maestra Doña Carola 8"
+  },
+  {
+    "name": "Hospital Ochoa",
+    "type": "HOSPITAL",
+    "lat": 36.5073158,
+    "lng": -4.8820386,
+    "city": "Marbella",
+    "address": "Paseo Alfonso Cañas Nogueras (Paseo Marítimo) S/N"
+  },
+  {
+    "name": "Hospital Costa del Sol",
+    "type": "HOSPITAL",
+    "lat": 36.5069349,
+    "lng": -4.8267677,
+    "city": "Marbella",
+    "address": "Carretera Autovía A-7 S/N"
+  },
+  {
+    "name": "Hospital de La Serranía",
+    "type": "HOSPITAL",
+    "lat": 36.7222521,
+    "lng": -5.1470078,
+    "city": "Ronda",
+    "address": "Carretera Ronda-San Pedro, Km. 2 S/N"
+  },
+  {
+    "name": "Hospital Marítimo de Torremolinos",
+    "type": "HOSPITAL",
+    "lat": 36.6371378,
+    "lng": -4.4874567,
+    "city": "Torremolinos",
+    "address": "Calle Sanatorio 5"
+  },
+  {
+    "name": "Clínica El Seranil",
+    "type": "HOSPITAL",
+    "lat": 36.7411695,
+    "lng": -4.0029919,
+    "city": "Vélez-Málaga",
+    "address": "Carretera Almería S/N"
+  },
+  {
+    "name": "Hospital de La Axarquia",
+    "type": "HOSPITAL",
+    "lat": 36.751073,
+    "lng": -4.0909421,
+    "city": "Vélez-Málaga",
+    "address": "Avenida Del Sol 43"
+  },
+  {
+    "name": "Hospital Viamed San José",
+    "type": "HOSPITAL",
+    "lat": 37.9742567,
+    "lng": -1.2246942,
+    "city": "Alcantarilla",
+    "address": "Calle Maestra Lola Meseguer S/N"
+  },
+  {
+    "name": "Hospital Centro Medico Virgen de La Caridad Caravaca",
+    "type": "HOSPITAL",
+    "lat": 38.1057553,
+    "lng": -1.866521,
+    "city": "Caravaca de la Cruz",
+    "address": "Calle Doctor Robles S/N"
+  },
+  {
+    "name": "Hospital Comarcal del Noroeste",
+    "type": "HOSPITAL",
+    "lat": 38.1035596,
+    "lng": -1.8683025,
+    "city": "Caravaca de la Cruz",
+    "address": "Avenida Miguel Espinosa S/N"
+  },
+  {
+    "name": "Santo y Real Hospital de Caridad",
+    "type": "HOSPITAL",
+    "lat": 37.6283586,
+    "lng": -0.9871196,
+    "city": "Cartagena",
+    "address": "Camino Barrio Peral S/N"
+  },
+  {
+    "name": "Hospital C. M. Virgen de La Caridad Cartagena",
+    "type": "HOSPITAL",
+    "lat": 37.6155105,
+    "lng": -0.9865751,
+    "city": "Cartagena",
+    "address": "Calle Jorge Juan 30"
+  },
+  {
+    "name": "Hospital Ntra. Sra. del Perpetuo Socorro",
+    "type": "HOSPITAL",
+    "lat": 37.6144033,
+    "lng": -0.9982857,
+    "city": "Cartagena",
+    "address": "Calle Sebastián Feringan 12"
+  },
+  {
+    "name": "Hospital General Universitario Santa Lucia",
+    "type": "HOSPITAL",
+    "lat": 37.6017877,
+    "lng": -0.9615992,
+    "city": "Cartagena",
+    "address": "Calle Mezquita (Paraje Los Arcos) S/N"
+  },
+  {
+    "name": "Hospital Asilo de La Real Piedad de Cehegín",
+    "type": "HOSPITAL",
+    "lat": 38.0965528,
+    "lng": -1.7990366,
+    "city": "Cehegín",
+    "address": "Plaza Mesoncico 3"
+  },
+  {
+    "name": "Hospital de La Vega Lorenzo Guirao",
+    "type": "HOSPITAL",
+    "lat": 38.2295323,
+    "lng": -1.4090223,
+    "city": "Cieza",
+    "address": "Carretera De Abaran S/N"
+  },
+  {
+    "name": "Hospital Virgen del Alcázar de Lorca",
+    "type": "HOSPITAL",
+    "lat": 37.6691187,
+    "lng": -1.6955698,
+    "city": "Lorca",
+    "address": "Alameda De Los Tristes S/N"
+  },
+  {
+    "name": "Hospital Rafael Méndez",
+    "type": "HOSPITAL",
+    "lat": 37.6449883,
+    "lng": -1.7351339,
+    "city": "Lorca",
+    "address": "Carretera Nacional 340, Km 589 S/N"
+  },
+  {
+    "name": "Hospital del Guadalentín",
+    "type": "HOSPITAL",
+    "lat": 37.599812,
+    "lng": -1.3161274,
+    "city": "Mazarrón",
+    "address": "Calle Jerez de La Frontera S/N URB CAMPOSOL SECOR A"
+  },
+  {
+    "name": "Ribera Hospital de Molina",
+    "type": "HOSPITAL",
+    "lat": 38.0605952,
+    "lng": -1.2137044,
+    "city": "Molina de Segura",
+    "address": "Calle Asociación S/N"
+  },
+  {
+    "name": "Hospital Ibermutuamur - Patología Laboral",
+    "type": "HOSPITAL",
+    "lat": 38.0083413,
+    "lng": -1.149029,
+    "city": "Murcia",
+    "address": "Calle Antonio Rocamora 4"
+  },
+  {
+    "name": "Hospital La Vega Grupo Ha",
+    "type": "HOSPITAL",
+    "lat": 37.9925748,
+    "lng": -1.1333525,
+    "city": "Murcia",
+    "address": "Calle Doctor Román Alberca S/N"
+  },
+  {
+    "name": "Hospital IMED Virgen de La Fuensanta",
+    "type": "HOSPITAL",
+    "lat": 38.0005442,
+    "lng": -1.1402403,
+    "city": "Murcia",
+    "address": "Calle Padre Félix Sánchez Blanco 5"
+  },
+  {
+    "name": "Hospital Quironsalud Murcia",
+    "type": "HOSPITAL",
+    "lat": 37.9778861,
+    "lng": -1.1193663,
+    "city": "Murcia",
+    "address": "Calle Miguel Hernández 12"
+  },
+  {
+    "name": "Sanatorio Dr. Muñoz",
+    "type": "HOSPITAL",
+    "lat": 37.6604116,
+    "lng": -0.9560603,
+    "city": "Murcia",
+    "address": "Carretera Cartagena 59"
+  },
+  {
+    "name": "Hospital Mesa del Castillo",
+    "type": "HOSPITAL",
+    "lat": 37.9694704,
+    "lng": -1.1280927,
+    "city": "Murcia",
+    "address": "Ronda Sur 20"
+  },
+  {
+    "name": "Hospital Clínico Universitario Virgen de La Arrixaca",
+    "type": "HOSPITAL",
+    "lat": 37.9321598,
+    "lng": -1.1625399,
+    "city": "Murcia",
+    "address": "Carretera Madrid-Cartagena S/N"
+  },
+  {
+    "name": "Hospital General Universitario Reina Sofia",
+    "type": "HOSPITAL",
+    "lat": 37.9828837,
+    "lng": -1.1210416,
+    "city": "Murcia",
+    "address": "Avenida Intendente Jorge Palacios 1"
+  },
+  {
+    "name": "Hospital G. Universitario J.M. Morales Meseguer",
+    "type": "HOSPITAL",
+    "lat": 38.0006349,
+    "lng": -1.1324895,
+    "city": "Murcia",
+    "address": "Avenida Marques de Los Vélez 0"
+  },
+  {
+    "name": "Hospital General Universitario Los Arcos del Mar Menor",
+    "type": "HOSPITAL",
+    "lat": 37.8208196,
+    "lng": -0.8494637,
+    "city": "San Javier",
+    "address": "Paraje Torre Octavio S/N"
+  },
+  {
+    "name": "Hospital Virgen del Castillo",
+    "type": "HOSPITAL",
+    "lat": 38.6159368,
+    "lng": -1.1055888,
+    "city": "Yecla",
+    "address": "Avenida De La Feria S/N"
+  },
+  {
+    "name": "Centro Hospitalario Benito Menni",
+    "type": "HOSPITAL",
+    "lat": 43.143482,
+    "lng": -1.5200083,
+    "city": "Baztan",
+    "address": "Calle Mendinueta S/N -"
+  },
+  {
+    "name": "Hospital San Juan de Dios",
+    "type": "HOSPITAL",
+    "lat": 41.6341871,
+    "lng": -0.8880231,
+    "city": "Zaragoza",
+    "address": "Paseo Colon 14"
+  },
+  {
+    "name": "Centro Neuropsiquiátrico Nuestra Señora del Carmen",
+    "type": "HOSPITAL",
+    "lat": 41.6835133,
+    "lng": -0.9766412,
+    "city": "Zaragoza",
+    "address": "Camino Abejar 100"
+  },
+  {
+    "name": "Hospital Maz",
+    "type": "HOSPITAL",
+    "lat": 41.6862723,
+    "lng": -0.8709133,
+    "city": "Zaragoza",
+    "address": "Avenida Academia General Militar 74"
+  },
+  {
+    "name": "Hospital Viamed Montecanal",
+    "type": "HOSPITAL",
+    "lat": 41.6387494,
+    "lng": -0.9494187,
+    "city": "Zaragoza",
+    "address": "Calle Franz Schubert 2"
+  },
+  {
+    "name": "Hospital Hernan Cortes Miraflores",
+    "type": "HOSPITAL",
+    "lat": 41.6469406,
+    "lng": -0.8728186,
+    "city": "Zaragoza",
+    "address": "Camino Torres (De Las) 51-53"
+  },
+  {
+    "name": "Hospital de Rehabilitación Psiquiatrica Prisma",
+    "type": "HOSPITAL",
+    "lat": 41.7193346,
+    "lng": -0.8360933,
+    "city": "Zaragoza",
+    "address": "Calle Torre del Cerezo (San Juan de Mozarrifar) 17"
+  },
+  {
+    "name": "Clínica Montpellier, Grupo Ha, S.A.U",
+    "type": "HOSPITAL",
+    "lat": 41.6359456,
+    "lng": -0.9136913,
+    "city": "Zaragoza",
+    "address": "Vía Hispanidad 37"
+  },
+  {
+    "name": "Hospital Quironsalud Zaragoza",
+    "type": "HOSPITAL",
+    "lat": 41.6332521,
+    "lng": -0.8915648,
+    "city": "Zaragoza",
+    "address": "Paseo Mariano Renovales S/N"
+  },
+  {
+    "name": "Hospital Royo Villanova",
+    "type": "HOSPITAL",
+    "lat": 41.6924648,
+    "lng": -0.8617381,
+    "city": "Zaragoza",
+    "address": "Avenida San Gregorio 30"
+  },
+  {
+    "name": "Centro de Rehabilitación Psicosocial Nuestra Señora del Pilar",
+    "type": "HOSPITAL",
+    "lat": 41.6465465,
+    "lng": -0.9084791,
+    "city": "Zaragoza",
+    "address": "Calle Duquesa Villahermosa 66-68"
+  },
+  {
+    "name": "Hospital Nuestra Señora de Gracia",
+    "type": "HOSPITAL",
+    "lat": 41.8984821,
+    "lng": -1.4182289,
+    "city": "Zaragoza",
+    "address": "Calle Ramon y Cajal 60"
+  },
+  {
+    "name": "Hospital Clínico Universitario Lozano Blesa",
+    "type": "HOSPITAL",
+    "lat": 41.6432629,
+    "lng": -0.9034152,
+    "city": "Zaragoza",
+    "address": "Calle San Juan Bosco 15"
+  },
+  {
+    "name": "Hospital Universitario Miguel Servet",
+    "type": "HOSPITAL",
+    "lat": 41.6342604,
+    "lng": -0.9026844,
+    "city": "Zaragoza",
+    "address": "Paseo Isabel La Católica 1-3"
+  },
+  {
+    "name": "Hospital Universitario de Ceuta",
+    "type": "HOSPITAL",
+    "lat": 35.8835985,
+    "lng": -5.3320618,
+    "city": "Ceuta",
+    "address": "Calle Loma Colmenar S/N"
+  },
+  {
+    "name": "Hospital Comarcal",
+    "type": "HOSPITAL",
+    "lat": 35.2857657,
+    "lng": -2.9471966,
+    "city": "Melilla",
+    "address": "Calle Remonta 2"
+  },
+  {
+    "name": "Hospital Publico de Verín",
+    "type": "HOSPITAL",
+    "lat": 41.9539802,
+    "lng": -7.4303314,
+    "city": "Verín",
+    "address": "Carretera Laza (De) S/N"
+  },
+  {
+    "name": "Fundacion Hospital de Avilés",
+    "type": "HOSPITAL",
+    "lat": 43.5551264,
+    "lng": -5.9263948,
+    "city": "Avilés",
+    "address": "Calle Cabruñana 19"
+  },
+  {
+    "name": "Hospital Universitario San Agustín",
+    "type": "HOSPITAL",
+    "lat": 43.5512606,
+    "lng": -5.9342252,
+    "city": "Avilés",
+    "address": "Camino De Heros 6"
+  },
+  {
+    "name": "Hospital Carmen y Severo Ochoa",
+    "type": "HOSPITAL",
+    "lat": 43.1658,
+    "lng": -6.5415154,
+    "city": "Cangas del Narcea",
+    "address": "Calle Sienra 11"
+  },
+  {
+    "name": "Hospital de Jarrio",
+    "type": "HOSPITAL",
+    "lat": 43.5442647,
+    "lng": -6.7469493,
+    "city": "Coaña",
+    "address": "Carretera De Jarrio S/N"
+  },
+  {
+    "name": "Hospital de Jove",
+    "type": "HOSPITAL",
+    "lat": 43.5498992,
+    "lng": -5.7004129,
+    "city": "Gijón",
+    "address": "Avenida Eduardo Castro S/N"
+  },
+  {
+    "name": "Hospital Covadonga",
+    "type": "HOSPITAL",
+    "lat": 43.5325355,
+    "lng": -5.6485768,
+    "city": "Gijón",
+    "address": "Calle General Suarez Valdés 40"
+  },
+  {
+    "name": "Hospital Cruz Roja Gijón",
+    "type": "HOSPITAL",
+    "lat": 43.5375517,
+    "lng": -5.6530962,
+    "city": "Gijón",
+    "address": "Calle Uría 37"
+  },
+  {
+    "name": "Clínica Psiquiatrica Somio",
+    "type": "HOSPITAL",
+    "lat": 43.545809,
+    "lng": -5.6101493,
+    "city": "Gijón",
+    "address": "Carretera La Providencia-Infanzon, 3518 3518"
+  },
+  {
+    "name": "Hospital Begoña",
+    "type": "HOSPITAL",
+    "lat": 43.5359931,
+    "lng": -5.6570152,
+    "city": "Gijón",
+    "address": "Avenida Pablo Iglesias 92"
+  },
+  {
+    "name": "Hospital Gijón",
+    "type": "HOSPITAL",
+    "lat": 43.5377349,
+    "lng": -5.6582859,
+    "city": "Gijón",
+    "address": "Avenida De La Costa 45"
+  },
+  {
+    "name": "Centro de Tratamiento Integral Montevil",
+    "type": "HOSPITAL",
+    "lat": 43.5209401,
+    "lng": -5.6829233,
+    "city": "Gijón",
+    "address": "Calle Álava 67"
+  },
+  {
+    "name": "Hospital Universitario de Cabueñes",
+    "type": "HOSPITAL",
+    "lat": 43.5248797,
+    "lng": -5.606461,
+    "city": "Gijón",
+    "address": "Calle Los Prados 395"
+  },
+  {
+    "name": "Fundacion Sanatorio Adaro",
+    "type": "HOSPITAL",
+    "lat": 43.2908182,
+    "lng": -5.6739546,
+    "city": "Langreo",
+    "address": "Calle Jove y Canella 1"
+  },
+  {
+    "name": "Hospital Valle del Nalon",
+    "type": "HOSPITAL",
+    "lat": 43.3279146,
+    "lng": -5.7163035,
+    "city": "Langreo",
+    "address": "Polígono De Riaño S/N"
+  },
+  {
+    "name": "Centro Salud Mental Perez Espinosa",
+    "type": "HOSPITAL",
+    "lat": 43.4265986,
+    "lng": -5.808717,
+    "city": "Llanera",
+    "address": "Calle Santa Rosa 6"
+  },
+  {
+    "name": "Hospital Vital Alvarez Buylla",
+    "type": "HOSPITAL",
+    "lat": 43.203358,
+    "lng": -5.7909227,
+    "city": "Mieres",
+    "address": "Calle Vistalegre 2"
+  },
+  {
+    "name": "Centro Medico de Asturias",
+    "type": "HOSPITAL",
+    "lat": 43.3419363,
+    "lng": -5.8743464,
+    "city": "Oviedo",
+    "address": "Avenida Richard Grandio S/N"
+  },
+  {
+    "name": "Clínica Asturias",
+    "type": "HOSPITAL",
+    "lat": 43.3682348,
+    "lng": -5.8594001,
+    "city": "Oviedo",
+    "address": "Calle Naranjo de Bulnes 4-6"
+  },
+  {
+    "name": "Clínica San Rafael",
+    "type": "HOSPITAL",
+    "lat": 43.3793025,
+    "lng": -5.8304436,
+    "city": "Oviedo",
+    "address": "Calle La Estrecha, 33"
+  },
+  {
+    "name": "Hospital Monte Naranco",
+    "type": "HOSPITAL",
+    "lat": 43.3690252,
+    "lng": -5.8688711,
+    "city": "Oviedo",
+    "address": "Avenida Doctores Fernández Vega S/N"
+  },
+  {
+    "name": "Cti de La Corredoria",
+    "type": "HOSPITAL",
+    "lat": 43.3824715,
+    "lng": -5.8205656,
+    "city": "Oviedo",
+    "address": "Calle Molin Los Canales S/N"
+  },
+  {
+    "name": "Hospital Universitario Central de Asturias",
+    "type": "HOSPITAL",
+    "lat": 43.3741715,
+    "lng": -5.830629,
+    "city": "Oviedo",
+    "address": "Avenida De Roma S/N"
+  },
+  {
+    "name": "Hospital de Luarca",
+    "type": "HOSPITAL",
+    "lat": 43.5444401,
+    "lng": -6.5280741,
+    "city": "Valdés",
+    "address": "Calle Villar S/N"
+  },
+  {
+    "name": "Hospital Psiquiátrico San Luis",
+    "type": "HOSPITAL",
+    "lat": 41.9934626,
+    "lng": -4.5064891,
+    "city": "Palencia",
+    "address": "Carretera De Burgos Sn S/N"
+  },
+  {
+    "name": "Área Psiquiatrica San Juan de Dios",
+    "type": "HOSPITAL",
+    "lat": 42.0025239,
+    "lng": -4.5471855,
+    "city": "Palencia",
+    "address": "Paseo Padre Faustino Calvo 46"
+  },
+  {
+    "name": "Hospital Recoletas de Palencia",
+    "type": "HOSPITAL",
+    "lat": 42.0149945,
+    "lng": -4.5353387,
+    "city": "Palencia",
+    "address": "Avenida Simón Nieto 31-34"
+  },
+  {
+    "name": "Hospital San Telmo. Complejo Asistencial Universitario de Palencia.",
+    "type": "HOSPITAL",
+    "lat": 41.9983967,
+    "lng": -4.5233698,
+    "city": "Palencia",
+    "address": "Avenida San Telmo S/N"
+  },
+  {
+    "name": "Hospital Insular de Lanzarote",
+    "type": "HOSPITAL",
+    "lat": 28.9624039,
+    "lng": -13.5433391,
+    "city": "Arrecife",
+    "address": "Calle Juan de Quesada S/N"
+  },
+  {
+    "name": "Centro Sanitario Residencial Las Palmas (Cesar Las Palmas)",
+    "type": "HOSPITAL",
+    "lat": 28.1175276,
+    "lng": -15.4304311,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Párroco Villar Reina 1"
+  },
+  {
+    "name": "Hospital Universitario Vithas Las Palmas",
+    "type": "HOSPITAL",
+    "lat": 28.1269904,
+    "lng": -15.4295291,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle León y Castillo 292"
+  },
+  {
+    "name": "Hospital Universitario San Roque Las Palmas",
+    "type": "HOSPITAL",
+    "lat": 28.0989907,
+    "lng": -15.4131358,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Dolores de La Rocha 5"
+  },
+  {
+    "name": "Hospital La Paloma",
+    "type": "HOSPITAL",
+    "lat": 28.1267235,
+    "lng": -15.432381,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Maestro Valle 20"
+  },
+  {
+    "name": "Clínica Cajal",
+    "type": "HOSPITAL",
+    "lat": 28.1100294,
+    "lng": -15.4215347,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Senador Castillo Olivares 15"
+  },
+  {
+    "name": "Clínica Bandama",
+    "type": "HOSPITAL",
+    "lat": 28.0546322,
+    "lng": -15.4633529,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Santa Teresa 9"
+  },
+  {
+    "name": "Hospital San José",
+    "type": "HOSPITAL",
+    "lat": 28.1432509,
+    "lng": -15.4325086,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Padre Cueto 26"
+  },
+  {
+    "name": "Hospital Perpetuo Socorro",
+    "type": "HOSPITAL",
+    "lat": 28.1207734,
+    "lng": -15.4259813,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle León y Castillo 407"
+  },
+  {
+    "name": "Hospital Universitario de Salud Mental Juan Carlos I",
+    "type": "HOSPITAL",
+    "lat": 28.1034609,
+    "lng": -15.4227835,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Real del Castillo 152"
+  },
+  {
+    "name": "Hospital Universitario de Gran Canaria Dr. Negrín",
+    "type": "HOSPITAL",
+    "lat": 28.121004,
+    "lng": -15.4447095,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Plaza Barranco de La Ballena S/N"
+  },
+  {
+    "name": "Hospital Polivalente Anexo Juan Carlos I",
+    "type": "HOSPITAL",
+    "lat": 28.1034609,
+    "lng": -15.4227835,
+    "city": "Palmas de Gran Canaria, Las",
+    "address": "Calle Real del Castillo 152"
+  },
+  {
+    "name": "Hospital Parque Fuerteventura",
+    "type": "HOSPITAL",
+    "lat": 28.5000117,
+    "lng": -13.8632623,
+    "city": "Puerto del Rosario",
+    "address": "Calle León y Castillo S/N"
+  },
+  {
+    "name": "Hospital General de Fuerteventura",
+    "type": "HOSPITAL",
+    "lat": 28.4904071,
+    "lng": -13.8692177,
+    "city": "Puerto del Rosario",
+    "address": "Calle Carretera Aeropuerto KM 1"
+  },
+  {
+    "name": "Hospiten Clínica Roca San Agustín",
+    "type": "HOSPITAL",
+    "lat": 27.7727592,
+    "lng": -15.5421954,
+    "city": "San Bartolomé de Tirajana",
+    "address": "Calle Buganvilla 1"
+  },
+  {
+    "name": "Quinta Medica de Reposo",
+    "type": "HOSPITAL",
+    "lat": 28.0280377,
+    "lng": -15.5000021,
+    "city": "Santa Brígida",
+    "address": "Camino Palma Romero 7"
+  },
+  {
+    "name": "Hospital San Roque de Guía",
+    "type": "HOSPITAL",
+    "lat": 28.1248087,
+    "lng": -15.6246549,
+    "city": "Santa María de Guía de Gran Canaria",
+    "address": "Lugar Diseminado Cuesta de Caraballo 11"
+  },
+  {
+    "name": "Hospital Ciudad de Telde",
+    "type": "HOSPITAL",
+    "lat": 28.0146064,
+    "lng": -15.3846515,
+    "city": "Telde",
+    "address": "Calle Mister Blisse S/N"
+  },
+  {
+    "name": "Hospiten Lanzarote",
+    "type": "HOSPITAL",
+    "lat": 28.929131,
+    "lng": -13.657178,
+    "city": "Tías",
+    "address": "Camino Lomo Gordo S/N"
+  },
+  {
+    "name": "Grupo Quironsalud Pontevedra",
+    "type": "HOSPITAL",
+    "lat": 42.4295176,
+    "lng": -8.6421367,
+    "city": "Pontevedra",
+    "address": "Calle Fray Juan Navarrete 9"
+  },
+  {
+    "name": "Complexo Hospitalario Universitario de Pontevedra",
+    "type": "HOSPITAL",
+    "lat": 42.4354644,
+    "lng": -8.6308996,
+    "city": "Pontevedra",
+    "address": "Calle Mourente S/N"
+  },
+  {
+    "name": "Fremap, Hospital de Vigo",
+    "type": "HOSPITAL",
+    "lat": 42.2287735,
+    "lng": -8.7282231,
+    "city": "Vigo",
+    "address": "Calle Feliciano Rolan 12"
+  },
+  {
+    "name": "Hestia San José",
+    "type": "HOSPITAL",
+    "lat": 42.2230084,
+    "lng": -8.7376464,
+    "city": "Vigo",
+    "address": "Calle Tomas A Alonso 89"
+  },
+  {
+    "name": "Concheiro Centro Medico Quirúrgico",
+    "type": "HOSPITAL",
+    "lat": 42.2282813,
+    "lng": -8.71923,
+    "city": "Vigo",
+    "address": "Avenida Madrid 4"
+  },
+  {
+    "name": "Clínica Residencia El Pinar",
+    "type": "HOSPITAL",
+    "lat": 42.2203794,
+    "lng": -8.6815526,
+    "city": "Vigo",
+    "address": "Carretera Vella Madrid 120"
+  },
+  {
+    "name": "Centro Medico Pintado",
+    "type": "HOSPITAL",
+    "lat": 42.2301282,
+    "lng": -8.7292302,
+    "city": "Vigo",
+    "address": "Avenida Hispanidade 40"
+  },
+  {
+    "name": "Hospital Publico Do Salnes",
+    "type": "HOSPITAL",
+    "lat": 42.5740673,
+    "lng": -8.7271301,
+    "city": "Vilagarcía de Arousa",
+    "address": "Calle Hospital Do Salnes 30"
+  },
+  {
+    "name": "Hospital General de La Santísima Trinidad",
+    "type": "HOSPITAL",
+    "lat": 40.9680825,
+    "lng": -5.6696669,
+    "city": "Salamanca",
+    "address": "Paseo De Carmelitas, 74-94"
+  },
+  {
+    "name": "Hospital Universitario de Salamanca. Complejo Asistencial Universitario de Salmanca",
+    "type": "HOSPITAL",
+    "lat": 40.9629564,
+    "lng": -5.6740034,
+    "city": "Salamanca",
+    "address": "Paseo De San Vicente 58-182"
+  },
+  {
+    "name": "Hospital Universitario Hospiten Sur",
+    "type": "HOSPITAL",
+    "lat": 28.0582155,
+    "lng": -16.7250852,
+    "city": "Arona",
+    "address": "Calle Av. Marítima 8"
+  },
+  {
+    "name": "Hospital del Sur",
+    "type": "HOSPITAL",
+    "lat": 28.0703941,
+    "lng": -16.7028967,
+    "city": "Arona",
+    "address": "Carretera Tf-28 21"
+  },
+  {
+    "name": "Hospital del Norte",
+    "type": "HOSPITAL",
+    "lat": 28.3843123,
+    "lng": -16.6842967,
+    "city": "Icod de los Vinos",
+    "address": "Calle Gaviotas (Las) 22"
+  },
+  {
+    "name": "Hospital Quironsalud Vida",
+    "type": "HOSPITAL",
+    "lat": 28.3860642,
+    "lng": -16.53276,
+    "city": "Orotava, La",
+    "address": "Calle Magnolias 2"
+  },
+  {
+    "name": "Hospital Universitario Hospiten Bellevue",
+    "type": "HOSPITAL",
+    "lat": 28.407541,
+    "lng": -16.5438481,
+    "city": "Puerto de la Cruz",
+    "address": "Calle Alemania 4"
+  },
+  {
+    "name": "Hospital Universitario de Canarias",
+    "type": "HOSPITAL",
+    "lat": 28.4559261,
+    "lng": -16.2928549,
+    "city": "San Cristóbal de La Laguna",
+    "address": "Carretera Cuesta Taco S/N"
+  },
+  {
+    "name": "Hospital Nuestra Señora de Guadalupe",
+    "type": "HOSPITAL",
+    "lat": 28.1076282,
+    "lng": -17.127236,
+    "city": "San Sebastián de la Gomera",
+    "address": "Calle Langrero S/N"
+  },
+  {
+    "name": "Hospital San Juan de Dios Tenerife",
+    "type": "HOSPITAL",
+    "lat": 28.538449,
+    "lng": -16.2720503,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Carretera Santa Cruz Laguna 53"
+  },
+  {
+    "name": "Hospital Quirón Salud Tenerife",
+    "type": "HOSPITAL",
+    "lat": 28.471173,
+    "lng": -16.2669385,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Calle Poeta Rodriguez Herrera 1"
+  },
+  {
+    "name": "Hospital Universitario Hospiten Rambla",
+    "type": "HOSPITAL",
+    "lat": 28.468888,
+    "lng": -16.2583074,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Rambla Santa Cruz 115"
+  },
+  {
+    "name": "Vithas Hospital Santa Cruz",
+    "type": "HOSPITAL",
+    "lat": 28.4727097,
+    "lng": -16.2575376,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Calle Enrique Wolfson 8"
+  },
+  {
+    "name": "Hospital Parque",
+    "type": "HOSPITAL",
+    "lat": 28.4727098,
+    "lng": -16.2517454,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Calle Méndez Núñez 40-44"
+  },
+  {
+    "name": "Unidades Clínicas y de Rehabilitación de Salud Mental",
+    "type": "HOSPITAL",
+    "lat": 28.4703853,
+    "lng": -16.2669606,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Calle Domingo J Manrique 2"
+  },
+  {
+    "name": "Hospital de Ofra",
+    "type": "HOSPITAL",
+    "lat": 28.4582452,
+    "lng": -16.2876564,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Calle Santa Maria Soledad 28"
+  },
+  {
+    "name": "Hospital Universitario Nuestra Señora de Candelaria",
+    "type": "HOSPITAL",
+    "lat": 28.4495478,
+    "lng": -16.2845797,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Carretera Rosario (Del) 145"
+  },
+  {
+    "name": "Centro Asistencial Polivalente USAN",
+    "type": "HOSPITAL",
+    "lat": 28.4495478,
+    "lng": -16.2845797,
+    "city": "Santa Cruz de Tenerife",
+    "address": "Carretera Rosario (Del) 145"
+  },
+  {
+    "name": "Clínica Tara",
+    "type": "HOSPITAL",
+    "lat": 28.4772481,
+    "lng": -16.4033883,
+    "city": "Tacoronte",
+    "address": "Calle Casas Altas S/N"
+  },
+  {
+    "name": "Hospital Insular Nuestra Señora de Los Reyes",
+    "type": "HOSPITAL",
+    "lat": 27.8143266,
+    "lng": -17.9155195,
+    "city": "Valverde",
+    "address": "Calle Calle Los Barriales 1"
+  },
+  {
+    "name": "Hospital Comarcal de Laredo",
+    "type": "HOSPITAL",
+    "lat": 43.4102784,
+    "lng": -3.4347033,
+    "city": "Laredo",
+    "address": "Avenida Derechos Humanos S/N"
+  },
+  {
+    "name": "Hospital Mompia",
+    "type": "HOSPITAL",
+    "lat": 43.4346492,
+    "lng": -3.9181222,
+    "city": "Santa Cruz de Bezana",
+    "address": "Avenida De Los Condes S/N"
+  },
+  {
+    "name": "Hospital Mutua Montañesa",
+    "type": "HOSPITAL",
+    "lat": 43.485468,
+    "lng": -3.7915721,
+    "city": "Santander",
+    "address": "Avenida Del Faro - Pintor Eduardo Sanz 19 BAJO"
+  },
+  {
+    "name": "Centro Hospitalario Padre Menni",
+    "type": "HOSPITAL",
+    "lat": 43.2624805,
+    "lng": -4.0708178,
+    "city": "Santander",
+    "address": "Avenida Cantabria 52"
+  },
+  {
+    "name": "Hospital Santa Clotilde",
+    "type": "HOSPITAL",
+    "lat": 43.4675919,
+    "lng": -3.7984992,
+    "city": "Santander",
+    "address": "Calle General Dávila 35"
+  },
+  {
+    "name": "Hospital Universitario Marques de Valdecilla",
+    "type": "HOSPITAL",
+    "lat": 43.4569553,
+    "lng": -3.828675,
+    "city": "Santander",
+    "address": "Avenida Valdecilla 25"
+  },
+  {
+    "name": "Hospital Sierrallana",
+    "type": "HOSPITAL",
+    "lat": 43.3592796,
+    "lng": -4.0700888,
+    "city": "Torrelavega",
+    "address": "Barrio Ganzo S/N"
+  },
+  {
+    "name": "Hospital Recoletas Segovia Nuestra Señora de La Misericordia",
+    "type": "HOSPITAL",
+    "lat": 40.9529785,
+    "lng": -4.1240486,
+    "city": "Segovia",
+    "address": "Calle Doctor Velasco 21-23"
+  },
+  {
+    "name": "Hospital El Tomillar",
+    "type": "HOSPITAL",
+    "lat": 37.2790689,
+    "lng": -5.8876325,
+    "city": "Alcalá de Guadaíra",
+    "address": "Carretera Alcalá-Dos Hermanas S/N"
+  },
+  {
+    "name": "Hospital San Juan de Dios del Aljarafe",
+    "type": "HOSPITAL",
+    "lat": 37.3688585,
+    "lng": -6.0824013,
+    "city": "Bormujos",
+    "address": "Avenida San Juan de Dios S/N"
+  },
+  {
+    "name": "Hospital Vithas Sevilla",
+    "type": "HOSPITAL",
+    "lat": 37.3893314,
+    "lng": -6.0615703,
+    "city": "Castilleja de la Cuesta",
+    "address": "Avenida Placido Fernandez Viagas S/N"
+  },
+  {
+    "name": "Adinfa, Sociedad Cooperativa Andaluza",
+    "type": "HOSPITAL",
+    "lat": 37.2870216,
+    "lng": -6.0564251,
+    "city": "Coria del Río",
+    "address": "Calle Maria Jesús 3"
+  },
+  {
+    "name": "Hospital San Agustín",
+    "type": "HOSPITAL",
+    "lat": 37.2807132,
+    "lng": -5.9359853,
+    "city": "Dos Hermanas",
+    "address": "Calle Prolongación Doctor Fleming, Sector 13 S/N"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Lebrija",
+    "type": "HOSPITAL",
+    "lat": 36.9109946,
+    "lng": -6.0717152,
+    "city": "Lebrija",
+    "address": "Avenida El Cuervo S/N"
+  },
+  {
+    "name": "Hospital La Merced",
+    "type": "HOSPITAL",
+    "lat": 37.2323824,
+    "lng": -5.0957416,
+    "city": "Osuna",
+    "address": "Avenida De La Constitución 2"
+  },
+  {
+    "name": "Fremap_Hospital y Centro de Rehabilitación de Sevilla",
+    "type": "HOSPITAL",
+    "lat": 37.3422522,
+    "lng": -5.9731692,
+    "city": "Sevilla",
+    "address": "Avenida De Jerez S/N"
+  },
+  {
+    "name": "Clínica Santa Isabel",
+    "type": "HOSPITAL",
+    "lat": 37.3868655,
+    "lng": -5.9755266,
+    "city": "Sevilla",
+    "address": "Calle Luis Montoto 100"
+  },
+  {
+    "name": "Clínica Nuestra Señora de Aránzazu",
+    "type": "HOSPITAL",
+    "lat": 37.4000885,
+    "lng": -5.994349,
+    "city": "Sevilla",
+    "address": "Calle Jesús del Gran Poder 29"
+  },
+  {
+    "name": "Hospital Quironsalud Infanta Luisa",
+    "type": "HOSPITAL",
+    "lat": 37.3839619,
+    "lng": -6.0047488,
+    "city": "Sevilla",
+    "address": "Calle San Jacinto 87"
+  },
+  {
+    "name": "Ita Clinic Bcn",
+    "type": "HOSPITAL",
+    "lat": 37.3892614,
+    "lng": -5.9856082,
+    "city": "Sevilla",
+    "address": "Calle Vidrio 32"
+  },
+  {
+    "name": "Hospital Victoria Eugenia de La Cruz Roja Española",
+    "type": "HOSPITAL",
+    "lat": 37.4019944,
+    "lng": -5.9816579,
+    "city": "Sevilla",
+    "address": "Avenida De La Cruz Roja 1"
+  },
+  {
+    "name": "Hospital Quironsalud Sagrado Corazón",
+    "type": "HOSPITAL",
+    "lat": 37.3594267,
+    "lng": -5.9789764,
+    "city": "Sevilla",
+    "address": "Calle Rafael Salgado 3"
+  },
+  {
+    "name": "Hospital Fátima",
+    "type": "HOSPITAL",
+    "lat": 37.3693243,
+    "lng": -5.9893538,
+    "city": "Sevilla",
+    "address": "Glorieta De Méjico 1"
+  },
+  {
+    "name": "Hospital Viamed Santa Angela de La Cruz",
+    "type": "HOSPITAL",
+    "lat": 37.3422522,
+    "lng": -5.9731692,
+    "city": "Sevilla",
+    "address": "Avenida De Jerez 59"
+  },
+  {
+    "name": "Hospital San Juan de Dios de Sevilla",
+    "type": "HOSPITAL",
+    "lat": 37.3835749,
+    "lng": -5.9770501,
+    "city": "Sevilla",
+    "address": "Avenida Eduardo Dato 42"
+  },
+  {
+    "name": "Hospital Universitario Virgen de Valme",
+    "type": "HOSPITAL",
+    "lat": 37.3224808,
+    "lng": -5.9685344,
+    "city": "Sevilla",
+    "address": "Avenida De Bellavista S/N"
+  },
+  {
+    "name": "Hospital de La Mujer",
+    "type": "HOSPITAL",
+    "lat": 37.3567953,
+    "lng": -5.9790976,
+    "city": "Sevilla",
+    "address": "Avenida Manuel Siurot S/N"
+  },
+  {
+    "name": "Hospital Infantil",
+    "type": "HOSPITAL",
+    "lat": 37.3567953,
+    "lng": -5.9790976,
+    "city": "Sevilla",
+    "address": "Avenida Manuel Siurot S/N"
+  },
+  {
+    "name": "Hospital de Rehabilitación y Traumatología del H.U. Virgen del Rocío",
+    "type": "HOSPITAL",
+    "lat": 37.3567953,
+    "lng": -5.9790976,
+    "city": "Sevilla",
+    "address": "Avenida Manuel Siurot S/N"
+  },
+  {
+    "name": "Hospital Universitario Virgen del Rocío",
+    "type": "HOSPITAL",
+    "lat": 37.3567953,
+    "lng": -5.9790976,
+    "city": "Sevilla",
+    "address": "Avenida Manuel Siurot S/N"
+  },
+  {
+    "name": "Hospital San Lázaro",
+    "type": "HOSPITAL",
+    "lat": 37.4086159,
+    "lng": -5.984954,
+    "city": "Sevilla",
+    "address": "Avenida Doctor Fedriani S/N"
+  },
+  {
+    "name": "Hospital Universitario Virgen Macarena",
+    "type": "HOSPITAL",
+    "lat": 37.4056491,
+    "lng": -5.9874309,
+    "city": "Sevilla",
+    "address": "Avenida Doctor Fedriani 3"
+  },
+  {
+    "name": "Hospital de Emergencia Covid 19",
+    "type": "HOSPITAL",
+    "lat": 37.3440321,
+    "lng": -5.9732418,
+    "city": "Sevilla",
+    "address": "Calle Maria Galiana 8"
+  },
+  {
+    "name": "Hospital de Alta Resolución de Utrera",
+    "type": "HOSPITAL",
+    "lat": 37.1756949,
+    "lng": -5.7852373,
+    "city": "Utrera",
+    "address": "Calle Brigadas Internacionales S/N"
+  },
+  {
+    "name": "Hospital Latorre",
+    "type": "HOSPITAL",
+    "lat": 41.7623402,
+    "lng": -2.4821198,
+    "city": "Soria",
+    "address": "Camino De Los Royales, 8 S/N"
+  },
+  {
+    "name": "Hospital Virgen del Mirón ,Complejo Asistencial de Soria",
+    "type": "HOSPITAL",
+    "lat": 41.7820861,
+    "lng": -2.4749327,
+    "city": "Soria",
+    "address": "Carretera De Logroño 8"
+  },
+  {
+    "name": "Hospital Comarcal D'Amposta",
+    "type": "HOSPITAL",
+    "lat": 40.7088168,
+    "lng": 0.5783033,
+    "city": "Amposta",
+    "address": "Calle Jacint Verdaguer 11"
+  },
+  {
+    "name": "Hospital Comarcal Mora D'Ebre",
+    "type": "HOSPITAL",
+    "lat": 41.0952952,
+    "lng": 0.6387269,
+    "city": "Móra d'Ebre",
+    "address": "Calle Benet Messeguer S/N"
+  },
+  {
+    "name": "Institut Pere Mata, S.A",
+    "type": "HOSPITAL",
+    "lat": 41.1601502,
+    "lng": 1.0853633,
+    "city": "Reus",
+    "address": "Carretera De L'Institut Pere Mata S/N"
+  },
+  {
+    "name": "Policlínica Comarcal del Vendrell.",
+    "type": "HOSPITAL",
+    "lat": 39.5769998,
+    "lng": 2.6471976,
+    "city": "Santa Oliva",
+    "address": "Avenida Santa Oliva 1-13"
+  },
+  {
+    "name": "Centre Sociosanitari Llevant",
+    "type": "HOSPITAL",
+    "lat": 41.1219413,
+    "lng": 1.2670169,
+    "city": "Tarragona",
+    "address": "Calle Joan Fuster Ortells S/N"
+  },
+  {
+    "name": "Hospital Viamed Monegal",
+    "type": "HOSPITAL",
+    "lat": 41.1188563,
+    "lng": 1.2514674,
+    "city": "Tarragona",
+    "address": "Calle López Peláez 15-17"
+  },
+  {
+    "name": "Hospital de Sant Pau I Santa Tecla",
+    "type": "HOSPITAL",
+    "lat": 41.1159937,
+    "lng": 1.2559948,
+    "city": "Tarragona",
+    "address": "Rambla Vella 14"
+  },
+  {
+    "name": "Hospital Sociosanitari Francoli",
+    "type": "HOSPITAL",
+    "lat": 41.1249756,
+    "lng": 1.2391453,
+    "city": "Tarragona",
+    "address": "Calle Joan Pau Ir 2"
+  },
+  {
+    "name": "Hospital de La Santa Creu",
+    "type": "HOSPITAL",
+    "lat": 40.827855,
+    "lng": 0.5095964,
+    "city": "Tortosa",
+    "address": "Paseo Mossen Valls Bartomeu 1"
+  },
+  {
+    "name": "Hospital de Tortosa Vergé de La Cinta",
+    "type": "HOSPITAL",
+    "lat": 40.8111453,
+    "lng": 0.5246535,
+    "city": "Tortosa",
+    "address": "Calle Esplanetes 44"
+  },
+  {
+    "name": "Pius Hospital de Valls",
+    "type": "HOSPITAL",
+    "lat": 41.2831678,
+    "lng": 1.250929,
+    "city": "Valls",
+    "address": "Plaza Sant Francesc S/N"
+  },
+  {
+    "name": "Residencia Alt Camp",
+    "type": "HOSPITAL",
+    "lat": 41.2865923,
+    "lng": 1.2410425,
+    "city": "Valls",
+    "address": "Camino Del Bosc S/N"
+  },
+  {
+    "name": "Hospital del Vendrell",
+    "type": "HOSPITAL",
+    "lat": 41.1896516,
+    "lng": 1.520055,
+    "city": "Vendrell, El",
+    "address": "Carretera N-340 1193"
+  },
+  {
+    "name": "Residencia Vila-Seca",
+    "type": "HOSPITAL",
+    "lat": 41.1110647,
+    "lng": 1.149339,
+    "city": "Vila-seca",
+    "address": "Calle Requet de Félix 35"
+  },
+  {
+    "name": "Hospital de Alcañiz",
+    "type": "HOSPITAL",
+    "lat": 41.0448409,
+    "lng": -0.1299959,
+    "city": "Alcañiz",
+    "address": "Calle Doctor Repolles 2"
+  },
+  {
+    "name": "Hospital de San José",
+    "type": "HOSPITAL",
+    "lat": 40.9862121,
+    "lng": 0.0815955,
+    "city": "Teruel",
+    "address": "Avenida Zaragoza 16"
+  },
+  {
+    "name": "Centro de Rehabilitación Psicosocial San Juan de Dios",
+    "type": "HOSPITAL",
+    "lat": 40.9862121,
+    "lng": 0.0815955,
+    "city": "Teruel",
+    "address": "Avenida Zaragoza 10-14"
+  },
+  {
+    "name": "Hospital Obispo Polanco",
+    "type": "HOSPITAL",
+    "lat": 40.3336355,
+    "lng": -1.1077034,
+    "city": "Teruel",
+    "address": "Avenida Ruiz Jarabo S/N"
+  },
+  {
+    "name": "Hospital General Nuestra Señora del Prado",
+    "type": "HOSPITAL",
+    "lat": 39.9703584,
+    "lng": -4.7720247,
+    "city": "Talavera de la Reina",
+    "address": "Carretera Madrid KM 114"
+  },
+  {
+    "name": "Hospital Quironsalud Toledo",
+    "type": "HOSPITAL",
+    "lat": 39.8837693,
+    "lng": -4.0416562,
+    "city": "Toledo",
+    "address": "Calle Urbanización Tres Culturas S/N"
+  },
+  {
+    "name": "Hospital Nacional de Parapléjicos",
+    "type": "HOSPITAL",
+    "lat": 39.8745488,
+    "lng": -4.0523249,
+    "city": "Toledo",
+    "address": "Calle Finca de La Peraleda S/N"
+  },
+  {
+    "name": "Hospital Geriátrico Virgen del Valle",
+    "type": "HOSPITAL",
+    "lat": 39.8171554,
+    "lng": -4.0211411,
+    "city": "Toledo",
+    "address": "Carretera Cobisa S/N"
+  },
+  {
+    "name": "Hospital Universitario de Toledo (Hut)",
+    "type": "HOSPITAL",
+    "lat": 39.861196,
+    "lng": -3.9583205,
+    "city": "Toledo",
+    "address": "Avenida Rio Guadiana S/N"
+  },
+  {
+    "name": "Hospital Universitario de La Ribera",
+    "type": "HOSPITAL",
+    "lat": 39.1612923,
+    "lng": -0.4271717,
+    "city": "Alzira",
+    "address": "Carretera Corbera 1"
+  },
+  {
+    "name": "IMED Valencia",
+    "type": "HOSPITAL",
+    "lat": 39.5020679,
+    "lng": -0.408475,
+    "city": "Burjassot",
+    "address": "Calle Ferrocarril 57"
+  },
+  {
+    "name": "Hospital de Lliria",
+    "type": "HOSPITAL",
+    "lat": 39.6412081,
+    "lng": -0.6193006,
+    "city": "Llíria",
+    "address": "Paraje Cabeço de L'Aguila Cv-35 S/N"
+  },
+  {
+    "name": "Hospital de Manises",
+    "type": "HOSPITAL",
+    "lat": 39.4903705,
+    "lng": -0.4608246,
+    "city": "Manises",
+    "address": "Avenida Generalitat Valenciana 50"
+  },
+  {
+    "name": "Hospital de Crónicos de Mislata (Antiguo Hospital Militar de Valencia)",
+    "type": "HOSPITAL",
+    "lat": 39.4816629,
+    "lng": -0.422482,
+    "city": "Mislata",
+    "address": "Calle Dolores Ibárruri 1"
+  },
+  {
+    "name": "Hospital General de Ontinyent",
+    "type": "HOSPITAL",
+    "lat": 38.8200814,
+    "lng": -0.6033212,
+    "city": "Ontinyent",
+    "address": "Avenida De Francisco Cerda 3"
+  },
+  {
+    "name": "Hospital General de Requena",
+    "type": "HOSPITAL",
+    "lat": 39.4851364,
+    "lng": -1.0915401,
+    "city": "Requena",
+    "address": "Calle Casablanca S/N"
+  },
+  {
+    "name": "Hospital de Sagunto",
+    "type": "HOSPITAL",
+    "lat": 39.6731484,
+    "lng": -0.2303105,
+    "city": "Sagunto/Sagunt",
+    "address": "Calle Ramon y Cajal 46"
+  },
+  {
+    "name": "Hospital Intermutual de Levante",
+    "type": "HOSPITAL",
+    "lat": 39.5535331,
+    "lng": -0.4825439,
+    "city": "San Antonio de Benagéber",
+    "address": "Carretera Ctra. Valencia-Ademuz KM 11,700"
+  },
+  {
+    "name": "Hospital Doctor Moliner",
+    "type": "HOSPITAL",
+    "lat": 39.6846024,
+    "lng": -0.4310127,
+    "city": "Serra",
+    "address": "Calle Porta Coeli S/N"
+  },
+  {
+    "name": "Fundacion Instituto Valenciano de Oncología",
+    "type": "HOSPITAL",
+    "lat": 39.4805003,
+    "lng": -0.3890929,
+    "city": "València",
+    "address": "Calle Profesor Beltrán Baguena 8"
+  },
+  {
+    "name": "Clínica Imske",
+    "type": "HOSPITAL",
+    "lat": 38.3616458,
+    "lng": -0.4990227,
+    "city": "València",
+    "address": "Calle Suiza S/N"
+  },
+  {
+    "name": "Hospital Vithas Valencia Consuelo",
+    "type": "HOSPITAL",
+    "lat": 38.653998,
+    "lng": -0.1220056,
+    "city": "València",
+    "address": "Calle Callosa D'En Sarria 12"
+  },
+  {
+    "name": "IMED Colón",
+    "type": "HOSPITAL",
+    "lat": 39.5673361,
+    "lng": -1.2015698,
+    "city": "València",
+    "address": "Calle Isabel La Católica 12"
+  },
+  {
+    "name": "Hospital Católico Casa de Salud",
+    "type": "HOSPITAL",
+    "lat": 39.467357,
+    "lng": -0.3461605,
+    "city": "València",
+    "address": "Calle Doctor Manuel Candela 41"
+  },
+  {
+    "name": "Hospital 9 de Octubre",
+    "type": "HOSPITAL",
+    "lat": 39.4778885,
+    "lng": -0.4013578,
+    "city": "València",
+    "address": "Calle Valle de La Ballestera 59"
+  },
+  {
+    "name": "Hospital Quironsalud Valencia",
+    "type": "HOSPITAL",
+    "lat": 39.4708254,
+    "lng": -0.3338588,
+    "city": "València",
+    "address": "Avenida Blasco Ibáñez 14"
+  },
+  {
+    "name": "Consorcio Hospital General Universitario de Valencia",
+    "type": "HOSPITAL",
+    "lat": 39.4581846,
+    "lng": -0.402271,
+    "city": "València",
+    "address": "Avenida Tres Creus 2"
+  },
+  {
+    "name": "Hospital de La Malva-Rosa",
+    "type": "HOSPITAL",
+    "lat": 39.4764668,
+    "lng": -0.3253475,
+    "city": "València",
+    "address": "Calle Isabel de Villena 2"
+  },
+  {
+    "name": "Hospital Pare Jofre",
+    "type": "HOSPITAL",
+    "lat": 39.4532475,
+    "lng": -0.3932642,
+    "city": "València",
+    "address": "Calle San Lázaro S/N"
+  },
+  {
+    "name": "Hospital Universitario Dr. Peset Aleixandre",
+    "type": "HOSPITAL",
+    "lat": 39.4532779,
+    "lng": -0.3944806,
+    "city": "València",
+    "address": "Avenida Gaspar Aguilar 90"
+  },
+  {
+    "name": "Hospital Universitario y Politécnico La Fe",
+    "type": "HOSPITAL",
+    "lat": 39.4436537,
+    "lng": -0.3761017,
+    "city": "València",
+    "address": "Avenida Fernando Abril Martorell 106"
+  },
+  {
+    "name": "Hospital Clínico Universitario de Valencia",
+    "type": "HOSPITAL",
+    "lat": 39.4708254,
+    "lng": -0.3338588,
+    "city": "València",
+    "address": "Avenida Blasco Ibáñez 17"
+  },
+  {
+    "name": "Centro Habilitado Ernest Lluch",
+    "type": "HOSPITAL",
+    "lat": 39.4848664,
+    "lng": -0.3913893,
+    "city": "València",
+    "address": "Avenida Campanar 66"
+  },
+  {
+    "name": "Hospital Arnau de Vilanova",
+    "type": "HOSPITAL",
+    "lat": 39.4907859,
+    "lng": -0.4035874,
+    "city": "València",
+    "address": "Calle Sant Clement 12"
+  },
+  {
+    "name": "Hospital Lluis Alcanyis de Xativa",
+    "type": "HOSPITAL",
+    "lat": 39.0066786,
+    "lng": -0.5096208,
+    "city": "Xàtiva",
+    "address": "Carretera Xativa-Silla KM. 2"
+  },
+  {
+    "name": "Hospital Medina del Campo",
+    "type": "HOSPITAL",
+    "lat": 41.295317,
+    "lng": -4.9114235,
+    "city": "Medina del Campo",
+    "address": "Calle Peñaranda de Bracamonte 24"
+  },
+  {
+    "name": "Centro Hospitalario Benito Menni",
+    "type": "HOSPITAL",
+    "lat": 41.6122199,
+    "lng": -4.7835424,
+    "city": "Valladolid",
+    "address": "Paseo Juan Carlos I 10"
+  },
+  {
+    "name": "Sanatorio Sagrado Corazón",
+    "type": "HOSPITAL",
+    "lat": 41.6497096,
+    "lng": -4.7203894,
+    "city": "Valladolid",
+    "address": "Calle Fidel Recio 1"
+  },
+  {
+    "name": "Hospital Casaverde Valladolid",
+    "type": "HOSPITAL",
+    "lat": 41.6523856,
+    "lng": -4.6974519,
+    "city": "Valladolid",
+    "address": "Calle Universo C.V. A C Astrofísico Carlos Sánchez Magro S/N"
+  },
+  {
+    "name": "Hospital de Valladolid Felipe Ir",
+    "type": "HOSPITAL",
+    "lat": 41.6553111,
+    "lng": -4.725976,
+    "city": "Valladolid",
+    "address": "Calle Felipe Ir 9"
+  },
+  {
+    "name": "Hospital Recoletas Campo Grande",
+    "type": "HOSPITAL",
+    "lat": 41.6437511,
+    "lng": -4.7283521,
+    "city": "Valladolid",
+    "address": "Plaza De Colon Sn S/N"
+  },
+  {
+    "name": "Hospital Clínico Universitario de Valladolid",
+    "type": "HOSPITAL",
+    "lat": 41.6105961,
+    "lng": -4.6916683,
+    "city": "Valladolid",
+    "address": "Avenida Ramon y Cajal 3"
+  },
+  {
+    "name": "Hospital Universitario Rio Hortega",
+    "type": "HOSPITAL",
+    "lat": 41.6296811,
+    "lng": -4.7139052,
+    "city": "Valladolid",
+    "address": "Calle Dulzaina 2"
+  },
+  {
+    "name": "Hospital Universitario Cruces",
+    "type": "HOSPITAL",
+    "lat": 43.2820845,
+    "lng": -2.9827737,
+    "city": "Barakaldo",
+    "address": "Plaza Cruces 11"
+  },
+  {
+    "name": "Hospital San Eloy",
+    "type": "HOSPITAL",
+    "lat": 43.2966568,
+    "lng": -2.9934997,
+    "city": "Barakaldo",
+    "address": "Avenida Miranda 5"
+  },
+  {
+    "name": "Hospital de Bermeo",
+    "type": "HOSPITAL",
+    "lat": 43.4221869,
+    "lng": -2.7215287,
+    "city": "Bermeo",
+    "address": "Calle Tonpoi Bidea 0"
+  },
+  {
+    "name": "Hospital Cruz Roja de Bilbao - Victoria Eugenia",
+    "type": "HOSPITAL",
+    "lat": 43.2612485,
+    "lng": -2.9421683,
+    "city": "Bilbao",
+    "address": "Alameda Urquijo 65"
+  },
+  {
+    "name": "Sanatorio Bilbaíno",
+    "type": "HOSPITAL",
+    "lat": 43.2583508,
+    "lng": -2.9406319,
+    "city": "Bilbao",
+    "address": "Calle Gordoniz 18"
+  },
+  {
+    "name": "Clínica Ercilla Mutualia",
+    "type": "HOSPITAL",
+    "lat": 43.2650145,
+    "lng": -2.9311921,
+    "city": "Bilbao",
+    "address": "Calle Ercilla, Calle/Kalea 10"
+  },
+  {
+    "name": "Clínica Indautxu, S.A.",
+    "type": "HOSPITAL",
+    "lat": 43.2592718,
+    "lng": -2.9389573,
+    "city": "Bilbao",
+    "address": "Calle Gordoniz 9"
+  },
+  {
+    "name": "Clínica Virgen Blanca",
+    "type": "HOSPITAL",
+    "lat": 43.2583624,
+    "lng": -2.9154253,
+    "city": "Bilbao",
+    "address": "Calle Maestro Mendiri 2"
+  },
+  {
+    "name": "Clínica Imq Zorrotzaurre",
+    "type": "HOSPITAL",
+    "lat": 43.2676127,
+    "lng": -2.9520151,
+    "city": "Bilbao",
+    "address": "Calle Ballets Olaeta 4"
+  },
+  {
+    "name": "Clínica Guimon, S.A.",
+    "type": "HOSPITAL",
+    "lat": 43.2589214,
+    "lng": -2.942219,
+    "city": "Bilbao",
+    "address": "Calle Manuel Allende 24"
+  },
+  {
+    "name": "Hospital Universitario Basurto",
+    "type": "HOSPITAL",
+    "lat": 43.259963,
+    "lng": -2.9525487,
+    "city": "Bilbao",
+    "address": "Avenida Montevideo 16"
+  },
+  {
+    "name": "Hospital Santa Marina",
+    "type": "HOSPITAL",
+    "lat": 43.2623385,
+    "lng": -2.8821926,
+    "city": "Bilbao",
+    "address": "Carretera Santa Marina, Carretera/Errepidea 41"
+  },
+  {
+    "name": "Hospital Galdakao-Usansolo",
+    "type": "HOSPITAL",
+    "lat": 43.2237033,
+    "lng": -2.8179524,
+    "city": "Galdakao",
+    "address": "Calle Labeaga 46A"
+  },
+  {
+    "name": "Hospital de Gorliz",
+    "type": "HOSPITAL",
+    "lat": 43.4173923,
+    "lng": -2.9432209,
+    "city": "Gorliz",
+    "address": "Paseo Urezarantza 1"
+  },
+  {
+    "name": "Hospital San Juan de Dios",
+    "type": "HOSPITAL",
+    "lat": 43.3280751,
+    "lng": -3.0308577,
+    "city": "Santurtzi",
+    "address": "Avenida Cristóbal de Murrieta 70"
+  },
+  {
+    "name": "Hospital Urduliz Ospitalea",
+    "type": "HOSPITAL",
+    "lat": 43.3750174,
+    "lng": -2.9600886,
+    "city": "Urduliz",
+    "address": "Calle Goieta 32"
+  },
+  {
+    "name": "Hospital Recoletas de Zamora",
+    "type": "HOSPITAL",
+    "lat": 42.0070942,
+    "lng": -5.6754206,
+    "city": "Zamora",
+    "address": "Calle Pinar 7"
+  },
+  {
+    "name": "Hospital Virgen de La Concha Complejo Asistencial de Zamora",
+    "type": "HOSPITAL",
+    "lat": 41.5142037,
+    "lng": -5.7322226,
+    "city": "Zamora",
+    "address": "Avenida Requejo 35"
+  },
+  {
+    "name": "Hospital Provincial de Zamora Complejo Asistencial de Zamora",
+    "type": "HOSPITAL",
+    "lat": 42.0091515,
+    "lng": -5.6797749,
+    "city": "Zamora",
+    "address": "Calle Hernan Cortes 40"
+  },
+  {
+    "name": "Centro Sanitario Cinco Villas",
+    "type": "HOSPITAL",
+    "lat": 42.126253,
+    "lng": -1.129139,
+    "city": "Ejea de los Caballeros",
+    "address": "Calle Antonio Machado 15"
+  },
+  {
+    "name": "Hospital Parque San Francisco",
+    "type": "HOSPITAL",
+    "lat": 39.4629356,
+    "lng": -6.3670815,
+    "city": "Cáceres",
+    "address": "Ronda De San Francisco 0"
+  },
+  {
+    "name": "Hospital Quironsalud Cáceres",
+    "type": "HOSPITAL",
+    "lat": 39.4822133,
+    "lng": -6.3636873,
+    "city": "Cáceres",
+    "address": "Avenida De La Universidad 5"
+  },
+  {
+    "name": "Hospital Universitario de Cáceres",
+    "type": "HOSPITAL",
+    "lat": 39.4764977,
+    "lng": -6.3297383,
+    "city": "Cáceres",
+    "address": "Avenida De La Universidad 75"
+  },
+  {
+    "name": "Hospital San Pedro de Alcántara",
+    "type": "HOSPITAL",
+    "lat": 39.4644319,
+    "lng": -6.3736319,
+    "city": "Cáceres",
+    "address": "Avenida Pablo Naranjo Porras 0"
+  },
+  {
+    "name": "Hospital Ciudad de Coria",
+    "type": "HOSPITAL",
+    "lat": 39.9910778,
+    "lng": -6.5422526,
+    "city": "Coria",
+    "address": "Calle Cervantes 75"
+  },
+  {
+    "name": "Hospital Campo Arañuelo",
+    "type": "HOSPITAL",
+    "lat": 39.8880765,
+    "lng": -5.5610081,
+    "city": "Navalmoral de la Mata",
+    "address": "Calle Tomas Yuste Mirón 0"
+  },
+  {
+    "name": "Clínica Soquimex",
+    "type": "HOSPITAL",
+    "lat": 40.0321258,
+    "lng": -6.0852599,
+    "city": "Plasencia",
+    "address": "Avenida La Salle 22"
+  },
+  {
+    "name": "Centro Sociosanitario de Plasencia",
+    "type": "HOSPITAL",
+    "lat": 40.0559102,
+    "lng": -6.0846183,
+    "city": "Plasencia",
+    "address": "Carretera Cáceres 0"
+  },
+  {
+    "name": "Hospital Virgen del Puerto",
+    "type": "HOSPITAL",
+    "lat": 40.0490084,
+    "lng": -6.0854108,
+    "city": "Plasencia",
+    "address": "Finca Valcorchero 2"
+  },
+  {
+    "name": "Hospital Punta de Europa",
+    "type": "HOSPITAL",
+    "lat": 36.1049653,
+    "lng": -5.4402694,
+    "city": "Algeciras",
+    "address": "Carretera Getares S/N"
+  },
+  {
+    "name": "Hospital Quirón Campo de Gibraltar",
+    "type": "HOSPITAL",
+    "lat": 36.1858023,
+    "lng": -5.4303454,
+    "city": "Barrios, Los",
+    "address": "Calle Arttysur - P. E. T. Las Marismas de Palmones S/N"
+  },
+  {
+    "name": "Hospital San Rafael",
+    "type": "HOSPITAL",
+    "lat": 36.532314,
+    "lng": -6.302804,
+    "city": "Cádiz",
+    "address": "Calle Diego Arias 2"
+  },
+  {
+    "name": "Hospital Nuestra Sra. de La Salud Ha S.L.",
+    "type": "HOSPITAL",
+    "lat": 36.5318608,
+    "lng": -6.2950851,
+    "city": "Cádiz",
+    "address": "Calle Feduchy 8-14"
+  },
+  {
+    "name": "Hospital Universitario Puerta del Mar",
+    "type": "HOSPITAL",
+    "lat": 36.5090498,
+    "lng": -6.2778269,
+    "city": "Cádiz",
+    "address": "Avenida Ana de Viya 21"
+  },
+  {
+    "name": "Hospital Viamed Bahía de Cádiz",
+    "type": "HOSPITAL",
+    "lat": 36.420396,
+    "lng": -6.1504692,
+    "city": "Chiclana de la Frontera",
+    "address": "Calle Ayala 2"
+  },
+  {
+    "name": "Clínica Los Álamos",
+    "type": "HOSPITAL",
+    "lat": 36.7042734,
+    "lng": -6.1314987,
+    "city": "Jerez de la Frontera",
+    "address": "Avenida Tamarix 4"
+  },
+  {
+    "name": "Hospital Jerez Puerta del Sur",
+    "type": "HOSPITAL",
+    "lat": 36.6688239,
+    "lng": -6.1427728,
+    "city": "Jerez de la Frontera",
+    "address": "Avenida Puerta del Sur S/N"
+  },
+  {
+    "name": "Hospital San Juan Grande",
+    "type": "HOSPITAL",
+    "lat": 36.6908546,
+    "lng": -6.1480472,
+    "city": "Jerez de la Frontera",
+    "address": "Glorieta Doctor Félix Rodriguez de La Fuente S/N"
+  },
+  {
+    "name": "Hospital de La Línea de La Concepción",
+    "type": "HOSPITAL",
+    "lat": 36.1748056,
+    "lng": -5.3536419,
+    "city": "Línea de la Concepción, La",
+    "address": "Ronda Norte, Esquina C/ Gabriel Mirã³ S/N"
+  },
+  {
+    "name": "Hospital General Santa Maria del Puerto",
+    "type": "HOSPITAL",
+    "lat": 36.5965605,
+    "lng": -6.2340473,
+    "city": "Puerto de Santa María, El",
+    "address": "Calle Valdés S/N"
+  },
+  {
+    "name": "Hospital Universitario de Puerto Real",
+    "type": "HOSPITAL",
+    "lat": 36.5201293,
+    "lng": -6.1516662,
+    "city": "Puerto Real",
+    "address": "Carretera Nacional Ib., Km. 665 S/N"
+  },
+  {
+    "name": "Hospital San Carlos de San Fernando",
+    "type": "HOSPITAL",
+    "lat": 36.4781564,
+    "lng": -6.1938652,
+    "city": "San Fernando",
+    "address": "Paseo Capitán Conforto S/N"
+  },
+  {
+    "name": "Hospital Virgen del Camino",
+    "type": "HOSPITAL",
+    "lat": 36.7681168,
+    "lng": -6.3588211,
+    "city": "Sanlúcar de Barrameda",
+    "address": "Carretera Sanlúcar-Chipiona, S/N S/N"
+  },
+  {
+    "name": "Hospital de Leza",
+    "type": "HOSPITAL",
+    "lat": 42.5757708,
+    "lng": -2.6390529,
+    "city": "Laguardia",
+    "address": "Calle Hospital de Leza 1"
+  },
+  {
+    "name": "Hospital Vithas Vitoria",
+    "type": "HOSPITAL",
+    "lat": 42.8496085,
+    "lng": -2.6766792,
+    "city": "Vitoria-Gasteiz",
+    "address": "Calle Beato Tomas de Zumarraga 10"
+  },
+  {
+    "name": "Hospital Quironsalud Vitoria",
+    "type": "HOSPITAL",
+    "lat": 42.8497305,
+    "lng": -2.6682518,
+    "city": "Vitoria-Gasteiz",
+    "address": "Calle La Esperanza 3"
+  },
+  {
+    "name": "Hospital Universitario Araba (Sede Txagorritxu y Sede Santiago)",
+    "type": "HOSPITAL",
+    "lat": 42.8549109,
+    "lng": -2.687485,
+    "city": "Vitoria-Gasteiz",
+    "address": "Calle José Achotegui 1"
+  },
+  {
+    "name": "Hospital Quironsalud Albacete",
+    "type": "HOSPITAL",
+    "lat": 38.9854311,
+    "lng": -1.8440504,
+    "city": "Albacete",
+    "address": "Plaza Del Madroño 11"
+  },
+  {
+    "name": "Hospital Quironsalud Santa Cristina",
+    "type": "HOSPITAL",
+    "lat": 38.990446,
+    "lng": -1.8594381,
+    "city": "Albacete",
+    "address": "Calle Perez Galdós 7-9"
+  },
+  {
+    "name": "Hospital General Universitario de Albacete",
+    "type": "HOSPITAL",
+    "lat": 38.9844663,
+    "lng": -1.8477511,
+    "city": "Albacete",
+    "address": "Calle Hermanos Falco 37"
+  },
+  {
+    "name": "Centro de Atención A La Salud Mental La Milagrosa",
+    "type": "HOSPITAL",
+    "lat": 39.0097817,
+    "lng": -1.8675304,
+    "city": "Albacete",
+    "address": "Travesía De La Igualdad S/N"
+  },
+  {
+    "name": "Hospital Universitario Nuestra Señora del Perpetuo Socorro",
+    "type": "HOSPITAL",
+    "lat": 38.9901097,
+    "lng": -1.8719098,
+    "city": "Albacete",
+    "address": "Calle Seminario 4"
+  },
+  {
+    "name": "Hospital General de Almansa",
+    "type": "HOSPITAL",
+    "lat": 38.8794891,
+    "lng": -1.0939313,
+    "city": "Almansa",
+    "address": "Avenida Adolfo Suarez S/N"
+  },
+  {
+    "name": "Hospital de Hellín",
+    "type": "HOSPITAL",
+    "lat": 38.5057786,
+    "lng": -1.6897338,
+    "city": "Hellín",
+    "address": "Calle Juan Ramon Jimenez 40"
+  },
+  {
+    "name": "Hospital IMED San Jorge",
+    "type": "HOSPITAL",
+    "lat": 38.6928191,
+    "lng": -0.4859488,
+    "city": "Alcoy/Alcoi",
+    "address": "Calle Oliver 55"
+  },
+  {
+    "name": "Hospital Virgen de Los Lirios",
+    "type": "HOSPITAL",
+    "lat": 38.7051649,
+    "lng": -0.465655,
+    "city": "Alcoy/Alcoi",
+    "address": "Calle Caramanxel S/N"
+  },
+  {
+    "name": "Clínica Vistahermosa Grupo Ha",
+    "type": "HOSPITAL",
+    "lat": 38.3630409,
+    "lng": -0.4639511,
+    "city": "Alicante/Alacant",
+    "address": "Avenida Denia 103"
+  },
+  {
+    "name": "Vithas Hospital Perpetuo Internacional",
+    "type": "HOSPITAL",
+    "lat": 38.3526108,
+    "lng": -0.4763982,
+    "city": "Alicante/Alacant",
+    "address": "Plaza Doctor Gómez Ulla 15"
+  },
+  {
+    "name": "Hospital Medimar Internacional",
+    "type": "HOSPITAL",
+    "lat": 37.9656586,
+    "lng": -0.7413005,
+    "city": "Alicante/Alacant",
+    "address": "Avenida Denia 78"
+  },
+  {
+    "name": "Hospital General Universitario Dr. Balmis",
+    "type": "HOSPITAL",
+    "lat": 38.3626232,
+    "lng": -0.4873559,
+    "city": "Alicante/Alacant",
+    "address": "Avenida Pintor Baeza 12"
+  },
+  {
+    "name": "Hospital Clínica Benidorm",
+    "type": "HOSPITAL",
+    "lat": 38.5438017,
+    "lng": -0.1297634,
+    "city": "Benidorm",
+    "address": "Avenida Alfonso Puchades 8"
+  },
+  {
+    "name": "Hospital IMED Levante",
+    "type": "HOSPITAL",
+    "lat": 38.5410486,
+    "lng": -0.1060863,
+    "city": "Benidorm",
+    "address": "Calle Dr. Santiago Ramon y Cajal 7"
+  },
+  {
+    "name": "Hospital Internacional Hcb Denia",
+    "type": "HOSPITAL",
+    "lat": 38.8401575,
+    "lng": 0.1010339,
+    "city": "Dénia",
+    "address": "Avenida Gandía 45"
+  },
+  {
+    "name": "Hospital San Carlos de Denia Grupo HA",
+    "type": "HOSPITAL",
+    "lat": 38.836871,
+    "lng": 0.0857972,
+    "city": "Dénia",
+    "address": "Partida Madrigueres Sud 8"
+  },
+  {
+    "name": "Hospital de Denia",
+    "type": "HOSPITAL",
+    "lat": 38.8338396,
+    "lng": 0.059858,
+    "city": "Dénia",
+    "address": "Partida Beniadla S/N"
+  },
+  {
+    "name": "Hospital La Pedrera",
+    "type": "HOSPITAL",
+    "lat": 38.8282333,
+    "lng": 0.0962536,
+    "city": "Dénia",
+    "address": "Partida Plana Est 4"
+  },
+  {
+    "name": "Hospital IMED Elche",
+    "type": "HOSPITAL",
+    "lat": 38.2867384,
+    "lng": -0.6203067,
+    "city": "Elche/Elx",
+    "address": "Calle Max Planck S/N"
+  },
+  {
+    "name": "Hospital Universitario Vinalopó",
+    "type": "HOSPITAL",
+    "lat": 38.2554662,
+    "lng": -0.7160517,
+    "city": "Elche/Elx",
+    "address": "Calle Tonico Sansano Mora 14"
+  },
+  {
+    "name": "Hospital General Universitario de Elche",
+    "type": "HOSPITAL",
+    "lat": 38.2597839,
+    "lng": -0.6854275,
+    "city": "Elche/Elx",
+    "address": "Calle Cami Almazara 11"
+  },
+  {
+    "name": "Hospital General Universitario de Elda-Virgen de La Salud",
+    "type": "HOSPITAL",
+    "lat": 38.49364,
+    "lng": -0.8060941,
+    "city": "Elda",
+    "address": "Carretera Sax S/N"
+  },
+  {
+    "name": "Hospital Vega Baja de Orihuela",
+    "type": "HOSPITAL",
+    "lat": 38.0894204,
+    "lng": -0.9060862,
+    "city": "Orihuela",
+    "address": "Carretera Orihuela-Almoradi S/N"
+  },
+  {
+    "name": "Hospital Sant Vicent del Raspeig",
+    "type": "HOSPITAL",
+    "lat": 38.4032433,
+    "lng": -0.5307063,
+    "city": "San Vicente del Raspeig/Sant Vicent del Raspeig",
+    "address": "Calle Lillo Juan 137"
+  },
+  {
+    "name": "Hospital Universitario San Juan de Alicante",
+    "type": "HOSPITAL",
+    "lat": 38.3886863,
+    "lng": -0.434406,
+    "city": "Sant Joan d'Alacant",
+    "address": "Carretera C.Nal. 332, Alicante-Valencia S/N"
+  },
+  {
+    "name": "Hospital Universitario de Torrevieja",
+    "type": "HOSPITAL",
+    "lat": 37.9635296,
+    "lng": -0.7155032,
+    "city": "Torrevieja",
+    "address": "Carretera Carretera C.V. 95 S. Miguel Salinas-Torrevieja Pda. La Ceñuela S/N"
+  },
+  {
+    "name": "Sanatorio San Francisco de Borja Fontilles",
+    "type": "HOSPITAL",
+    "lat": 38.7768582,
+    "lng": -0.0877757,
+    "city": "Vall de Laguar, la",
+    "address": "Carretera Orba-Vall de Laguar, Km 4 Numero S/N"
+  },
+  {
+    "name": "Hospital Marina Baixa de La Vila Joiosa",
+    "type": "HOSPITAL",
+    "lat": 38.5301267,
+    "lng": -0.1982735,
+    "city": "Villajoyosa/Vila Joiosa, la",
+    "address": "Avenida Alcalde En Jaume Botella Mayor 7"
+  },
+  {
+    "name": "Hospital Virgen del Mar",
+    "type": "HOSPITAL",
+    "lat": 36.8471289,
+    "lng": -2.4380107,
+    "city": "Almería",
+    "address": "Carretera Del Mami KM 1"
+  },
+  {
+    "name": "Hospital Mediterráneo",
+    "type": "HOSPITAL",
+    "lat": 36.8207094,
+    "lng": -2.4355186,
+    "city": "Almería",
+    "address": "Calle Nueva Musa 8"
+  },
+  {
+    "name": "Hospital de Alta Resolución El Toyo",
+    "type": "HOSPITAL",
+    "lat": 36.8506023,
+    "lng": -2.3105953,
+    "city": "Almería",
+    "address": "Camino De La Botica S/N"
+  },
+  {
+    "name": "Hospital Universitario Torrecardenas",
+    "type": "HOSPITAL",
+    "lat": 36.862595,
+    "lng": -2.4411417,
+    "city": "Almería",
+    "address": "Calle Paraje Torrecardenas S/N"
+  },
+  {
+    "name": "Hospital Materno Infantil",
+    "type": "HOSPITAL",
+    "lat": 36.8629248,
+    "lng": -2.4403731,
+    "city": "Almería",
+    "address": "Calle Donantes de Sangre S/N"
+  },
+  {
+    "name": "Hospital La Inmaculada",
+    "type": "HOSPITAL",
+    "lat": 37.401403,
+    "lng": -1.9420356,
+    "city": "Huércal-Overa",
+    "address": "Avenida Doctora Ana Parra S/N"
+  },
+  {
+    "name": "Hospital de Salud Mental Casta Salud Arévalo",
+    "type": "HOSPITAL",
+    "lat": 41.0525117,
+    "lng": -4.7205322,
+    "city": "Arévalo",
+    "address": "Paseo San Juan Bosco, 2"
+  },
+  {
+    "name": "Hospital Santa Teresa",
+    "type": "HOSPITAL",
+    "lat": 40.6595403,
+    "lng": -4.6860735,
+    "city": "Ávila",
+    "address": "Avenida Santa Cruz de Tenerife 11"
+  },
+  {
+    "name": "Hospital Provincial de Ávila",
+    "type": "HOSPITAL",
+    "lat": 40.6521773,
+    "lng": -4.6948294,
+    "city": "Ávila",
+    "address": "Calle Jesús del Gran Poder, 42"
+  },
+  {
+    "name": "Hospital Nuestra Señora de Sonsoles",
+    "type": "HOSPITAL",
+    "lat": 40.6661167,
+    "lng": -4.6665984,
+    "city": "Ávila",
+    "address": "Avenida De Juan Carlos I, S/N S/N"
+  },
+  {
+    "name": "Hospital Ribera Almendralejo",
+    "type": "HOSPITAL",
+    "lat": 38.6814587,
+    "lng": -6.4009756,
+    "city": "Almendralejo",
+    "address": "Calle Monsalud 1"
+  },
+  {
+    "name": "Hospital Tierra de Barros",
+    "type": "HOSPITAL",
+    "lat": 38.6557865,
+    "lng": -6.3768033,
+    "city": "Almendralejo",
+    "address": "Carretera Nacional 630 0"
+  },
+  {
+    "name": "Hospital Ribera Badajoz",
+    "type": "HOSPITAL",
+    "lat": 38.8964667,
+    "lng": -7.0007718,
+    "city": "Badajoz",
+    "address": "Calle Federico Mayor Zaragoza 0"
+  },
+  {
+    "name": "Hospital Quironsalud Clideba",
+    "type": "HOSPITAL",
+    "lat": 38.871297,
+    "lng": -6.9903746,
+    "city": "Badajoz",
+    "address": "Calle Eladio Salinero de Los Santos 6"
+  },
+  {
+    "name": "Hospital Materno-Infantil",
+    "type": "HOSPITAL",
+    "lat": 38.8660151,
+    "lng": -6.9714186,
+    "city": "Badajoz",
+    "address": "Calle Violeta 1"
+  },
+  {
+    "name": "Hospital Universitario de Badajoz",
+    "type": "HOSPITAL",
+    "lat": 38.8818716,
+    "lng": -7.0062083,
+    "city": "Badajoz",
+    "address": "Avenida Elvas 0"
+  },
+  {
+    "name": "Hospital Perpetuo Socorro",
+    "type": "HOSPITAL",
+    "lat": 38.8668481,
+    "lng": -6.9730863,
+    "city": "Badajoz",
+    "address": "Avenida Damián Téllez Lafuente 0"
+  },
+  {
+    "name": "Hospital de San Antonio",
+    "type": "HOSPITAL",
+    "lat": 38.9596496,
+    "lng": -5.8700096,
+    "city": "Don Benito",
+    "address": "Calle Cervantes 12"
+  },
+  {
+    "name": "Hospital Parque Vegas Altas",
+    "type": "HOSPITAL",
+    "lat": 38.9626759,
+    "lng": -5.8562873,
+    "city": "Don Benito",
+    "address": "Avenida Madrid 12"
+  },
+  {
+    "name": "Hospital Don Benito-Villanueva de La Serena",
+    "type": "HOSPITAL",
+    "lat": 39.0296936,
+    "lng": -5.7946716,
+    "city": "Don Benito",
+    "address": "Carretera Don Benito Villanueva 0"
+  },
+  {
+    "name": "Hospital General de Llerena",
+    "type": "HOSPITAL",
+    "lat": 38.2424839,
+    "lng": -6.0130595,
+    "city": "Llerena",
+    "address": "Avenida Badajoz 1"
+  },
+  {
+    "name": "Hospital de Mérida",
+    "type": "HOSPITAL",
+    "lat": 38.9122351,
+    "lng": -6.3635321,
+    "city": "Mérida",
+    "address": "Avenida Don Antonio Campos Hoyos 26"
+  },
+  {
+    "name": "Centro Sociosanitario de Mérida",
+    "type": "HOSPITAL",
+    "lat": 38.9228506,
+    "lng": -6.3274967,
+    "city": "Mérida",
+    "address": "Carretera Valverde 0"
+  },
+  {
+    "name": "Hospital Siberia-Serena",
+    "type": "HOSPITAL",
+    "lat": 39.0312412,
+    "lng": -5.2236973,
+    "city": "Talarrubias",
+    "address": "Carretera Talarrubias-Agudo Km 2 0"
+  },
+  {
+    "name": "Hospital Santa Justa",
+    "type": "HOSPITAL",
+    "lat": 38.9726958,
+    "lng": -5.7961828,
+    "city": "Villanueva de la Serena",
+    "address": "Calle Concepción 24"
+  },
+  {
+    "name": "Hospital de Zafra",
+    "type": "HOSPITAL",
+    "lat": 38.4213291,
+    "lng": -6.4085218,
+    "city": "Zafra",
+    "address": "Carretera Badajoz Granada 0"
+  },
+  {
+    "name": "Hospital Joan March",
+    "type": "HOSPITAL",
+    "lat": 39.6788248,
+    "lng": 2.6883095,
+    "city": "Bunyola",
+    "address": "Carretera Palma-Soller KM. 12"
+  },
+  {
+    "name": "Clínica Juaneda Ciutadella",
+    "type": "HOSPITAL",
+    "lat": 39.9905417,
+    "lng": 3.8395989,
+    "city": "Ciutadella de Menorca",
+    "address": "Carretera Carretera Ciutadella - Sa Caleta 31"
+  },
+  {
+    "name": "Clínica Juaneda Menorca",
+    "type": "HOSPITAL",
+    "lat": 40.0048071,
+    "lng": 3.8418321,
+    "city": "Ciutadella de Menorca",
+    "address": "Calle Canonge Moll S/N"
+  },
+  {
+    "name": "Policlínica Nuestra Sra. del Rosario",
+    "type": "HOSPITAL",
+    "lat": 38.9072933,
+    "lng": 1.4267272,
+    "city": "Eivissa",
+    "address": "Vía Romana S/N"
+  },
+  {
+    "name": "Hospital Can Misses",
+    "type": "HOSPITAL",
+    "lat": 38.9148891,
+    "lng": 1.4198206,
+    "city": "Eivissa",
+    "address": "Calle Corona S/N"
+  },
+  {
+    "name": "Hospital de Formentera",
+    "type": "HOSPITAL",
+    "lat": 38.7074658,
+    "lng": 1.4349713,
+    "city": "Formentera",
+    "address": "Calle Venda Des Brolls S/N"
+  },
+  {
+    "name": "Hospital Sant Joan de Deu Inca",
+    "type": "HOSPITAL",
+    "lat": 39.721074,
+    "lng": 2.918466,
+    "city": "Inca",
+    "address": "Avenida Jaume Ir 44"
+  },
+  {
+    "name": "Hospital Comarcal D´Inca",
+    "type": "HOSPITAL",
+    "lat": 39.7159354,
+    "lng": 2.9220457,
+    "city": "Inca",
+    "address": "Carretera Vella de Llubi S/N"
+  },
+  {
+    "name": "Hospital de Llevant",
+    "type": "HOSPITAL",
+    "lat": 39.5451455,
+    "lng": 3.3295316,
+    "city": "Manacor",
+    "address": "Calle Escamarla 6"
+  },
+  {
+    "name": "Hospital de Manacor",
+    "type": "HOSPITAL",
+    "lat": 39.5787108,
+    "lng": 3.2076477,
+    "city": "Manacor",
+    "address": "Carretera Manacor - Alcudia S/N"
+  },
+  {
+    "name": "Clínica Juaneda Mahón",
+    "type": "HOSPITAL",
+    "lat": 39.8832576,
+    "lng": 4.2562767,
+    "city": "Maó-Mahón",
+    "address": "Avenida Vives Llull 6"
+  },
+  {
+    "name": "Hospital Mateu Orfila",
+    "type": "HOSPITAL",
+    "lat": 39.8810354,
+    "lng": 4.2518975,
+    "city": "Maó-Mahón",
+    "address": "Ronda Malbuger 1"
+  },
+  {
+    "name": "Mutua Balear",
+    "type": "HOSPITAL",
+    "lat": 39.6075815,
+    "lng": 2.662389,
+    "city": "Palma",
+    "address": "Calle Bisbe Campins 4"
+  },
+  {
+    "name": "Juaneda Miramar",
+    "type": "HOSPITAL",
+    "lat": 39.5847902,
+    "lng": 2.6305011,
+    "city": "Palma",
+    "address": "Calle Cami de La Vileta 30"
+  },
+  {
+    "name": "Hospital Quironsalud Palmaplanas",
+    "type": "HOSPITAL",
+    "lat": 39.5986833,
+    "lng": 2.6438373,
+    "city": "Palma",
+    "address": "Calle Cami Dels Reis 308"
+  },
+  {
+    "name": "Clínica Juaneda",
+    "type": "HOSPITAL",
+    "lat": 39.5773675,
+    "lng": 2.6271494,
+    "city": "Palma",
+    "address": "Calle Company 30"
+  },
+  {
+    "name": "Clínica Rotger",
+    "type": "HOSPITAL",
+    "lat": 39.5754953,
+    "lng": 2.646898,
+    "city": "Palma",
+    "address": "Calle Santiago Russinyol 9"
+  },
+  {
+    "name": "Clínica Luz de Palma",
+    "type": "HOSPITAL",
+    "lat": 28.6777281,
+    "lng": -17.770066,
+    "city": "Palma",
+    "address": "Calle Camilo José Cela 20"
+  },
+  {
+    "name": "Hospital Sant Joan de Deu",
+    "type": "HOSPITAL",
+    "lat": 39.5468365,
+    "lng": 2.6991058,
+    "city": "Palma",
+    "address": "Calle Sant Joan de Deu 7"
+  },
+  {
+    "name": "Hospital General de Mallorca",
+    "type": "HOSPITAL",
+    "lat": 39.5741418,
+    "lng": 2.6461318,
+    "city": "Palma",
+    "address": "Plaza Hospital 3"
+  },
+  {
+    "name": "Hospital Universitari Son Espases",
+    "type": "HOSPITAL",
+    "lat": 39.62754,
+    "lng": 2.64877,
+    "city": "Palma",
+    "address": "Carretera Valldemossa 79"
+  },
+  {
+    "name": "Hospital Psiquiatric",
+    "type": "HOSPITAL",
+    "lat": 39.5844026,
+    "lng": 2.6432192,
+    "city": "Palma",
+    "address": "Calle Cami de Jesús 40"
+  },
+  {
+    "name": "Hospital Son Llatzer",
+    "type": "HOSPITAL",
+    "lat": 39.5711056,
+    "lng": 2.7060745,
+    "city": "Palma",
+    "address": "Carretera Manacor KM. 4"
+  },
+  {
+    "name": "Institut Guttmann",
+    "type": "HOSPITAL",
+    "lat": 41.478707,
+    "lng": 2.2370365,
+    "city": "Badalona",
+    "address": "Camino Can Ruti S/N"
+  },
+  {
+    "name": "Institut Catalá D'Oncologia - Hospital Germans Trías I Pujol",
+    "type": "HOSPITAL",
+    "lat": 41.4800479,
+    "lng": 2.2359377,
+    "city": "Badalona",
+    "address": "Carretera Canyet S/N"
+  },
+  {
+    "name": "Centre Sociosanitari El Carme",
+    "type": "HOSPITAL",
+    "lat": 41.4591142,
+    "lng": 2.2313871,
+    "city": "Badalona",
+    "address": "Camino Sant Jeroni de La Murtra, 60"
+  },
+  {
+    "name": "Hospital Municipal de Badalona",
+    "type": "HOSPITAL",
+    "lat": 41.450787,
+    "lng": 2.2456507,
+    "city": "Badalona",
+    "address": "Vía Augusta 9"
+  },
+  {
+    "name": "Hospital Universitari Germans Trías I Pujol de Badalona",
+    "type": "HOSPITAL",
+    "lat": 41.4800479,
+    "lng": 2.2359377,
+    "city": "Badalona",
+    "address": "Carretera Canyet S/N"
+  },
+  {
+    "name": "Fremap, Hospital de Barcelona",
+    "type": "HOSPITAL",
+    "lat": 41.401521,
+    "lng": 2.1503881,
+    "city": "Barcelona",
+    "address": "Calle Madrazo 8"
+  },
+  {
+    "name": "Clínica Nostra Senyora del Remei",
+    "type": "HOSPITAL",
+    "lat": 41.4095908,
+    "lng": 2.1597223,
+    "city": "Barcelona",
+    "address": "Calle Escorial 148"
+  },
+  {
+    "name": "Clínica Sagrada Familia",
+    "type": "HOSPITAL",
+    "lat": 41.4004526,
+    "lng": 2.134144,
+    "city": "Barcelona",
+    "address": "Calle Torras I Pujalt 1"
+  },
+  {
+    "name": "Clínica Galatea",
+    "type": "HOSPITAL",
+    "lat": 41.4107651,
+    "lng": 2.1136486,
+    "city": "Barcelona",
+    "address": "Calle Palafolls 15-19"
+  },
+  {
+    "name": "Hospital Mare de Déu de La Mercé?",
+    "type": "HOSPITAL",
+    "lat": 41.4378745,
+    "lng": 2.1616088,
+    "city": "Barcelona",
+    "address": "Paseo Universal 34"
+  },
+  {
+    "name": "Hospital Quironsalud Barcelona",
+    "type": "HOSPITAL",
+    "lat": 41.415833,
+    "lng": 2.1384498,
+    "city": "Barcelona",
+    "address": "Plaza Alfons Comín 5"
+  },
+  {
+    "name": "Clínica Corachan",
+    "type": "HOSPITAL",
+    "lat": 41.3938115,
+    "lng": 2.1305871,
+    "city": "Barcelona",
+    "address": "Calle Buigas 19"
+  },
+  {
+    "name": "Lepant Residencial Qgg, S.L.",
+    "type": "HOSPITAL",
+    "lat": 41.2242396,
+    "lng": 1.7156548,
+    "city": "Barcelona",
+    "address": "Calle Lepant 401-403"
+  },
+  {
+    "name": "Centre D'Oftalmologia Barraquer",
+    "type": "HOSPITAL",
+    "lat": 41.2157983,
+    "lng": 1.7231289,
+    "city": "Barcelona",
+    "address": "Calle Muntaner 314"
+  },
+  {
+    "name": "Hospital de Barcelona",
+    "type": "HOSPITAL",
+    "lat": 41.4103693,
+    "lng": 2.212695,
+    "city": "Barcelona",
+    "address": "Avenida Diagonal 660"
+  },
+  {
+    "name": "Hospital Universitari Quirón Dexeus",
+    "type": "HOSPITAL",
+    "lat": 41.3848249,
+    "lng": 2.1257693,
+    "city": "Barcelona",
+    "address": "Calle Sabino de Arana 5-19"
+  },
+  {
+    "name": "HM Nou Delfos",
+    "type": "HOSPITAL",
+    "lat": 41.4137862,
+    "lng": 2.1423054,
+    "city": "Barcelona",
+    "address": "Avenida Vallcarca 151"
+  },
+  {
+    "name": "Hospital Universitari Sagrat Cor",
+    "type": "HOSPITAL",
+    "lat": 41.3889575,
+    "lng": 2.1455585,
+    "city": "Barcelona",
+    "address": "Calle Viladomat 288"
+  },
+  {
+    "name": "Hospital de La Santa Creu I Sant Pau",
+    "type": "HOSPITAL",
+    "lat": 41.4139764,
+    "lng": 2.1755472,
+    "city": "Barcelona",
+    "address": "Calle Sant Quinti 89"
+  },
+  {
+    "name": "Clínica Sant Antoni",
+    "type": "HOSPITAL",
+    "lat": 41.3557408,
+    "lng": 2.1435188,
+    "city": "Barcelona",
+    "address": "Calle Sant Eloi 6-8"
+  },
+  {
+    "name": "Ita Maresme",
+    "type": "HOSPITAL",
+    "lat": 41.5470514,
+    "lng": 2.3992676,
+    "city": "Barcelona",
+    "address": "Calle Avenir 14"
+  },
+  {
+    "name": "Clínica Tres Torres",
+    "type": "HOSPITAL",
+    "lat": 41.6061886,
+    "lng": 2.2829624,
+    "city": "Barcelona",
+    "address": "Calle Doctor Roux 76"
+  },
+  {
+    "name": "Fundacio Puigvert - Iuna",
+    "type": "HOSPITAL",
+    "lat": 41.4129102,
+    "lng": 2.1727112,
+    "city": "Barcelona",
+    "address": "Calle Cartagena 340"
+  },
+  {
+    "name": "Clínica Planas",
+    "type": "HOSPITAL",
+    "lat": 41.3997968,
+    "lng": 2.1155961,
+    "city": "Barcelona",
+    "address": "Calle Pere Ir de Montcada 16"
+  },
+  {
+    "name": "Hestia Palau.",
+    "type": "HOSPITAL",
+    "lat": 41.4100812,
+    "lng": 2.1724036,
+    "city": "Barcelona",
+    "address": "Calle Sant Antoni Maria Claret , 135"
+  },
+  {
+    "name": "Hospital Sanitas Cima",
+    "type": "HOSPITAL",
+    "lat": 41.3913113,
+    "lng": 2.123309,
+    "city": "Barcelona",
+    "address": "Paseo Manuel Girona 33"
+  },
+  {
+    "name": "Hospital El Pilar",
+    "type": "HOSPITAL",
+    "lat": 41.2199015,
+    "lng": 1.7229338,
+    "city": "Barcelona",
+    "address": "Calle Balmes 271"
+  },
+  {
+    "name": "Clínica Creu Blanca",
+    "type": "HOSPITAL",
+    "lat": 41.397948,
+    "lng": 2.1187402,
+    "city": "Barcelona",
+    "address": "Paseo Reina Elisenda de Montcada, 17"
+  },
+  {
+    "name": "Centre Fórum",
+    "type": "HOSPITAL",
+    "lat": 41.724118,
+    "lng": 1.8176632,
+    "city": "Barcelona",
+    "address": "Calle Llull, 410"
+  },
+  {
+    "name": "Hospital Clinic de Barcelona",
+    "type": "HOSPITAL",
+    "lat": 41.3894459,
+    "lng": 2.1522761,
+    "city": "Barcelona",
+    "address": "Calle Villarroel 170"
+  },
+  {
+    "name": "Hospital del Mar",
+    "type": "HOSPITAL",
+    "lat": 41.383587,
+    "lng": 2.1940251,
+    "city": "Barcelona",
+    "address": "Paseo Maritim de La Barceloneta 25-29"
+  },
+  {
+    "name": "Hospital de L'Esperança.",
+    "type": "HOSPITAL",
+    "lat": 41.4105992,
+    "lng": 2.1546394,
+    "city": "Barcelona",
+    "address": "Avenida Sant Josep de La Muntanya 12"
+  },
+  {
+    "name": "Hospital Sant Rafael",
+    "type": "HOSPITAL",
+    "lat": 41.4257971,
+    "lng": 2.140616,
+    "city": "Barcelona",
+    "address": "Paseo Vall D'Hebron 107"
+  },
+  {
+    "name": "Hospital Dos de Maig",
+    "type": "HOSPITAL",
+    "lat": 41.4104658,
+    "lng": 2.1765399,
+    "city": "Barcelona",
+    "address": "Calle Dos de Maig 301"
+  },
+  {
+    "name": "Hospital Universitari Vall D'Hebron",
+    "type": "HOSPITAL",
+    "lat": 41.4281535,
+    "lng": 2.1407435,
+    "city": "Barcelona",
+    "address": "Paseo Vall D'Hebron 119-129"
+  },
+  {
+    "name": "Hospital de Berga",
+    "type": "HOSPITAL",
+    "lat": 42.1082081,
+    "lng": 1.8542712,
+    "city": "Berga",
+    "address": "Carretera De Ribes 47"
+  },
+  {
+    "name": "Hospital Comarcal Sant Jaume de Calella",
+    "type": "HOSPITAL",
+    "lat": 41.6151237,
+    "lng": 2.6571952,
+    "city": "Calella",
+    "address": "Calle Sant Jaume 209-217"
+  },
+  {
+    "name": "Ita Canet",
+    "type": "HOSPITAL",
+    "lat": 41.5863696,
+    "lng": 2.5750391,
+    "city": "Canet de Mar",
+    "address": "Ronda Sant Elm 2"
+  },
+  {
+    "name": "Centre Sociosanitari Sarquavitae Sant Jordi",
+    "type": "HOSPITAL",
+    "lat": 41.3620894,
+    "lng": 2.0602001,
+    "city": "Cornellà de Llobregat",
+    "address": "Carretera Sant Joan Despi 60"
+  },
+  {
+    "name": "Centre Sociosanitari D'Esplugues",
+    "type": "HOSPITAL",
+    "lat": 41.3826287,
+    "lng": 2.0861993,
+    "city": "Esplugues de Llobregat",
+    "address": "Vía Augusta 66-70"
+  },
+  {
+    "name": "Hospital de Sant Joan de Deu.",
+    "type": "HOSPITAL",
+    "lat": 41.3843785,
+    "lng": 2.1019391,
+    "city": "Esplugues de Llobregat",
+    "address": "Calle Sant Joan de Deu 2"
+  },
+  {
+    "name": "Clínica Diagonal",
+    "type": "HOSPITAL",
+    "lat": 41.3790607,
+    "lng": 2.0978335,
+    "city": "Esplugues de Llobregat",
+    "address": "Calle Sant Mateu 24-26"
+  },
+  {
+    "name": "Hospital General de Granollers.",
+    "type": "HOSPITAL",
+    "lat": 41.6136475,
+    "lng": 2.2955194,
+    "city": "Granollers",
+    "address": "Avenida Francesc Ribas 1"
+  },
+  {
+    "name": "Hospital General de L'Hospitalet",
+    "type": "HOSPITAL",
+    "lat": 41.3741708,
+    "lng": 2.1069439,
+    "city": "Hospitalet de Llobregat, L'",
+    "address": "Avenida Josep Molins 29"
+  },
+  {
+    "name": "Hospital Universitari de Bellvitge",
+    "type": "HOSPITAL",
+    "lat": 41.345361,
+    "lng": 2.1047859,
+    "city": "Hospitalet de Llobregat, L'",
+    "address": "Calle Feixa Llarga S/N"
+  },
+  {
+    "name": "Fundacio Sanitaria Sant Josep",
+    "type": "HOSPITAL",
+    "lat": 41.5822224,
+    "lng": 1.6186403,
+    "city": "Igualada",
+    "address": "Calle Carme Verdaguer 56"
+  },
+  {
+    "name": "Hospital D'Igualada",
+    "type": "HOSPITAL",
+    "lat": 41.5886652,
+    "lng": 1.6200593,
+    "city": "Igualada",
+    "address": "Avenida Catalunya 11"
+  },
+  {
+    "name": "Hospital de Sant Jaume",
+    "type": "HOSPITAL",
+    "lat": 42.0036218,
+    "lng": 2.2936914,
+    "city": "Manlleu",
+    "address": "Carretera D'Olot 7"
+  },
+  {
+    "name": "Hospital de Sant Joan de Deu (Manresa)",
+    "type": "HOSPITAL",
+    "lat": 41.7197241,
+    "lng": 1.8392292,
+    "city": "Manresa",
+    "address": "Calle Joan Soler 1-3"
+  },
+  {
+    "name": "Clínica Sant Josep",
+    "type": "HOSPITAL",
+    "lat": 41.722653,
+    "lng": 1.8323943,
+    "city": "Manresa",
+    "address": "Calle Caputxins 16"
+  },
+  {
+    "name": "Hospital de Mataró",
+    "type": "HOSPITAL",
+    "lat": 41.5555511,
+    "lng": 2.4303241,
+    "city": "Mataró",
+    "address": "Carretera Cirera 230"
+  },
+  {
+    "name": "Hospital de Mollet",
+    "type": "HOSPITAL",
+    "lat": 41.5409564,
+    "lng": 2.2017981,
+    "city": "Mollet del Vallès",
+    "address": "Ronda Pinetons 6-8"
+  },
+  {
+    "name": "Hospital Sociosanitari de Mollet",
+    "type": "HOSPITAL",
+    "lat": 41.5411558,
+    "lng": 2.2110181,
+    "city": "Mollet del Vallès",
+    "address": "Calle Sant Llorenç 39-41"
+  },
+  {
+    "name": "Residencia Puig-Reig",
+    "type": "HOSPITAL",
+    "lat": 41.977942,
+    "lng": 1.8724478,
+    "city": "Puig-reig",
+    "address": "Calle Llobregat 75"
+  },
+  {
+    "name": "Hospital de Sabadell",
+    "type": "HOSPITAL",
+    "lat": 41.5572661,
+    "lng": 2.1098862,
+    "city": "Sabadell",
+    "address": "Calle Parc Taulí­ 1"
+  },
+  {
+    "name": "Hospital de Sant Celoni.",
+    "type": "HOSPITAL",
+    "lat": 41.6878461,
+    "lng": 2.4857764,
+    "city": "Sant Celoni",
+    "address": "Avenida De L'Hospital 19"
+  },
+  {
+    "name": "Centre de Prevencio I Rehabilitacio Asepeyo",
+    "type": "HOSPITAL",
+    "lat": 41.4897796,
+    "lng": 2.0784011,
+    "city": "Sant Cugat del Vallès",
+    "address": "Avenida Alcalde Barnils 54-60"
+  },
+  {
+    "name": "Hospital de Sant Joan Despi Moisés Broggi",
+    "type": "HOSPITAL",
+    "lat": 41.3731841,
+    "lng": 2.0726253,
+    "city": "Sant Joan Despí",
+    "address": "Calle Oriol Martorell 12"
+  },
+  {
+    "name": "Hospital de Terrassa.",
+    "type": "HOSPITAL",
+    "lat": 41.5611479,
+    "lng": 2.0520526,
+    "city": "Terrassa",
+    "address": "Carretera Torrebonica S/N"
+  },
+  {
+    "name": "Hospital General Penitenciari",
+    "type": "HOSPITAL",
+    "lat": 41.5611479,
+    "lng": 2.0520526,
+    "city": "Terrassa",
+    "address": "Carretera Torrebonica S/N"
+  },
+  {
+    "name": "Hospital de Sant Llatzer",
+    "type": "HOSPITAL",
+    "lat": 41.5626105,
+    "lng": 2.0173999,
+    "city": "Terrassa",
+    "address": "Plaza Doctor Robert 1"
+  },
+  {
+    "name": "Clínica Sant Josep",
+    "type": "HOSPITAL",
+    "lat": 41.9303358,
+    "lng": 2.2601573,
+    "city": "Vic",
+    "address": "Calle Sant Segimon 3"
+  },
+  {
+    "name": "Hospital de La Santa Creu",
+    "type": "HOSPITAL",
+    "lat": 41.9284852,
+    "lng": 2.2521795,
+    "city": "Vic",
+    "address": "Rambla Hospital 52"
+  },
+  {
+    "name": "Hospital de Viladecans",
+    "type": "HOSPITAL",
+    "lat": 41.3112675,
+    "lng": 2.0163595,
+    "city": "Viladecans",
+    "address": "Avenida Gava 38"
+  },
+  {
+    "name": "Hospital Comarcal de L'Alt Penedés",
+    "type": "HOSPITAL",
+    "lat": 41.3565902,
+    "lng": 1.70504,
+    "city": "Vilafranca del Penedès",
+    "address": "Calle Espirall S/N"
+  },
+  {
+    "name": "Hospital Sant Antoni Abat - Consorci Sanitari del Garraf.",
+    "type": "HOSPITAL",
+    "lat": 41.2283128,
+    "lng": 1.7234368,
+    "city": "Vilanova i la Geltrú",
+    "address": "Calle Sant Josep 21"
+  },
+  {
+    "name": "Casal de Curacio",
+    "type": "HOSPITAL",
+    "lat": 41.5016294,
+    "lng": 2.3858983,
+    "city": "Vilassar de Mar",
+    "address": "Calle Maria Vidal 19"
+  },
+  {
+    "name": "Hospital Santos Reyes",
+    "type": "HOSPITAL",
+    "lat": 41.669644,
+    "lng": -3.6915981,
+    "city": "Aranda de Duero",
+    "address": "Avenida Ruperta Baraya 6"
+  },
+  {
+    "name": "Hospital San Juan de Dios Burgos",
+    "type": "HOSPITAL",
+    "lat": 42.3394387,
+    "lng": -3.7106272,
+    "city": "Burgos",
+    "address": "Paseo De La Isla 3"
+  },
+  {
+    "name": "Hospital Recoletas de Burgos",
+    "type": "HOSPITAL",
+    "lat": 42.3439825,
+    "lng": -3.6822216,
+    "city": "Burgos",
+    "address": "Calle Cruz Roja S/N"
+  },
+  {
+    "name": "Hospital Universitario de Burgos. Complejo Asistencial Universitario de Burgos",
+    "type": "HOSPITAL",
+    "lat": 42.3613402,
+    "lng": -3.6855071,
+    "city": "Burgos",
+    "address": "Avenida Islas Baleares 3"
+  },
+  {
+    "name": "Hospital Santiago Apóstol",
+    "type": "HOSPITAL",
+    "lat": 42.6697108,
+    "lng": -2.9892559,
+    "city": "Miranda de Ebro",
+    "address": "Carretera De Oron Sn S/N"
+  }
+]

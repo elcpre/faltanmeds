@@ -1,0 +1,5786 @@
+[
+  {
+    "name": "CHERA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.7906749,
+    "lng": -1.7726391,
+    "city": "CHERA",
+    "address": "CALLE ANTONIO SÁNCHEZ PLÁ, Nº 5"
+  },
+  {
+    "name": "REQUENA - EL REBOLLAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4691208,
+    "lng": -1.0118553,
+    "city": "REBOLLAR (EL)",
+    "address": "CALLE ENRIQUE CÁRCEL, S/N"
+  },
+  {
+    "name": "REQUENA - LA PORTERA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4021022,
+    "lng": -1.1009872,
+    "city": "PORTERA (LA)",
+    "address": "PLAZA SAN JOSÉ, S/N"
+  },
+  {
+    "name": "REQUENA - LOS COJOS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4225945,
+    "lng": -1.3067692,
+    "city": "COJOS (LOS)",
+    "address": "CALLE MAYOR, Nº 42"
+  },
+  {
+    "name": "REQUENA - LOS DUQUES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.434318,
+    "lng": -1.2069622,
+    "city": "DUQUES (LOS)",
+    "address": "CALLE LA ESTRELLA, S/N"
+  },
+  {
+    "name": "REQUENA -  LOS ISIDROS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.420582,
+    "lng": -1.2948334,
+    "city": "ISIDROS (LOS)",
+    "address": "AVENIDA ALBACETE, Nº 25"
+  },
+  {
+    "name": "REQUENA - LOS PEDRONES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3347014,
+    "lng": -1.0827779,
+    "city": "PEDRONES (LOS)",
+    "address": "CALLE CARRETERA, Nº 20"
+  },
+  {
+    "name": "LOS RUICES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4748667,
+    "lng": -1.2554601,
+    "city": "RUICES (LOS)",
+    "address": "CALLE OLMO, Nº 1"
+  },
+  {
+    "name": "REQUENA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4861254,
+    "lng": -1.0932005,
+    "city": "REQUENA",
+    "address": "CALLE CONSTITUCIÓN, Nº 47"
+  },
+  {
+    "name": "REQUENA - SAN ANTONIO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5222115,
+    "lng": -1.1503805,
+    "city": "SAN ANTONIO",
+    "address": "PLAZA SALVADOR ZAHONERO, S/N"
+  },
+  {
+    "name": "SAN JUAN",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5233779,
+    "lng": -1.1738424,
+    "city": "SAN JUAN",
+    "address": "CALLE VEREDA, S/N"
+  },
+  {
+    "name": "SIETE AGUAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4730376,
+    "lng": -0.9162592,
+    "city": "SIETE AGUAS",
+    "address": "CALLE VICENTE MASCAROS, Nº 9"
+  },
+  {
+    "name": "UTIEL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5686417,
+    "lng": -1.2080857,
+    "city": "UTIEL",
+    "address": "PLAZA ESCUELAS PIAS, Nº 1"
+  },
+  {
+    "name": "BENAGÉBER",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7075001,
+    "lng": -1.100466,
+    "city": "BENAGÉBER",
+    "address": "CALLE POZO, S/N"
+  },
+  {
+    "name": "UTIEL - LAS CASAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5961537,
+    "lng": -1.2725291,
+    "city": "CASAS (LAS)",
+    "address": "CALLE CUENCA, Nº 20"
+  },
+  {
+    "name": "UTIEL - LAS CUEVAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6197803,
+    "lng": -1.27808,
+    "city": "CUEVAS (LAS)",
+    "address": "CALLE VIRGEN DE LORETO, Nº 1"
+  },
+  {
+    "name": "LOS CORRALES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5963703,
+    "lng": -1.2710536,
+    "city": "CORRALES (LOS)",
+    "address": "CALLE SAN PEDRO APOSTOL, Nº 4"
+  },
+  {
+    "name": "UTIEL - LA TORRE",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6683481,
+    "lng": -1.2633123,
+    "city": "TORRE (LA)",
+    "address": "CALLE BLASCO IBÁÑEZ, S/N"
+  },
+  {
+    "name": "SINARCAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7325529,
+    "lng": -1.231552,
+    "city": "SINARCAS",
+    "address": "CALLE CAÑIZARES, S/N"
+  },
+  {
+    "name": "C.S.I. ALAQUÀS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.450838,
+    "lng": -0.4663672,
+    "city": "ALAQUÀS",
+    "address": "PLAZA MÚSICO FRANCISCO TÁRREGA, S/N"
+  },
+  {
+    "name": "MONTSERRAT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3481239,
+    "lng": -0.5825272,
+    "city": "MONTSERRAT",
+    "address": "CALLE VALENCIA, Nº 47"
+  },
+  {
+    "name": "DOS AGUAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.288962,
+    "lng": -0.8008439,
+    "city": "DOS AGUAS",
+    "address": "AVENIDA MARQUÉS DE DOS AGUAS, S/N"
+  },
+  {
+    "name": "MILLARES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.2376274,
+    "lng": -0.7716739,
+    "city": "MILLARES",
+    "address": "AVENIDA HERMANOS SÁEZ MERINO, Nº 22"
+  },
+  {
+    "name": "MONTROY",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3166081,
+    "lng": -0.6668835,
+    "city": "MONTROI/MONTROY",
+    "address": "CALLE BLASCO IBAÑEZ, Nº 18"
+  },
+  {
+    "name": "REAL",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3925574,
+    "lng": -8.7022428,
+    "city": "REAL",
+    "address": "CALLE JAUME I, Nº 11"
+  },
+  {
+    "name": "PAIPORTA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4322203,
+    "lng": -0.4178775,
+    "city": "PAIPORTA",
+    "address": "CALLE CATARROJA esquina MSTRO. SERRANO, S/N"
+  },
+  {
+    "name": "PICANYA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4332238,
+    "lng": -0.4370926,
+    "city": "PICANYA",
+    "address": "PLAZA DE LA CONSTITUCIÓN, Nº 2"
+  },
+  {
+    "name": "PICASSENT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.360871,
+    "lng": -0.4609402,
+    "city": "PICASSENT",
+    "address": "CALLE MAYOR, S/N"
+  },
+  {
+    "name": "TORRENT II",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4399221,
+    "lng": -0.4639435,
+    "city": "TORRENT",
+    "address": "CALLE XIRIVELLA, Nº 23"
+  },
+  {
+    "name": "TORRENT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4361085,
+    "lng": -0.4609233,
+    "city": "TORRENT",
+    "address": "CALLE SANTS PATRONS, Nº 35"
+  },
+  {
+    "name": "TORRENT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4339428,
+    "lng": -0.4740372,
+    "city": "TORRENT",
+    "address": "CALLE PINTOR RIBERA, Nº 28"
+  },
+  {
+    "name": "TORRENT I - MONTE - VEDAT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4209657,
+    "lng": -0.5033922,
+    "city": "TORRENT",
+    "address": "CALLE FONT DE SAN LLUÍS, Nº 28"
+  },
+  {
+    "name": "C.S.I. XIRIVELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4666594,
+    "lng": -0.4250224,
+    "city": "XIRIVELLA",
+    "address": "CALLE VIRGEN DE LOS DESAMPARADOS, S/N"
+  },
+  {
+    "name": "VALENCIA - GUILLEM DE CASTRO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.468596,
+    "lng": -0.3805458,
+    "city": "VALÈNCIA",
+    "address": "CALLE GUILLEM DE CASTRO, Nº 149"
+  },
+  {
+    "name": "VALENCIA - VIRGEN DE LA FUENSANTA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4664704,
+    "lng": -0.4074574,
+    "city": "VALÈNCIA",
+    "address": "CALLE VIRGEN DE LA FUENSANTA, Nº 18-20"
+  },
+  {
+    "name": "XIRIVELLA BARRIO DE LUZ",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4653766,
+    "lng": -0.4165665,
+    "city": "XIRIVELLA",
+    "address": "CALLE CONSTANTÍ LLOMBART, Nº 1"
+  },
+  {
+    "name": "VALENCIA - SAN ISIDRO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4512392,
+    "lng": -0.4050283,
+    "city": "VALÈNCIA",
+    "address": "CALLE JOSÉ ANDREU ALABARTA, esquina CALLE CAMPOS CARRETERAESPO"
+  },
+  {
+    "name": "ALBAL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.391499,
+    "lng": -0.4027651,
+    "city": "ALBAL",
+    "address": "CALLE DEL REGNE DE VALÈNCIA, S/N"
+  },
+  {
+    "name": "BENIPARRELL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3765385,
+    "lng": -0.4141172,
+    "city": "BENIPARRELL",
+    "address": "CALLE CERVANTES, Nº 15"
+  },
+  {
+    "name": "ALCÀSSER",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3759075,
+    "lng": -0.4412354,
+    "city": "ALCÀSSER",
+    "address": "AVENIDA ENRIC VALOR, S/N"
+  },
+  {
+    "name": "REQUENA - CASAS DEL RÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.2971456,
+    "lng": -1.1337471,
+    "city": "CASAS DEL RÍO",
+    "address": "CALLE EL CURA, Nº 1"
+  },
+  {
+    "name": "ALFAFAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4235096,
+    "lng": -0.3906254,
+    "city": "ALFAFAR",
+    "address": "CALLE DELS FURS, Nº 23"
+  },
+  {
+    "name": "ALFAFAR, PARQUE ALCOSA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4176155,
+    "lng": -0.3989901,
+    "city": "ALFAFAR",
+    "address": "PLAZA POETA MIGUEL HERNÁNDEZ, Nº 4"
+  },
+  {
+    "name": "BENETÚSSER",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4232971,
+    "lng": -0.4025735,
+    "city": "BENETÚSSER",
+    "address": "AVENIDA PAIPORTA, S/N"
+  },
+  {
+    "name": "CATARROJA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4088415,
+    "lng": -0.4053143,
+    "city": "CATARROJA",
+    "address": "AVENIDA RAMBLETA, Nº 63"
+  },
+  {
+    "name": "MASSANASSA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4091688,
+    "lng": -0.3953228,
+    "city": "MASSANASSA",
+    "address": "CALLE DOCTOR GIL LÓPEZ, S/N"
+  },
+  {
+    "name": "SEDAVÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 39.42151,
+    "lng": -0.376371,
+    "city": "SEDAVÍ",
+    "address": "CALLE GÓMEZ FERRER, Nº 3"
+  },
+  {
+    "name": "ALCALALÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.751156,
+    "lng": -0.040238,
+    "city": "ALCALALÍ",
+    "address": "CALLE DEL PORXE, Nº 15"
+  },
+  {
+    "name": "LLIBER",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7472505,
+    "lng": 0.0189409,
+    "city": "LLÍBER",
+    "address": "PLAZA PÚBLICA, S/N"
+  },
+  {
+    "name": "SENIJA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7389514,
+    "lng": 0.0414431,
+    "city": "SENIJA",
+    "address": "AVENIDA JOSÉ ANTONIO, Nº 4"
+  },
+  {
+    "name": "XALÓ/JALÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7409628,
+    "lng": -0.0083031,
+    "city": "XALÓ",
+    "address": "AVENIDA SANTO DOMINGO, S/N"
+  },
+  {
+    "name": "C.S.I. CALP / CALPE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6446895,
+    "lng": 0.0432319,
+    "city": "CALP",
+    "address": "CALLE SAN FERMÍN, S/N"
+  },
+  {
+    "name": "C.S.I. DÉNIA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8294323,
+    "lng": 0.0945796,
+    "city": "DÉNIA",
+    "address": "PARTIDA PLANA EST, Nº 4"
+  },
+  {
+    "name": "DÉNIA LA XARA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.831074,
+    "lng": 0.0681753,
+    "city": "XARA (LA)",
+    "address": "CALLE MAYOR, Nº 14"
+  },
+  {
+    "name": "GATA DE GORGOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7764667,
+    "lng": 0.0901832,
+    "city": "GATA DE GORGOS",
+    "address": "CALLE PARTIDA DE LES SORTS, S/N"
+  },
+  {
+    "name": "JESÚS POBRE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7964548,
+    "lng": 0.0951295,
+    "city": "JESÚS POBRE",
+    "address": "PZ POU DE LA MURTERA, Nº 3"
+  },
+  {
+    "name": "JÁVEA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.737123,
+    "lng": 0.2295654,
+    "city": "JÁVEA/XÀBIA",
+    "address": "PLAZA DE LA CONSTITUCIÓ ESPANYOLA, S/N"
+  },
+  {
+    "name": "ONDARA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8267186,
+    "lng": 0.0236271,
+    "city": "ONDARA",
+    "address": "AVENIDA MARINA ALTA, S/N"
+  },
+  {
+    "name": "BENIARBEIG",
+    "type": "PRIMARY_CARE",
+    "lat": 38.822979,
+    "lng": -0.0014451,
+    "city": "BENIARBEIG",
+    "address": "AVENIDA DEL VERGER, Nº 4"
+  },
+  {
+    "name": "BENIDOLEIG",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7928454,
+    "lng": -0.0280363,
+    "city": "BENIDOLEIG",
+    "address": "PLAZA NUEVA, S/N"
+  },
+  {
+    "name": "ORBA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7786334,
+    "lng": -0.06694,
+    "city": "ORBA",
+    "address": "CALLE L'ALTER, Nº 12"
+  },
+  {
+    "name": "BENIGEMBLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7566862,
+    "lng": -0.106713,
+    "city": "BENIGEMBLA",
+    "address": "PLAZA BALDOM VEGA, S/N"
+  },
+  {
+    "name": "BENIMAURELL - VALL DE LAGUART",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7729822,
+    "lng": -0.1245355,
+    "city": "BENIMAURELL",
+    "address": "CALLE LLOP, Nº 26"
+  },
+  {
+    "name": "BENIMELI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8222618,
+    "lng": -0.0434979,
+    "city": "BENIMELI",
+    "address": "CALLE MAESTRA CONSUELO SANCHIZ, Nº 34"
+  },
+  {
+    "name": "CASTELL DE CASTELLS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7310837,
+    "lng": -0.1449253,
+    "city": "CASTELL DE CASTELLS",
+    "address": "CALLE DÉNIA, S/N"
+  },
+  {
+    "name": "FLEIX - VALL DE LAGUART",
+    "type": "PRIMARY_CARE",
+    "lat": 38.778599,
+    "lng": -0.1148864,
+    "city": "FLEIX",
+    "address": "CALLE CARRETERA, S/N"
+  },
+  {
+    "name": "MURLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7595125,
+    "lng": -0.0833183,
+    "city": "MURLA",
+    "address": "CALLE DIPUTACIÓN, S/N"
+  },
+  {
+    "name": "PARCENT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7418372,
+    "lng": -0.0710299,
+    "city": "PARCENT",
+    "address": "AVENIDA BENIDORM, S/N"
+  },
+  {
+    "name": "EL RÀFOL D'ALMÚNIA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8210264,
+    "lng": -0.0505676,
+    "city": "RÀFOL D'ALMÚNIA (EL)",
+    "address": "CALLE MAYOR, Nº 42"
+  },
+  {
+    "name": "SAGRA",
+    "type": "PRIMARY_CARE",
+    "lat": 42.408878,
+    "lng": -8.1050196,
+    "city": "SAGRA",
+    "address": "CALLE ABDÓN Y SENEN, S/N"
+  },
+  {
+    "name": "SANET I NEGRALS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8177468,
+    "lng": -0.0316015,
+    "city": "SANET Y NEGRALS",
+    "address": "CALLE AYUNTAMIENTO, Nº 20"
+  },
+  {
+    "name": "TORMOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8019326,
+    "lng": -0.0717247,
+    "city": "TORMOS",
+    "address": "CALLE MAYOR, Nº 5"
+  },
+  {
+    "name": "PEDREGUER",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7970721,
+    "lng": 0.0367889,
+    "city": "PEDREGUER",
+    "address": "CALLE ROSER, S/N"
+  },
+  {
+    "name": "ALCALALÍ - LLOSA DE CAMATXO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.762273,
+    "lng": -0.0295157,
+    "city": "LLOSA DE CAMACHO",
+    "address": "CALLE DÉNIA, S/N"
+  },
+  {
+    "name": "PEGO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8500704,
+    "lng": -0.0417869,
+    "city": "PEGO",
+    "address": "CALLE  DÉNIA, Nº 50"
+  },
+  {
+    "name": "ADSUBIA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8397707,
+    "lng": -0.2118265,
+    "city": "ATZÚBIA (L')",
+    "address": "CALLE TORRES ORDUÑA, Nº 1"
+  },
+  {
+    "name": "ALPATRÓ - VALL DE LA GALLINERA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8190637,
+    "lng": -0.2616091,
+    "city": "ALPATRÓ",
+    "address": "CALLE PURÍSSIMA, Nº 1"
+  },
+  {
+    "name": "VALL DE LA GALLINERA - BENIALÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8107452,
+    "lng": -0.2184734,
+    "city": "BENIALÍ",
+    "address": "CARRETERA, Nº 35"
+  },
+  {
+    "name": "VALL DE LA GALLINERA - BENIRRAMA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8295528,
+    "lng": -0.2029388,
+    "city": "BENIRRAMA",
+    "address": "CALLE MAJOR, Nº 54"
+  },
+  {
+    "name": "VALL DE LA GALLINERA - BENISSILI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8274768,
+    "lng": -0.2757923,
+    "city": "BENISSILI",
+    "address": "CALLE IGLESIA, Nº 28"
+  },
+  {
+    "name": "BENISSIVA - VALL DE LA GALLINERA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8195999,
+    "lng": -0.2275763,
+    "city": "BENISSIVA",
+    "address": "CALLE OLMOS CANALDA, S/N"
+  },
+  {
+    "name": "FORNA - ADSUBIA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8722138,
+    "lng": -0.1707426,
+    "city": "FORNA",
+    "address": "CALLE PERERA, Nº 21"
+  },
+  {
+    "name": "VALL D'EBO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8063047,
+    "lng": -0.1578467,
+    "city": "VALL D'EBO (LA)",
+    "address": "AVENIDA MARINA ALTA, Nº 19"
+  },
+  {
+    "name": "TEULADA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.729248,
+    "lng": 0.0979662,
+    "city": "TEULADA",
+    "address": "CALLE DOCTOR PITARCH, S/N"
+  },
+  {
+    "name": "TEULADA - BENITATXELL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.742905,
+    "lng": 0.1344098,
+    "city": "POBLE NOU DE BENITATXELL (EL)/BENITACHELL",
+    "address": "PZ NOVA, Nº 23"
+  },
+  {
+    "name": "TEULADA - MORAIRA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6891521,
+    "lng": 0.1341706,
+    "city": "MORAIRA",
+    "address": "CARRETERA MORAIRA-CALPE, Nº 14"
+  },
+  {
+    "name": "EL VERGER",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8422878,
+    "lng": 0.0076595,
+    "city": "VERGER (EL)",
+    "address": "CALLE L'ESTACIÓ, S/N"
+  },
+  {
+    "name": "ELS POBLETS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8489968,
+    "lng": 0.0161556,
+    "city": "POBLETS (ELS)",
+    "address": "AVENIDA JAUME I, S/N"
+  },
+  {
+    "name": "ALCOI / ALCOY - PLAÇA DE DINS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6980049,
+    "lng": -0.4729658,
+    "city": "ALCOI/ALCOY",
+    "address": "PLAZA ESPAÑA, Nº 2"
+  },
+  {
+    "name": "ALCOI / ALCOY - LA FÁBRICA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6972092,
+    "lng": -0.4803977,
+    "city": "ALCOI/ALCOY",
+    "address": "CALLE ALCOLEJA, Nº 4"
+  },
+  {
+    "name": "ALCOI / ALCOY - BATOY",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6877616,
+    "lng": -0.4921013,
+    "city": "ALCOI/ALCOY",
+    "address": "CALLE OLIVAR, Nº 44"
+  },
+  {
+    "name": "BANYERES DE MARIOLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6710056,
+    "lng": -0.631173,
+    "city": "BANYERES DE MARIOLA",
+    "address": "CALLE LA PORTA, Nº 36"
+  },
+  {
+    "name": "BENISSA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7150054,
+    "lng": 0.0764618,
+    "city": "BENISSA",
+    "address": "AVENIDA AUSIAS MARCH, S/N"
+  },
+  {
+    "name": "ALCOLEJA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6760703,
+    "lng": -0.3344738,
+    "city": "ALCOLEJA",
+    "address": "CALLE SANT ANTONI, Nº 3"
+  },
+  {
+    "name": "BALONES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7334695,
+    "lng": -0.3483489,
+    "city": "BALONES",
+    "address": "CALLE SAN ANTONIO, S/N"
+  },
+  {
+    "name": "BENASAU",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6873511,
+    "lng": -0.3442952,
+    "city": "BENASAU",
+    "address": "CALLE MAYOR, Nº 46"
+  },
+  {
+    "name": "BENIFALLIM",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6619472,
+    "lng": -0.3950953,
+    "city": "BENIFALLIM",
+    "address": "PLAZA DEL SAGRAT COR DE JESÚS, Nº 1"
+  },
+  {
+    "name": "BENIMASSOT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.77552,
+    "lng": -0.2998938,
+    "city": "BENIMASSOT",
+    "address": "PLAZA MAYOR, Nº 1"
+  },
+  {
+    "name": "FACHECA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.736471,
+    "lng": -0.2654466,
+    "city": "FAGECA",
+    "address": "CALLE SALAMANCA, Nº 15"
+  },
+  {
+    "name": "FAMORCA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7326803,
+    "lng": -0.2344843,
+    "city": "FAMORCA",
+    "address": "CALLE SALAMANCA, Nº 2"
+  },
+  {
+    "name": "GORGA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7133586,
+    "lng": -0.3497591,
+    "city": "GORGA",
+    "address": "CALLE MAYOR, Nº 43"
+  },
+  {
+    "name": "MILLENA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7276123,
+    "lng": -0.3643891,
+    "city": "MILLENA",
+    "address": "PLAZA MAYOR, Nº 1"
+  },
+  {
+    "name": "PENÀGUILA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.67465,
+    "lng": -0.3632836,
+    "city": "PENÀGUILA",
+    "address": "CALLE TERRAT DELS POBRES, Nº 3"
+  },
+  {
+    "name": "QUATRETONDETA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7256436,
+    "lng": -0.3103889,
+    "city": "QUATRETONDETA",
+    "address": "CALLE TRINQUET, Nº 15"
+  },
+  {
+    "name": "TOLLOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7631126,
+    "lng": -0.267911,
+    "city": "TOLLOS",
+    "address": "CALLE LLIDONER, Nº 1"
+  },
+  {
+    "name": "CASTALLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5948328,
+    "lng": -0.6689282,
+    "city": "CASTALLA",
+    "address": "CALLE COLÓN, Nº 44-46"
+  },
+  {
+    "name": "COCENTAINA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7407762,
+    "lng": -0.4470467,
+    "city": "COCENTAINA",
+    "address": "AVENIDA REIAL BLANC, S/N"
+  },
+  {
+    "name": "IBI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6168793,
+    "lng": -0.5853675,
+    "city": "IBI",
+    "address": "CALLE RIU DE CAIXES, Nº 8"
+  },
+  {
+    "name": "MURO DE ALCOY",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7815728,
+    "lng": -0.4306967,
+    "city": "MURO DE ALCOY",
+    "address": "CALLE DENTELL, S/N"
+  },
+  {
+    "name": "AGRES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7798887,
+    "lng": -0.5157623,
+    "city": "AGRES",
+    "address": "PLAZA D'ESPAÑA, Nº 1"
+  },
+  {
+    "name": "ALCOCER DE PLANES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7911941,
+    "lng": -0.3984773,
+    "city": "ALCOSSER",
+    "address": "CALLE SANT GIL, Nº 2"
+  },
+  {
+    "name": "ALFAFARA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7730986,
+    "lng": -0.5555244,
+    "city": "ALFAFARA",
+    "address": "CALLE MAESTRO NAVARRO, Nº 2"
+  },
+  {
+    "name": "ALMUDAINA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7542771,
+    "lng": -0.3403296,
+    "city": "ALMUDAINA",
+    "address": "CALLE LES MORERES, Nº 11"
+  },
+  {
+    "name": "PLANES  - BENIALFAQUÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7734191,
+    "lng": -0.3418324,
+    "city": "BENIALFAQUÍ",
+    "address": "COOPERATIVA AGRARIA"
+  },
+  {
+    "name": "BENIARRÉS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8214869,
+    "lng": -0.3783274,
+    "city": "BENIARRÉS",
+    "address": "CALLE ALACANT, Nº3"
+  },
+  {
+    "name": "LA VALL D'ALCALA - BENIAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7804765,
+    "lng": -0.2767193,
+    "city": "BENIAYA",
+    "address": "CALLE LA FONT, Nº 1"
+  },
+  {
+    "name": "BENILLUP",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7534536,
+    "lng": -0.37741,
+    "city": "BENILLUP",
+    "address": "PLAZA DE LA IGLESIA, Nº 1"
+  },
+  {
+    "name": "BENIMARFULL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7885253,
+    "lng": -0.4012572,
+    "city": "BENIMARFULL",
+    "address": "PLAZA CAUDILLO, Nº 2"
+  },
+  {
+    "name": "GAIANES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8142652,
+    "lng": -0.4082012,
+    "city": "GAIANES",
+    "address": "PLAZA MAYOR, Nº 1"
+  },
+  {
+    "name": "LORCHA/ORXA (L')",
+    "type": "PRIMARY_CARE",
+    "lat": 38.8463986,
+    "lng": -0.3151771,
+    "city": "ORXA (L')/LORCHA",
+    "address": "CALLE MESTRE SERRANO, Nº 20"
+  },
+  {
+    "name": "L'ALQUERIA D'ASNAR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.773071,
+    "lng": -0.4255158,
+    "city": "ALQUERIA D'ASNAR (L')",
+    "address": "SAN LORENZO, Nº 6"
+  },
+  {
+    "name": "LA VALL D'ALCALÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7945655,
+    "lng": -0.2524348,
+    "city": "VALL D'ALCALÀ (LA)",
+    "address": "CAMINO DEL MOLINO, Nº 4"
+  },
+  {
+    "name": "PLANES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7859135,
+    "lng": -0.3443546,
+    "city": "PLANES",
+    "address": "CALLE SAN BLAI, Nº 3"
+  },
+  {
+    "name": "ONIL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.628263,
+    "lng": -0.6776113,
+    "city": "ONIL",
+    "address": "CALLE BIAR, S/N"
+  },
+  {
+    "name": "L'ALFÀS DEL PI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5676462,
+    "lng": -0.0929643,
+    "city": "ALFÀS DEL PI (L')",
+    "address": "CALLE PRÍNCIPES DE ESPAÑA, Nº 6"
+  },
+  {
+    "name": "L'ALFAS DEL PI - L'ALBIR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5633422,
+    "lng": -0.0496993,
+    "city": "ALFÀS DEL PI (L')",
+    "address": "CALLE SAN PERE, Nº 13"
+  },
+  {
+    "name": "ALTEA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5959002,
+    "lng": -0.0521779,
+    "city": "ALTEA",
+    "address": "CALLE GALOTXA-POL.GARGANES, S/N"
+  },
+  {
+    "name": "ALTEA LA VIEJA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6307697,
+    "lng": -0.0436675,
+    "city": "ALTEA",
+    "address": "CALLE CURA LLINARES, S/N"
+  },
+  {
+    "name": "BENIDORM - TOMÁS ORTUÑO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5386506,
+    "lng": -0.1311821,
+    "city": "BENIDORM",
+    "address": "CALLE TOMÁS ORTUÑO, Nº 69"
+  },
+  {
+    "name": "BENIDORM - RINCÓN DE LOIX",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5386469,
+    "lng": -0.1090531,
+    "city": "BENIDORM",
+    "address": "AVENIDA JUAN FUSTER ZARAGOZA, S/N"
+  },
+  {
+    "name": "BENIDORM - LA CALA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5323406,
+    "lng": -0.1619503,
+    "city": "BENIDORM",
+    "address": "AVENIDA BENISSA, Nº 6"
+  },
+  {
+    "name": "CALLOSA D'EN SARRIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6515464,
+    "lng": -0.1227228,
+    "city": "CALLOSA D'EN SARRIÀ",
+    "address": "PARTIDA MIRANTBÓ, S/N"
+  },
+  {
+    "name": "BENIARDÁ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6782591,
+    "lng": -0.2195818,
+    "city": "BENIARDÀ",
+    "address": "CALLE CARRETERA, Nº 4"
+  },
+  {
+    "name": "BENIFATO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6735331,
+    "lng": -0.2292831,
+    "city": "BENIFATO",
+    "address": "PLAZA MAYOR, Nº 1"
+  },
+  {
+    "name": "BENIMANTELL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6760912,
+    "lng": -0.2111971,
+    "city": "BENIMANTELL",
+    "address": "CARRETERA D'ALCOI, Nº 18"
+  },
+  {
+    "name": "BOLULLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6762202,
+    "lng": -0.1108358,
+    "city": "BOLULLA",
+    "address": "CALLE BAJO ARRABAL, S/N"
+  },
+  {
+    "name": "CONFRIDES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6842784,
+    "lng": -0.2690856,
+    "city": "CONFRIDES",
+    "address": "CALLE ALACANT, S/N"
+  },
+  {
+    "name": "BENILLOBA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.701229,
+    "lng": -0.386989,
+    "city": "BENILLOBA",
+    "address": "CALLE COMARCA, S/N"
+  },
+  {
+    "name": "TÁRBENA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6980637,
+    "lng": -0.0955427,
+    "city": "TÀRBENA",
+    "address": "PLAZA SANTA ANA, S/N"
+  },
+  {
+    "name": "LA NUCIA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6060579,
+    "lng": -0.0797552,
+    "city": "NUCIA (LA)",
+    "address": "AVENIDA PORTVILLA, S/N"
+  },
+  {
+    "name": "POLOP",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6229938,
+    "lng": -0.1258283,
+    "city": "POLOP",
+    "address": "AVENIDA SAJIBARBA, S/N"
+  },
+  {
+    "name": "FINESTRAT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.567851,
+    "lng": -0.2110886,
+    "city": "FINESTRAT",
+    "address": "CARRER NOU, Nº 5"
+  },
+  {
+    "name": "FINESTRAT - LA CALA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5248165,
+    "lng": -0.1676158,
+    "city": "FINESTRAT",
+    "address": "AVENIDA MARINA BAIXA, S/N"
+  },
+  {
+    "name": "ORXETA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.562908,
+    "lng": -0.2617569,
+    "city": "ORXETA",
+    "address": "CALLE AZAGADOR, Nº 44"
+  },
+  {
+    "name": "RELLEU",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5885021,
+    "lng": -0.3144454,
+    "city": "RELLEU",
+    "address": "CALLE AJUNTAMENT, Nº 15"
+  },
+  {
+    "name": "SELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.598676,
+    "lng": -0.2717638,
+    "city": "SELLA",
+    "address": "PLAZA MAYOR, Nº 8"
+  },
+  {
+    "name": "ALACANT / ALICANTE C/ GERONA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3446995,
+    "lng": -0.4846914,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE GERONA, Nº 24"
+  },
+  {
+    "name": "ALACANT / ALICANTE - SANTA FAZ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3454885,
+    "lng": -0.4814113,
+    "city": "ALICANTE/ALACANT",
+    "address": "PLAZA SANTÍSIMA FAZ, Nº 7"
+  },
+  {
+    "name": "ALACANT / ALICANTE - HOSPITAL PROVINCIAL - PLÁ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3544157,
+    "lng": -0.4763725,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE DOCTOR SAPENA, S/N"
+  },
+  {
+    "name": "ALACANT / ALICANTE - JUAN XXIII",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3786723,
+    "lng": -0.4868474,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE BARITONO PACO LA TORRE, S/N"
+  },
+  {
+    "name": "ALACANT / ALICANTE - CABO HUERTAS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3608539,
+    "lng": -0.4257313,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE ARPÓN, S/N"
+  },
+  {
+    "name": "ALACANT / ALICANTE - PLAYA DE SANT JOAN D'ALACANT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3705827,
+    "lng": -0.4199287,
+    "city": "ALICANTE/ALACANT",
+    "address": "AVENIDA BRUSELAS, Nº 19"
+  },
+  {
+    "name": "ALACANT / ALICANTE - VISTAHERMOSA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3724532,
+    "lng": -0.4558399,
+    "city": "ALICANTE/ALACANT",
+    "address": "AVENIDA DENIA (COMPLEJO VISTAHERMOSA), Nº 140"
+  },
+  {
+    "name": "C.S.I. EL CAMPELLO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4096997,
+    "lng": -0.4050311,
+    "city": "CAMPELLO (EL)",
+    "address": "AVENIDA GERMANÍAS, S/N"
+  },
+  {
+    "name": "AIGÜES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5063937,
+    "lng": -0.3697318,
+    "city": "AIGÜES",
+    "address": "CALLE DOCTOR SAPENA, Nº 33"
+  },
+  {
+    "name": "EL CAMPELLO - PLAYA DE MUCHAVISTA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3945521,
+    "lng": -0.4099036,
+    "city": "CAMPELLO (EL)",
+    "address": "CALLE JUÁN DE LA CIERVA, Nº 19"
+  },
+  {
+    "name": "JIJONA/XIXONA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5442534,
+    "lng": -0.4947646,
+    "city": "XIXONA/JIJONA",
+    "address": "PARTIDA DE SEGORB, S/N"
+  },
+  {
+    "name": "TIBI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5005778,
+    "lng": -0.5579086,
+    "city": "TIBI",
+    "address": "CALLE ELS LLORERS, Nº 17"
+  },
+  {
+    "name": "LA TORRE DE LES MAÇANES / TORREMANZANAS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6091544,
+    "lng": -0.4182391,
+    "city": "TORRE DE LES MAÇANES (LA)/TORREMANZANAS",
+    "address": "CASA DEL MÉDICO"
+  },
+  {
+    "name": "MUTXAMEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4404675,
+    "lng": -0.4732202,
+    "city": "MUTXAMEL",
+    "address": "CALLE DEL MAR, S/N"
+  },
+  {
+    "name": "MUTXAMEL - LA HUERTA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4099913,
+    "lng": -0.4726342,
+    "city": "MUTXAMEL",
+    "address": "CALLE DEL PINO, S/N"
+  },
+  {
+    "name": "BUSOT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4858332,
+    "lng": -0.4164314,
+    "city": "BUSOT",
+    "address": "CALLE MAJOR, Nº 3"
+  },
+  {
+    "name": "SANT JOAN D´ALACANT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4009722,
+    "lng": -0.4473483,
+    "city": "SANT JOAN D'ALACANT",
+    "address": "CALLE AUSIAS MARCH, S/N"
+  },
+  {
+    "name": "ASPE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3499078,
+    "lng": -0.7664901,
+    "city": "ASPE",
+    "address": "CALLE LEPANTO, Nº 8"
+  },
+  {
+    "name": "ORIHUELA - BARBARROJA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2766749,
+    "lng": -0.9634371,
+    "city": "BARBARROJA",
+    "address": "C7 PÉREZ, S/N"
+  },
+  {
+    "name": "HONDÓN DE LAS NIEVES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3051044,
+    "lng": -0.9340762,
+    "city": "FONDÓ DE LES NEUS (EL)/HONDÓN DE LAS NIEVES",
+    "address": "CALLE VIRGEN DE LAS NIEVES, Nº 1"
+  },
+  {
+    "name": "HONDÓN DE LOS FRAILES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2741271,
+    "lng": -0.9262528,
+    "city": "HONDÓN DE LOS FRAILES",
+    "address": "AVENIDA ENRIQUE PASTOR, Nº 55"
+  },
+  {
+    "name": "HONDÓN DE LAS NIEVES - LA CANALOSA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2916348,
+    "lng": -0.9302547,
+    "city": "CANALOSA (LA)",
+    "address": "AVENIDA EL SALVADOR, S/N"
+  },
+  {
+    "name": "BIAR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.631265,
+    "lng": -0.7647225,
+    "city": "BIAR",
+    "address": "CALLE LOS PASOS, Nº 6"
+  },
+  {
+    "name": "BENEJAMA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6994002,
+    "lng": -0.765528,
+    "city": "BENEIXAMA",
+    "address": "CALLE PRACTICANTE BELLOT, Nº2"
+  },
+  {
+    "name": "EL CAMP DE MIRRA / CAMPO DE MIRRA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6936353,
+    "lng": -0.8038771,
+    "city": "CAMP DE MIRRA (EL)/CAMPO DE MIRRA",
+    "address": "CALLE MÚSICO JOSÉ ALBERO, Nº 3"
+  },
+  {
+    "name": "CAÑADA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2279983,
+    "lng": -3.6894209,
+    "city": "CAÑADA",
+    "address": "CALLE PRÍNCIPE DE ASTURIAS, Nº 44"
+  },
+  {
+    "name": "ELDA - MARINA ESPAÑOLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4752834,
+    "lng": -0.7999357,
+    "city": "ELDA",
+    "address": "CALLE MARINA ESPAÑOLA, Nº 12"
+  },
+  {
+    "name": "ELDA - ACACIAS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4727313,
+    "lng": -0.7887532,
+    "city": "ELDA",
+    "address": "AVENIDA DE LAS ACACIAS, Nº 31"
+  },
+  {
+    "name": "ELDA - AVDA. SAX",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4856619,
+    "lng": -0.7993043,
+    "city": "ELDA",
+    "address": "AVENIDA DE SAX, S/N"
+  },
+  {
+    "name": "MONÓVAR/MONÒVER",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4453853,
+    "lng": -0.8335284,
+    "city": "MONÒVER/MONÓVAR",
+    "address": "CALLE DOCTOR DON ANTONIO RICO JARA, Nº 3"
+  },
+  {
+    "name": "C.S.I. NOVELDA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3823634,
+    "lng": -0.7626367,
+    "city": "NOVELDA",
+    "address": "CALLE VIRGEN DEL REMEDIO, Nº 114"
+  },
+  {
+    "name": "LA ROMANA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3654482,
+    "lng": -0.8961794,
+    "city": "ROMANA (LA)",
+    "address": "CALLE CERVANTES, Nº 20"
+  },
+  {
+    "name": "GUADALEST",
+    "type": "PRIMARY_CARE",
+    "lat": 38.646961,
+    "lng": -0.1354815,
+    "city": "CASTELL DE GUADALEST (EL)",
+    "address": "CARRETERA DE ALCOI, S/N"
+  },
+  {
+    "name": "PETRER I",
+    "type": "PRIMARY_CARE",
+    "lat": 38.484587,
+    "lng": -0.7777945,
+    "city": "PETRER",
+    "address": "CALLE CURA JESÚS ZARAGOZA, Nº 3"
+  },
+  {
+    "name": "PETRER II",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4813336,
+    "lng": -0.7822443,
+    "city": "PETRER",
+    "address": "CALLE JARDINES JUAN CARLOS, Nº I"
+  },
+  {
+    "name": "ALGUEÑA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3384333,
+    "lng": -1.0041136,
+    "city": "ALGUEÑA",
+    "address": "CALLE RUPERTO CHAPI, Nº 7"
+  },
+  {
+    "name": "SAX",
+    "type": "PRIMARY_CARE",
+    "lat": 38.533962,
+    "lng": -0.82014,
+    "city": "SAX",
+    "address": "AVENIDA REYES CATÓLICOS, Nº 21"
+  },
+  {
+    "name": "SALINAS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5200352,
+    "lng": -0.9123365,
+    "city": "SALINAS",
+    "address": "CALLE ANTONIO MACHADO, Nº 15"
+  },
+  {
+    "name": "VILLENA I",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6306864,
+    "lng": -0.8660895,
+    "city": "VILLENA",
+    "address": "CALLE SAN FRANCISCO, Nº 1"
+  },
+  {
+    "name": "VILLENA II",
+    "type": "PRIMARY_CARE",
+    "lat": 38.6399108,
+    "lng": -0.8690124,
+    "city": "VILLENA",
+    "address": "AVENIDA DE LOS TOREROS, S/N"
+  },
+  {
+    "name": "VILLENA - LA ENCINA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.7662038,
+    "lng": -0.9533611,
+    "city": "ENCINA (LA)",
+    "address": "AVENIDA CONSTITUCIÓN, Nº 80"
+  },
+  {
+    "name": "ALACANT / ALICANTE - CAMPOAMOR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.384996,
+    "lng": -0.5134657,
+    "city": "ALICANTE/ALACANT",
+    "address": "PLAZA DE AMERICA, Nº 4"
+  },
+  {
+    "name": "ALACANT / ALICANTE - BABEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3395849,
+    "lng": -0.5145987,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE FERNANDO MADROÑAL, Nº 13-15"
+  },
+  {
+    "name": "ALACANT / ALICANTE - SAN GABRIEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3355796,
+    "lng": -0.5080783,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE PEGO, esquina CARRETERA ELCHE/ELX"
+  },
+  {
+    "name": "ALACANT / ALICANTE - FLORIDA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3395849,
+    "lng": -0.5145987,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE FERNANDO MADROÑAL, Nº 9-11"
+  },
+  {
+    "name": "ALACANT / ALICANTE - REBOLLEDO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3428008,
+    "lng": -0.6085611,
+    "city": "REBOLLEDO",
+    "address": "PASEO MAYOR, S/N"
+  },
+  {
+    "name": "ALACANT / ALICANTE - SAN BLAS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3492182,
+    "lng": -0.4997645,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE MAESTRO LATORRE, Nº 9"
+  },
+  {
+    "name": "ALACANT / ALICANTE - LOS ÁNGELES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3630302,
+    "lng": -0.4965607,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE LINARES, Nº 9"
+  },
+  {
+    "name": "ALACANT / ALICANTE - PARQUE LO MORANT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3650738,
+    "lng": -0.4851653,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE MAESTRO ALONSO, Nº 109"
+  },
+  {
+    "name": "ALACANT / ALICANTE - VILLAFRANQUEZA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3853342,
+    "lng": -0.4919366,
+    "city": "ALICANTE/ALACANT",
+    "address": "CALLE CASTELAR, Nº 40"
+  },
+  {
+    "name": "AGOST",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4072848,
+    "lng": -0.61469,
+    "city": "AGOST",
+    "address": "AVENIDA DE ALCOY, S/N"
+  },
+  {
+    "name": "MONFORTE DEL CID",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3806619,
+    "lng": -0.7267724,
+    "city": "MONFORTE DEL CID",
+    "address": "CALLE AGOST, Nº 52"
+  },
+  {
+    "name": "SAN VICENTE DEL RASPEIG I",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3911765,
+    "lng": -0.5027947,
+    "city": "SAN VICENTE DEL RASPEIG/SANT VICENT DEL RASPEIG",
+    "address": "PARTIDA CANASTELL, Nº 16"
+  },
+  {
+    "name": "SAN VICENTE DEL RASPEIG II",
+    "type": "PRIMARY_CARE",
+    "lat": 38.415958,
+    "lng": -0.5522762,
+    "city": "SAN VICENTE DEL RASPEIG/SANT VICENT DEL RASPEIG",
+    "address": "AVENIDA ALICANTE, Nº 78"
+  },
+  {
+    "name": "ALACANT / ALICANTE - LA CAÑADA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3973297,
+    "lng": -0.5790306,
+    "city": "CAÑADA (LA)",
+    "address": "CARRETERA LA ALCORAYA, Nº 118"
+  },
+  {
+    "name": "SAN VICENTE DEL RASPEIG - COLEGIO SANTA ISABEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3898043,
+    "lng": -0.5038783,
+    "city": "SAN VICENTE DEL RASPEIG/SANT VICENT DEL RASPEIG",
+    "address": "CALLE HAYGÓN, Nº 48"
+  },
+  {
+    "name": "C.S.I. CREVILLENT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2467985,
+    "lng": -0.8058287,
+    "city": "CREVILLENT",
+    "address": "TRAVESÍA VEREDA FOTJES Y VIAL PARQUE, S/N"
+  },
+  {
+    "name": "CREVILLENT - SAN FELIPE NERI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1767435,
+    "lng": -0.7980261,
+    "city": "SAN FELIPE NERI",
+    "address": "CALLE CURA GARCÍA BERNABÉ, S/N"
+  },
+  {
+    "name": "ELX / ELCHE -  EL TOSCAR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2693117,
+    "lng": -0.7156782,
+    "city": "ELCHE/ELX",
+    "address": "CALLE VICENTE FUENTES SANSANO, Nº 36"
+  },
+  {
+    "name": "ELX / ELCHE - CARRÚS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.310136,
+    "lng": -0.7223547,
+    "city": "ELCHE/ELX",
+    "address": "CALLE ALFREDO SÁNCHEZ TORRES, Nº 8"
+  },
+  {
+    "name": "ELX / ELCHE - EL RAVAL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2585898,
+    "lng": -0.6943239,
+    "city": "ELCHE/ELX",
+    "address": "CAMÍ DE FELIP, S/N"
+  },
+  {
+    "name": "ELX / ELCHE - ALTABIX",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2707624,
+    "lng": -0.6877444,
+    "city": "ELCHE/ELX",
+    "address": "CALLE ANTONIO MORA FERRÁNDEZ, Nº 51"
+  },
+  {
+    "name": "ELX / ELCHE PLÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2548942,
+    "lng": -0.7064845,
+    "city": "ELCHE/ELX",
+    "address": "CALLE MANUEL ALCARAZ MORA, Nº 13"
+  },
+  {
+    "name": "ELX / ELCHE - LA FOIA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2265875,
+    "lng": -0.6991724,
+    "city": "ELCHE/ELX",
+    "address": "CALLE TRANSVASE, Nº 32"
+  },
+  {
+    "name": "ELX / ELCHE - MARINA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.157865,
+    "lng": -0.6493618,
+    "city": "ELCHE/ELX",
+    "address": "PARTIDA LA MARINA, Nº 283"
+  },
+  {
+    "name": "ELX / ELCHE - PERLETA MAITINO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2508941,
+    "lng": -0.6335986,
+    "city": "ELCHE/ELX",
+    "address": "AVENIDA DE PERLETA, Nº 16"
+  },
+  {
+    "name": "ELX / ELCHE LES BAIES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2195053,
+    "lng": -0.6563005,
+    "city": "ELCHE/ELX",
+    "address": "CALLE MUTXOL, Nº 10"
+  },
+  {
+    "name": "ELX / ELCHE - LOS ARENALES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2542349,
+    "lng": -0.5192439,
+    "city": "ARENALES DEL SOL (LOS)",
+    "address": "AVENIDA SAN BARTOLOMÉ DE TIRAJANA, S/N"
+  },
+  {
+    "name": "ELX / ELCHE - TORRELLANO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2948195,
+    "lng": -0.58746,
+    "city": "ELCHE/ELX",
+    "address": "CALLE MAESTRO ANTONIO CUTILLAS, Nº 1"
+  },
+  {
+    "name": "ELX / ELCHE - VALVERDE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2238854,
+    "lng": -0.6065258,
+    "city": "ELCHE/ELX",
+    "address": "AVENIDA VALVERDE ALTO POL-URBANIZACIÓN 31, S/N"
+  },
+  {
+    "name": "PINÓS (EL)/PINOSO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3996359,
+    "lng": -1.0437068,
+    "city": "PINÓS (EL)/PINOSO",
+    "address": "CALLE MÉDICO JOSÉ PÉREZ OCHOA, Nº 2"
+  },
+  {
+    "name": "C.S.I. SANTA POLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1937862,
+    "lng": -0.5721393,
+    "city": "SANTA POLA",
+    "address": "AVENIDA DE ALBACETE, S/N"
+  },
+  {
+    "name": "SANTA POLA - CASA DEL MAR (verano)",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1922561,
+    "lng": -0.5593827,
+    "city": "SANTA POLA",
+    "address": "CALLE CANALEJAS, Nº 1"
+  },
+  {
+    "name": "SANTA POLA - GRAN ALACANT",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2255855,
+    "lng": -0.5213294,
+    "city": "SANTA POLA",
+    "address": "AVENIDA ESCANDINAVIA, Nº 31"
+  },
+  {
+    "name": "ALBATERA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2561964,
+    "lng": -0.9200963,
+    "city": "ALBATERA",
+    "address": "CARRETERA DEL HONDÓN, S/N"
+  },
+  {
+    "name": "SAN ISIDRO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.1860403,
+    "lng": -5.4926052,
+    "city": "SAN ISIDRO",
+    "address": "CALLE MAYOR, S/N"
+  },
+  {
+    "name": "ALMORADÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1038509,
+    "lng": -0.8004116,
+    "city": "ALMORADÍ",
+    "address": "CALLE MAYOR, Nº 110"
+  },
+  {
+    "name": "ALGORFA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0864194,
+    "lng": -0.7947131,
+    "city": "ALGORFA",
+    "address": "CALLE SAN JOSÉ, S/N"
+  },
+  {
+    "name": "DAYA NUEVA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1040443,
+    "lng": -0.7739598,
+    "city": "DAYA NUEVA",
+    "address": "CARRETERA DOLORES-ALMORADI (CALLES DINAMARCA Y NORUEGA), S/N"
+  },
+  {
+    "name": "DAYA VIEJA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.104449,
+    "lng": -0.7372202,
+    "city": "DAYA VIEJA",
+    "address": "CALLE GENERALÍSIMO, Nº 12"
+  },
+  {
+    "name": "ALMORADÍ - HEREDADES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0910444,
+    "lng": -0.7636852,
+    "city": "HEREDADES (LAS)",
+    "address": "AVENIDA LOS LLANOS, S/N"
+  },
+  {
+    "name": "BIGASTRO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0558659,
+    "lng": -0.9006183,
+    "city": "BIGASTRO",
+    "address": "CALLE TOMÁS DE VILLANUEVA, S/N"
+  },
+  {
+    "name": "BENEJÚZAR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0759077,
+    "lng": -0.8385051,
+    "city": "BENEJÚZAR",
+    "address": "CALLE SALVADOR DALÍ, Nº 64"
+  },
+  {
+    "name": "JACARILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0613259,
+    "lng": -0.8686042,
+    "city": "JACARILLA",
+    "address": "AVENIDA LA PAZ, S/N"
+  },
+  {
+    "name": "CALLOSA DE SEGURA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1226687,
+    "lng": -0.8744051,
+    "city": "CALLOSA DE SEGURA",
+    "address": "CALLE TIERNO GALVÁN, Nº 19"
+  },
+  {
+    "name": "COX",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1410505,
+    "lng": -0.8919101,
+    "city": "COX",
+    "address": "CALLE EL ESCORIAL, S/N"
+  },
+  {
+    "name": "GRANJA DE ROCAMORA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1496597,
+    "lng": -0.891953,
+    "city": "GRANJA DE ROCAMORA",
+    "address": "PLAZA ANTONIO MANRESA, Nº 1"
+  },
+  {
+    "name": "RAFAL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1059257,
+    "lng": -0.8515123,
+    "city": "RAFAL",
+    "address": "CALLE DOCTOR MAZÓN, Nº 12"
+  },
+  {
+    "name": "REDOVÁN",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1135321,
+    "lng": -0.9071912,
+    "city": "REDOVÁN",
+    "address": "CALLE LAS ESCUELAS, Nº 2"
+  },
+  {
+    "name": "DOLORES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1403036,
+    "lng": -0.7718222,
+    "city": "DOLORES",
+    "address": "CALLE 22 DE DICIEMBRE, Nº 3"
+  },
+  {
+    "name": "CATRAL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1596307,
+    "lng": -0.8042026,
+    "city": "CATRAL",
+    "address": "PLAZA DE ESPAÑA, Nº 1"
+  },
+  {
+    "name": "ORIHUELA - PLAZA DE LA SALUD",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0870166,
+    "lng": -0.9507872,
+    "city": "ORIHUELA",
+    "address": "PLAZA DE LA SALUD, S/N"
+  },
+  {
+    "name": "ORIHUELA - MEDIA LEGUA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0870938,
+    "lng": -0.936415,
+    "city": "ORIHUELA",
+    "address": "CALLE CAMINO VIEJO DE CALLOSA, Nº 62"
+  },
+  {
+    "name": "ORIHUELA - EL ESCORRATEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.100798,
+    "lng": -0.9351815,
+    "city": "ORIHUELA",
+    "address": "CALLE EL ESCORRATEL, S/N"
+  },
+  {
+    "name": "ORIHUELA - LA APARECIDA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0810098,
+    "lng": -1.0077869,
+    "city": "ORIHUELA",
+    "address": "CALLE LAS ESCUELAS, S/N"
+  },
+  {
+    "name": "ORIHUELA - LA CAMPANETA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0900225,
+    "lng": -0.8993862,
+    "city": "ORIHUELA",
+    "address": "CALLE CAMINO VIEJO DE ALMORADÍ, Nº 51"
+  },
+  {
+    "name": "ORIHUELA - LA MURADA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.166918,
+    "lng": -0.9633002,
+    "city": "MURADA (LA)",
+    "address": "PARTIDA DE DOÑA GLORIA, S/N"
+  },
+  {
+    "name": "ORIHUELA - RINCÓN DE BONANZA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.080524,
+    "lng": -1.0073652,
+    "city": "ORIHUELA",
+    "address": "CALLE LA CARRETERA, S/N"
+  },
+  {
+    "name": "ORIHUELA - SAN BARTOLOMÉ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0957376,
+    "lng": -0.8613368,
+    "city": "SAN BARTOLOMÉ",
+    "address": "PARTIDA TRINITARIO FERRÁNDEZ, Nº 1"
+  },
+  {
+    "name": "ORIHUELA - VIRGEN DEL CAMINO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0766925,
+    "lng": -0.9483237,
+    "city": "ORIHUELA",
+    "address": "CALLE VIRGEN DEL CAMINO, S/N"
+  },
+  {
+    "name": "ORIHUELA - BENFERRI",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1520325,
+    "lng": -0.9620079,
+    "city": "BENFERRI",
+    "address": "CALLE LA CRUZ, Nº 22"
+  },
+  {
+    "name": "ORIHUELA - ÁLVAREZ DE LA RIVA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0864005,
+    "lng": -0.9387139,
+    "city": "ORIHUELA",
+    "address": "AVENIDA PRÍNCIPE DE ASTURIAS, S/N"
+  },
+  {
+    "name": "ORIHUELA - HURCHILLO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0681239,
+    "lng": -0.9338558,
+    "city": "HURCHILLO",
+    "address": "CALLE CONSULTORIO HURCHILLO, S/N"
+  },
+  {
+    "name": "ORIHUELA - L'ARNEVA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.059334,
+    "lng": -0.9442275,
+    "city": "ARNEVA",
+    "address": "AVENIDA DE ARNEVA, S/N"
+  },
+  {
+    "name": "ORIHUELA - LOS DESAMPARADOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0565605,
+    "lng": -0.9895297,
+    "city": "DESAMPARADOS",
+    "address": "PLAZA DE LA IGLESIA, S/N"
+  },
+  {
+    "name": "ORIHUELA - MOLÍNS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0817055,
+    "lng": -0.9084236,
+    "city": "MOLÍNS",
+    "address": "PLAZA DE LA IGLESIA, S/N"
+  },
+  {
+    "name": "C.S.I. GUARDAMAR DEL SEGURA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0887587,
+    "lng": -0.6552527,
+    "city": "GUARDAMAR DEL SEGURA",
+    "address": "CALLE MOVILENT, Nº 1"
+  },
+  {
+    "name": "GUARDAMAR DEL SEGURA - EL CAMPO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0659509,
+    "lng": -0.6519324,
+    "city": "GUARDAMAR DEL SEGURA",
+    "address": "CARRETERA GUARDAMAR / LOS MONTESINOS, Nº1111"
+  },
+  {
+    "name": "SAN FULGENCIO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.138763,
+    "lng": -0.6749545,
+    "city": "SAN FULGENCIO",
+    "address": "CALLE INFANTA LEONOR, Nº 36"
+  },
+  {
+    "name": "LA MARINA - OASIS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1348196,
+    "lng": -0.6857763,
+    "city": "SAN FULGENCIO",
+    "address": "CALLE AMSTERDAM, S/N-URBANIZACIÓN LA MARINA"
+  },
+  {
+    "name": "C.S.I. ROJALES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0852404,
+    "lng": -0.7288335,
+    "city": "ROJALES",
+    "address": "CALLE CONSTITUCIÓN, S/N"
+  },
+  {
+    "name": "BENIJÓFAR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0788653,
+    "lng": -0.7370924,
+    "city": "BENIJÓFAR",
+    "address": "CALLE TORREVIEJA, Nº 15"
+  },
+  {
+    "name": "FORMENTERA DEL SEGURA - LOS PALACIOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0891913,
+    "lng": -0.7274881,
+    "city": "PALACIOS (LOS)",
+    "address": "CALLE ORIHUELA, S/N"
+  },
+  {
+    "name": "FORMENTERA DEL SEGURA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0846853,
+    "lng": -0.7466767,
+    "city": "FORMENTERA DEL SEGURA",
+    "address": "CALLE FEDERICO GARCIA LORCA, Nº 3"
+  },
+  {
+    "name": "SANTA POLA - ISLA TABARCA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1931083,
+    "lng": -0.5555927,
+    "city": "SANTA POLA",
+    "address": "CALLE IGLESIA, S/N"
+  },
+  {
+    "name": "C.S.I. TORREVIEJA - EL ACEQUIÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9744226,
+    "lng": -0.6959097,
+    "city": "TORREVIEJA",
+    "address": "CALLE URBANO ARREGUI, Nº 6"
+  },
+  {
+    "name": "TORREVIEJA - LA MATA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0183829,
+    "lng": -0.6537713,
+    "city": "TORREVIEJA",
+    "address": "AVENIDA DE HOLANDA, Nº 51"
+  },
+  {
+    "name": "TORREVIEJA - PATRICIO PÉREZ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9771344,
+    "lng": -0.6844699,
+    "city": "TORREVIEJA",
+    "address": "CALLE PATRICIO PÉREZ, Nº 36"
+  },
+  {
+    "name": "C.S.I. PILAR DE LA HORADADA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8636979,
+    "lng": -0.7872156,
+    "city": "PILAR DE LA HORADADA",
+    "address": "CALLE VICENTE BLASCO IBAÑEZ, S/N"
+  },
+  {
+    "name": "ORIHUELA COSTA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9316832,
+    "lng": -0.767158,
+    "city": "ORIHUELA",
+    "address": "CALLE DEL MAR-VILLACOSTA I, Nº 1"
+  },
+  {
+    "name": "PILAR DE HORADADA - MIL PALMERAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8796085,
+    "lng": -0.7606342,
+    "city": "PILAR DE LA HORADADA",
+    "address": "CALLE MIL PALMERAS, Nº 12"
+  },
+  {
+    "name": "PILAR DE LA HORADADA - PINAR DE CAMPOVERDE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9083496,
+    "lng": -0.8514936,
+    "city": "PILAR DE LA HORADADA",
+    "address": "AVENIDA DEL PINO, Nº 45"
+  },
+  {
+    "name": "PILAR DE LA HORADADA - TORRE DE LA HORADADA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8700286,
+    "lng": -0.7591742,
+    "city": "PILAR DE LA HORADADA",
+    "address": "CALLE MANUEL MOLINO, S/N"
+  },
+  {
+    "name": "SAN MIGUEL DE SALINAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9776105,
+    "lng": -0.7881769,
+    "city": "SAN MIGUEL DE SALINAS",
+    "address": "CALLE DIECINUEVE DE ABRIL, S/N"
+  },
+  {
+    "name": "LOS MONTESINOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.02746,
+    "lng": -0.7469855,
+    "city": "MONTESINOS (LOS)",
+    "address": "CALLE DIEGO MONTESINOS, Nº 10"
+  },
+  {
+    "name": "ORIHUELA - TORREMENDO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9910535,
+    "lng": -0.8648544,
+    "city": "TORREMENDO",
+    "address": "AVENIDA ORIHUELA, S/N"
+  },
+  {
+    "name": "ALCALÀ DE XIVERT",
+    "type": "PRIMARY_CARE",
+    "lat": 40.304654,
+    "lng": 0.2286776,
+    "city": "ALCALÀ DE XIVERT",
+    "address": "CALLE VILLANUEVA, Nº 1"
+  },
+  {
+    "name": "ALCALÀ DE XIVERT - ALCOSSEBRE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.244975,
+    "lng": 0.276958,
+    "city": "ALCALÀ DE XIVERT",
+    "address": "CALLE SAN JOSÉ, S/N"
+  },
+  {
+    "name": "SANTA MAGDALENA DE PULPIS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3585915,
+    "lng": 0.2935883,
+    "city": "SANTA MAGDALENA DE PULPIS",
+    "address": "PASEO LUIS TORRES MORERA, S/N"
+  },
+  {
+    "name": "C.S.I. BENICARLÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4212709,
+    "lng": 0.419412,
+    "city": "BENICARLÓ",
+    "address": "CALLE PEÑÍSCOLA, Nº 21"
+  },
+  {
+    "name": "CÁLIG",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4745563,
+    "lng": 0.420747,
+    "city": "BENICARLÓ",
+    "address": "PLAZA DOCTOR QUIXAL, S/N"
+  },
+  {
+    "name": "PEÑÍSCOLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3594168,
+    "lng": 0.4008509,
+    "city": "PEÑÍSCOLA",
+    "address": "CALLE ULLAL DE L'ESTANY, Nº 6"
+  },
+  {
+    "name": "LA MATA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.6002323,
+    "lng": -0.282173,
+    "city": "MATA DE MORELLA (LA)",
+    "address": "CARRETERA CANTAVIEJA, Nº 3"
+  },
+  {
+    "name": "ORTELLS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5815826,
+    "lng": -0.2171766,
+    "city": "CINCTORRES",
+    "address": "PLAZA,S/N"
+  },
+  {
+    "name": "PORTELL DE MORELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5327306,
+    "lng": -0.261403,
+    "city": "PORTELL DE MORELLA",
+    "address": "PLAZA DE L´ AJUNTAMENT, S/N"
+  },
+  {
+    "name": "TODOLELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.647612,
+    "lng": -0.2459911,
+    "city": "TODOLELLA",
+    "address": "CALLE DE L´ARC, Nº 5"
+  },
+  {
+    "name": "VILLORES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.67385,
+    "lng": -0.2014662,
+    "city": "TODOLELLA",
+    "address": "CALLE DE LA FONT, S/N"
+  },
+  {
+    "name": "MORELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.6180395,
+    "lng": -0.0979826,
+    "city": "MORELLA",
+    "address": "PLAZA SAN MIGUEL, Nº 1"
+  },
+  {
+    "name": "HERBÉS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.720779,
+    "lng": -0.0039636,
+    "city": "Herbers",
+    "address": "CALLE HORNO, Nº 27"
+  },
+  {
+    "name": "VALLIBONA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.6037712,
+    "lng": 0.0464465,
+    "city": "VALLIBONA",
+    "address": "PLAZA DE SANT ANTONI, S/N"
+  },
+  {
+    "name": "SANT MATEU",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4658416,
+    "lng": 0.1801247,
+    "city": "SANT MATEU",
+    "address": "AVENIDA CONSTITUCIÓN, Nº 29"
+  },
+  {
+    "name": "CATÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4714303,
+    "lng": 0.0227799,
+    "city": "CATÍ",
+    "address": "CALLE LES ESCOLES, Nº 13"
+  },
+  {
+    "name": "CHERT/XERT",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5210116,
+    "lng": 0.1488273,
+    "city": "CHERT/XERT",
+    "address": "CALLE CAMINO NUEVO, S/N"
+  },
+  {
+    "name": "TRAIGUERA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5227263,
+    "lng": 0.2902914,
+    "city": "TRAIGUERA",
+    "address": "PLAZA CONSTITUCIÓN, Nº 24"
+  },
+  {
+    "name": "CASTELL DE CABRES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5238722,
+    "lng": 0.2896434,
+    "city": "TRAIGUERA",
+    "address": "CALLE MAJOR, S/N"
+  },
+  {
+    "name": "LA POBLA DE BENIFASSÀ - FREDES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5245328,
+    "lng": 0.2900756,
+    "city": "TRAIGUERA",
+    "address": "CALLE MAYOR, Nº 3"
+  },
+  {
+    "name": "C.S.I. TORREVIEJA - LA LOMA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.986151,
+    "lng": -0.6732638,
+    "city": "TORREVIEJA",
+    "address": "CALLE VIRGEN DEL MAR, S/N"
+  },
+  {
+    "name": "LA POBLA DE BENIFASSÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5245328,
+    "lng": 0.2900756,
+    "city": "TRAIGUERA",
+    "address": "CALLE MAJOR, Nº 13"
+  },
+  {
+    "name": "ROSSELL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5575467,
+    "lng": 0.2990825,
+    "city": "TRAIGUERA",
+    "address": "CALLE MAESTRA SAINZ, Nº 31"
+  },
+  {
+    "name": "SANT JORDI/SAN JORGE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.5085893,
+    "lng": 0.3306435,
+    "city": "SANT JORDI/SAN JORGE",
+    "address": "CALLE DIEZMO, Nº 1"
+  },
+  {
+    "name": "SAN RAFAEL DEL RÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.6057113,
+    "lng": 0.3498224,
+    "city": "SAN RAFAEL DEL RÍO",
+    "address": "CALLE SALVADOR PONS, Nº 20"
+  },
+  {
+    "name": "ATZENETA DEL MAESTRAT",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1966596,
+    "lng": -0.2027583,
+    "city": "ATZENETA DEL MAESTRAT",
+    "address": "CALLE MOSÉN RICARDO MIRALLES, Nº 14"
+  },
+  {
+    "name": "BENAFIGOS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2980422,
+    "lng": -0.2336978,
+    "city": "BENAFIGOS",
+    "address": "PLAZA MAYOR, Nº 1"
+  },
+  {
+    "name": "BENASSAL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3784062,
+    "lng": -0.1372041,
+    "city": "BENASSAL",
+    "address": "AVENIDA MONFERRER, S/N"
+  },
+  {
+    "name": "CULLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3375902,
+    "lng": -0.166706,
+    "city": "CULLA",
+    "address": "CALLE SAN LUIS, S/N"
+  },
+  {
+    "name": "LA TORRE D´EN BESORA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3283469,
+    "lng": -0.0746511,
+    "city": "TORRE D'EN BESORA (LA)",
+    "address": "CALLE BAJO VILA, S/N"
+  },
+  {
+    "name": "LA SERRATELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3129807,
+    "lng": 0.0303122,
+    "city": "SERRATELLA (LA)",
+    "address": "PLAZA, Nº 4"
+  },
+  {
+    "name": "VILAR DE CANES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3614526,
+    "lng": -0.0626179,
+    "city": "VILAR DE CANES",
+    "address": "PLAZA IGLESIA, Nº 4"
+  },
+  {
+    "name": "L'ALCORA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0761735,
+    "lng": -0.2137331,
+    "city": "ALCORA (L')",
+    "address": "CALLE EXCMA DIPUTACIÓN, S/N"
+  },
+  {
+    "name": "FIGUEROLES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1176171,
+    "lng": -0.2380005,
+    "city": "FIGUEROLES",
+    "address": "PLAZA DE LA IGLESIA, Nº 1"
+  },
+  {
+    "name": "ALMAZORA/ALMASSORA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9459743,
+    "lng": -0.0593112,
+    "city": "ALMASSORA",
+    "address": "CALLE SAN PEDRO, S/N"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - BARRANQUET",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9575232,
+    "lng": -0.0600806,
+    "city": "CASTELLÓN",
+    "address": "CALLE LLARG, Nº 70"
+  },
+  {
+    "name": "BENICASIM / BENICÀSSIM",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0560757,
+    "lng": 0.0643081,
+    "city": "BENICASIM",
+    "address": "CALLE ESTADI, S/N"
+  },
+  {
+    "name": "OROPESA DEL MAR/ORPESA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0566633,
+    "lng": 0.0890197,
+    "city": "BENICASIM",
+    "address": "AVENIDA TORREBLANCA, Nº 14"
+  },
+  {
+    "name": "BENLLOCH",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2107827,
+    "lng": 0.0750948,
+    "city": "BENLLOC",
+    "address": "CALLE LIBERTAD, S/N"
+  },
+  {
+    "name": "SIERRA ENGARCERÁN - ELS IBARSOS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2279812,
+    "lng": -0.0783546,
+    "city": "IBARSOS (ELS)",
+    "address": "PLAZA MAYOR, Nº 1"
+  },
+  {
+    "name": "SIERRA ENGARCERÁN",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2692033,
+    "lng": -0.0198135,
+    "city": "SIERRA ENGARCERÁN",
+    "address": "CALLE HERMINIO SALVADOR, Nº 3"
+  },
+  {
+    "name": "TORRE ENDOMÉNECH",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2669779,
+    "lng": 0.0680891,
+    "city": "TORRE D'EN DOMÉNEC (LA)",
+    "address": "CALLE PRIMO DE RIVERA, Nº 1"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - SANT AGUSTÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9998403,
+    "lng": -0.0457627,
+    "city": "CASTELLÓN",
+    "address": "AVENIDA DIPUTACIÓN, S/N"
+  },
+  {
+    "name": "BORRIOL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0435638,
+    "lng": -0.0617779,
+    "city": "CASTELLÓN",
+    "address": "AVENIDA ZARAGOZA, S/N"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - PINTOR SOROLLA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9861944,
+    "lng": -0.0500407,
+    "city": "CASTELLÓN",
+    "address": "PLAZA PINTOR SOROLLA, Nº 1"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - BENADRESA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0019208,
+    "lng": -0.0483383,
+    "city": "CASTELLÓN",
+    "address": "CALLE CUADRA BREVA, S/N"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - GRUPO REYES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9902725,
+    "lng": -0.0761384,
+    "city": "CASTELLÓN",
+    "address": "CALLE MAESTRO GUERRERO, S/N"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - 9 D'OCTUBRE",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9865477,
+    "lng": -0.0410403,
+    "city": "CASTELLÓN",
+    "address": "CALLE TRULLOLS, Nº3"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - RAFALAFENA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9866495,
+    "lng": -0.0291774,
+    "city": "CASTELLÓN",
+    "address": "CALLE MONCÓFAR, Nº 39"
+  },
+  {
+    "name": "CASTELLÓN DE LA PLANA - EL GRAO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9695842,
+    "lng": 0.0114492,
+    "city": "CASTELLÓN",
+    "address": "CALLE CHURRUCA, Nº13"
+  },
+  {
+    "name": "CASTILLO DE VILLAMALEFA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.837419,
+    "lng": -0.4667088,
+    "city": "CASTELLÓN",
+    "address": "CALLE HORNO, S/N"
+  },
+  {
+    "name": "CORTES DE ARENOSO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1372847,
+    "lng": -0.5017335,
+    "city": "CORTES DE ARENOSO",
+    "address": "CALLE MAYOR, S/N"
+  },
+  {
+    "name": "CORTES DE ARENOSO-SAN VICENTE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1381094,
+    "lng": -0.5018074,
+    "city": "CORTES DE ARENOSO",
+    "address": "CALLE MIGUEL GARRIDO MARÍN, Nº 1"
+  },
+  {
+    "name": "VILLAHERMOSA DEL RÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2019858,
+    "lng": -0.4178713,
+    "city": "VILLAHERMOSA DEL RÍO",
+    "address": "PLAZA DE LA IGLESIA, Nº 5"
+  },
+  {
+    "name": "ZUCAINA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1317933,
+    "lng": -0.4183056,
+    "city": "ZUCAINA",
+    "address": "PLAZA DE LA IGLESIA, Nº 1"
+  },
+  {
+    "name": "LA VALL D'ALBA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1734651,
+    "lng": -0.0332925,
+    "city": "VALL D'ALBA",
+    "address": "CALLE SENIETA, S/N"
+  },
+  {
+    "name": "CABANES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1562038,
+    "lng": 0.0445534,
+    "city": "CABANES",
+    "address": "CALLE HOSPITAL, Nº 11"
+  },
+  {
+    "name": "LA POBLA TORNESA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.102748,
+    "lng": -0.0014923,
+    "city": "POBLA TORNESA (LA)",
+    "address": "CALLE MOLÍ DE FOC, Nº 10"
+  },
+  {
+    "name": "LES USERES / USERAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1580163,
+    "lng": -0.1655597,
+    "city": "USERAS/USERES (LES)",
+    "address": "PLAZA DEL AYUNTAMIENTO, S/N"
+  },
+  {
+    "name": "VILAFAMÉS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1122151,
+    "lng": -0.05517,
+    "city": "VILAFAMÉS",
+    "address": "CALLE HERMANOS MAS IRANZO, S/N"
+  },
+  {
+    "name": "ARES DEL MAESTRE",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4562179,
+    "lng": -0.1318082,
+    "city": "ARES DEL MAESTRAT",
+    "address": "PL IGLESIA, Nº 1"
+  },
+  {
+    "name": "CASTELLFORT",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4766406,
+    "lng": -0.1727406,
+    "city": "CASTELLFORT",
+    "address": "CALLE ENSEÑANZA, S/N"
+  },
+  {
+    "name": "LES COVES DE VINROMÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.3146068,
+    "lng": 0.1140345,
+    "city": "COVES DE VINROMÀ (LES)",
+    "address": "CALLE TRAVESÍA, Nº 1"
+  },
+  {
+    "name": "TÍRIG",
+    "type": "PRIMARY_CARE",
+    "lat": 40.4030348,
+    "lng": 0.0815965,
+    "city": "TÍRIG",
+    "address": "CALLE ENSEÑANZA, S/N"
+  },
+  {
+    "name": "TORREBLANCA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.2121868,
+    "lng": 0.1990099,
+    "city": "TORREBLANCA",
+    "address": "CALLE GALICIA, Nº 36"
+  },
+  {
+    "name": "LA RIBERA DE CABANES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1594895,
+    "lng": 0.1680527,
+    "city": "CABANES",
+    "address": "CALLE AMBULATORIO, Nº 3"
+  },
+  {
+    "name": "ARTANA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8914651,
+    "lng": -0.2521861,
+    "city": "ARTANA",
+    "address": "AVENIDA SIERRA ESPADÁN, Nº 126"
+  },
+  {
+    "name": "AÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8902819,
+    "lng": -0.3595387,
+    "city": "AÍN",
+    "address": "PLAZA SORRIBES FUSTER, Nº 126"
+  },
+  {
+    "name": "ESLIDA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8815368,
+    "lng": -0.3043503,
+    "city": "ESLIDA",
+    "address": "CALLE FRANCISCO MONDRAGÓN, Nº 2"
+  },
+  {
+    "name": "BETXÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9307151,
+    "lng": -0.1999281,
+    "city": "BETXÍ",
+    "address": "CALLE DOCTOR VICENTE ORTELLS, Nº 1"
+  },
+  {
+    "name": "C.S.I. BURRIANA II",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8836101,
+    "lng": -0.069868,
+    "city": "BORRIANA/BURRIANA",
+    "address": "AVENIDA UNIÓN EUROPEA, Nº 58"
+  },
+  {
+    "name": "ALQUERÍAS DEL NIÑO PERDIDO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8965047,
+    "lng": -0.1040509,
+    "city": "BORRIANA/BURRIANA",
+    "address": "CALLE CAIXER, S/N"
+  },
+  {
+    "name": "MONTANEJOS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0677934,
+    "lng": -0.524238,
+    "city": "MONTANEJOS",
+    "address": "CARRETERA DE VALENCIA, Nº 50"
+  },
+  {
+    "name": "CIRAT",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0835414,
+    "lng": -0.5400684,
+    "city": "MONTANEJOS",
+    "address": "CALLE HERAS, Nº 1"
+  },
+  {
+    "name": "MONTÁN",
+    "type": "PRIMARY_CARE",
+    "lat": 42.7672546,
+    "lng": -7.2994757,
+    "city": "MONTÁN",
+    "address": "CALLE CALVO SOTELO, Nº 1"
+  },
+  {
+    "name": "PUEBLA DE ARENOSO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0711408,
+    "lng": -0.4907826,
+    "city": "ARAÑUEL",
+    "address": "AVENIDA SAN MIGUEL, Nº 1"
+  },
+  {
+    "name": "ONDA I",
+    "type": "PRIMARY_CARE",
+    "lat": 40.089472,
+    "lng": -0.4581623,
+    "city": "ARAÑUEL",
+    "address": "CALLE BALMES, S/N"
+  },
+  {
+    "name": "RIBESALBES",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0716852,
+    "lng": -0.4815923,
+    "city": "ARAÑUEL",
+    "address": "CALLE CASTELLÓ, Nº 5"
+  },
+  {
+    "name": "AYÓDAR",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0714749,
+    "lng": -0.4812039,
+    "city": "ARAÑUEL",
+    "address": "PLAZA MAYOR, Nº1"
+  },
+  {
+    "name": "LLUCENA - LUCENA DEL CID",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1383501,
+    "lng": -0.2799736,
+    "city": "LLUCENA/LUCENA DEL CID",
+    "address": "PLAZA DE ESPAÑA, Nº 22"
+  },
+  {
+    "name": "ESTIVELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.706294,
+    "lng": -0.3482205,
+    "city": "ESTIVELLA",
+    "address": "CALLE SEGORBE, S/N"
+  },
+  {
+    "name": "ALBALAT DELS TARONGERS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7019017,
+    "lng": -0.3372154,
+    "city": "ALBALAT DELS TARONGERS",
+    "address": "CALLE RONDA NORTE, S/N"
+  },
+  {
+    "name": "ALFARA DE LA BARONIA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7618267,
+    "lng": -0.3536447,
+    "city": "ALFARA DE LA BARONIA",
+    "address": "CALLE VALENCIA, Nº 8"
+  },
+  {
+    "name": "ALGAR DE PALANCIA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7721811,
+    "lng": -0.367606,
+    "city": "ALGAR DE PALANCIA",
+    "address": "CALLE REI JAUME I, S/N"
+  },
+  {
+    "name": "ALGÍMIA D'ALFARA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7452421,
+    "lng": -0.3651745,
+    "city": "ALGÍMIA D'ALFARA",
+    "address": "CALLE GLORIETA, Nº 2"
+  },
+  {
+    "name": "GILET",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6794065,
+    "lng": -0.3206579,
+    "city": "GILET",
+    "address": "CALLE PUJADA DE L´ERMITA, Nº 1"
+  },
+  {
+    "name": "SEGART",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6838052,
+    "lng": -0.3739849,
+    "city": "SEGART",
+    "address": "PLAZA MAYOR, S/N"
+  },
+  {
+    "name": "TORRES TORRES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0268644,
+    "lng": -1.1262077,
+    "city": "TORRES TORRES",
+    "address": "CALLE LA VIRGEN, S/N"
+  },
+  {
+    "name": "PETRES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6833016,
+    "lng": -0.3075225,
+    "city": "PETRÉS",
+    "address": "CALLE SAGUNTO, Nº 3"
+  },
+  {
+    "name": "FAURA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7348026,
+    "lng": -0.2662032,
+    "city": "FAURA",
+    "address": "CALLE DOCTOR FLEMING, Nº 8"
+  },
+  {
+    "name": "BENAVITES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7439178,
+    "lng": -0.2661923,
+    "city": "BENAVITES",
+    "address": "CALLE LES PARRES, S/N"
+  },
+  {
+    "name": "BENIFAIRÓ DE LES VALLS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.730349,
+    "lng": -0.2742338,
+    "city": "BENIFAIRÓ DE LES VALLS",
+    "address": "CALLE JESÚS BALAZÁ, Nº 4"
+  },
+  {
+    "name": "QUART DE LES VALLS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7391071,
+    "lng": -0.2730189,
+    "city": "QUART DE LES VALLS",
+    "address": "CALLE SANTÍSIMO CRISTO, Nº 76"
+  },
+  {
+    "name": "QUARTELL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7365539,
+    "lng": -0.264552,
+    "city": "QUARTELL",
+    "address": "CALLE SAN JOSÉ, Nº 30"
+  },
+  {
+    "name": "PUÇOL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6204852,
+    "lng": -0.3031005,
+    "city": "PUÇOL",
+    "address": "CALLE MOLÍ, S/N"
+  },
+  {
+    "name": "PUERTO DE SAGUNTO/SAGUNT I",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6674514,
+    "lng": -0.2251665,
+    "city": "PUERTO (EL)",
+    "address": "CALLE PERIODISTA AZZATI, S/N"
+  },
+  {
+    "name": "CANET D'EN BERENGUER",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6827909,
+    "lng": -0.2200065,
+    "city": "CANET D'EN BERENGUER",
+    "address": "CALLE CONSTITUCIÓ, Nº 24"
+  },
+  {
+    "name": "CANET D'EN BERENGUER - PLAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6806323,
+    "lng": -0.204874,
+    "city": "CANET D'EN BERENGUER",
+    "address": "CALLE MARE NOSTRUM, Nº 59 BAJO"
+  },
+  {
+    "name": "EL PUIG",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5887203,
+    "lng": -0.300258,
+    "city": "PUIG DE SANTA MARIA (EL)",
+    "address": "CALLE PROGRÉS, Nº 15"
+  },
+  {
+    "name": "SAGUNTO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6756707,
+    "lng": -0.2714149,
+    "city": "SAGUNTO/SAGUNT",
+    "address": "AVENIDA SANTOS PATRONOS, Nº 81-TRAS"
+  },
+  {
+    "name": "SAGUNTO/SAGUNT - ALMARDA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7033446,
+    "lng": -0.2007386,
+    "city": "ALMARDÁ",
+    "address": "CALLE CATARROJA, Nº 9"
+  },
+  {
+    "name": "SAGUNTO/SAGUNT RAVAL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6778317,
+    "lng": -0.271945,
+    "city": "SAGUNTO/SAGUNT",
+    "address": "PLAZA BLASCO IBAÑEZ, Nº4"
+  },
+  {
+    "name": "GAIBIEL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0714069,
+    "lng": -0.4817912,
+    "city": "ARAÑUEL",
+    "address": "CALLE CONSTITUCIÓN, Nº 3"
+  },
+  {
+    "name": "GELDO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0707076,
+    "lng": -0.4822509,
+    "city": "ARAÑUEL",
+    "address": "AVENIDA CASTELLÓN, S/N"
+  },
+  {
+    "name": "MATET",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0716852,
+    "lng": -0.4815923,
+    "city": "ARAÑUEL",
+    "address": "CALLE SAN MIGUEL, Nº 16"
+  },
+  {
+    "name": "BARRACAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0716852,
+    "lng": -0.4815923,
+    "city": "ARAÑUEL",
+    "address": "CALLE VALENCIA, Nº 2"
+  },
+  {
+    "name": "JÉRICA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1135127,
+    "lng": -0.4942882,
+    "city": "ARAÑUEL",
+    "address": "CALLE ARENACHOS, S/N"
+  },
+  {
+    "name": "SACAÑET",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0712457,
+    "lng": -0.4823242,
+    "city": "ARAÑUEL",
+    "address": "CALLE NUEVA, Nº 4"
+  },
+  {
+    "name": "ALBORAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5041118,
+    "lng": -0.352974,
+    "city": "ALBORAIA/ALBORAYA",
+    "address": "CALLE ELS FURS, S/N"
+  },
+  {
+    "name": "ALBORAYA LA PATACONA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4920491,
+    "lng": -0.3260671,
+    "city": "ALBORAIA/ALBORAYA",
+    "address": "CALLE MAR MENOR, S/N"
+  },
+  {
+    "name": "ALBORAYA PORT SAPLAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5124412,
+    "lng": -0.3210473,
+    "city": "PORT SAPLAYA",
+    "address": "PLAZA DE LA SEÑORÍA, Nº 4"
+  },
+  {
+    "name": "ALMÀSSERA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5126845,
+    "lng": -0.3597323,
+    "city": "ALMÀSSERA",
+    "address": "AVENIDA DE AUSIAS MARCH, Nº 1"
+  },
+  {
+    "name": "BONREPÒS I MIRAMBELL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5164481,
+    "lng": -0.3615684,
+    "city": "BONREPÒS I MIRAMBELL",
+    "address": "PL DEL HOGAR DEL LLAR, S/N"
+  },
+  {
+    "name": "FOIOS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5372733,
+    "lng": -0.353825,
+    "city": "FOIOS",
+    "address": "AVENIDA AUSIAS MARCH, S/N"
+  },
+  {
+    "name": "ALBALAT DELS SORELLS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5453316,
+    "lng": -0.3479819,
+    "city": "ALBALAT DELS SORELLS",
+    "address": "CALLE GRAN VÍA, S/N"
+  },
+  {
+    "name": "VINALESA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5338636,
+    "lng": -0.3681131,
+    "city": "VINALESA",
+    "address": "CALLE LA FILA, S/N"
+  },
+  {
+    "name": "MASSAMAGRELL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.570336,
+    "lng": -0.3328805,
+    "city": "MASSAMAGRELL",
+    "address": "CALLE MIGUEL SERVET, Nº 48"
+  },
+  {
+    "name": "LA POBLA DE FARNALS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5789133,
+    "lng": -0.3300548,
+    "city": "POBLA DE FARNALS (LA)",
+    "address": "CALLE RAMONET EL TRAQUER, Nº 18"
+  },
+  {
+    "name": "LA POBLA DE FARNALS - PLAYA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5651708,
+    "lng": -0.2818443,
+    "city": "POBLA DE FARNALS (LA)",
+    "address": "AVENIDA NEPTUNO, EDIFICIO DABAS A, BAJO"
+  },
+  {
+    "name": "MELIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5280174,
+    "lng": -0.3516256,
+    "city": "MELIANA",
+    "address": "CALLE EDUARDO ROMERO, Nº 1"
+  },
+  {
+    "name": "MUSEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5617469,
+    "lng": -0.3407042,
+    "city": "MUSEROS",
+    "address": "AVENIDA PAÍS VALENCIÁ, S/N"
+  },
+  {
+    "name": "ALBUIXECH",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5426713,
+    "lng": -0.3206733,
+    "city": "ALBUIXECH",
+    "address": "CALLE MAYOR, Nº 54"
+  },
+  {
+    "name": "MASSALFASSAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5556769,
+    "lng": -0.3181189,
+    "city": "MASSALFASSAR",
+    "address": "CALLE PROGRESO, Nº 1"
+  },
+  {
+    "name": "RAFELBUNYOL / RAFELBUÑOL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5879683,
+    "lng": -0.3308699,
+    "city": "RAFELBUNYOL",
+    "address": "CALLE JOSÉ Mª LLOPIS, Nº 26"
+  },
+  {
+    "name": "TAVERNES BLANQUES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5062262,
+    "lng": -0.3662987,
+    "city": "TAVERNES BLANQUES",
+    "address": "CALLE CASTELLÓN, Nº 17"
+  },
+  {
+    "name": "VALENCIA - BENIMACLET",
+    "type": "PRIMARY_CARE",
+    "lat": 39.480264,
+    "lng": -0.3548108,
+    "city": "VALÈNCIA",
+    "address": "CALLE GUARDIA CIVIL, Nº 13"
+  },
+  {
+    "name": "VALENCIA - SALVADOR PAU",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4674016,
+    "lng": -0.4245649,
+    "city": "VALÈNCIA",
+    "address": "CALLE SALVADOR PAU , Nº 42"
+  },
+  {
+    "name": "VALENCIA - CHILE",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4710922,
+    "lng": -0.3552555,
+    "city": "VALÈNCIA",
+    "address": "CALLE CHILE, Nº 22"
+  },
+  {
+    "name": "VALENCIA - SERRERÍA 2",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4685991,
+    "lng": -0.3361816,
+    "city": "VALÈNCIA",
+    "address": "CALLE PEDRO DE VALENCIA, Nº 28"
+  },
+  {
+    "name": "VALENCIA - REPÚBLICA ARGENTINA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8939009,
+    "lng": -0.0875798,
+    "city": "VALÈNCIA",
+    "address": "CALLE REPÚBLICA ARGENTINA, Nº8"
+  },
+  {
+    "name": "VALENCIA TRAFALGAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4612373,
+    "lng": -0.3450839,
+    "city": "VALÈNCIA",
+    "address": "CALLE TRAFALGAR, Nº 32"
+  },
+  {
+    "name": "VALENCIA MALVARROSA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4856148,
+    "lng": -0.3313575,
+    "city": "VALÈNCIA",
+    "address": "CALLE ISABEL DE VILLENA, Nº2 PABELLÓN C"
+  },
+  {
+    "name": "VALENCIA - SERRERÍA 1",
+    "type": "PRIMARY_CARE",
+    "lat": 39.469506,
+    "lng": -0.3350208,
+    "city": "VALÈNCIA",
+    "address": "CALLE SERRERÍA, Nº 73"
+  },
+  {
+    "name": "VALENCIA VICENTE BRULL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4623797,
+    "lng": -0.3332675,
+    "city": "VALÈNCIA",
+    "address": "CALLE VICENTE BRULL, Nº 71"
+  },
+  {
+    "name": "VALENCIA - NAZARET",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4532609,
+    "lng": -0.3299512,
+    "city": "VALÈNCIA",
+    "address": "CALLE MÉDICO FERNANDO MORAY DE LA HORRA, Nº 2"
+  },
+  {
+    "name": "VALENCIA LA PUNTA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4530495,
+    "lng": -0.3471814,
+    "city": "VALÈNCIA",
+    "address": "CALLE JESÚS MORANTE BORRÁSA, Nº 11"
+  },
+  {
+    "name": "ADEMUZ",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0622739,
+    "lng": -1.2852292,
+    "city": "ADEMUZ",
+    "address": "AVENIDA VALENCIA, Nº 68"
+  },
+  {
+    "name": "CASAS ALTAS",
+    "type": "PRIMARY_CARE",
+    "lat": 28.1089547,
+    "lng": -16.6510273,
+    "city": "CASAS ALTAS",
+    "address": "CALLE DIPUTACIÓN, Nº 32"
+  },
+  {
+    "name": "CASTIELFABIB",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1307708,
+    "lng": -1.3038418,
+    "city": "CASTIELFABIB",
+    "address": "PLAZA DE LA VILLA, Nº 1"
+  },
+  {
+    "name": "PUEBLA DE SAN MIGUEL",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0447457,
+    "lng": -1.1449367,
+    "city": "PUEBLA DE SAN MIGUEL",
+    "address": "CALLE ABADIA, Nº 6"
+  },
+  {
+    "name": "TORREBAJA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.1014641,
+    "lng": -1.2593387,
+    "city": "TORREBAJA",
+    "address": "CALLE FUENTECILLAS, S/N"
+  },
+  {
+    "name": "VALLANCA",
+    "type": "PRIMARY_CARE",
+    "lat": 40.063014,
+    "lng": -1.3388302,
+    "city": "VALLANCA",
+    "address": "PLAZA DE ESPAÑA, S/N"
+  },
+  {
+    "name": "BENAGUASIL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5943231,
+    "lng": -0.5911627,
+    "city": "BENAGUASIL",
+    "address": "CALLE VIRGEN DEL PILAR, S/N"
+  },
+  {
+    "name": "VALENCIA - BENIMAMET",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4998289,
+    "lng": -0.4204525,
+    "city": "VALÈNCIA",
+    "address": "CALLE INGENIERO AUBÁN, Nº 20"
+  },
+  {
+    "name": "PATERNA TERRAMELAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5078206,
+    "lng": -0.4284928,
+    "city": "PATERNA",
+    "address": "CALLE ALGINET, Nº 8"
+  },
+  {
+    "name": "BÉTERA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5907287,
+    "lng": -0.457496,
+    "city": "BÉTERA",
+    "address": "AVENIDA ESCULTOR RAMÓN INGLÉS, Nº 52"
+  },
+  {
+    "name": "NÀQUERA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6337824,
+    "lng": -0.4221296,
+    "city": "NÀQUERA/NÁQUERA",
+    "address": "CALLE JOSÉ ANTONIO, Nº 11"
+  },
+  {
+    "name": "SERRA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5285879,
+    "lng": 2.5068023,
+    "city": "SERRA",
+    "address": "CALLE SAGUNTO/SAGUNT, Nº 31-B"
+  },
+  {
+    "name": "BURJASSOT 2",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5112929,
+    "lng": -0.4254682,
+    "city": "BURJASSOT",
+    "address": "CALLE RUBERT I VILLÓ, Nº 4"
+  },
+  {
+    "name": "CHELVA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7525597,
+    "lng": -1.0314628,
+    "city": "CHELVA",
+    "address": "AVENIDA MANCOMUNIDAD ALTO TURIA, S/N"
+  },
+  {
+    "name": "CALLES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7259054,
+    "lng": -0.9694079,
+    "city": "CALLES",
+    "address": "CALLE MOLINETA, S/N"
+  },
+  {
+    "name": "TUÉJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7729982,
+    "lng": -1.0429562,
+    "city": "TUÉJAR",
+    "address": "AVENIDA RAMÓN VILLANUEVA, Nº 35"
+  },
+  {
+    "name": "L'ELIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5643163,
+    "lng": -0.5343283,
+    "city": "ELIANA (L')",
+    "address": "CALLE ROSALES, Nº 23"
+  },
+  {
+    "name": "SAN ANTONIO DE BENAGÉBER",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5602069,
+    "lng": -0.5005256,
+    "city": "SAN ANTONIO DE BENAGÉBER",
+    "address": "CALLE PURÍSIMA, S/N"
+  },
+  {
+    "name": "GODELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5218449,
+    "lng": -0.4155119,
+    "city": "GODELLA",
+    "address": "CALLE SAN SEBASTIÁN, S/N"
+  },
+  {
+    "name": "ROCAFORT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.529191,
+    "lng": -0.4073048,
+    "city": "ROCAFORT",
+    "address": "CALLE BARÓ DE TERRATEIG, Nº 5"
+  },
+  {
+    "name": "LLÍRIA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6225864,
+    "lng": -0.5907218,
+    "city": "LLÍRIA",
+    "address": "CALLE JOSÉ PÉREZ MARTÍNEZ, S/N"
+  },
+  {
+    "name": "ALCUBLAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7608988,
+    "lng": -0.6964608,
+    "city": "ALCUBLAS",
+    "address": "AVENIDA LLIRIA, Nº 5"
+  },
+  {
+    "name": "BENISSANÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6142081,
+    "lng": -0.5781294,
+    "city": "BENISSANÓ",
+    "address": "CALLE VIRGEN DEL FUNDAMENTO, Nº 9"
+  },
+  {
+    "name": "CASINOS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6816278,
+    "lng": -0.7303762,
+    "city": "CASINOS",
+    "address": "CALLE LAS BALSAS, Nº 59"
+  },
+  {
+    "name": "DOMEÑO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6606032,
+    "lng": -0.6727545,
+    "city": "DOMEÑO",
+    "address": "CALLE TÚRIA, S/N"
+  },
+  {
+    "name": "GÁTOVA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7716215,
+    "lng": -0.5200289,
+    "city": "GÁTOVA",
+    "address": "PARQUE CORTES VALENCIANAS, S/N"
+  },
+  {
+    "name": "MARINES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6939063,
+    "lng": -0.5685853,
+    "city": "MARINES",
+    "address": "PLAZA HERMANO VICENTE COLL, S/N"
+  },
+  {
+    "name": "OLOCAU",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7021341,
+    "lng": -0.5313968,
+    "city": "OLOCAU",
+    "address": "CALLE MAYOR, Nº 49"
+  },
+  {
+    "name": "MONCADA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5831347,
+    "lng": -0.3870457,
+    "city": "MONCADA",
+    "address": "AVENIDA DE LA MEDITERRANIA, Nº 2"
+  },
+  {
+    "name": "ALFARA DEL PATRIARCA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5418569,
+    "lng": -0.38586,
+    "city": "ALFARA DEL PATRIARCA",
+    "address": "PLAZA EMILIO RAMÓN LLIN, S/N"
+  },
+  {
+    "name": "MONCADA SAN ISIDRO DE BENAGÉBER",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5681132,
+    "lng": -0.4040767,
+    "city": "SAN ISIDRO DE BENAGÉBER",
+    "address": "CALLE CRUZ DE RULLA, S/N"
+  },
+  {
+    "name": "PATERNA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4988913,
+    "lng": -0.4419403,
+    "city": "PATERNA",
+    "address": "PLAZA CALLEOT DE JOAN, S/N"
+  },
+  {
+    "name": "PATERNA LA CAÑADA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.530945,
+    "lng": -0.4742446,
+    "city": "PATERNA",
+    "address": "CALLE NÚMERO 30, Nº 48"
+  },
+  {
+    "name": "PATERNA LA COMA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5108319,
+    "lng": -0.4397953,
+    "city": "PATERNA",
+    "address": "PLAZA PUÇOL, S/N"
+  },
+  {
+    "name": "LA POBLA DE VALLBONA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5948963,
+    "lng": -0.5527867,
+    "city": "POBLA DE VALLBONA (LA)",
+    "address": "AVENIDA CERVANTES, Nº 46"
+  },
+  {
+    "name": "TITAGUAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8655197,
+    "lng": -1.082323,
+    "city": "TITAGUAS",
+    "address": "AVENIDA ROJAS CLEMENTE, Nº 2"
+  },
+  {
+    "name": "ALPUENTE",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8763078,
+    "lng": -1.0133669,
+    "city": "ALPUENTE",
+    "address": "AVENIDA JOSÉ ANTONIO, S/N"
+  },
+  {
+    "name": "ARAS DE LOS OLMOS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.9238109,
+    "lng": -1.1333515,
+    "city": "ARAS DE LOS OLMOS",
+    "address": "CALLE TRAVESÍA, Nº 2"
+  },
+  {
+    "name": "LA YESA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8827055,
+    "lng": -0.9584514,
+    "city": "YESA (LA)",
+    "address": "CALLE JOSE ANTONIO, Nº 5"
+  },
+  {
+    "name": "VILAMARXANT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5663478,
+    "lng": -0.6181955,
+    "city": "VILAMARXANT",
+    "address": "CALLE FONT NOVA, S/N"
+  },
+  {
+    "name": "VILLAR DEL ARZOBISPO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.7275559,
+    "lng": -0.8421937,
+    "city": "VILLAR DEL ARZOBISPO",
+    "address": "PLAZA HUERTO DEL SEÑOR, S/N"
+  },
+  {
+    "name": "ANDILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8357734,
+    "lng": -0.8133794,
+    "city": "ANDILLA",
+    "address": "PLAZA MURALLA, Nº 1"
+  },
+  {
+    "name": "CHULILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6580999,
+    "lng": -0.8908378,
+    "city": "CHULILLA",
+    "address": "CALLE MAESTRO AMBLAR, Nº 35"
+  },
+  {
+    "name": "HIGUERUELAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.8725549,
+    "lng": -1.2229707,
+    "city": "HIGUERUELAS",
+    "address": "CALLE DIPUTACIÓN, Nº 18"
+  },
+  {
+    "name": "CASAS BAJAS",
+    "type": "PRIMARY_CARE",
+    "lat": 40.0244033,
+    "lng": -1.2592495,
+    "city": "CASAS BAJAS",
+    "address": "CALLE REAL, Nº 10"
+  },
+  {
+    "name": "LOSA DEL OBISPO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6960037,
+    "lng": -0.8712221,
+    "city": "LOSA DEL OBISPO",
+    "address": "CALLE REYES CATÓLICOS, Nº 22"
+  },
+  {
+    "name": "SOT DE CHERA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.596221,
+    "lng": -0.9303002,
+    "city": "SOT DE CHERA",
+    "address": "CALLE BLAS CERVERA, Nº 1"
+  },
+  {
+    "name": "PEDRALBA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6062868,
+    "lng": -0.7300208,
+    "city": "PEDRALBA",
+    "address": "CALLE BUGARRA, S/N"
+  },
+  {
+    "name": "BUGARRA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6084392,
+    "lng": -0.7757084,
+    "city": "BUGARRA",
+    "address": "CALLE ANCHA, Nº 9"
+  },
+  {
+    "name": "GESTALGAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6037207,
+    "lng": -0.8346387,
+    "city": "GESTALGAR",
+    "address": "CALLE ACEQUIA, Nº 2"
+  },
+  {
+    "name": "MISLATA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4780981,
+    "lng": -0.4147168,
+    "city": "MISLATA",
+    "address": "AVENIDA BUENOS AIRES, Nº 2"
+  },
+  {
+    "name": "MISLATA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4739864,
+    "lng": -0.4181175,
+    "city": "MISLATA",
+    "address": "PLAZA ORTEGA, Nº 4-6"
+  },
+  {
+    "name": "VALENCIA - CAMPANAR",
+    "type": "PRIMARY_CARE",
+    "lat": 39.477446,
+    "lng": -0.4017225,
+    "city": "VALÈNCIA",
+    "address": "CALLE VICENTE RIOS ENRIQUE, S/N"
+  },
+  {
+    "name": "VALENCIA - TENDETES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4832329,
+    "lng": -0.3887155,
+    "city": "VALÈNCIA",
+    "address": "CALLE DE RICARDO MICÓ, Nº 3"
+  },
+  {
+    "name": "VALENCIA - TRINITAT",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4803566,
+    "lng": -0.372245,
+    "city": "VALÈNCIA",
+    "address": "CALLE FLORA, Nº 7 ACC DUPL"
+  },
+  {
+    "name": "VALENCIA - BILBAO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5479044,
+    "lng": -0.3971235,
+    "city": "VALÈNCIA",
+    "address": "CALLE BILBAO, Nº 23"
+  },
+  {
+    "name": "VALENCIA - BENICALAP - AZUCENA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4929216,
+    "lng": -0.3906869,
+    "city": "VALÈNCIA",
+    "address": "CALLE AZUCENA, Nº 9"
+  },
+  {
+    "name": "VALENCIA - SALVADOR ALLENDE",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4950095,
+    "lng": -0.3725176,
+    "city": "VALÈNCIA",
+    "address": "CALLE CONDE LUMIARES, Nº 3"
+  },
+  {
+    "name": "VALENCIA - ARQUITECTO TOLSÁ",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4922858,
+    "lng": -0.3686019,
+    "city": "VALÈNCIA",
+    "address": "CALLE SAN VICENTE PAUL, Nº 35"
+  },
+  {
+    "name": "VALENCIA - POBLE NOU",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4953893,
+    "lng": -0.3805382,
+    "city": "VALÈNCIA",
+    "address": "CAMINO MONCADA, Nº 205"
+  },
+  {
+    "name": "AYORA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.0611358,
+    "lng": -1.0585977,
+    "city": "AYORA",
+    "address": "AVENIDA ARGENTINA, Nº 38"
+  },
+  {
+    "name": "TERESA DE COFRENTES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.1036786,
+    "lng": -1.0508026,
+    "city": "TERESA DE COFRENTES",
+    "address": "PLAZA HISPANIDAD, S/N"
+  },
+  {
+    "name": "ZARRA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.0861513,
+    "lng": -1.1680934,
+    "city": "ZARRA",
+    "address": "CARRETERA AYORA, S/N"
+  },
+  {
+    "name": "CAUDETE DE LAS FUENTES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5606171,
+    "lng": -1.278136,
+    "city": "CAUDETE DE LAS FUENTES",
+    "address": "CALLE VIÑAS, Nº 12"
+  },
+  {
+    "name": "CAMPORROBLES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.6517163,
+    "lng": -1.3983217,
+    "city": "CAMPORROBLES",
+    "address": "CALLE PURÍSIMA, Nº 10"
+  },
+  {
+    "name": "VENTA DEL MORO / CASAS DE MOYA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4591768,
+    "lng": -1.3906456,
+    "city": "CASAS DE MOYA",
+    "address": "CALLE ESCUELAS, Nº 25"
+  },
+  {
+    "name": "VENTA DEL MORO - CASAS DE PRADA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4481905,
+    "lng": -1.3388284,
+    "city": "CASAS DE PRADAS",
+    "address": "CALLE TEJAR, S/N"
+  },
+  {
+    "name": "VENTA DEL MORO / CASAS DEL REY",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4758518,
+    "lng": -1.3809938,
+    "city": "CASAS DEL REY",
+    "address": "CALLE GERNASIO HAYA, Nº 8"
+  },
+  {
+    "name": "FUENTERROBLES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5854885,
+    "lng": -1.3627532,
+    "city": "FUENTERROBLES",
+    "address": "CALLE BARCAS, Nº 10"
+  },
+  {
+    "name": "VENTA DEL MORO / JARAGUAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5218745,
+    "lng": -1.363006,
+    "city": "JARAGUAS",
+    "address": "CALLE IGLESIA, Nº 16"
+  },
+  {
+    "name": "VENTA DEL MORO / LAS MONJAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4652487,
+    "lng": -1.3004437,
+    "city": "MONJAS (LAS)",
+    "address": "PLAZA ORENCIO PÉREZ, Nº 15"
+  },
+  {
+    "name": "VENTA DEL MORO / LOS MARCOS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4924041,
+    "lng": -1.2816606,
+    "city": "MARCOS (LOS)",
+    "address": "CALLE NORTE, Nº 10"
+  },
+  {
+    "name": "VENTA DEL MORO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4844376,
+    "lng": -1.3586717,
+    "city": "VENTA DEL MORO",
+    "address": "CALLE SAN ISIDRO, Nº 5"
+  },
+  {
+    "name": "VILLARGORDO DEL CABRIEL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5347865,
+    "lng": -1.4420402,
+    "city": "VILLARGORDO DEL CABRIEL",
+    "address": "CALLE CARRETERA, Nº 60"
+  },
+  {
+    "name": "COFRENTES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.2293409,
+    "lng": -1.0603436,
+    "city": "COFRENTES",
+    "address": "CALLE COLÓN, Nº 16"
+  },
+  {
+    "name": "CASTIBLANQUES",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3197412,
+    "lng": -1.0153409,
+    "city": "CASTILBLANQUES",
+    "address": "ALDEA CASTIBLANQUES, S/N"
+  },
+  {
+    "name": "CORTES DE PALLÁS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.2419016,
+    "lng": -0.9412984,
+    "city": "CORTES DE PALLÁS",
+    "address": "CALLE DOCTOR SÁNCHEZ URZAIZ, Nº 1"
+  },
+  {
+    "name": "EL ORO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.2992014,
+    "lng": -0.9184975,
+    "city": "ORO (EL)",
+    "address": "CALLE ALDEA EL ORO, Nº 495"
+  },
+  {
+    "name": "JALANCE",
+    "type": "PRIMARY_CARE",
+    "lat": 39.1900579,
+    "lng": -1.0771731,
+    "city": "JALANCE",
+    "address": "CALLE ISABEL LA CATÓLICA, Nº 10"
+  },
+  {
+    "name": "JARAFUEL",
+    "type": "PRIMARY_CARE",
+    "lat": 39.1538433,
+    "lng": -1.0083538,
+    "city": "JARAFUEL",
+    "address": "CALLE BOTÁNICO LORENTE, Nº 1"
+  },
+  {
+    "name": "LA CABEZUELA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3195273,
+    "lng": -1.0400671,
+    "city": "CABEZUELA (LA)",
+    "address": "ALDEA LA CABEZUELA, S/N"
+  },
+  {
+    "name": "VENTA GAETA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3081285,
+    "lng": -0.9603695,
+    "city": "VENTA GAETA",
+    "address": "ALDEA VENTA GAETA, S/N"
+  },
+  {
+    "name": "VIÑUELAS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.3279251,
+    "lng": -1.0083733,
+    "city": "VIÑUELAS",
+    "address": "ALDEA VIÑUELAS, S/N"
+  },
+  {
+    "name": "REQUENA - BARRIO ARROYO",
+    "type": "PRIMARY_CARE",
+    "lat": 39.5156034,
+    "lng": -1.1654424,
+    "city": "BARRIO ARROYO",
+    "address": "CALLE ESCUELAS, S/N"
+  },
+  {
+    "name": "REQUENA - CAMPO ARCIS",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4293084,
+    "lng": -1.16712,
+    "city": "CAMPO ARCIS",
+    "address": "CALLE PORTERA, Nº 8"
+  },
+  {
+    "name": "REQUENA - CASAS DE EUFEMIA",
+    "type": "PRIMARY_CARE",
+    "lat": 39.4490902,
+    "lng": -1.2120672,
+    "city": "CASAS DE EUFEMIA",
+    "address": "AVENIDA DE LOS DUQUES, Nº 1"
+  },
+  {
+    "name": "CASTELLVÍ DE ROSANES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4497779,
+    "lng": 1.9000566,
+    "city": "CASTELLVÍ DE ROSANES",
+    "address": "PLAZA DEL POBLE, Nº 1"
+  },
+  {
+    "name": "LA BEGUDA ALTA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4982034,
+    "lng": 1.8370416,
+    "city": "BEGUDA ALTA (LA)",
+    "address": "PL DELS OCELLS, S/N"
+  },
+  {
+    "name": "MASQUEFA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.502957,
+    "lng": 1.812501,
+    "city": "MASQUEFA",
+    "address": "AVENIDA CATALUNYA, Nº 3 - 5"
+  },
+  {
+    "name": "PALLEJÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4207843,
+    "lng": 1.995572,
+    "city": "PALLEJÀ",
+    "address": "CERRADO TEMPORALMENTE - PL MOSSEN CINTO VERDAGUER, S/N"
+  },
+  {
+    "name": "SANT ESTEVE SESROVIRES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4976032,
+    "lng": 1.8725063,
+    "city": "SANT ESTEVE SESROVIRES",
+    "address": "CALLE DE LA VILA, Nº 2"
+  },
+  {
+    "name": "SANT LLORENÇ D'HORTONS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4681169,
+    "lng": 1.8226309,
+    "city": "SANT LLORENÇ D'HORTONS",
+    "address": "CATALUNYA, Nº 25"
+  },
+  {
+    "name": "SANT ANDREU DE LA BARCA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4468421,
+    "lng": 1.9730931,
+    "city": "SANT ANDREU DE LA BARCA",
+    "address": "AVENIDA CONSTITUCIÓ, Nº 37"
+  },
+  {
+    "name": "LA SOLANA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4485294,
+    "lng": 1.9765543,
+    "city": "SANT ANDREU DE LA BARCA",
+    "address": "CALLE SANT FELIP NERI, Nº 18, LOCAL 2"
+  },
+  {
+    "name": "CORBERA DE LLOBREGAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4198285,
+    "lng": 1.9412448,
+    "city": "CORBERA DE LLOBREGAT",
+    "address": "CALLE BUENOS AIRES, Nº 9"
+  },
+  {
+    "name": "LA PALMA DE CERVELLÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4084393,
+    "lng": 1.9779194,
+    "city": "PALMA DE CERVELLÓ (LA)",
+    "address": "CALLE PIRINEU, Nº 7"
+  },
+  {
+    "name": "CORNELLÀ DE LLOBREGAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3551539,
+    "lng": 2.0701191,
+    "city": "CORNELLÀ DE LLOBREGAT",
+    "address": "CALLE BELLATERRA, Nº 41"
+  },
+  {
+    "name": "DR. MARTÍ I JULIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3633511,
+    "lng": 2.0832609,
+    "city": "CORNELLÀ DE LLOBREGAT",
+    "address": "AVENIDA BAIX LLOBREGAT, Nº 17"
+  },
+  {
+    "name": "FONTSANTA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.36031,
+    "lng": 2.0621766,
+    "city": "CORNELLÀ DE LLOBREGAT",
+    "address": "PLAZA GANDESA, S/N"
+  },
+  {
+    "name": "EL PLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3905513,
+    "lng": 2.0363477,
+    "city": "SANT FELIU DE LLOBREGAT",
+    "address": "PLAZA FELIP ALCÀNTARA ARELLANO, Nº 3"
+  },
+  {
+    "name": "LES PLANES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3671859,
+    "lng": 2.0730109,
+    "city": "SANT JOAN DESPÍ",
+    "address": "AVENIDA DE BARCELONA, Nº 62"
+  },
+  {
+    "name": "LLUÍS MILLET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3736786,
+    "lng": 2.0818277,
+    "city": "ESPLUGUES DE LLOBREGAT",
+    "address": "CALLE LLUÍS MILLET, Nº 2-4"
+  },
+  {
+    "name": "EIXAMPLE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6171725,
+    "lng": 0.6204708,
+    "city": "LLEIDA",
+    "address": "AVENIDA DE BALMES, Nº 4"
+  },
+  {
+    "name": "RAMBLA DE FERRAN",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6193856,
+    "lng": 0.6315814,
+    "city": "LLEIDA",
+    "address": "RAMBLA DE FERRAN, Nº 44"
+  },
+  {
+    "name": "SANTA MARÍA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5247411,
+    "lng": 1.088854,
+    "city": "LLEIDA",
+    "address": "AVENIDA ALCALDE ROVIRA ROURE, Nº 44"
+  },
+  {
+    "name": "ALBESA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7518106,
+    "lng": 0.6582154,
+    "city": "ALBESA",
+    "address": "CALLE FERMÍ PALAU, Nº 2"
+  },
+  {
+    "name": "ALCOLETGE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6542981,
+    "lng": 0.6857205,
+    "city": "ALCOLETGE",
+    "address": "CALLE DOCTOR FLEMING, Nº 2"
+  },
+  {
+    "name": "ALPICAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6719371,
+    "lng": 0.5445018,
+    "city": "ALPICAT",
+    "address": "CALLE BOSC, S/N"
+  },
+  {
+    "name": "BENAVENT DE SEGRIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6929286,
+    "lng": 0.6333323,
+    "city": "BENAVENT DE SEGRIÀ",
+    "address": "CALLE DE LES ESCOLES, Nº 10"
+  },
+  {
+    "name": "CORBINS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6859642,
+    "lng": 0.6926703,
+    "city": "CORBINS",
+    "address": "PLAZA DE LA VILA, S/N"
+  },
+  {
+    "name": "LA PORTELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 42.1033818,
+    "lng": 1.9505392,
+    "city": "PORTELLA (LA)",
+    "address": "CARRETERA DE LLEIDA, Nº 24"
+  },
+  {
+    "name": "ROSSELLÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6973053,
+    "lng": 0.6209227,
+    "city": "ROSSELLÓ",
+    "address": "AVENIDA GUILLEM DE ROSSELLÓ, Nº 1"
+  },
+  {
+    "name": "TORREFARRERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6732927,
+    "lng": 0.6071666,
+    "city": "TORREFARRERA",
+    "address": "CALLE VERGE MONTSERRAT, S/N"
+  },
+  {
+    "name": "TORRE-SERONA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6714781,
+    "lng": 0.6291878,
+    "city": "TORRE-SERONA",
+    "address": "CALLE MAJOR, Nº 29"
+  },
+  {
+    "name": "VILANOVA DE LA BARCA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6873616,
+    "lng": 0.7279056,
+    "city": "VILANOVA DE LA BARCA",
+    "address": "CALLE DEL RAVAL DE LA CREU, Nº 32"
+  },
+  {
+    "name": "VILANOVA DEL SEGRIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7092869,
+    "lng": 0.6029108,
+    "city": "VILANOVA DE SEGRIÀ",
+    "address": "PLAZA DOCTOR VINYAS, S/N"
+  },
+  {
+    "name": "SERÒS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4627973,
+    "lng": 0.4108458,
+    "city": "SERÒS",
+    "address": "CALLE RICARD VINYES, Nº 8"
+  },
+  {
+    "name": "AITONA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4944194,
+    "lng": 0.4584775,
+    "city": "AITONA",
+    "address": "AVENIDA 27 DE GENER, Nº 67"
+  },
+  {
+    "name": "ALMATRET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3051976,
+    "lng": 0.424594,
+    "city": "ALMATRET",
+    "address": "CALLE SAN JOAN, Nº 60-62"
+  },
+  {
+    "name": "LA GRANJA D'ESCARP",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4197916,
+    "lng": 0.3524108,
+    "city": "GRANJA D'ESCARP (LA)",
+    "address": "PLAZA NOVA, S/N"
+  },
+  {
+    "name": "MAIALS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3650697,
+    "lng": 0.5039986,
+    "city": "MAIALS",
+    "address": "PLAZA E. SALES, S/N"
+  },
+  {
+    "name": "MASSALCOREIG",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4599744,
+    "lng": 0.3602585,
+    "city": "MASSALCOREIG",
+    "address": "PLAZA DE LA ESGLÉSIA, S/N"
+  },
+  {
+    "name": "AGRAMUNT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7845861,
+    "lng": 1.0950165,
+    "city": "AGRAMUNT",
+    "address": "CALLE VERGE DELS SOCORS, S/N"
+  },
+  {
+    "name": "BELLVER D'OSSÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7455443,
+    "lng": 1.1716938,
+    "city": "BELLVER D'OSSÓ",
+    "address": "PLAZA 11 DE SETEMBRE, S/N"
+  },
+  {
+    "name": "CASTELLNOU D'OSSÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7679923,
+    "lng": 1.1442741,
+    "city": "CASTELLNOU D'OSSÓ",
+    "address": "PLAZA MAJOR, S/N"
+  },
+  {
+    "name": "LA DONZELL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.8350519,
+    "lng": 1.0936548,
+    "city": "DONZELL D'URGELL",
+    "address": "CALLE MAJOR, Nº 5"
+  },
+  {
+    "name": "LES PALLARGUES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7625135,
+    "lng": 1.1974765,
+    "city": "PALLARGUES (LES)",
+    "address": "PLAZA AJUNTAMENT, S/N"
+  },
+  {
+    "name": "TORRES DE SEGRE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5324465,
+    "lng": 0.5151873,
+    "city": "TORRES DE SEGRE",
+    "address": "CALLE JOAN MIRÓ, Nº 1"
+  },
+  {
+    "name": "MAFET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.8030488,
+    "lng": 1.0808487,
+    "city": "MAFET",
+    "address": "CALLE MAJOR, S/N"
+  },
+  {
+    "name": "MONTCLAR",
+    "type": "PRIMARY_CARE",
+    "lat": 42.0182041,
+    "lng": 1.7650597,
+    "city": "MONTCLAR",
+    "address": "CALLE PARE FIDEL, S/N"
+  },
+  {
+    "name": "MONTFALCÓ D'OSSÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7615162,
+    "lng": 1.133389,
+    "city": "MONTFALCÓ D'AGRAMUNT",
+    "address": "PLAZA MAJOR, S/N"
+  },
+  {
+    "name": "OSSÓ DE SIÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7543075,
+    "lng": 1.1591728,
+    "city": "OSSÓ DE SIÓ",
+    "address": "PLAZA MAJOR, S/N"
+  },
+  {
+    "name": "ESPIEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1874346,
+    "lng": -5.0231992,
+    "city": "ESPIEL",
+    "address": "PLAZA LIBERTAD, S/N"
+  },
+  {
+    "name": "FUENTE OBEJUNA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1995706,
+    "lng": -5.3796878,
+    "city": "FUENTE OBEJUNA",
+    "address": "CALLE CORDOBA, S/N"
+  },
+  {
+    "name": "LA CORONADA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2542774,
+    "lng": -5.4915129,
+    "city": "CORONADA (LA)",
+    "address": "CALLE NUEVA, S/N"
+  },
+  {
+    "name": "LA GRANJUELA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3711409,
+    "lng": -5.3509316,
+    "city": "GRANJUELA (LA)",
+    "address": "CALLE GRAN CAPITÁN, Nº 24"
+  },
+  {
+    "name": "LOS BLÁZQUEZ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4067906,
+    "lng": -5.4370506,
+    "city": "BLÁZQUEZ (LOS)",
+    "address": "CALLE CARRETERA, Nº 1"
+  },
+  {
+    "name": "POSADILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1890348,
+    "lng": -5.2771768,
+    "city": "POSADILLA",
+    "address": "AVENIDA ANDALUCÍA, S/N"
+  },
+  {
+    "name": "VILLANUEVA DEL REY",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1984695,
+    "lng": -5.1532973,
+    "city": "VILLANUEVA DEL REY",
+    "address": "CALLE REAL, Nº 23"
+  },
+  {
+    "name": "CUENCA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.6997245,
+    "lng": -6.5486314,
+    "city": "CUENCA",
+    "address": "CALLE CASTELAR, S/N"
+  },
+  {
+    "name": "PREIXENS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7966842,
+    "lng": 1.0284525,
+    "city": "PREIXENS",
+    "address": "CARRETERA BALAGUER, Nº 10"
+  },
+  {
+    "name": "PUIGVERD D'AGRAMUNT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7794195,
+    "lng": 1.1285034,
+    "city": "PUIGVERD D'AGRAMUNT",
+    "address": "CALLE CENDRA, Nº 5"
+  },
+  {
+    "name": "BELLPUIG",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6325421,
+    "lng": 1.0129771,
+    "city": "BELLPUIG",
+    "address": "CALLE DIPUTACIÓ, S/N"
+  },
+  {
+    "name": "BELIANES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5589002,
+    "lng": 1.0164327,
+    "city": "BELIANES",
+    "address": "PLAZA ESGLÉSIA, S/N"
+  },
+  {
+    "name": "ELS OMELLS DE NA GAIA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4999895,
+    "lng": 1.0756858,
+    "city": "OMELLS DE NA GAIA (ELS)",
+    "address": "PLAZA MAJOR, Nº 1"
+  },
+  {
+    "name": "MALDÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5507157,
+    "lng": 1.0401107,
+    "city": "MALDÀ",
+    "address": "PLAZA H. DE LA VELLESA, Nº 1"
+  },
+  {
+    "name": "PREIXANA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6097525,
+    "lng": 1.0447839,
+    "city": "PREIXANA",
+    "address": "PLAZA CATALUNYA, S/N"
+  },
+  {
+    "name": "ROCAFORT DE VALLBONA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5547613,
+    "lng": 1.093499,
+    "city": "ROCAFORT DE VALLBONA",
+    "address": "CALLE RAVAL, S/N"
+  },
+  {
+    "name": "ROCALLAURA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5052596,
+    "lng": 1.1524424,
+    "city": "ROCALLAURA",
+    "address": "CALLE MONTSERRAT, S/N"
+  },
+  {
+    "name": "SANT MARTÍ DE MALDÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5602015,
+    "lng": 1.0552953,
+    "city": "SANT MARTÍ DE MALDÀ",
+    "address": "PLAZA MAJOR, Nº 16"
+  },
+  {
+    "name": "SEANA",
+    "type": "PRIMARY_CARE",
+    "lat": 43.2535869,
+    "lng": -5.7879425,
+    "city": "SEANA",
+    "address": "CALLE LES ESCOLES, S/N"
+  },
+  {
+    "name": "VALLBONA DE LES MONGES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5245669,
+    "lng": 1.0881537,
+    "city": "VALLBONA DE LES MONGES",
+    "address": "CALLE PRAT DE LA RIBA, Nº 1"
+  },
+  {
+    "name": "TÀRREGA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6502247,
+    "lng": 1.1388858,
+    "city": "TÀRREGA",
+    "address": "CALLE SALVADOR ESPRIU, S/N"
+  },
+  {
+    "name": "ALTET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6832306,
+    "lng": 1.1421637,
+    "city": "ALTET",
+    "address": "PLAZA ESGLÈSIA, S/N"
+  },
+  {
+    "name": "ANGLESOLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.646397,
+    "lng": 1.0789794,
+    "city": "ANGLESOLA",
+    "address": "AVENIDA CATALUNYA, Nº 37"
+  },
+  {
+    "name": "BENAOCAZ",
+    "type": "PRIMARY_CARE",
+    "lat": 36.700382,
+    "lng": -5.4218301,
+    "city": "BENAOCAZ",
+    "address": "CALLE FRAY DOMINGO DE BENAOCAZ, S/N"
+  },
+  {
+    "name": "GRAZALEMA",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7585321,
+    "lng": -5.3659034,
+    "city": "GRAZALEMA",
+    "address": "PLAZA PEQUEÑA, S/N"
+  },
+  {
+    "name": "BENAMAHOMA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7630809,
+    "lng": -5.4653849,
+    "city": "BENAMAHOMA",
+    "address": "CALLE REAL, S/N"
+  },
+  {
+    "name": "VILLALUENGA DEL ROSARIO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.6964823,
+    "lng": -5.3872258,
+    "city": "VILLALUENGA DEL ROSARIO",
+    "address": "CALLE REAL, Nº 9"
+  },
+  {
+    "name": "VILLAMARTÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8594238,
+    "lng": -5.6460042,
+    "city": "VILLAMARTÍN",
+    "address": "AVENIDA DE LA FERIA, Nº 58"
+  },
+  {
+    "name": "BORNOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8188344,
+    "lng": -5.745256,
+    "city": "BORNOS",
+    "address": "AVENIDA CAUCHIL, S/N"
+  },
+  {
+    "name": "COTO DE BORNOS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.8449442,
+    "lng": -5.6976499,
+    "city": "COTO DE BORNOS",
+    "address": "PLAZA ARTESANÍA, S/N"
+  },
+  {
+    "name": "EL BOSQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7575834,
+    "lng": -5.5082064,
+    "city": "BOSQUE (EL)",
+    "address": "AVENIDA DIPUTACIÓN, S/N"
+  },
+  {
+    "name": "PRADO DEL REY",
+    "type": "PRIMARY_CARE",
+    "lat": 36.7899641,
+    "lng": -5.5549525,
+    "city": "PRADO DEL REY",
+    "address": "CALLE VILLAMARTÍN, Nº 34"
+  },
+  {
+    "name": "PUERTO SERRANO",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9201622,
+    "lng": -5.5384057,
+    "city": "PUERTO SERRANO",
+    "address": "CALLE RAFAEL ALBERTI, S/N"
+  },
+  {
+    "name": "HINOJOSA DEL DUQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4950688,
+    "lng": -5.1416958,
+    "city": "HINOJOSA DEL DUQUE",
+    "address": "CALLE DUQUE DE AHUMADA, Nº 1"
+  },
+  {
+    "name": "BELALCÁZAR",
+    "type": "PRIMARY_CARE",
+    "lat": 38.5827667,
+    "lng": -5.1653084,
+    "city": "BELALCÁZAR",
+    "address": "CALLE DE FRAY MIGUEL DE MEDINA, Nº 22"
+  },
+  {
+    "name": "PEÑARROYA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3033528,
+    "lng": -5.2733678,
+    "city": "PEÑARROYA-PUEBLONUEVO",
+    "address": "AVENIDA JOSE SIMON DE LILLO, S/N"
+  },
+  {
+    "name": "BELMEZ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2741784,
+    "lng": -5.2125669,
+    "city": "BELMEZ",
+    "address": "AVENIDA LA CONSTITUCIÓN, S/N"
+  },
+  {
+    "name": "COLLBLANC",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3758735,
+    "lng": 2.1184045,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "CALLE CREU ROJA, Nº 18"
+  },
+  {
+    "name": "AMADEU TORNER",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3565469,
+    "lng": 2.1241612,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "CALLE AMADEU TORNER, Nº 63"
+  },
+  {
+    "name": "BELLVITGE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3509388,
+    "lng": 2.1076003,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "CALLE DE L'ERMITA DE BELLVITGE, S/N"
+  },
+  {
+    "name": "GORNAL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3547752,
+    "lng": 2.1170729,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "CALLE DELS JONCS, Nº 20-26"
+  },
+  {
+    "name": "JUST OLIVERAS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3612131,
+    "lng": 2.1014249,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "RAMBLA JUST OLIVERAS, Nº 50"
+  },
+  {
+    "name": "ALHAMBRA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3625353,
+    "lng": 2.1296566,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "CALLE ALHAMBRA, Nº 20"
+  },
+  {
+    "name": "RAMBLA DE LA MARINA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3492596,
+    "lng": 2.1116541,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "RAMBLA MARINA, Nº 264-280"
+  },
+  {
+    "name": "CAN SERRA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3676843,
+    "lng": 2.1027358,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "AVENIDA DE CAN SERRA, Nº 96"
+  },
+  {
+    "name": "RONDA DE LA TORRASSA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.369138,
+    "lng": 2.1269076,
+    "city": "HOSPITALET DE LLOBREGAT (L')",
+    "address": "RONDA DE LA TORRASSA, Nº 151-153"
+  },
+  {
+    "name": "LA GRANJA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4176647,
+    "lng": 2.0127143,
+    "city": "MOLINS DE REI",
+    "address": "CALLE DE LES SÍNIES, Nº 9 - 15"
+  },
+  {
+    "name": "EL PAPIOL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4354962,
+    "lng": 2.0025582,
+    "city": "PAPIOL (EL)",
+    "address": "CALLE GENERALITAT, Nº 7"
+  },
+  {
+    "name": "RAMBLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3881868,
+    "lng": 2.0462695,
+    "city": "SANT FELIU DE LLOBREGAT",
+    "address": "RAMBLA DE LA MARQUESA DE CASTELLBELL, Nº 98-100"
+  },
+  {
+    "name": "RAMONA VIA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3289214,
+    "lng": 2.1020824,
+    "city": "PRAT DE LLOBREGAT (EL)",
+    "address": "AVENIDA DE LA VERGE DE MONTSERRAT, Nº 24"
+  },
+  {
+    "name": "17 DE SETEMBRE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3187031,
+    "lng": 2.0866956,
+    "city": "PRAT DE LLOBREGAT (EL)",
+    "address": "CALLE EMPÚRIES, Nº 1-3"
+  },
+  {
+    "name": "SANT ILDEFONS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3633565,
+    "lng": 2.0843216,
+    "city": "CORNELLÀ DE LLOBREGAT",
+    "address": "AVENIDA DE LA REPÚBLICA ARGENTINA, S/N"
+  },
+  {
+    "name": "SANT JUST DESVERN",
+    "type": "PRIMARY_CARE",
+    "lat": 41.386078,
+    "lng": 2.0755662,
+    "city": "SANT JUST DESVERN",
+    "address": "AVENIDA DE LA INDÚSTRIA, S/N"
+  },
+  {
+    "name": "VALLIRANA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3730971,
+    "lng": 1.9429922,
+    "city": "VALLIRANA",
+    "address": "CALLE JOAN CAPRI, Nº 7"
+  },
+  {
+    "name": "CERVELLÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3871139,
+    "lng": 1.960674,
+    "city": "CERVELLÓ",
+    "address": "CALLE ANSELM CLAVÉ, S/N"
+  },
+  {
+    "name": "VERDAGUER",
+    "type": "PRIMARY_CARE",
+    "lat": 41.367232,
+    "lng": 2.0550595,
+    "city": "SANT JOAN DESPÍ",
+    "address": "CALLE CREU D'EN MUNTANER, S/N"
+  },
+  {
+    "name": "CAMPS BLANCS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3376973,
+    "lng": 2.0295362,
+    "city": "SANT BOI DE LLOBREGAT",
+    "address": "PLAZA D'EUSKADI, S/N"
+  },
+  {
+    "name": "MARTORELL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4840287,
+    "lng": 1.9186015,
+    "city": "MARTORELL",
+    "address": "CALLE MANCOMUNITATS COMARCALS, Nº 9"
+  },
+  {
+    "name": "GAVÀ 1",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2689369,
+    "lng": 2.0112506,
+    "city": "GAVÀ",
+    "address": "RIBERA DE SANT LLORENÇ, S/N"
+  },
+  {
+    "name": "BEGUES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.337102,
+    "lng": 1.8245097,
+    "city": "BEGUES",
+    "address": "CALLE FERRAN MUÑOZ, Nº 2-8"
+  },
+  {
+    "name": "EL CASTELL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2839753,
+    "lng": 1.9785537,
+    "city": "CASTELLDEFELS",
+    "address": "CALLE GUILLERMO MARCONI, Nº 1"
+  },
+  {
+    "name": "CAN BOU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2706767,
+    "lng": 1.9774621,
+    "city": "CASTELLDEFELS",
+    "address": "AVENIDA CIUTAT DE MÓLAGA, Nº 18-20"
+  },
+  {
+    "name": "MARÍA BERNADES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3172681,
+    "lng": 2.0100811,
+    "city": "VILADECANS",
+    "address": "CALLE DE LA MARE DE DÉU DE MONTSERRAT, Nº 124-126"
+  },
+  {
+    "name": "MAS FONT DE VILADECANS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3166637,
+    "lng": 2.0226465,
+    "city": "VILADECANS",
+    "address": "PASEO MARINA, Nº 2-4"
+  },
+  {
+    "name": "SANT CLIMENT DE LLOBREGAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3414061,
+    "lng": 1.9954773,
+    "city": "SANT CLIMENT DE LLOBREGAT",
+    "address": "PLAZA DE LA VILA, S/N"
+  },
+  {
+    "name": "MOLÍ NOU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3575245,
+    "lng": 2.0352776,
+    "city": "SANT BOI DE LLOBREGAT",
+    "address": "RONDA SAN RAMÓN , Nº 5"
+  },
+  {
+    "name": "MONTCLAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3445997,
+    "lng": 2.0381412,
+    "city": "SANT BOI DE LLOBREGAT",
+    "address": "CALLE PI I MARGALL, Nº 115"
+  },
+  {
+    "name": "SANT VICENÇ DEL HORTS 2 (EL SERRAL)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4009171,
+    "lng": 2.0075511,
+    "city": "SANT VICENÇ DELS HORTS",
+    "address": "CARRETERA DE SANT BOI, Nº 56-61"
+  },
+  {
+    "name": "COLONIA GÜELL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3644018,
+    "lng": 2.0302994,
+    "city": "COLÒNIA GÜELL (LA)",
+    "address": "CALLE CALLEAUDI GÜELL, Nº 1"
+  },
+  {
+    "name": "SANTA COLOMA DE CERVELLÒ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3701967,
+    "lng": 2.0239033,
+    "city": "SANTA COLOMA DE CERVELLÓ",
+    "address": "CALLE JOAN XXIII, Nº 24"
+  },
+  {
+    "name": "TORRELLES DE LLOBREGAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3701476,
+    "lng": 1.9962457,
+    "city": "TORRELLES DE LLOBREGAT",
+    "address": "PLAZA DOCTOR GONZÁLEZ, Nº 1"
+  },
+  {
+    "name": "VINYETS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3412318,
+    "lng": 2.0300594,
+    "city": "SANT BOI DE LLOBREGAT",
+    "address": "RONDA SANT RAMON, Nº 187"
+  },
+  {
+    "name": "APENINS-MONTIGALÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4539112,
+    "lng": 2.2249029,
+    "city": "BADALONA",
+    "address": "CALLE APENINS, S/N"
+  },
+  {
+    "name": "BUFALÀ - CANYET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.458132,
+    "lng": 2.2406942,
+    "city": "BADALONA",
+    "address": "AVENIDA MARTÍ I PUJOL, Nº 521-527"
+  },
+  {
+    "name": "DOCTOR ROBERT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4603972,
+    "lng": 2.242474,
+    "city": "BADALONA",
+    "address": "PLAZA DE LA MEDICINA, S/N"
+  },
+  {
+    "name": "LLEFIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4387908,
+    "lng": 2.2256604,
+    "city": "BADALONA",
+    "address": "CARRETERA ANTIGA VALÈNCIA, Nº 84"
+  },
+  {
+    "name": "MORERA POMAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4647791,
+    "lng": 2.2494607,
+    "city": "BADALONA",
+    "address": "CALLE PERE III, Nº 1-7"
+  },
+  {
+    "name": "EL GORG",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4407142,
+    "lng": 2.2312515,
+    "city": "BADALONA",
+    "address": "CALLE ANTONI BORI, Nº 76"
+  },
+  {
+    "name": "LA SALUT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.442733,
+    "lng": 2.2245758,
+    "city": "BADALONA",
+    "address": "PASEO DELS ENCANTS, S/N"
+  },
+  {
+    "name": "DOCTOR VILASECA (CAN MARINER)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.44852,
+    "lng": 2.2099836,
+    "city": "SANTA COLOMA DE GRAMENET",
+    "address": "CALLE SANT CARLES, Nº 79"
+  },
+  {
+    "name": "LLATÍ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4544008,
+    "lng": 2.2165448,
+    "city": "SANTA COLOMA DE GRAMENET",
+    "address": "CALLE PERÚ, Nº 60-62"
+  },
+  {
+    "name": "SANTA COLOMA DE GRAMENET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4536112,
+    "lng": 2.2052666,
+    "city": "SANTA COLOMA DE GRAMENET",
+    "address": "CALLE MAJOR, Nº 49-53"
+  },
+  {
+    "name": "SANTA ROSA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.446842,
+    "lng": 2.2158135,
+    "city": "SANTA COLOMA DE GRAMENET",
+    "address": "CALLE ELCANO, S/N"
+  },
+  {
+    "name": "SINGUERLÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4594263,
+    "lng": 2.2054422,
+    "city": "SANTA COLOMA DE GRAMENET",
+    "address": "CALLE SANTIAGO RUSIÑOL, Nº 64-68"
+  },
+  {
+    "name": "EL FONDO",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4495284,
+    "lng": 2.2175716,
+    "city": "SANTA COLOMA DE GRAMENET",
+    "address": "CALLE MN. J. VERDAGUER, Nº 118"
+  },
+  {
+    "name": "ADRIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4304832,
+    "lng": 2.2182775,
+    "city": "BARCELONA",
+    "address": "CALLE VALLMAJOR, Nº 34"
+  },
+  {
+    "name": "SARRIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4031576,
+    "lng": 2.1191032,
+    "city": "BARCELONA",
+    "address": "VÍA AUGUSTA, Nº 366"
+  },
+  {
+    "name": "CIUTAT MERIDIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4620341,
+    "lng": 2.1783979,
+    "city": "BARCELONA",
+    "address": "CALLE SANT FELIU DE CODINES, Nº 2"
+  },
+  {
+    "name": "CHAFARINAS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.446605,
+    "lng": 2.1822983,
+    "city": "BARCELONA",
+    "address": "VÍA FAVÈNCIA, Nº 297"
+  },
+  {
+    "name": "DOCTOR CARLES RIBAS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3585405,
+    "lng": 2.144383,
+    "city": "BARCELONA",
+    "address": "CALLE DEL FOC, Nº 112"
+  },
+  {
+    "name": "GUINEUETA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4399106,
+    "lng": 2.1736655,
+    "city": "BARCELONA",
+    "address": "PASEO VALLDAURA, Nº 135"
+  },
+  {
+    "name": "LA MARINA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3002213,
+    "lng": 2.0352973,
+    "city": "BARCELONA",
+    "address": "CALLE AMNISTIA INTERNACIONAL, Nº 8"
+  },
+  {
+    "name": "LES CORTS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.385244,
+    "lng": 2.1328626,
+    "city": "BARCELONA",
+    "address": "CALLE MEJÍA LEQUERICA, Nº 1"
+  },
+  {
+    "name": "LES PLANES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4273741,
+    "lng": 2.0915047,
+    "city": "BARCELONA",
+    "address": "PASEO SOLÉ, Nº 16-18 LOCAL 1"
+  },
+  {
+    "name": "MONTNEGRE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6734498,
+    "lng": 2.5674628,
+    "city": "BARCELONA",
+    "address": "CALLE MONTNEGRE, Nº 21"
+  },
+  {
+    "name": "NUMÀNCIA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3893918,
+    "lng": 2.1319537,
+    "city": "BARCELONA",
+    "address": "CALLE NUMÀNCIA, Nº 23"
+  },
+  {
+    "name": "LES HORTES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7212543,
+    "lng": 1.8680805,
+    "city": "BARCELONA",
+    "address": "CALLE NOU DE RAMBLA, Nº 177"
+  },
+  {
+    "name": "RÍO DE JANEIRO",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4312304,
+    "lng": 2.1816917,
+    "city": "BARCELONA",
+    "address": "AVENIDA RÍO DE JANEIRO, Nº 83-91"
+  },
+  {
+    "name": "ROQUETES-CANTERES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4462479,
+    "lng": 2.1736294,
+    "city": "BARCELONA",
+    "address": "CALLE GARIGLIANO, Nº 23-27"
+  },
+  {
+    "name": "SANT GERVASI ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4010671,
+    "lng": 2.1470799,
+    "city": "BARCELONA",
+    "address": "EDIFICI GARBÍ-PARC SANITARI PERE VIRGILI- CALLE ESTEVE TERRADAS, Nº 30"
+  },
+  {
+    "name": "SANTS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3753288,
+    "lng": 2.1349117,
+    "city": "BARCELONA",
+    "address": "CALLE VAPOR VELL, Nº 44-46"
+  },
+  {
+    "name": "TURÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4323672,
+    "lng": 2.1690681,
+    "city": "BARCELONA",
+    "address": "CALLE CADÍ, Nº 58-62"
+  },
+  {
+    "name": "VALLVIDRERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4150674,
+    "lng": 2.1074824,
+    "city": "BARCELONA",
+    "address": "CALLE ELISA MORAGAS I BADIA, Nº 2"
+  },
+  {
+    "name": "EL CARMEL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4215706,
+    "lng": 2.1557995,
+    "city": "BARCELONA",
+    "address": "CALLE MURTRA, Nº 130"
+  },
+  {
+    "name": "HORTA (BARCELONA 7D - 7F)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4330206,
+    "lng": 2.1590883,
+    "city": "BARCELONA",
+    "address": "CALLE LISBOA, Nº 35"
+  },
+  {
+    "name": "LARRARD (LA SALUT - LESSEPS)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5838921,
+    "lng": 2.1879633,
+    "city": "BARCELONA",
+    "address": "TRANSVERSAL DE DALT, Nº 79"
+  },
+  {
+    "name": "PARE CLARET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4516604,
+    "lng": 2.2483431,
+    "city": "BARCELONA",
+    "address": "CALLE SANT ANTONI MARÍA CALLEARET, Nº 19-21"
+  },
+  {
+    "name": "PASSEIG DE SANT JOAN",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4030964,
+    "lng": 2.1643579,
+    "city": "BARCELONA",
+    "address": "PASEO DE SANT JOAN, Nº 20"
+  },
+  {
+    "name": "SANLLEHY",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4136703,
+    "lng": 2.161322,
+    "city": "BARCELONA",
+    "address": "AVENIDA MARE DE DÉU DE MONTSERRAT, Nº 16-18"
+  },
+  {
+    "name": "SARDENYA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4036868,
+    "lng": 2.1730622,
+    "city": "BARCELONA",
+    "address": "CALLE SARDENYA, Nº 466"
+  },
+  {
+    "name": "SANT RAFAEL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4129098,
+    "lng": 2.1749297,
+    "city": "BARCELONA",
+    "address": "PASEO VALL D'HEBRON, Nº 107-117"
+  },
+  {
+    "name": "VALLCARCA - SANT GERVASI",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4114253,
+    "lng": 2.1425319,
+    "city": "BARCELONA",
+    "address": "AVENIDA VALLCARCA, Nº 169-205"
+  },
+  {
+    "name": "BARCELONETA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3806533,
+    "lng": 2.1899274,
+    "city": "BARCELONA",
+    "address": "PASEO MARÍTIM DE LA BARCELONETA, Nº 25-29"
+  },
+  {
+    "name": "BESÒS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4203693,
+    "lng": 2.2097125,
+    "city": "BARCELONA",
+    "address": "CALLE ALFONS EL MAGNÀNIM, Nº 57"
+  },
+  {
+    "name": "BON PASTOR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4361256,
+    "lng": 2.2048081,
+    "city": "BARCELONA",
+    "address": "CALLE MOLLERUSSA, S/N"
+  },
+  {
+    "name": "REC COMTAL",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4598668,
+    "lng": 2.1846325,
+    "city": "BARCELONA",
+    "address": "CALLE REC COMTAL, Nº 20"
+  },
+  {
+    "name": "DOCTOR BARRAQUER",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4299862,
+    "lng": 2.2173129,
+    "city": "SANT ADRIÀ DE BESÒS",
+    "address": "PLAZA DEL DOCTOR TRUETA, S/N"
+  },
+  {
+    "name": "DOCTOR LLUÍS SAYÉ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.384364,
+    "lng": 2.1651147,
+    "city": "BARCELONA",
+    "address": "CALLE TORRES I AMAT, Nº 8"
+  },
+  {
+    "name": "GÒTIC",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3833947,
+    "lng": 2.1769119,
+    "city": "BARCELONA",
+    "address": "PASEO DE LA PAU, Nº 1"
+  },
+  {
+    "name": "LA MINA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4183271,
+    "lng": 2.2209579,
+    "city": "SANT ADRIÀ DE BESÒS",
+    "address": "PLAZA MARÍA ANGELS ROSELL SIMPLICIO, Nº 1"
+  },
+  {
+    "name": "LA PAU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4236017,
+    "lng": 2.2052815,
+    "city": "BARCELONA",
+    "address": "CALLE PERE VERGÉS, Nº 3"
+  },
+  {
+    "name": "LA SAGRERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4204126,
+    "lng": 2.1868157,
+    "city": "BARCELONA",
+    "address": "CALLE GARCILASO, Nº 1-9"
+  },
+  {
+    "name": "POBLENOU (BARCELONA)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4037285,
+    "lng": 2.2033641,
+    "city": "BARCELONA",
+    "address": "CALLE LOPE DE VEGA, Nº 132"
+  },
+  {
+    "name": "RAMON TURRÓ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3917708,
+    "lng": 2.1920682,
+    "city": "BARCELONA",
+    "address": "CALLE RAMON TURRÓ, Nº 337-339"
+  },
+  {
+    "name": "VILA OLÍMPICA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3898682,
+    "lng": 2.1968459,
+    "city": "BARCELONA",
+    "address": "CALLE JOAN MIRÓ, Nº 17"
+  },
+  {
+    "name": "SANT ANDREU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4372495,
+    "lng": 2.1954872,
+    "city": "BARCELONA",
+    "address": "AVENIDA DE LA MERIDIANA, Nº 428"
+  },
+  {
+    "name": "SANT MARTI DE PROVENÇALS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4165186,
+    "lng": 2.1989683,
+    "city": "BARCELONA",
+    "address": "CALLE FLUVIÀ, Nº 209-211"
+  },
+  {
+    "name": "TRINITAT VELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.44957,
+    "lng": 2.1929595,
+    "city": "BARCELONA",
+    "address": "VÍA BARCINO, Nº 88"
+  },
+  {
+    "name": "CUBELLES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2042137,
+    "lng": 1.6760964,
+    "city": "CUBELLES",
+    "address": "CALLE MOSSÈN MIQUEL CORTÍ, S/N"
+  },
+  {
+    "name": "CUNIT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.1947554,
+    "lng": 1.6315382,
+    "city": "CUNIT",
+    "address": "AVENIDA DEL CASTEL, Nº 16"
+  },
+  {
+    "name": "JAUME I",
+    "type": "PRIMARY_CARE",
+    "lat": 41.2262632,
+    "lng": 1.7283418,
+    "city": "VILANOVA I LA GELTRÚ",
+    "address": "CALLE MANUEL MARQUÈS, S/N"
+  },
+  {
+    "name": "JOSEP BERTRAN I MIRET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.25539,
+    "lng": 1.7743921,
+    "city": "SANT PERE DE RIBES",
+    "address": "PASEO CIRCUNVALACIÓN, Nº 86"
+  },
+  {
+    "name": "SANT JOAN",
+    "type": "PRIMARY_CARE",
+    "lat": 41.22355,
+    "lng": 1.7194618,
+    "city": "VILANOVA I LA GELTRÚ",
+    "address": "CALLE JARDÍ, Nº 106"
+  },
+  {
+    "name": "SITGES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.241034,
+    "lng": 1.7987957,
+    "city": "SITGES",
+    "address": "CAMÍ DELS CAPELLANS, S/N"
+  },
+  {
+    "name": "ARENYS DE MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5774115,
+    "lng": 2.5494194,
+    "city": "ARENYS DE MAR",
+    "address": "AVENIDA D'AUTERIVE, S/N"
+  },
+  {
+    "name": "OLIVELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.3204135,
+    "lng": 1.8139518,
+    "city": "OLIVELLA",
+    "address": "CALLE AQUARI, S/N"
+  },
+  {
+    "name": "CALELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6147084,
+    "lng": 2.6665744,
+    "city": "CALELLA",
+    "address": "CALLE SANT JAUME, Nº 209-217"
+  },
+  {
+    "name": "CIRERA MOLINS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5512569,
+    "lng": 2.4396834,
+    "city": "MATARÓ",
+    "address": "RONDA FREDERIC MISTRAL, Nº 2"
+  },
+  {
+    "name": "CABRERA DE MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.530078,
+    "lng": 2.3993494,
+    "city": "CABRERA DE MAR",
+    "address": "PLAZA CAN PAU FERRER, Nº 1"
+  },
+  {
+    "name": "PLA DE L'AVELLÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5095739,
+    "lng": 2.4005796,
+    "city": "PLA DE L'AVELLÀ",
+    "address": "RAMBLA DELS VINYALS, Nº  20"
+  },
+  {
+    "name": "PALAFOLLS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.678801,
+    "lng": 2.7353377,
+    "city": "PALAFOLLS",
+    "address": "CALLE SINDICAT, S/N"
+  },
+  {
+    "name": "MASNOU (EL)",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4769061,
+    "lng": 2.3104186,
+    "city": "MASNOU (EL)",
+    "address": "CALLE SANT MIQUEL, Nº 125"
+  },
+  {
+    "name": "ALELLA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4841804,
+    "lng": 2.3029293,
+    "city": "ALELLA",
+    "address": "CALLE DOCTOR MAS DE XAXARS, Nº 10"
+  },
+  {
+    "name": "TEIÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4998049,
+    "lng": 2.319526,
+    "city": "TEIÀ",
+    "address": "PASEO DE LA RIERA, Nº 118"
+  },
+  {
+    "name": "MATARÓ-CENTRE",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5335868,
+    "lng": 2.4452852,
+    "city": "MATARÓ",
+    "address": "CALLE CAMÍ RAL, Nº 208-210"
+  },
+  {
+    "name": "MONTGAT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.462907,
+    "lng": 2.2722059,
+    "city": "MONTGAT",
+    "address": "CALLE SANT ANTONI M. CALLEARET, S/N"
+  },
+  {
+    "name": "TIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4816766,
+    "lng": 2.2690302,
+    "city": "TIANA",
+    "address": "CALLE FRANCI, Nº 9"
+  },
+  {
+    "name": "PINEDA DE MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6223602,
+    "lng": 2.6936105,
+    "city": "PINEDA DE MAR",
+    "address": "CALLE TARRAGONA, Nº 49"
+  },
+  {
+    "name": "POBLENOU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6197258,
+    "lng": 2.6727924,
+    "city": "PINEDA DE MAR",
+    "address": "CALLE L'EMPORDÀ, Nº 3"
+  },
+  {
+    "name": "ROCAFONDA-PALAU",
+    "type": "PRIMARY_CARE",
+    "lat": 41.550596,
+    "lng": 2.4507502,
+    "city": "MATARÓ",
+    "address": "RONDA PINTOR RAFAEL ESTRANY, Nº 24"
+  },
+  {
+    "name": "RONDA CERDANYA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5423171,
+    "lng": 2.4223481,
+    "city": "MATARÓ",
+    "address": "CALLE VALLÈS, Nº 37"
+  },
+  {
+    "name": "SANT ANDREU DE LLAVANERES",
+    "type": "PRIMARY_CARE",
+    "lat": 41.555398,
+    "lng": 2.4983663,
+    "city": "SANT ANDREU DE LLAVANERES",
+    "address": "PASEO DE JAUME BRUTAU, Nº 2"
+  },
+  {
+    "name": "CALDES D'ESTRAC",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5685854,
+    "lng": 2.5263587,
+    "city": "CALDES D'ESTRAC",
+    "address": "PLAZA DE LA VILA, Nº 1"
+  },
+  {
+    "name": "SANT VICENÇ DE MONTALT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5785386,
+    "lng": 2.5094096,
+    "city": "SANT VICENÇ DE MONTALT",
+    "address": "AVENIDA VERGE DE MONTSERRAT, Nº 2"
+  },
+  {
+    "name": "TORDERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7070524,
+    "lng": 2.7194775,
+    "city": "TORDERA",
+    "address": "CALLE DOCTOR CALLEAS, Nº 29"
+  },
+  {
+    "name": "FOGARS DE TORDERA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.7389802,
+    "lng": 2.6943873,
+    "city": "FOGARS DE LA SELVA",
+    "address": "CARRETERA BV-5122, KM 5"
+  },
+  {
+    "name": "VILASSAR DE DALT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5200695,
+    "lng": 2.3671358,
+    "city": "VILASSAR DE DALT",
+    "address": "PLAZA DE LA VILA, Nº 8"
+  },
+  {
+    "name": "CANYAMARS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6014813,
+    "lng": 2.4471949,
+    "city": "CANYAMARS",
+    "address": "CALLE MAJOR, Nº 7"
+  },
+  {
+    "name": "CAN MASSUET",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6175508,
+    "lng": 2.4289927,
+    "city": "CAN MASSUET-EL FAR",
+    "address": "AVENIDA EL FAR, Nº 10"
+  },
+  {
+    "name": "ÒRRIUS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5552742,
+    "lng": 2.3551799,
+    "city": "ÒRRIUS",
+    "address": "CARRETERA DE LA ROCA, Nº 2"
+  },
+  {
+    "name": "SANT MIQUEL DEL CROS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5354389,
+    "lng": 2.4126282,
+    "city": "ARGENTONA",
+    "address": "AVENIDA MEDITERRANI, S/N"
+  },
+  {
+    "name": "CANET DE MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.586446,
+    "lng": 2.581146,
+    "city": "CANET DE MAR",
+    "address": "PLAZA DE LA UNIVERSITAT, Nº 1"
+  },
+  {
+    "name": "SANT ISCLE DE VALLALTA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6215124,
+    "lng": 2.5534292,
+    "city": "SANT ISCLE DE VALLALTA",
+    "address": "CALLE ESGLÉSIA, Nº 5"
+  },
+  {
+    "name": "SANT POL DE MAR",
+    "type": "PRIMARY_CARE",
+    "lat": 41.601631,
+    "lng": 2.6246461,
+    "city": "SANT POL DE MAR",
+    "address": "CALLE SANTA CLARA, Nº 1"
+  },
+  {
+    "name": "SANT CEBRIÀ DE VALLALTA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.6253315,
+    "lng": 2.5957963,
+    "city": "SANT CEBRIÀ DE VALLALTA",
+    "address": "CALLE CENTRE, Nº 27"
+  },
+  {
+    "name": "ANTÓN DE BORJA",
+    "type": "PRIMARY_CARE",
+    "lat": 41.4847344,
+    "lng": 2.0369008,
+    "city": "RUBÍ",
+    "address": "CALLE INVENTOR EDISON, S/N"
+  },
+  {
+    "name": "ARENYS DE MUNT",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5991681,
+    "lng": 2.5427265,
+    "city": "ARENYS DE MUNT",
+    "address": "AVENIDA DEL REMEI, S/N"
+  },
+  {
+    "name": "BADIA DEL VALLÈS",
+    "type": "PRIMARY_CARE",
+    "lat": 41.5055736,
+    "lng": 2.1175823,
+    "city": "BADIA DEL VALLÈS",
+    "address": "CALLE BÈTICA, S/N"
+  },
+  {
+    "name": "ADRALL",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3263246,
+    "lng": 1.4001791,
+    "city": "ADRALL",
+    "address": "CALLE MAJOR, S/N"
+  },
+  {
+    "name": "ALÀS",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3526953,
+    "lng": 1.5068994,
+    "city": "ALÀS",
+    "address": "CALLE MAJOR, S/N"
+  },
+  {
+    "name": "ARFA",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3280235,
+    "lng": 1.4136886,
+    "city": "ARFA",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "ARSÈGUEL",
+    "type": "PRIMARY_CARE",
+    "lat": 42.361471,
+    "lng": 1.5890236,
+    "city": "ARSÈGUEL",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "BESCARAN",
+    "type": "PRIMARY_CARE",
+    "lat": 42.4024565,
+    "lng": 1.5430095,
+    "city": "BESCARAN",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "CASTELL CIUTAT",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3573958,
+    "lng": 1.4448466,
+    "city": "CASTELLCIUTAT",
+    "address": "CALLE DEL DOCTOR ROBERT, Nº 1"
+  },
+  {
+    "name": "EL PLA DE SANT TIRS",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3153863,
+    "lng": 1.3822963,
+    "city": "PLA DE SANT TIRS (EL)",
+    "address": "PLAZA ERA BADIA, S/N"
+  },
+  {
+    "name": "ESTAMARIU",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3754491,
+    "lng": 1.5242227,
+    "city": "ESTAMARIU",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "MONTAN DE TOST",
+    "type": "PRIMARY_CARE",
+    "lat": 42.2340925,
+    "lng": 1.3923346,
+    "city": "MONTAN DE TOST",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "MONTFERRER",
+    "type": "PRIMARY_CARE",
+    "lat": 42.3395876,
+    "lng": 1.4214272,
+    "city": "MONTFERRER",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "NOVES DE SEGRE",
+    "type": "PRIMARY_CARE",
+    "lat": 42.2932653,
+    "lng": 1.3502111,
+    "city": "NOVES DE SEGRE",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "SORRIBES",
+    "type": "PRIMARY_CARE",
+    "lat": 43.3656818,
+    "lng": -5.2539879,
+    "city": "SORRIBES",
+    "address": "CALLE ÚNIC, S/N"
+  },
+  {
+    "name": "TUIXÉN",
+    "type": "PRIMARY_CARE",
+    "lat": 42.2312502,
+    "lng": 1.5659834,
+    "city": "TUIXENT",
+    "address": "CALLE ÚNIC, S/N-CASA METGE"
+  },
+  {
+    "name": "OLIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 42.0663402,
+    "lng": 1.3137322,
+    "city": "OLIANA",
+    "address": "CALLE GIRONA, Nº 8"
+  },
+  {
+    "name": "ALINYÀ",
+    "type": "PRIMARY_CARE",
+    "lat": 42.1806397,
+    "lng": 1.4235621,
+    "city": "ALINYÀ",
+    "address": "PLAZA VALL PLA, S/N"
+  }
+]

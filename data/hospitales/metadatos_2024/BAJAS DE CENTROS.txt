@@ -1,0 +1,2 @@
+CODCNH	Nombre Centro	Municipio	Provincia	CCAA
+400058	Unidad de Rehabilitación Psiquiatrica Nuestra Señora de La Fuencisla	Palazuelos de Eresma	Segovia	Castilla y León

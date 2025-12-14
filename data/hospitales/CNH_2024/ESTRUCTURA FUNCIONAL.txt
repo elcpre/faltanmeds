@@ -1,0 +1,888 @@
+CCN	CODCNH	Nombre Centro	Cód. Provincia	Provincia	Cód. CCAA	CCAA	AD	Cod Concierto	Concierto	Forma parte Complejo	CODIDCOM	Nombre del Complejo	Es Comlejo	ALTA	TAC	RMN	GAM	HEM	ASD	LIT	BCO	ALI	SPECT	PET	MAMO	DO	DIAL
+0111000286	110259	Hospital Punta de Europa	11	Cádiz	01	Andalucía	S	01	Sin concierto	N			N	N	3	1	0	1	0	0	0	3	1	0	2	1	20
+0114000535	140121	Hospital Valle de Los Pedroches	14	Córdoba	01	Andalucía	DC	DC	DC	S	140285	Hospital Valle de Los Pedroches	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000213	230079	Hospital San Agustín	23	Jaén	01	Andalucía	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0129001077	290206	Hospital de La Axarquia	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	2	2	0	0	0	1	0	0	0	0	2	0	0
+0141001671	410375	Hospital Vithas Sevilla	41	Sevilla	01	Andalucía	N	02	Concierto parcial	N			N	N	1	2	0	1	1	1	0	0	0	0	1	1	1
+0141000555	410353	Hospital San Juan de Dios del Aljarafe	41	Sevilla	01	Andalucía	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	2	0	0
+0118000553	180074	Hospital de La Inmaculada Concepción	18	Granada	01	Andalucía	S	01	Sin concierto	N			N	N	1	1	1	1	0	1	0	1	0	0	1	1	0
+	410507	Hospital La Merced	41	Sevilla	01	Andalucía	S	01	Sin concierto	N			S		2	1	0	0	0	0	0	0	0	0	3	0	0
+	230228	Hospital San Juan de La Cruz	23	Jaén	01	Andalucía	S	01	Sin concierto	N			S		2	0	0	0	1	1	0	0	0	0	4	0	0
+0104002838	040138	Hospital Materno Infantil	04	Almería	01	Andalucía	DC	DC	DC	S	040097	Hospital Universitario Torrecárdenas	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114003688	140252	Hospital Centro de Andalucía	14	Córdoba	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0123003109	230206	Centro Hospitalario de Alta Resolución de Cazorla	23	Jaén	01	Andalucía	DC	DC	DC	S	230228	Hospital San Juan de La Cruz	N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129007460	290528	Hospital de Alta Resolución de Estepona	29	Malaga	01	Andalucía	DC	DC	DC	S	290539	Hospital Costa del Sol	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141006864	410205	Hospital de Emergencia Covid 19	41	Sevilla	01	Andalucía	DC	DC	DC	S	410286	Hospital Universitario Virgen del Rocío	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114003703	140263	Hospital Palma del Rio	14	Córdoba	01	Andalucía	DC	DC	DC	S	140023	Hospital Universitario Reina Sofía	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+	180188	Hospital Universitario Virgen de Las Nieves	18	Granada	01	Andalucía	S	01	Sin concierto	N			S		8	4	0	2	7	4	1	4	2	1	4	2	65
+	110338	Hospital Universitario de Puerto Real	11	Cádiz	01	Andalucía	S	01	Sin concierto	N			S		4	2	0	2	3	1	0	0	0	0	2	1	42
+	140285	Hospital Valle de Los Pedroches	14	Córdoba	01	Andalucía	N	01	Sin concierto	N			S		1	1	0	0	0	0	0	0	0	0	2	2	12
+	140274	Hospital Infanta Margarita	14	Córdoba	01	Andalucía	S	01	Sin concierto	N			S		2	1	0	0	0	2	0	0	0	0	4	0	2
+	180177	Hospital Universitario Clínico San Cecilio	18	Granada	01	Andalucía	S	01	Sin concierto	N			S		5	4	0	3	7	2	0	3	3	1	2	2	34
+	290539	Hospital Costa del Sol	29	Malaga	01	Andalucía	S	01	Sin concierto	N			S		4	2	0	1	0	2	0	2	1	1	3	0	25
+0118004857	180191	Hospital Doctor Oloriz	18	Granada	01	Andalucía	DC	DC	DC	S	180188	Hospital Universitario Virgen de Las Nieves	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123003127	230217	Hospital Metropolitano de Jaén	23	Jaén	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+	230119	Hospital Universitario de Jaén	23	Jaén	01	Andalucía	S	01	Sin concierto	N			S	N	5	3	0	2	4	1	0	4	2	1	3	1	36
+0111000291	110184	Hospital Universitario de Puerto Real	11	Cádiz	01	Andalucía	DC	DC	DC	S	110338	Hospital Universitario de Puerto Real	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0111000295	110239	Hospital Jerez Puerta del Sur	11	Cádiz	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0114000529	140116	Hospital Infanta Margarita	14	Córdoba	01	Andalucía	DC	DC	DC	S	140274	Hospital Infanta Margarita	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114000533	140044	Hospital Materno - Infantil del H.U. Reina Sofia	14	Córdoba	01	Andalucía	DC	DC	DC	S	140023	Hospital Universitario Reina Sofía	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114001301	140218	Hospital de Alta Resolución de Puente Genil	14	Córdoba	01	Andalucía	DC	DC	DC	S	140274	Hospital Infanta Margarita	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118000562	180107	Hospital Santa Ana	18	Granada	01	Andalucía	S	01	Sin concierto	N			N	N	1	1	0	1	0	0	0	0	0	0	0	0	0
+0118004562	180150	Hospital Universitario Clínico San Cecilio	18	Granada	01	Andalucía	DC	DC	DC	S	180177	Hospital Universitario Clínico San Cecilio	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0121000147	210123	Hospital Universitario Juan Ramon Jimenez	21	Huelva	01	Andalucía	DC	DC	DC	S	210101	Hospital Universitario Juan Ramón Jiménez	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0121000151	210084	Clínica Los Naranjos	21	Huelva	01	Andalucía	N	02	Concierto parcial	N			N	N	1	0	0	0	0	0	0	0	0	0	1	1	0
+0123000211	230026	Hospital Doctor Sagaz	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000214	230098	Hospital San Juan de La Cruz	23	Jaén	01	Andalucía	DC	DC	DC	S	230228	Hospital San Juan de La Cruz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000703	230162	Hospital de Alta Resolución Sierra de Segura	23	Jaén	01	Andalucía	DC	DC	DC	S	230228	Hospital San Juan de La Cruz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123003108	230195	Hospital Puerta de Andalucía	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001066	290287	Hospital Costa del Sol	29	Malaga	01	Andalucía	DC	DC	DC	S	290539	Hospital Costa del Sol	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001071	290038	Hospital Civil	29	Malaga	01	Andalucía	DC	DC	DC	S	290234	Hospital Universitario Regional de Málaga	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001079	290081	Hospital Vithas Parque San Antonio	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	2	1	1	0	0	0	0	0	0	1	1	0
+0129001086	290348	Clínica El Seranil	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129001929	290393	Fundacion Cudeca. Centro de Cuidados Paliativos	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0141000538	410074	Hospital Victoria Eugenia de La Cruz Roja Española	41	Sevilla	01	Andalucía	S	02	Concierto parcial	N			N	N	1	3	0	0	0	0	0	1	0	1	0	1	0
+0141000540	410251	Hospital La Merced	41	Sevilla	01	Andalucía	DC	DC	DC	S	410507	Hospital La Merced	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000541	410021	Hospital Universitario Virgen de Valme	41	Sevilla	01	Andalucía	DC	DC	DC	S	410303	Hospital Universitario Virgen de Valme	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000554	410248	Hospital de Alta Resolución de Morón de La Frontera	41	Sevilla	01	Andalucía	DC	DC	DC	S	410303	Hospital Universitario Virgen de Valme	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000649	410483	Ita Clinic Bcn	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0141000727	410135	Hospital Quironsalud Infanta Luisa	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	2	2	0	1	1	1	0	2	1	1	1	1	1
+0141006854	410496	Adinfa, Sociedad Cooperativa Andaluza	41	Sevilla	01	Andalucía	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0141006465	410432	Clínica de Salud Mental Miguel de Mañara	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129002973	290450	Hospital Vithas Xanit Estepona	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0129000185	290494	Helicópteros Sanitarios Hospital	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	1	1	0	0	0	0	0	1	0	0
+0141000553	410191	Clínica Nuestra Señora de Aránzazu	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0104000316	040010	Hospital Universitario Torrecardenas	04	Almería	01	Andalucía	DC	DC	DC	S	040097	Hospital Universitario Torrecárdenas	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0111000289	110327	Hospital Universitario Puerta del Mar	11	Cádiz	01	Andalucía	DC	DC	DC	S	110012	Hospital Universitario Puerta del Mar	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0111004473	110305	Hospital San Carlos de San Fernando	11	Cádiz	01	Andalucía	DC	DC	DC	S	110012	Hospital Universitario Puerta del Mar	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114000530	140230	Hospital Universitario Reina Sofia	14	Córdoba	01	Andalucía	DC	DC	DC	S	140023	Hospital Universitario Reina Sofía	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114000531	140060	Hospital Provincial	14	Córdoba	01	Andalucía	DC	DC	DC	S	140023	Hospital Universitario Reina Sofía	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114000532	140039	Hospital Los Morales	14	Córdoba	01	Andalucía	DC	DC	DC	S	140023	Hospital Universitario Reina Sofía	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118000556	180016	Hospital Universitario Virgen de Las Nieves	18	Granada	01	Andalucía	DC	DC	DC	S	180188	Hospital Universitario Virgen de Las Nieves	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118000560	180166	Hospital Materno-Infantil del H.U. Virgen de Las Nieves	18	Granada	01	Andalucía	DC	DC	DC	S	180188	Hospital Universitario Virgen de Las Nieves	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118004856	180042	Hospital de Neurotraumatologia y Rehabilitación del H.U. Virgen de Las Nieves	18	Granada	01	Andalucía	DC	DC	DC	S	180188	Hospital Universitario Virgen de Las Nieves	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0121000149	210031	Hospital Vázquez Diaz	21	Huelva	01	Andalucía	DC	DC	DC	S	210101	Hospital Universitario Juan Ramón Jiménez	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000208	230011	Hospital Universitario de Jaén	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000210	230047	Hospital Neurotraumatologico del H.U. de Jaén	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000212	230151	Hospital Materno-Infantil del H.U. de Jaén	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001068	290017	Hospital Universitario Regional de Málaga	29	Malaga	01	Andalucía	DC	DC	DC	S	290234	Hospital Universitario Regional de Málaga	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001070	290265	Hospital Materno Infantil del H.U.R. de Málaga	29	Malaga	01	Andalucía	DC	DC	DC	S	290234	Hospital Universitario Regional de Málaga	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001073	290022	Hospital Universitario Virgen de La Victoria	29	Malaga	01	Andalucía	DC	DC	DC	S	290252	Hospital Universitario Virgen de La Victoria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001075	290213	Hospital Marítimo de Torremolinos	29	Malaga	01	Andalucía	DC	DC	DC	S	290252	Hospital Universitario Virgen de La Victoria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129007432	290517	Hospital Valle de Guadalhorce de Cartama	29	Malaga	01	Andalucía	DC	DC	DC	S	290252	Hospital Universitario Virgen de La Victoria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000543	410227	Hospital El Tomillar	41	Sevilla	01	Andalucía	DC	DC	DC	S	410303	Hospital Universitario Virgen de Valme	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000544	410042	Hospital Universitario Virgen Macarena	41	Sevilla	01	Andalucía	DC	DC	DC	S	410299	Hospital Universitario Virgen Macarena	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000546	410055	Hospital San Lázaro	41	Sevilla	01	Andalucía	DC	DC	DC	S	410299	Hospital Universitario Virgen Macarena	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+	290234	Hospital Universitario Regional de Málaga	29	Malaga	01	Andalucía	S	01	Sin concierto	N			S	N	5	2	0	4	3	3	0	7	3	1	1	5	60
+	290252	Hospital Universitario Virgen de La Victoria	29	Malaga	01	Andalucía	S	01	Sin concierto	N			S	N	7	2	0	2	4	4	0	6	2	1	4	1	6
+	410286	Hospital Universitario Virgen del Rocío	41	Sevilla	01	Andalucía	S	01	Sin concierto	N			S	N	9	6	3	7	6	2	0	9	2	2	5	2	53
+	410299	Hospital Universitario Virgen Macarena	41	Sevilla	01	Andalucía	S	01	Sin concierto	N			S	N	7	3	2	4	3	1	0	5	1	1	3	2	79
+	410303	Hospital Universitario Virgen de Valme	41	Sevilla	01	Andalucía	S	01	Sin concierto	N			S	N	6	1	0	3	3	1	0	0	0	0	4	0	0
+0141000547	410016	Hospital Universitario Virgen del Rocío	41	Sevilla	01	Andalucía	DC	DC	DC	S	410286	Hospital Universitario Virgen del Rocío	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000550	410443	Hospital de Rehabilitación y Traumatología del H.U. Virgen del Rocío	41	Sevilla	01	Andalucía	DC	DC	DC	S	410286	Hospital Universitario Virgen del Rocío	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141000551	410465	Hospital Infantil	41	Sevilla	01	Andalucía	DC	DC	DC	S	410286	Hospital Universitario Virgen del Rocío	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0141006842	410476	Hospital de La Mujer	41	Sevilla	01	Andalucía	DC	DC	DC	S	410286	Hospital Universitario Virgen del Rocío	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001088	290173	Hospital Quironsalud Marbella	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	1	1	0	0	0	0	0	1	1	23
+0141000539	410107	Clínica Santa Isabel	41	Sevilla	01	Andalucía		01	Sin concierto	N			N	N	1	1	1	1	0	1	0	0	0	0	1	1	0
+0111000297	110103	Clínica Los Álamos	11	Cádiz	01	Andalucía	N	01	Sin concierto	N			N	N	1	0	0	0	1	0	0	0	0	0	1	0	0
+0111000290	110110	Hospital Universitario de Jerez de La Frontera	11	Cádiz	01	Andalucía	S	01	Sin concierto	N			N	N	4	2	0	3	1	0	0	2	0	0	1	1	23
+0104000322	040101	Hospital Mediterráneo	04	Almería	01	Andalucía	N	02	Concierto parcial	N			N	N	1	2	0	1	0	0	0	0	0	0	1	0	0
+0111000292	110048	Hospital Nuestra Sra. de La Salud Ha S.L.	11	Cádiz	01	Andalucía	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0129001081	290115	HM Málaga	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	1	2	0	0	1	0	0	0	0	0	1	0	0
+0129001084	290094	Hospital El Ángel	29	Malaga	01	Andalucía	S	01	Sin concierto	N			N	N	1	1	0	1	0	1	0	0	0	0	1	1	0
+0104000320	040084	Hospital La Inmaculada	04	Almería	01	Andalucía	N	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	1	1	0	0
+0104001001	040127	Hospital de Alta Resolución El Toyo	04	Almería	01	Andalucía	DC	DC	DC	S	040097	Hospital Universitario Torrecárdenas	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0111004317	110316	Hospital de La Línea de La Concepción	11	Cádiz	01	Andalucía	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0118001566	180122	Hospital de Alta Resolución de Guadix	18	Granada	01	Andalucía	DC	DC	DC	S	180188	Hospital Universitario Virgen de Las Nieves	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0121000150	210097	Hospital de Riotinto	21	Huelva	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0123000216	230145	Hospital Alto Guadalquivir	23	Jaén	01	Andalucía	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0123000736	230173	Hospital de Alta Resolución de Alcaudete	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123002675	230184	Hospital de Alta Resolución de Alcalá La Real	23	Jaén	01	Andalucía	DC	DC	DC	S	230119	Hospital Universitario de Jaén	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0129001087	290154	Hospital de Antequera	29	Malaga	01	Andalucía	S	01	Sin concierto	N			N	N	2	1	0	0	0	3	0	0	0	0	2	0	0
+0141001947	410386	Hospital de Alta Resolución de Utrera	41	Sevilla	01	Andalucía	DC	DC	DC	S	410303	Hospital Universitario Virgen de Valme	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0111000283	110162	Hospital General Santa Maria del Puerto	11	Cádiz	01	Andalucía		031	Red de utilización pública (RUP)	N			N	N	1	1	0	1	0	0	0	0	0	0	1	0	0
+0111000284	110125	Hospital San Juan Grande	11	Cádiz	01	Andalucía	N	02	Concierto parcial	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	0
+0111000293	110218	Hospital Virgen de Las Montañas	11	Cádiz	01	Andalucía		031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0111000294	110223	Hospital Virgen del Camino	11	Cádiz	01	Andalucía		031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0111000300	110260	Hospital Viamed Novo Sancti Petri	11	Cádiz	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0111000285	110051	Hospital San Rafael	11	Cádiz	01	Andalucía		031	Red de utilización pública (RUP)	N			N	N	0	1	0	1	0	0	0	0	0	0	1	0	1
+0111004486	110213	Hospital de Alta Resolución de Especialidades de La Janda	11	Cádiz	01	Andalucía	DC	DC	DC	S	110338	Hospital Universitario de Puerto Real	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118000563	180055	Hospital San Rafael	18	Granada	01	Andalucía	N	02	Concierto parcial	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+0121001889	210148	Hospital Virgen de La Bella	21	Huelva	01	Andalucía		031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0129001080	290141	HM El Pilar	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129001090	290069	Centro Asistencial San Juan de Dios	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129001091	290136	Hospital Psiquiátrico San Francisco de Asís	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129001424	290461	Hospital Ochoa	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	1	1	0
+0129003159	290472	Hospital Recoletas Marbella Slu	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0141000552	410080	Hospital San Juan de Dios de Sevilla	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	2	0	0
+0141000556	410212	Residencia de Salud Mental Nuestra Señora del Carmen	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0141002499	410409	Hospital Viamed Santa Angela de La Cruz	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	1	0	0	0	0	0	0	1	1	1
+0141006243	410346	Hospital Psiquiátrico Penitenciario	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0111000411	110248	Hospital Viamed Bahía de Cádiz	11	Cádiz	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0104000314	040059	Hospital Virgen del Mar	04	Almería	01	Andalucía	N	02	Concierto parcial	N			N	N	1	3	1	1	0	1	0	0	0	0	2	1	10
+0104000321	040118	Hospital Universitario de Poniente	04	Almería	01	Andalucía	S	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	1	0	23
+0121000146	210025	Hospital Infanta Elena	21	Huelva	01	Andalucía	S	01	Sin concierto	N			N	N	3	1	0	0	0	2	0	0	0	0	1	0	0
+0121001251	210137	Hospital Quironsalud Huelva	21	Huelva	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	1	0	0	0	0	0	0	1	1	0
+0129001928	290405	Hospital Vithas Xanit Internacional	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	1	2	1	1	1	0	0	1	0	0	1	1	4
+0129007039	290506	Hospital de La Serranía	29	Malaga	01	Andalucía	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	2	0	15
+0141000537	410129	Hospital Fátima	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	1	1	1	0	0	0	0	1	1	1
+0111002394	110282	Hospital Quirón Campo de Gibraltar	11	Cádiz	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	1	0	0	0	0	0	0	1	0	0
+0114000537	140076	Hospital Cruz Roja de Córdoba	14	Córdoba	01	Andalucía	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	1	1	0	0	0	0	0	1	0	0
+0114000873	140195	Hospital de Montilla	14	Córdoba	01	Andalucía	DC	DC	DC	S	140274	Hospital Infanta Margarita	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0114001599	140229	Hospital de Alta Resolución Valle del Guadiato	14	Córdoba	01	Andalucía	DC	DC	DC	S	140285	Hospital Valle de Los Pedroches	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118000554	180093	Hospital de Baza	18	Granada	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0118004203	180133	Hospital de Alta Resolución de Loja	18	Granada	01	Andalucía	DC	DC	DC	S	180177	Hospital Universitario Clínico San Cecilio	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0123000215	230063	Clínica Cristo Rey	23	Jaén	01	Andalucía	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0129001082	290108	HM Gálvez	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+0129001085	290075	Centro Asistencial Hnas. Hospitalarias del Sagrado Corazón de Jesús	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0141000534	410114	Hospital Quironsalud Sagrado Corazón	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	2	3	0	1	0	0	0	0	0	0	3	2	0
+0141000536	410325	Fremap_Hospital y Centro de Rehabilitación de Sevilla	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0141001379	410233	Hospital San Agustín	41	Sevilla	01	Andalucía	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0141006016	410454	Hospital de Alta Resolución de Lebrija	41	Sevilla	01	Andalucía	DC	DC	DC	S	410303	Hospital Universitario Virgen de Valme	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0118004282	180146	Hospital Vithas Granada	18	Granada	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	2	1	0	1	0	0	1	0	1	1	0
+0114003668	140241	Hospital Quironsalud Córdoba	14	Córdoba	01	Andalucía	N	01	Sin concierto	N			N	N	1	2	1	1	1	0	0	0	1	0	1	1	0
+0114000536	140082	Hospital San Juan de Dios de Córdoba	14	Córdoba	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	1	1	1	1	1	1	1	1	1	1	2
+0129001083	290228	Hospital Internacional HM Santa Elena	29	Malaga	01	Andalucía	N	02	Concierto parcial	N			N	N	1	1	0	1	1	0	0	0	0	0	1	0	0
+0129001092	290359	Ha Marbella International Hospital	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	1	1	0	0	1	0	1	1	0	0
+0129001851	290382	Clínicas del Sur Slu	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	1	0	1	1	0	0	0	0	0	1	1	0
+0129002504	290449	Hospital Quironsalud Málaga	29	Malaga	01	Andalucía	N	01	Sin concierto	N			N	N	1	3	0	2	2	1	0	0	0	0	1	1	0
+	040097	Hospital Universitario Torrecárdenas	04	Almería	01	Andalucía	S	01	Sin concierto	N			S	N	6	2	1	3	5	2	0	4	1	0	3	1	60
+	110012	Hospital Universitario Puerta del Mar	11	Cádiz	01	Andalucía	S	01	Sin concierto	N			S	N	5	3	0	2	6	2	0	4	4	1	2	2	12
+	140023	Hospital Universitario Reina Sofía	14	Córdoba	01	Andalucía	S	01	Sin concierto	N			S	N	9	4	2	4	13	4	0	4	3	2	6	6	67
+	210101	Hospital Universitario Juan Ramón Jiménez	21	Huelva	01	Andalucía	S	01	Sin concierto	N			S	N	4	2	0	2	4	0	0	4	2	1	2	2	53
+0222000001	220036	Hospital Sagrado Corazón de Jesús	22	Huesca	02	Aragón	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	2	0	0
+0250000034	500068	Centro de Rehabilitación Psicosocial Nuestra Señora del Pilar	50	Zaragoza	02	Aragón	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0250000068	500055	Hospital Royo Villanova	50	Zaragoza	02	Aragón	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+0250000070	500107	Centro Neuropsiquiátrico Nuestra Señora del Carmen	50	Zaragoza	02	Aragón	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0250000067	500188	Unidad Rehabilitadora de Media Estancia Profesor Rey Ardid	50	Zaragoza	02	Aragón	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0222000002	220015	Hospital Universitario San Jorge	22	Huesca	02	Aragón	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	18
+0222000003	220054	Hospital de Barbastro	22	Huesca	02	Aragón	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	16
+0250000001	500114	Hospital San Juan de Dios	50	Zaragoza	02	Aragón		031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	34
+0222000004	220020	Centro de Rehabilitación Psicosocial Santo Cristo de Los Milagros	22	Huesca	02	Aragón	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0222000030	220105	Centro Sanitario Bajo Cinca-Baix Cinca	22	Huesca	02	Aragón	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0244000003	440027	Hospital de San José	44	Teruel	02	Aragón	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+0250000085	500172	Unidad de Rehabilitación de Larga Estancia	50	Zaragoza	02	Aragón	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0250000095	500200	Centro Sanitario Cinco Villas	50	Zaragoza	02	Aragón	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0250000002	500129	Hospital Quironsalud Zaragoza	50	Zaragoza	02	Aragón	N	01	Sin concierto	N			N	N	1	2	0	1	0	0	0	1	0	1	1	1	0
+0250000035	500093	Clínica Montpellier, Grupo Ha, S.A.U	50	Zaragoza	02	Aragón	N	02	Concierto parcial	N			N	N	1	2	0	1	1	0	0	0	0	0	1	0	0
+0250000087	500080	Hospital Maz	50	Zaragoza	02	Aragón		02	Concierto parcial	N			N	N	1	2	0	1	0	1	0	0	0	0	0	0	0
+0222000005	220089	Hospital de Jaca Salud	22	Huesca	02	Aragón	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	18
+0222000006	220041	Hospital Viamed Santiago	22	Huesca	02	Aragón	N	01	Sin concierto	N			N	N	1	1	1	0	0	0	0	0	1	0	1	0	0
+0244000004	440033	Centro de Rehabilitación Psicosocial San Juan de Dios	44	Teruel	02	Aragón	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0250000083	500074	Hospital Nuestra Señora de Gracia	50	Zaragoza	02	Aragón	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	3	0	0
+0250000086	500195	Hospital de Rehabilitación Psiquiatrica Prisma	50	Zaragoza	02	Aragón	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0250004610	500140	Hospital General de La Defensa En Zaragoza	50	Zaragoza	02	Aragón	N	032	Concierto sustitutorio	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	10
+0250005838	500223	Hospital Hernan Cortes Miraflores	50	Zaragoza	02	Aragón		02	Concierto parcial	N			N	N	1	1	0	1	1	0	0	0	0	0	1	1	1
+0250000091	500218	Hospital Viamed Montecanal	50	Zaragoza	02	Aragón	N	02	Concierto parcial	N			N	N	1	1	0	1	1	1	0	0	0	0	1	0	1
+0250000069	500021	Hospital Universitario Miguel Servet	50	Zaragoza	02	Aragón	S	01	Sin concierto	N			N	N	5	3	0	2	3	0	0	3	2	1	3	1	34
+0250000071	500016	Hospital Clínico Universitario Lozano Blesa	50	Zaragoza	02	Aragón	S	01	Sin concierto	N			N	N	3	2	0	2	2	1	0	3	2	1	3	0	48
+0244000001	440048	Hospital de Alcañiz	44	Teruel	02	Aragón		01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0244000002	440012	Hospital Obispo Polanco	44	Teruel	02	Aragón	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	24
+0250000082	500153	Hospital Ernest Lluch Martin	50	Zaragoza	02	Aragón	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	12
+0333005233	330354	Hospital Gijón	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333000032	330321	Centro Salud Mental Perez Espinosa	33	Asturias	03	Ppdo. de Asturias		01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333000265	330376	Instituto Oftalmológico Fernandez-Vega	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333001472	330045	Hospital Monte Naranco	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	2	0	0
+0333002321	330313	Hospital de Luarca	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333002526	330208	Hospital Begoña	33	Asturias	03	Ppdo. de Asturias	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0333002581	330332	Clínica Psiquiatrica Somio	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333002620	330096	Clínica San Rafael	33	Asturias	03	Ppdo. de Asturias	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333003295	330365	Centro Terapeutico Vista Alegre	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333003421	330117	Fundacion Hospital de Avilés	33	Asturias	03	Ppdo. de Asturias		02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333005595	330322	Cti de La Corredoria	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333000848	330254	Fundacion Sanatorio Adaro	33	Asturias	03	Ppdo. de Asturias	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+0333002562	330077	Clínica Asturias	33	Asturias	03	Ppdo. de Asturias	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333002775	330169	Hospital Cruz Roja Gijón	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	2	0	16
+0333002777	330100	Hospital Universitario San Agustín	33	Asturias	03	Ppdo. de Asturias	S	031	Red de utilización pública (RUP)	N			N	N	2	2	0	0	0	0	0	0	0	0	1	0	19
+0333002781	330175	Hospital Covadonga	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0333003415	330061	Centro Medico de Asturias	33	Asturias	03	Ppdo. de Asturias	N	01	Sin concierto	N			N	N	1	2	1	1	0	0	0	1	1	1	1	1	0
+0333005582	330325	Hospital Vital Alvarez Buylla	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	16
+0333002776	330194	Hospital de Jove	33	Asturias	03	Ppdo. de Asturias	S	032	Concierto sustitutorio	N			N	N	1	2	0	0	0	1	0	2	0	1	1	0	29
+0333001050	330138	Hospital Carmen y Severo Ochoa	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	10
+0333001052	330241	Hospital Valle del Nalon	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	1	1	0	0	0	1	0	0	0	0	1	0	16
+0333002574	330306	Hospital del Oriente de Asturias Francisco Grande Covian	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333002780	330156	Hospital Universitario de Cabueñes	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	4	2	0	1	1	0	0	0	0	0	1	0	20
+0333005240	330292	Hospital Universitario Central de Asturias	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	6	5	0	3	6	1	0	4	1	2	2	2	59
+0333005968	330409	Centro de Tratamiento Integral Montevil	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0333004419	330143	Hospital de Jarrio	33	Asturias	03	Ppdo. de Asturias	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	8
+0407000002	070048	Hospital General de Mallorca	07	Illes Balears	04	Illes Balears	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0407000011	070064	Mutua Balear	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0407001223	070070	Hospital de La Creu Roja Espanyola	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+0407000005	070086	Hospital Sant Joan de Deu	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0407000218	070162	Hospital Joan March	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	1	0
+0407001219	070201	Policlínica Nuestra Sra. del Rosario	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	2	0	1	1	0	0	0	0	0	0	0	0
+0407000032	070244	Clínica Juaneda Menorca	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0407000003	070260	Hospital Juaneda Muro	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0407000006	070295	Clínica Juaneda Mahón	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0407001619	070366	Hospital de Formentera	07	Illes Balears	04	Illes Balears	N	01	Sin concierto	N			N	N	1	0	0	1	0	0	0	0	0	0	1	0	6
+0407001688	070423	Hospital Quironsalud Son Veri	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0407003152	070434	Clínica Luz de Palma	07	Illes Balears	04	Illes Balears	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0407000004	070099	Clínica Rotger	07	Illes Balears	04	Illes Balears	N	01	Sin concierto	N			N	N	2	2	1	1	1	1	0	0	1	1	1	1	0
+0407000008	070110	Clínica Juaneda	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	1	1	0	1	1	0	0	0	0	0	1	1	0
+0407000010	070184	Hospital Can Misses	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	2	1	0	1	1	1	0	0	0	0	2	1	25
+0407000216	070051	Hospital Psiquiatric	07	Illes Balears	04	Illes Balears	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0407000872	070399	Hospital Universitari Son Espases	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	4	4	1	2	3	1	0	4	3	1	2	1	36
+0407001618	070344	Hospital Quironsalud Palmaplanas	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	3	0	1	1	1	0	0	0	0	1	1	0
+0407000009	070131	Juaneda Miramar	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	1	2	0	1	1	1	0	1	1	0	1	1	34
+0407000001	070309	Hospital de Manacor	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	2	0	18
+0407001617	070333	Hospital Son Llatzer	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	3	2	0	1	1	0	0	0	0	0	2	2	32
+0407000411	070377	Hospital Comarcal D´Inca	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	15
+0407000423	070388	Hospital Mateu Orfila	07	Illes Balears	04	Illes Balears	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	28
+0407001647	070412	Hospital de Llevant	07	Illes Balears	04	Illes Balears	S	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	10
+0407003804	070445	Hospital Sant Joan de Deu Inca	07	Illes Balears	04	Illes Balears	N	02	Concierto parcial	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+0407004406	070456	Clínica Juaneda Ciutadella	07	Illes Balears	04	Illes Balears	S	02	Concierto parcial	N			N	S	1	1	0	0	0	0	0	0	0	0	1	1	0
+0535000321	350206	Hospital Perpetuo Socorro	35	Las Palmas	05	Canarias	N	02	Concierto parcial	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	0
+0538000116	380103	Hospital Parque	38	Santa Cruz De Tenerife	05	Canarias	N	01	Sin concierto	N			N	N	1	1	0	1	0	0	0	0	0	0	1	1	0
+0535000323	350115	Hospital San José	35	Las Palmas	05	Canarias	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+0535000688	350265	Quinta Medica de Reposo	35	Las Palmas	05	Canarias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0535001550	350192	Clínica Bandama	35	Las Palmas	05	Canarias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0535000315	350167	Clínica Cajal	35	Las Palmas	05	Canarias		01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0535000319	350287	Hospital Ciudad de Telde	35	Las Palmas	05	Canarias	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0535000463	350326	Hospiten Lanzarote	35	Las Palmas	05	Canarias	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0535001524	350389	Hospital Parque Fuerteventura	35	Las Palmas	05	Canarias	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0538000120	380282	Hospital Quirón Salud Costa Adeje	38	Santa Cruz De Tenerife	05	Canarias	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0538000130	380099	Vithas Hospital Santa Cruz	38	Santa Cruz De Tenerife	05	Canarias	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0538000115	380201	Hospital Quironsalud Vida	38	Santa Cruz De Tenerife	05	Canarias	N	01	Sin concierto	N			N	N	1	0	0	0	0	1	0	0	0	0	0	0	0
+0538000118	380359	Clínica Tara	38	Santa Cruz De Tenerife	05	Canarias	N	02	Concierto parcial	N			N	N	0	1	0	0	0	0	0	0	0	0	1	1	0
+0535000320	350154	Hospital La Paloma	35	Las Palmas	05	Canarias	N	02	Concierto parcial	N			N	N	1	1	0	0	1	0	0	0	0	0	2	0	0
+0535001314	350173	Hospital Universitario San Roque Las Palmas	35	Las Palmas	05	Canarias	S	02	Concierto parcial	N			N	N	1	3	1	1	1	1	0	1	1	1	1	1	0
+0535001838	350290	Complejo Hospitalario Universitario Insular Materno Infantil	35	Las Palmas	05	Canarias	S	01	Sin concierto	N			N	N	5	3	1	1	2	1	0	0	2	1	2	1	37
+0535003934	350249	Hospital Insular de Lanzarote	35	Las Palmas	05	Canarias	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0538000373	380295	Hospital Universitario Hospiten Rambla	38	Santa Cruz De Tenerife	05	Canarias		01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0538001244	380064	Hospital San Juan de Dios Tenerife	38	Santa Cruz De Tenerife	05	Canarias	S	02	Concierto parcial	N			N	N	1	1	0	1	0	0	0	0	0	0	0	0	0
+0538002289	380244	Hospital Nuestra Señora de Guadalupe	38	Santa Cruz De Tenerife	05	Canarias		01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	6
+0538002380	380348	Hospital del Sur	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380012	Complejo Hospitalario Universitario Nuestra Señora de Candelaria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+	350332	Complejo Hospitalario Universitario de Gran Canaria Dr. Negrín	35	Las Palmas	05	Canarias	S	01	Sin concierto	N			S	N	4	2	3	3	12	1	0	6	2	1	1	1	119
+	380012	Complejo Hospitalario Universitario Nuestra Señora de Candelaria	38	Santa Cruz De Tenerife	05	Canarias	S	01	Sin concierto	N			S	N	3	4	3	3	4	1	0	4	3	2	7	1	52
+	380326	Complejo Hospitalario Universitario de Canarias	38	Santa Cruz De Tenerife	05	Canarias	S	01	Sin concierto	N			S	N	4	3	3	2	4	1	0	4	3	0	1	1	23
+0535001830	350311	Hospital Universitario de Gran Canaria Dr. Negrín	35	Las Palmas	05	Canarias	DC	DC	DC	S	350332	Complejo Hospitalario Universitario de Gran Canaria Dr. Negrín	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0535003839	350271	Hospital San Roque de Guía	35	Las Palmas	05	Canarias	DC	DC	DC	S	350332	Complejo Hospitalario Universitario de Gran Canaria Dr. Negrín	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0535003845	350069	Hospital Universitario de Salud Mental Juan Carlos I	35	Las Palmas	05	Canarias	DC	DC	DC	S	350332	Complejo Hospitalario Universitario de Gran Canaria Dr. Negrín	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0538001932	380027	Hospital Universitario Nuestra Señora de Candelaria	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380012	Complejo Hospitalario Universitario Nuestra Señora de Candelaria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0538002381	380337	Hospital del Norte	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380326	Complejo Hospitalario Universitario de Canarias	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0538004230	380033	Hospital de Ofra	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380012	Complejo Hospitalario Universitario Nuestra Señora de Candelaria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0538004244	380048	Unidades Clínicas y de Rehabilitación de Salud Mental	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380326	Complejo Hospitalario Universitario de Canarias	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0535000322	350304	Hospiten Clínica Roca San Agustín	35	Las Palmas	05	Canarias	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	2	1	3
+0535000324	350120	Hospital Universitario Vithas Las Palmas	35	Las Palmas	05	Canarias	S	02	Concierto parcial	N			N	N	1	2	0	1	0	1	0	0	0	0	1	1	0
+0535001243	350367	Hospital Universitario San Roque Maspalomas	35	Las Palmas	05	Canarias	S	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0535001908	350252	Hospital General de Fuerteventura	35	Las Palmas	05	Canarias	S	01	Sin concierto	N			N	N	2	1	0	1	2	0	0	1	0	0	1	0	24
+0535002243	350228	Hospital Universitario Dr. José Molina Orosa	35	Las Palmas	05	Canarias	S	01	Sin concierto	N			N	N	2	1	0	1	0	0	0	1	0	0	1	0	9
+0538000121	380146	Hospital Universitario Hospiten Sur	38	Santa Cruz De Tenerife	05	Canarias	S	02	Concierto parcial	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	28
+0538000126	380223	Hospital Universitario Hospiten Bellevue	38	Santa Cruz De Tenerife	05	Canarias	S	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	2
+0538000536	380086	Hospital Quirón Salud Tenerife	38	Santa Cruz De Tenerife	05	Canarias	S	02	Concierto parcial	N			N	N	1	2	0	1	0	0	0	0	0	0	2	1	25
+0538002288	380276	Hospital Insular Nuestra Señora de Los Reyes	38	Santa Cruz De Tenerife	05	Canarias		01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	9
+0538002290	380316	Hospital Universitario General de La Palma	38	Santa Cruz De Tenerife	05	Canarias	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	38
+0538001821	380178	Hospital Universitario de Canarias	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380326	Complejo Hospitalario Universitario de Canarias	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0535004296	350401	Centro Sanitario Residencial Las Palmas (Cesar Las Palmas)	35	Las Palmas	05	Canarias	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0535004342	350402	Hospital Polivalente Anexo Juan Carlos I	35	Las Palmas	05	Canarias	DC	DC	DC	S	350332	Complejo Hospitalario Universitario de Gran Canaria Dr. Negrín	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0538004740	380361	Centro Asistencial Polivalente USAN	38	Santa Cruz De Tenerife	05	Canarias	DC	DC	DC	S	380012	Complejo Hospitalario Universitario Nuestra Señora de Candelaria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0639000883	390041	Hospital Mutua Montañesa	39	Cantabria	06	Cantabria	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0639000462	390054	Hospital Santa Clotilde	39	Cantabria	06	Cantabria	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0639001300	390067	Centro Hospitalario Padre Menni	39	Cantabria	06	Cantabria	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0639000197	390015	Hospital Universitario Marques de Valdecilla	39	Cantabria	06	Cantabria	S	01	Sin concierto	N			N	N	5	4	2	4	8	1	0	4	1	2	1	1	32
+0639000455	390152	Hospital Mompia	39	Cantabria	06	Cantabria	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	1	0	0	1	0	0
+0639000456	390134	Hospital Comarcal de Laredo	39	Cantabria	06	Cantabria	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0639000989	390149	Hospital Sierrallana	39	Cantabria	06	Cantabria	S	01	Sin concierto	N			N	N	3	2	0	0	0	0	0	0	0	0	2	0	0
+0747001317	470053	Sanatorio Sagrado Corazón	47	Valladolid	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	1	0	0	0	0	0	1	1	0
+0724001716	240140	Hospital de La Reina	24	León	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0747001314	470091	Hospital Medina del Campo	47	Valladolid	07	Castilla y León	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0724001721	240220	Hospital Valle de Laciana	24	León	07	Castilla y León	N	032	Concierto sustitutorio	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0734000721	340035	Hospital Psiquiátrico San Luis	34	Palencia	07	Castilla y León	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0709001369	090079	Hospital Santos Reyes	09	Burgos	07	Castilla y León	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0705001823	050072	Hospital de Salud Mental Casta Salud Arévalo	05	Ávila	07	Castilla y León	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0724001715	240212	Clínica Ponferrada Recoletas	24	León	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	1	0	0	1	1	0
+0724001718	240055	HM Regla	24	León	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	1	0	0	0	0	1	1	0
+0740000779	400045	Hospital Recoletas Segovia Nuestra Señora de La Misericordia	40	Segovia	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	1	0	0	1	0	0
+0749000898	490081	Hospital Recoletas de Zamora	49	Zamora	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0709001375	090050	Hospital San Juan de Dios Burgos	09	Burgos	07	Castilla y León	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0734000720	340053	Hospital Recoletas de Palencia	34	Palencia	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0734000722	340040	Área Psiquiatrica San Juan de Dios	34	Palencia	07	Castilla y León	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0737001405	370055	Hospital General de La Santísima Trinidad	37	Salamanca	07	Castilla y León	N	01	Sin concierto	N			N	N	1	1	1	0	0	0	0	0	1	0	1	1	0
+0747001315	470113	Hospital Recoletas Campo Grande	47	Valladolid	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	1	0	0	0	1	0	1	0	0	0
+	090133	Complejo Asistencial Universitario de Burgos	09	Burgos	07	Castilla y León	S	01	Sin concierto	N			S	N	3	2	1	1	1	0	0	2	2	1	2	1	42
+	240191	Complejo Asistencial Universitario de León	24	León	07	Castilla y León	S	01	Sin concierto	N			S	N	4	2	1	2	2	1	0	3	3	1	2	1	32
+0705000769	050013	Hospital Nuestra Señora de Sonsoles	05	Ávila	07	Castilla y León	DC	DC	DC	S	050061	Complejo Asistencial de Ávila	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0705000770	050049	Hospital Santa Teresa	05	Ávila	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	1	0	0	0	0	1	1	0
+0724001714	240074	Hospital HM San Francisco	24	León	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	1	0	0	0	0	0	0	0	1	1	0
+0724001717	240188	Hospital San Juan de Dios León	24	León	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0724001722	240093	Hospital Santa Isabel. Complejo Asistencial Universitario de León.	24	León	07	Castilla y León	DC	DC	DC	S	240191	Complejo Asistencial Universitario de León	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0740000778	400019	Hospital General de Segovia Complejo Asistencial de Segovia	40	Segovia	07	Castilla y León	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	2	1	21
+0742000617	420011	Hospital Santa Barbara ,Complejo Asistencial de Soria	42	Soria	07	Castilla y León	DC	DC	DC	S	420040	Complejo Asistencial de Soria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0747001316	470105	Hospital de Valladolid Felipe Ir	47	Valladolid	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	1	0	0	0	0	0	0	0
+0747001322	470072	Centro Hospitalario Benito Menni	47	Valladolid	07	Castilla y León	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+	490070	Complejo Asistencial de Zamora	49	Zamora	07	Castilla y León	S	01	Sin concierto	N			S	N	4	1	0	0	1	0	0	1	0	0	3	1	47
+	340063	Complejo Asistencial Universitario de Palencia	34	Palencia	07	Castilla y León	S	01	Sin concierto	N			S	N	2	1	0	0	0	0	0	0	0	0	3	1	30
+	370016	Complejo Asistencial Universitario de Salamanca	37	Salamanca	07	Castilla y León	S	01	Sin concierto	N			S	N	5	5	1	2	3	0	0	4	3	2	5	1	52
+	420040	Complejo Asistencial de Soria	42	Soria	07	Castilla y León	S	01	Sin concierto	N			S	N	2	1	0	0	0	0	0	0	0	0	1	1	30
+0705000771	050034	Hospital Provincial de Ávila	05	Ávila	07	Castilla y León	DC	DC	DC	S	050061	Complejo Asistencial de Ávila	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0709001373	090155	Hospital Universitario de Burgos. Complejo Asistencial Universitario de Burgos	09	Burgos	07	Castilla y León	DC	DC	DC	S	090133	Complejo Asistencial Universitario de Burgos	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0709001376	090026	Hospital Fuente Bermeja. Complejo Asistencial Universitario de Burgos.	09	Burgos	07	Castilla y León	DC	DC	DC	S	090133	Complejo Asistencial Universitario de Burgos	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0724001712	240016	Hospital de León. Complejo Asistencial Universitario de León.	24	León	07	Castilla y León	DC	DC	DC	S	240191	Complejo Asistencial Universitario de León	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0724001719	240021	Hospital Monte San Isidro. Complejo Asistencial Universitario de León.	24	León	07	Castilla y León	DC	DC	DC	S	240191	Complejo Asistencial Universitario de León	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0734000718	340014	Hospital Rio Carrión. Complejo Asistencial Universitario de Palencia.	34	Palencia	07	Castilla y León	DC	DC	DC	S	340063	Complejo Asistencial Universitario de Palencia	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0734000719	340029	Hospital San Telmo. Complejo Asistencial Universitario de Palencia.	34	Palencia	07	Castilla y León	DC	DC	DC	S	340063	Complejo Asistencial Universitario de Palencia	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0737001403	370037	Hospital Universitario de Salamanca. Complejo Asistencial Universitario de Salmanca	37	Salamanca	07	Castilla y León	DC	DC	DC	S	370016	Complejo Asistencial Universitario de Salamanca	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0737001404	370074	Hospital Los Montalvos. Complejo Asistencial Universitario de Salamanca.	37	Salamanca	07	Castilla y León	DC	DC	DC	S	370016	Complejo Asistencial Universitario de Salamanca	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0742000618	420026	Hospital Virgen del Mirón ,Complejo Asistencial de Soria	42	Soria	07	Castilla y León	DC	DC	DC	S	420040	Complejo Asistencial de Soria	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0749000895	490013	Hospital Virgen de La Concha Complejo Asistencial de Zamora	49	Zamora	07	Castilla y León	DC	DC	DC	S	490070	Complejo Asistencial de Zamora	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0749000896	490028	Hospital Provincial de Zamora Complejo Asistencial de Zamora	49	Zamora	07	Castilla y León	DC	DC	DC	S	490070	Complejo Asistencial de Zamora	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0749000897	490065	Hospital de Benavente Complejo Asistencial de Zamora	49	Zamora	07	Castilla y León	DC	DC	DC	S	490070	Complejo Asistencial de Zamora	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0709001370	090098	Hospital Santiago Apóstol	09	Burgos	07	Castilla y León	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	2	0	12
+0709001371	090047	Hospital Recoletas de Burgos	09	Burgos	07	Castilla y León	N	02	Concierto parcial	N			N	N	2	1	0	0	0	1	0	0	0	0	1	0	1
+0724001713	240135	Hospital El Bierzo	24	León	07	Castilla y León	S	01	Sin concierto	N			N	N	3	1	0	0	0	0	0	0	0	0	2	0	13
+0747001319	470014	Hospital Universitario Rio Hortega	47	Valladolid	07	Castilla y León	S	01	Sin concierto	N			N	N	2	3	0	0	1	0	0	0	0	0	2	1	23
+0747001312	470029	Hospital Clínico Universitario de Valladolid	47	Valladolid	07	Castilla y León	S	01	Sin concierto	N			N	N	4	3	1	3	4	0	0	3	2	1	2	0	26
+	050061	Complejo Asistencial de Ávila	05	Ávila	07	Castilla y León	S	01	Sin concierto	N			S	N	3	1	0	0	0	0	0	1	0	0	2	1	24
+0742001402	420051	Hospital Latorre	42	Soria	07	Castilla y León	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0747004211	470124	Hospital Casaverde Valladolid	47	Valladolid	07	Castilla y León	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0845000006	450089	Hospital Parque Marazuela	45	Toledo	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0802000048	020061	Hospital Quironsalud Santa Cristina	02	Albacete	08	Castilla-La Mancha	N	02	Concierto parcial	N			N	N	1	2	0	0	0	0	0	0	0	0	0	0	0
+0802000031	020100	Hospital Quironsalud Albacete	02	Albacete	08	Castilla-La Mancha	N	02	Concierto parcial	N			N	N	1	2	0	1	0	0	0	0	1	0	1	0	0
+0802000780	020147	Hospital General de Villarrobledo	02	Albacete	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0813000450	130052	Hospital General La Mancha Centro	13	Ciudad Real	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	2	1	0	0	1	0	0	0	0	0	1	0	2
+0813000577	130065	Hospital Virgen de Altagracia	13	Ciudad Real	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0813000578	130071	Hospital Santa Barbara	13	Ciudad Real	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	0
+0813000584	130087	Hospital General de Valdepeñas	13	Ciudad Real	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0813000931	130128	Hospital General de Tomelloso	13	Ciudad Real	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0819000010	190077	Instituto de Enfermedades Neurológicas de Castilla-La Mancha	19	Guadalajara	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0819000025	190030	Hospital La Antigua	19	Guadalajara	08	Castilla-La Mancha	N	02	Concierto parcial	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+0819000193	190045	Clínica Doctor Sanz Vázquez	19	Guadalajara	08	Castilla-La Mancha	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	2	1	0
+0845000810	450067	Hospital General Nuestra Señora del Prado	45	Toledo	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	2	1	0	1	0	0	0	0	0	0	1	1	2
+0845000812	450036	Hospital Nacional de Parapléjicos	45	Toledo	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+	020019	Complejo Hospitalario de Albacete	02	Albacete	08	Castilla-La Mancha	S	01	Sin concierto	N			S	N	4	1	0	2	2	1	0	2	0	0	2	1	39
+	450155	Complejo Hospitalario de Toledo	45	Toledo	08	Castilla-La Mancha	S	01	Sin concierto	N			S		8	3	0	2	2	1	0	2	2	1	2	1	40
+0845000713	450113	Hospital San José Solimat	45	Toledo	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0802000003	020096	Hospital de Hellín	02	Albacete	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0802000130	020030	Hospital General Universitario de Albacete	02	Albacete	08	Castilla-La Mancha	DC	DC	DC	S	020019	Complejo Hospitalario de Albacete	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0802000755	020136	Hospital General de Almansa	02	Albacete	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0813000583	130034	Servicios Sanitarios y Asistenciales	13	Ciudad Real	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0816000170	160014	Hospital Virgen de La Luz	16	Cuenca	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	3	1	0	1	0	0	0	0	1	0	1	1	17
+0816000342	160053	Hospital Recoletas Cuenca, S.L.U.	16	Cuenca	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	2	1	0
+0845000027	450133	Centro de Tratamiento de Drogodependientes El Alba	45	Toledo	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0802000374	020117	Hospital Universitario Nuestra Señora del Perpetuo Socorro	02	Albacete	08	Castilla-La Mancha	DC	DC	DC	S	020019	Complejo Hospitalario de Albacete	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0802000515	020158	Centro de Atención A La Salud Mental La Milagrosa	02	Albacete	08	Castilla-La Mancha	DC	DC	DC	S	020019	Complejo Hospitalario de Albacete	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0845000003	450041	Hospital Provincial Ntra.Sra. De La Misericordia	45	Toledo	08	Castilla-La Mancha	DC	DC	DC	S	450155	Complejo Hospitalario de Toledo	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0845000704	450020	Hospital Geriátrico Virgen del Valle	45	Toledo	08	Castilla-La Mancha	DC	DC	DC	S	450155	Complejo Hospitalario de Toledo	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0819000180	190061	U.R.R. de Enfermos Psíquicos Alcohete	19	Guadalajara	08	Castilla-La Mancha	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0813000595	130127	Hospital General Universitario de Ciudad Real	13	Ciudad Real	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	3	1	0	2	1	0	0	2	3	2	1	1	41
+0819000009	190019	Hospital Universitario de Guadalajara	19	Guadalajara	08	Castilla-La Mancha	S	01	Sin concierto	N			N	N	3	1	0	1	1	0	0	0	0	0	1	0	24
+0813000043	130049	Hospital Quironsalud Ciudad Real	13	Ciudad Real	08	Castilla-La Mancha	N	02	Concierto parcial	N			N	N	1	2	0	1	0	0	0	0	0	0	2	1	0
+0845002598	450144	Hospital Universitario de Toledo (Hut)	45	Toledo	08	Castilla-La Mancha	DC	DC	DC	S	450155	Complejo Hospitalario de Toledo	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+0845000584	450122	Hospital Quironsalud Toledo	45	Toledo	08	Castilla-La Mancha	N	02	Concierto parcial	N			N	N	1	2	0	0	0	0	0	0	1	0	1	1	0
+0908005200	081094	Hospital Universitari Mutua de Terrassa	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	3	1	1	2	0	0	0	0	1	2	1	0
+0908005261	081751	Clínica Creu Blanca	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	2	4	0	1	1	0	0	0	0	1	1	0	0
+0925000576	250024	Hospital Santa Maria	25	Lleida	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	1	0	0	0	0	0	1	0	0
+0908005144	080180	Hospital El Pilar	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	0
+0908005175	080692	Hospital de Berga	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	9
+0908005231	081458	Aptima Centre Clinic - Mutua de Terrassa	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	1	0	0	0	0	0	0	2	0	0
+0908005251	081672	Hospital Sanitas Cima	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	1	0	1	0	0	0	0	1	1	0
+0908005169	080044	Hospital Clinic de Barcelona, Seu Sabino de Arana	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	1	0	0	0	0	0	0	0	0	1	0	0
+0908005159	080116	Fremap, Hospital de Barcelona	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0908005161	080142	Clínica Mc Copernic	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0908005166	080168	Hospital Egarsat Sant Honorat	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0908005154	080174	Hospital Dos de Maig	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0908005135	080673	Hospital Municipal de Badalona	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0908005196	081038	Hospital Residencia Sant Camil - Consorci Sanitari de L'Alt Penedés I Garraf	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0908005210	081141	Hospital de Viladecans	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0943000760	430167	Hospital de Tortosa Vergé de La Cinta	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0908005268	080155	Clínica Mc Londres	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005176	080706	Hospital Comarcal Sant Jaume de Calella	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0908005198	081056	Centres Assistencials Dr. Emili Mira I López (Recinte Torribera).	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005199	081081	Hospital de Sant Llatzer	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005240	081580	Antic Hospital de Sant Jaume I Santa Magdalena	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005247	081649	Hospital Sociosanitari Pere Virgili	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005228	081728	Hospital General Penitenciari	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005242	081739	Centre Sociosanitari de L'Hospitalet - Consorci Sanitari Integral	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000808	170101	Hospital de Sant Jaume	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000817	170216	Hospital Psiquiatric	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000822	170221	Residencia de Gent Gran Puig D'En Roca	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000823	170237	Hospital Comarcal de Blanes	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0917000829	170323	Centre Sociosanitari Parc Hospitalari Marti I Julia	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000581	250138	Centre Sanitari del Solsones, F.P.C.	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000759	430189	Clínica Terres de L'Ebre	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+0943000766	430252	Hospital Comarcal D'Amposta	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0908005260	081795	Centre Sociosanitari Ricard Fortuny	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005164	080312	Nou Hospital Evangelic	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005173	080333	Institut Guttmann	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005136	080351	Hestia Palau.	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005141	080543	Hestia Duran I Reynals	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005146	080556	Serveis Clinics, S.A.	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005157	080641	Clínica Planas	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	1	1	0
+0908005182	080787	Fundacio Sanitaria Sant Josep	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005186	080832	Clínica Sant Josep	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0908005187	080885	Germanes Hospitalaries. Hospital Sagrat Cor	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005192	080977	Benito Menni, Complex Assistencial En Salut Mental	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005193	080983	Parc Sanitari Sant Joan de Deu - Recinte Sant Boi.	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005194	081000	Hospital de Sant Celoni.	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0908005197	081069	Fundacio Hospital de L'Esperit Sant	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	1	0
+0908005203	081120	Hospital de La Santa Creu	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005215	081192	Centre Sociosanitari Can Torras	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005213	081228	Prytanis Sant Boi Centre Sociosanitari	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005219	081287	Residencia L'Estada	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005218	081304	Residencia Puig-Reig	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005221	081350	Centre Polivalent Can Fosc	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005225	081379	Hospital Sociosanitari Mutuam Güell	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005232	081483	Sar Mont Marti	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005236	081568	Ita Canet	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005238	081574	Clínica Lluria	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005241	081593	Parc Sanitari Sant Joan de Deu - Numancia	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005243	081605	Prytanis Hospitalet Centre Sociosanitari	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005226	081616	Comunitat Terapéutica Arenys de Munt	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005252	081683	Parc Sanitari Sant Joan de Deu - App - 1	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005245	081706	Centre Collserola Mutual	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005255	081717	Centre Sociosanitari Sarquavitae Sant Jordi	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005259	081740	Centro Residencial Domusvi La Salut Josep Servat.	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005162	080348	Fundacio Puigvert - Iuna	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	1	0	3	2	0	0	0	1	0	0	45
+0908005168	080214	Hospital Sant Rafael	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0908005139	080386	Clínica Tres Torres	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	1	0	0	0	0	1	1	0
+0908005179	080734	Hospital General de Granollers.	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	1	0	0	0	0	0	0	0	1	2	1	0
+0908005273	082012	Hospital Quirón Salud del Valles - Clínica del Valles	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	0	1	0
+0908005149	082167	Clínica Diagonal	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	2	4	0	0	0	0	0	0	0	0	3	1	0
+0917000812	170031	Clínica Bofill	17	Girona	09	Cataluña	S	01	Sin concierto	N			N	N	0	1	0	0	0	0	0	0	0	1	1	1	0
+0925000575	250058	Clínica Perpetuo Socorro de Lérida, Grupo Ha, Slu	25	Lleida	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0943000754	430043	Hospital de Sant Pau I Santa Tecla	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	2	0	0	0	0	0	0	0	0	1	2	0
+0943000764	430213	Policlínica Comarcal del Vendrell.	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+0908005265	081762	Hestia Gracia	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005269	081830	Centre Sociosanitari Blauclinic Dolors Aleu	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005271	081896	Centre Social I Sanitari Frederica Montseny	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005275	081931	Centre Sociosanitari Sant Jordi de La Vall D'Hebron	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005272	081964	Unitat Polivalent Salut Mental Barcelona-Nord	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005293	082112	Unitat Polivalent Benito Menni En Salut Mental de L'Hospitalet-El Prat de Llobregat	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005290	082134	Ita Maresme	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005280	082156	Clínica Sant Antoni	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005627	082178	Hospital Sociosanitari de Mollet	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005675	082190	Iván Mañero Clinic	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908007674	082213	Centre D'Hospitalitzacio I Hospital de Dia Trastorns de La Conducta	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908009231	082236	Centre La Creueta	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908012300	082246	Unitat Terapéutica-Educativa Acompanya'M	08	Barcelona	09	Cataluña				N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000807	170097	Clínica Salus Infirmorum	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+0917000809	170118	Hospital de Campdevanol	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0917000824	170242	Residencia Geriátrica Maria Gay	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000825	170255	Hospital Sociosanitari Mutuam Girona	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000826	170277	Centre Sociosanitari de Puigcerdà	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000830	170312	Centre Palamós Gent Gran	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000574	250045	Vithas Hospital Montserrat	25	Lleida	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	1	0	0	0	0	1	1	0
+0925000571	250077	Clínica Psiquiatrica Bellavista	25	Lleida	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000578	250117	Fundacio Sant Hospital.	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0925000582	250169	Hestia Balaguer.	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000584	250181	Castell D'Oliana Residencial, S.L	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000586	250209	Hospital Jaume Nadal Meroles	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000909	250232	Hospital Sant Joan de Deu Lleida	25	Lleida	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000750	430108	Centre Mq Reus	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+0943000752	430120	Institut Pere Mata, S.A	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000757	430056	Hospital Viamed Monegal	43	Tarragona	09	Cataluña	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	1	0
+0943000763	430234	Residencia Alt Camp	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000765	430249	Centre Sociosanitari Ciutat de Reus	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000769	430265	Centre Sociosanitari Llevant	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000770	430276	Residencia Vila-Seca	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000772	430287	Unitat Polivalent En Salut Mental D'Amposta	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000775	430300	Centre Sociosanitari I Residencia Assistida Salou	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000777	430322	Residencia Santa Tecla Ponent	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005184	080879	Hospital de Sant Andreu	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005216	081213	Centre Geriatric del Maresme	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000583	250175	Residencia Terraferma	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000756	430022	Hospital Sociosanitari Francoli	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005140	080291	Hospital de La Santa Creu I Sant Pau	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	4	4	0	2	7	0	0	4	2	2	2	2	0
+0908005137	080364	Hospital Universitari Sagrat Cor	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	2	1	0	0	1	0	0	1	0	1	0	0
+0908005143	080403	HM Nou Delfos	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	2	1	1	1	1	0	0	0	1	3	3	0
+0908005151	080431	Hospital Clinic de Barcelona, Seu Plato	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	4	4	0	0	0	0	0	0	2	2	2	2	0
+0908005152	080446	Hospital Universitari Quirón Dexeus	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	3	1	1	1	1	0	0	1	1	2	1	0
+0908005171	080478	Centro Medico Teknon, Grupo Quironsalud	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	4	4	0	3	1	1	0	1	0	0	1	1	0
+0908005230	081461	Institut Catalá D'Oncologia - Hospital Duran I Reynals	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	2	0	0	0	0	0	0	6	0	0	0	0	0
+0908005250	081694	Institut Catalá D'Oncologia - Hospital Germans Trías I Pujol	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	3	0	0	0	0	0
+0917000828	170299	Institut Catalá D'Oncologia Girona - Hospital Josep Trueta	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	3	0	0	0	0	0
+0908005211	080484	Hospital de Barcelona	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	2	0	1	1	1	0	0	0	0	1	0	2
+0908005172	080538	Centre D'Oftalmologia Barraquer	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	0	0	0	0	1	0	0	0	0	0	0	0	0
+0908008299	082189	Centre Sociosanitari Isabel Roig	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000811	170139	Clínica Santa Creu	17	Girona	09	Cataluña	N	01	Sin concierto	N			N	N	0	1	0	0	0	0	0	0	0	0	1	1	0
+0917000814	170059	Clínica Girona	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	3	1	1	1	0	0	0	1	1	2	1	45
+0917000816	170301	Hospital Santa Caterina-Ias	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	2	0	0	0	0	0	3	0	0	2	0	0
+0917000818	170160	Hospital Sociosanitari de Lloret de Mar	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000819	170176	Hospital D'Olot I Comarcal de La Garrotxa	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0917000827	170288	Centre Sociosanitari Bernat Jaume	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925000577	250061	Clínica Mi Nova Aliança	25	Lleida	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	1	0	0	0	0	1	1	0
+0925000580	250156	Espitau Val D'Aran	25	Lleida	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0925000587	250210	Sant Joan de Deu Terres de Lleida	25	Lleida	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000751	430115	Villablanca Serveis Assistencials, Sa	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005276	081942	Lepant Residencial Qgg, S.L.	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005289	081997	Cqm Clinic Maresme, S.L.	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+0908005138	080370	Clínica Corachan	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	2	5	0	1	0	0	0	0	0	0	1	1	0
+0908005142	080399	Hospital Quironsalud Barcelona	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	2	4	1	1	1	0	0	1	1	1	2	1	0
+0908005145	080497	Centre Hospitalari Policlínica Barcelona	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0908005147	080575	Clínica Coroleu - Ssr Hestia.	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005155	080060	Hospital de L'Esperança.	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	1	0	0	0	0	0	2	1	0
+0908005160	080137	Centre de Prevencio I Rehabilitacio Asepeyo	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	0	0	0
+0908005178	080728	Clínica Nostra Senyora de Guadalupe	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005180	080771	Hospital General de L'Hospitalet	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0908005183	080826	Hospital de Sant Jaume	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005188	080898	Fundacio Hospital Sant Joan de Deu (Martorell)	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	1	0	0	0	0	0	1	0	0
+0908005189	080930	Centre Medic Molins, S.L.	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+0908005195	081022	Casal de Curacio	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005205	080667	Hospital Universitari Germans Trías I Pujol de Badalona	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	5	4	0	2	8	1	0	0	2	1	2	1	30
+0908005206	081017	Hospital Universitari General de Catalunya	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	2	0	2	2	0	0	1	0	0	0	1	1
+0908005212	081234	Centre Sociosanitari Verge del Puig	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005220	081311	Residencia Santa Susanna	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005174	080253	Hospital Mare de Déu de La Mercé?	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005227	081402	Mutua de Granollers, Mutua de Previsio Social A Prima Fixa	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+0908005229	081430	Hospital Comarcal de L'Alt Penedés	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+0908005237	081326	Hospital de Mataró	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	1	0	0	0	0	0	1	0	0
+0908005248	081661	Benito Menni Complex Assistencial En Salut Mental	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005262	081919	Parc Sanitari Sant Joan de Deu - App - 2	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005270	081874	Clínica Galatea	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005279	081920	Centre Integral de Serveis En Salut Mental Comunitaria	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005282	081347	Hospital Universitari Vall D'Hebron	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	9	6	0	3	3	0	0	4	4	2	2	1	29
+0908005298	082145	Centre Sociosanitari del Centre Integral de Salut Cotxeres	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000813	170010	Hospital Universitari de Girona Dr. Josep Trueta	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	3	2	1	1	3	0	0	0	1	1	1	1	20
+0917000810	170123	Hospital de Figueres	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	20
+0917000820	170195	Hospital de Palamós	17	Girona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	24
+0917001139	170334	Hospital de Cerdanya / Hospital de Cerdagne	17	Girona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	14
+0925000579	250143	Hospital Comarcal del Pallars	25	Lleida	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	10
+0908005177	080713	Hospital de Sant Joan de Deu.	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	3	1	1	1	0	0	0	2	1	1	2	3
+0908005190	080945	Hospital de Mollet	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	26
+0908005209	081108	Hospital General de Vic	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	38
+0908005204	081189	Hospital Sant Antoni Abat - Consorci Sanitari del Garraf.	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	1	1	29
+0908005253	081885	Hospital D'Igualada	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	26
+0943000758	430173	Hospital de La Santa Creu	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	55
+0943000762	430228	Pius Hospital de Valls	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	1	20
+0908005150	080057	Hospital del Mar	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	2	2	1	3	0	0	2	1	1	2	1	25
+0908005181	080752	Hospital Universitari de Bellvitge	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	7	4	3	3	4	1	0	0	1	2	2	1	28
+0908005208	080958	Hospital de Sabadell	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	3	3	2	1	3	0	0	0	1	1	2	0	43
+0908005153	080109	Hospital Clinic de Barcelona	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	4	4	1	3	2	1	0	4	2	1	1	1	59
+0908005217	080863	Hospital de Sant Joan de Deu (Manresa)	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	1	0	0	0	0	0	1	0	0	1	1	66
+0908005207	081075	Hospital de Terrassa.	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	3	1	0	0	1	0	0	3	0	0	2	1	28
+0925000572	250019	Hospital Universitari Arnau de Vilanova de Lleida.	25	Lleida	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	0	0	1	2	0	0	2	0	0	1	0	22
+0908005288	082066	Hospital de Sant Joan Despi Moisés Broggi	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	3	2	0	0	0	0	0	0	0	0	1	0	33
+0908005214	080689	Centre Sociosanitari El Carme	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005167	080235	Clínica Sagrada Familia	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005202	081115	Clínica Sant Josep	08	Barcelona	09	Cataluña	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0917000815	170062	Clínica Quirúrgica Onyar	17	Girona	09	Cataluña	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+0908005257	081784	Centre Sociosanitari D'Esplugues	08	Barcelona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000761	430081	Hospital Comarcal Mora D'Ebre	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	1	0
+0908014829	082268	Ronda de Dalt, Centre Sociosanitari	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908014888	082279	Eatica	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925001345	250243	Avantmedic	25	Lleida	09	Cataluña	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908005165	080229	Clínica Nostra Senyora del Remei	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	N	2	1	0	0	0	1	0	0	0	0	1	1	0
+0908005263	081829	Centre Fórum	08	Barcelona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908015458	082337	Residencia Nazaret	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0
+0908015997	082338	Mas Amigo Centre Especialitzat En Addiccions	08	Barcelona	09	Cataluña	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0
+0925001398	250254	Acompanya'M Lleida	25	Lleida	09	Cataluña	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943002180	430355	Centro Zeus	43	Tarragona	09	Cataluña	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943002181	430344	Llarga Estada Gipss	43	Tarragona	09	Cataluña	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0
+0943000753	430069	Clínica Activa Mutua 2008	43	Tarragona	09	Cataluña	S	01	Sin concierto	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+0943000755	430017	Hospital Universitari Joan Xixi de Tarragona	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	2	2	1	2	5	1	0	0	1	1	2	1	20
+0943000771	430298	Hospital del Vendrell	43	Tarragona	09	Cataluña	S	031	Red de utilización pública (RUP)	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+0943001036	430094	Hospital Universitari de Sant Joan de Reus	43	Tarragona	09	Cataluña	N	031	Red de utilización pública (RUP)	N			N	N	3	2	1	0	1	0	0	4	1	1	2	1	0
+1046000421	460137	Hospital Quironsalud Valencia	46	Valencia	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	1	2	0	1	0	0	0	0	0	0	1	1	0
+1012000288	120115	Hospital Comarcal de Vinaros	12	Castellón	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1012000178	120136	Hospital Universitario de La Plana	12	Castellón	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	0
+1012000256	120148	Instituto de Traumatología de Unión de Mutuas (Matepss Nº 267)	12	Castellón	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1046000414	460240	Hospital Intermutual de Levante	46	Valencia	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1003000121	030187	Hospital Sant Vicent del Raspeig	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+1003000040	030190	Sanatorio San Francisco de Borja Fontilles	03	Alicante	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000177	030232	Hospital Psiquiátrico Penitenciario de Fontcalent	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000098	030351	Hospital La Pedrera	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+1046000383	460266	Hospital de Sagunto	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	2	2	0
+1046000556	460272	Hospital Doctor Moliner	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1046000576	460369	Hospital Pare Jofre	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1046000361	460057	Hospital de La Malva-Rosa	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000254	030362	Centro de Rehabilitación Neurológica Casaverde	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000229	030089	Hospital IMED San Jorge	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1003000179	030128	Hospital San Carlos de Denia Grupo HA	03	Alicante	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1046000388	460333	Hospital Nisa Aguas Vivas	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1046000390	460327	Hospital IMED Gandía	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1046000278	460180	Ita Godella	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000220	030015	Hospital General Universitario Dr. Balmis	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	3	0	2	4	1	0	0	0	0	2	2	43
+1003000176	030328	Hospital IMED Levante	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	10
+1003000248	030340	Hospital de Denia	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	1	1	0	0	0	0	0	1	1	31
+1003000161	030211	Hospital Vega Baja de Orihuela	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	30
+1012000182	120038	Hospital La Magdalena	12	Castellón	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1046000629	460168	Hospital de Salud Mental Provincial	46	Valencia	10	Comunidad Valenciana	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000237	030226	Hospital Medimar Internacional	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	1	0	0	1	0	0	1	1	2	1	0
+1003000167	030298	Hospital Quironsalud Torrevieja	03	Alicante	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	2	2	1	1	1	0	0	2	1	1	1	1	0
+1003000333	030384	Hospital IMED Elche	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	2	0	1	1	0	0	1	0	0	1	1	1
+1046008287	460404	IMED Valencia	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	4	0	1	1	0	0	1	0	0	1	2	1
+1046000353	460229	Hospital Lluis Alcanyis de Xativa	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	2	1	32
+1012000180	120017	Hospital General Universitario de Castellón	12	Castellón	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	2	0	1	3	0	0	0	0	0	1	1	33
+1046000268	460207	Hospital Francesc de Borja de Gandía	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	2	0	0	0	0	0	1	0	0	1	1	28
+1046000342	460044	Hospital Clínico Universitario de Valencia	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	5	4	2	2	4	0	0	3	1	1	2	1	18
+1046000362	460018	Hospital Universitario y Politécnico La Fe	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	11	6	3	4	8	1	0	4	0	1	2	1	31
+1046000423	460351	Hospital Universitario de La Ribera	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	3	0	1	1	1	0	3	1	1	2	1	41
+1046000667	460370	Hospital de Manises	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	1	0	1	1	1	0	0	0	0	2	1	42
+1046006312	460392	Hospital de Lliria	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	1
+1046000096	460291	Hospital 9 de Octubre	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	4	2	1	1	0	0	0	0	1	2	1	0
+1046000568	460082	Hospital Católico Casa de Salud	46	Valencia	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	1	3	0	1	0	1	0	0	0	0	1	1	20
+1003000144	030092	Hospital Clínica Benidorm	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	2	1	1	1	0	0	1	0	1	0	1	45
+1046000057	460060	Consorcio Hospital General Universitario de Valencia	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	3	0	3	2	0	0	3	1	2	1	2	28
+1046000319	460109	Fundacion Instituto Valenciano de Oncología	46	Valencia	10	Comunidad Valenciana	S	032	Concierto sustitutorio	N			N	N	5	2	0	0	1	0	0	5	1	1	4	1	1
+1046000325	460023	Hospital Universitario Dr. Peset Aleixandre	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	2	0	1	2	1	0	0	2	1	1	1	25
+1003000142	030152	Hospital General Universitario de Elche	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	4	3	0	1	0	1	0	3	0	0	2	1	16
+1003000135	030067	Hospital Virgen de Los Lirios	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	1	38
+1003006642	030406	Hospital Internacional Hcb Denia	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1046011007	460459	IMED Colón	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	S	1	1	0	0	0	0	0	0	0	0	1	1	0
+1046011151	460460	Hospital Infanto-Juvenil J. Peirón	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0
+1003000129	030041	Vithas Hospital Perpetuo Internacional	03	Alicante	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	0	1	0	1	0	0	0	0	0	0	0
+1003000134	030036	Clínica Vistahermosa Grupo Ha	03	Alicante	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	1	2	0	2	1	0	0	0	0	0	1	1	0
+1003000136	030204	Hospital Marina Baixa de La Vila Joiosa	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	8
+1003000200	030165	Hospital General Universitario de Elda-Virgen de La Salud	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	3	1	46
+1003000233	030339	Hospital Universitario de Torrevieja	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	1	1	0	0	0	0	0	2	1	37
+1003000247	030250	Hospital Universitario San Juan de Alicante	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	3	2	2	1	0	0	1	4	2	1	2	1	0
+1003000255	030373	Hospital Universitario Vinalopó	03	Alicante	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	1	0	1	1	1	0	0	1	1	1	1	32
+1012000183	120043	Consorcio Hospitalario Provincial de Castellón	12	Castellón	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	1	0	0	1	0	3	1	1	1	1	0
+1012000255	120159	Hospital Rey D. Jaime	12	Castellón	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+1046000270	460381	Hospital de Crónicos de Mislata (Antiguo Hospital Militar de Valencia)	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1046000290	460288	Hospital General de Requena	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	17
+1046000344	460116	Hospital Vithas Valencia Consuelo	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	1	0	1	1	0	2	0	0	0	1	0
+1046000577	460235	Hospital General de Ontinyent	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1046000651	460039	Hospital Arnau de Vilanova	46	Valencia	10	Comunidad Valenciana	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	1	2
+1046009364	460437	Clínica Imske	46	Valencia	10	Comunidad Valenciana	N	02	Concierto parcial	N			N	N	1	2	0	0	0	0	0	0	0	0	0	0	0
+1046009450	460426	Centro Habilitado Ernest Lluch	46	Valencia	10	Comunidad Valenciana	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1110000572	100054	Hospital Campo Arañuelo	10	Cáceres	11	Extremadura	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+1110000563	100041	Hospital Ciudad de Coria	10	Cáceres	11	Extremadura	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+1110000693	100073	Centro Sociosanitario de Plasencia	10	Cáceres	11	Extremadura	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1106000797	060140	Hospital Santa Justa	06	Badajoz	11	Extremadura	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1106001192	060275	Casaverde Centro de Rehabilitación Neurológico de Extremadura S.L.	06	Badajoz	11	Extremadura	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1106000744	060297	Hospital Parque Vegas Altas	06	Badajoz	11	Extremadura	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1110000695	100092	Hospital Quironsalud Cáceres	10	Cáceres	11	Extremadura	S	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1110000696	100106	Clínica Soquimex	10	Cáceres	11	Extremadura	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+1110000692	100067	Hospital Virgen del Puerto	10	Cáceres	11	Extremadura	S	01	Sin concierto	N			N	N	3	1	0	0	0	0	0	1	0	0	1	0	8
+	060219	Complejo Hospitalario Llerena-Zafra	06	Badajoz	11	Extremadura	S	01	Sin concierto	N			S	N	2	1	0	0	0	0	0	0	0	0	2	0	23
+	060253	Complejo Hospitalario de Don Benito-Villanueva de La Serena	06	Badajoz	11	Extremadura	S	01	Sin concierto	N			S	N	2	1	0	0	0	0	0	0	0	0	2	0	0
+	060264	Complejo Hospitalario del Área de Salud de Mérida	06	Badajoz	11	Extremadura	S	01	Sin concierto	N			S	N	4	1	0	1	0	1	0	1	0	0	3	1	0
+	100089	Complejo Hospitalario de Cáceres	10	Cáceres	11	Extremadura	S	01	Sin concierto	N			S	N	6	2	2	2	1	0	0	1	1	0	3	0	40
+1106000332	060021	Hospital Universitario de Badajoz	06	Badajoz	11	Extremadura	DC	DC	DC	S	060016	Complejo Hospitalario Universitario de Badajoz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000566	060037	Hospital Materno-Infantil	06	Badajoz	11	Extremadura	DC	DC	DC	S	060016	Complejo Hospitalario Universitario de Badajoz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000792	060093	Hospital Don Benito-Villanueva de La Serena	06	Badajoz	11	Extremadura	DC	DC	DC	S	060253	Complejo Hospitalario de Don Benito-Villanueva de La Serena	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000794	060114	Hospital General de Llerena	06	Badajoz	11	Extremadura	DC	DC	DC	S	060219	Complejo Hospitalario Llerena-Zafra	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000795	060129	Hospital de Mérida	06	Badajoz	11	Extremadura	DC	DC	DC	S	060264	Complejo Hospitalario del Área de Salud de Mérida	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000801	060208	Hospital de Zafra	06	Badajoz	11	Extremadura	DC	DC	DC	S	060219	Complejo Hospitalario Llerena-Zafra	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000804	060231	Hospital Siberia-Serena	06	Badajoz	11	Extremadura	DC	DC	DC	S	060253	Complejo Hospitalario de Don Benito-Villanueva de La Serena	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000805	060242	Hospital Tierra de Barros	06	Badajoz	11	Extremadura	DC	DC	DC	S	060264	Complejo Hospitalario del Área de Salud de Mérida	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1110000306	100015	Hospital San Pedro de Alcántara	10	Cáceres	11	Extremadura	DC	DC	DC	S	100089	Complejo Hospitalario de Cáceres	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1110001384	100115	Hospital Universitario de Cáceres	10	Cáceres	11	Extremadura	DC	DC	DC	S	100089	Complejo Hospitalario de Cáceres	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1106000803	060220	Hospital Perpetuo Socorro	06	Badajoz	11	Extremadura	DC	DC	DC	S	060016	Complejo Hospitalario Universitario de Badajoz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+	060016	Complejo Hospitalario Universitario de Badajoz	06	Badajoz	11	Extremadura	S	01	Sin concierto	N			S	N	7	4	0	2	2	0	0	3	3	1	2	1	55
+1106000791	060080	Hospital Ribera Almendralejo	06	Badajoz	11	Extremadura	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1106000796	060135	Centro Sociosanitario de Mérida	06	Badajoz	11	Extremadura	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1106000798	060172	Hospital Quironsalud Clideba	06	Badajoz	11	Extremadura	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1106001097	060286	Hospital Ribera Badajoz	06	Badajoz	11	Extremadura	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1110000697	100113	Hospital Parque San Francisco	10	Cáceres	11	Extremadura	N	02	Concierto parcial	N			N	N	0	0	0	1	0	0	0	0	0	0	1	1	0
+1232000114	320087	Centro Medico El Carmen	32	Ourense	12	Galicia	N	01	Sin concierto	N			N	N	1	1	0	1	0	0	0	0	0	0	0	0	0
+1236000124	360160	Fremap, Hospital de Vigo	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1232000115	320163	Clínica Santa Teresa	32	Ourense	12	Galicia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1236000117	360059	Grupo Quironsalud Pontevedra	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+1227000096	270057	Hospital Ribera Polusa	27	Lugo	12	Galicia	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1227000097	270076	Hospital Quirón Salud Lugo	27	Lugo	12	Galicia	N	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	0	0
+1236000123	360255	Centro Medico Pintado	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+1236000125	360274	Clínica Residencia El Pinar	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1236000126	360216	Concheiro Centro Medico Quirúrgico	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1215000169	150308	Hestia La Robleda	15	A Coruña	12	Galicia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1227000095	270109	Hospital Publico de Monforte	27	Lugo	12	Galicia	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1232000112	320126	Hospital Publico de Valdeorras	32	Ourense	12	Galicia	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+1232000113	320150	Hospital Publico de Verín	32	Ourense	12	Galicia	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	8
+1215000173	150050	Centro Oncoloxico de Galicia	15	A Coruña	12	Galicia	N	032	Concierto sustitutorio	N			N	N	2	0	0	0	0	0	0	3	2	1	1	0	0
+1215000176	150354	HM Modelo-Belen	15	A Coruña	12	Galicia		01	Sin concierto	N			N	N	1	2	1	1	1	0	0	0	1	1	1	1	0
+1232000111	320013	Complexo Hospitalario Universitario de Ourense	32	Ourense	12	Galicia	S	01	Sin concierto	N			N	N	4	2	0	1	2	0	0	2	2	1	1	1	36
+1236000128	360368	Complexo Hospitalario Universitario de Vigo	36	Pontevedra	12	Galicia	S	01	Sin concierto	N			N	N	8	4	0	3	12	0	0	4	3	1	1	1	49
+1227000094	270095	Hospital Publico Da Mariña	27	Lugo	12	Galicia	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	20
+1215000181	150365	Hospital HM Rosaleda-HM La Esperanza	15	A Coruña	12	Galicia	N	02	Concierto parcial	N			N	N	1	3	0	0	1	0	0	0	0	0	1	1	32
+1215000175	150079	Hospital San Rafael	15	A Coruña	12	Galicia	N	02	Concierto parcial	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	35
+1215000178	150177	Hospital Ribera Juan Cardona	15	A Coruña	12	Galicia		02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	39
+1236000115	360182	Hospital Ribera Povisa	36	Pontevedra	12	Galicia	S	032	Concierto sustitutorio	N			N	N	2	3	1	0	1	1	0	1	1	1	1	1	30
+1215000172	150011	Complexo Hospitalario Universitario A Coruña	15	A Coruña	12	Galicia	S	01	Sin concierto	N			N	N	6	3	0	3	0	1	0	0	0	0	3	1	23
+1215000177	150130	Complexo Hospitalario Universitario de Ferrol	15	A Coruña	12	Galicia	S	01	Sin concierto	N			N	N	3	2	0	0	0	0	0	0	0	0	1	2	16
+1215000182	150336	Hospital Publico Da Barbanza	15	A Coruña	12	Galicia	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	12
+1215000183	150341	Hospital Publico Virxe Da Xunqueira	15	A Coruña	12	Galicia	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	12
+1227000093	270018	Complexo Hospitalario Universitario de Lugo	27	Lugo	12	Galicia	S	01	Sin concierto	N			N	N	3	2	0	1	4	0	0	2	1	1	2	1	41
+1236000127	360353	Hospital Publico Do Salnes	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+1215000174	150063	Hospital Quironsalud A Coruña	15	A Coruña	12	Galicia	N	01	Sin concierto	N			N	N	1	1	0	1	0	0	0	0	0	0	1	1	26
+1215000179	150200	Complexo Hospitalario Universitario de Santiago	15	A Coruña	12	Galicia	S	01	Sin concierto	N			N	N	6	4	2	2	2	1	0	3	2	1	2	2	35
+1236000116	360340	Complexo Hospitalario Universitario de Pontevedra	36	Pontevedra	12	Galicia	S	01	Sin concierto	N			N	N	3	2	0	0	1	0	0	0	0	0	1	0	44
+1236000120	360209	Vithas Hospital Nosa Señora de Fátima	36	Pontevedra	12	Galicia	N	02	Concierto parcial	N			N	N	1	1	1	1	1	1	0	0	1	0	1	0	2
+1236000122	360268	Hestia San José	36	Pontevedra	12	Galicia	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000064	281049	Hospital Ha Universitario Moncloa	28	Madrid	13	Madrid	S	031	Red de utilización pública (RUP)	N			N	N	1	2	0	2	4	0	0	0	0	0	1	1	1
+1328000078	281225	Hospital Universitario HM Sanchinarro	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000022	280761	Hospital de La Fuenfria	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328023818	281456	Hospital Quirón Salud Valle del Henares	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1328026468	281467	HM Hospitales 1.989, S.A.	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	0	0
+1328000042	280838	Hospital Universitario Severo Ochoa	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	1	1	0	0	0	0	0	2	0	55
+1328000076	281203	Hospital Universitario Quironsalud Madrid	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	4	1	2	1	0	0	2	1	1	2	1	3
+	280225	Complejo Hospitalario Gregorio Marañón	28	Madrid	13	Madrid	S	01	Sin concierto	N			S	N	7	5	0	5	3	1	0	4	3	2	3	1	46
+1328026683	281478	Alm Univass S.L.	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328030390	281491	HM Hospitales 1989, S.A.	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000004	280783	Centro San Juan de Dios Ciempozuelos	28	Madrid	13	Madrid	S	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000006	280549	Hospital Fuensanta	28	Madrid	13	Madrid	S	02	Concierto parcial	N			N	N	1	1	1	0	0	1	0	0	0	0	2	1	30
+1328000007	280534	Clínica La Luz, S.L.	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	2	2	0	1	1	1	0	1	0	1	1	1	0
+1328000008	280604	Hospital Universitario La Zarzuela	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	1	1	0	0	0	0	0	1	0	0
+1328000014	280468	Hospital San Camilo	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	20
+1328000020	280148	Hospital Central de La Cruz Roja, San José y Santa Adela	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	0	1	0	0	0	0	0	0	0	1	0	0
+1328000025	280954	Hospital Universitario HM Madrid	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	0	0
+1328000032	280796	Hospital Asepeyo Madrid	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	0	0	0
+1328000034	280745	Hospital Universitario Príncipe de Asturias	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	3	2	1	1	1	0	0	0	0	0	3	1	33
+1328000040	280339	Hospital San Rafael	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	1	2	0	1	0	0	0	0	0	0	1	1	0
+1328000044	280091	Hospital Virgen de La Torre	28	Madrid	13	Madrid	DC	DC	DC	S	281405	Complejo Hospitalario Infanta Leonor	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000051	280395	Clínica San Miguel	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000063	281034	Clínica Isadora S.A.	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000067	281090	Hospital Universitario HM Monteprincipe	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	3	0	2	3	1	0	0	0	0	1	1	1
+1328000069	281113	Hospital Md Anderson Cáncer Center Madrid	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	1	2	0	0	0	0	0	1	0	0	1	1	0
+1328000077	281247	Hospital Pardo de Aravaca	28	Madrid	13	Madrid	S	02	Concierto parcial	N			N	N	1	1	0	1	1	0	0	0	0	0	1	1	0
+1328000080	281236	Hospital Universitario Infanta Elena	28	Madrid	13	Madrid	S	032	Concierto sustitutorio	N			N	N	1	2	1	1	1	0	0	0	0	0	1	1	17
+1328000084	281292	Hospital Universitario del Tajo	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	1	0	0	1	0	0	0	0	0	2	0	13
+1328000090	281348	ID Dalud Móstoles Sa	28	Madrid	13	Madrid	S	032	Concierto sustitutorio	N			N	N	2	4	0	1	3	0	0	2	1	1	2	1	27
+1328020032	281393	Clínica Universidad de Navarra	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	2	2	0	2	1	0	0	2	1	1	2	1	0
+1328023076	281445	Servicio Madrileño de Salud	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+1328000057	280323	Sanatorio Nuestra Señora del Rosario	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	2	3	0	1	1	0	0	0	0	0	2	1	0
+1328000001	280856	Fremap Hospital Majadahonda	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	0	0	0
+1328000026	280894	Hospital Universitario de Móstoles	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	2	0	0
+1328000073	281180	Hospital Los Madroños	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+1328000029	280416	Fundacion Instituto San José	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000037	280777	Complejo Asistencial Benito Menni	28	Madrid	13	Madrid	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000041	280112	Hospital Universitario Santa Cristina	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	2	1	0
+1328000028	280133	Hospital Infantil Universitario Niño Jesús	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1328000036	280262	Hospital Psiquiátrico Doctor Rodriguez Lafora	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000024	280344	Hospital de La V.O.T. de San Francisco de Asís	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1328000060	280357	Hospital Quironsalud San José	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1328000050	280409	Clínica Nuestra Señora de La Paz	28	Madrid	13	Madrid	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000058	280442	Hospital Virgen del Mar	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	3	0	0	0	0	0	0	0	0	2	0	1
+1328000061	280455	Hospital Hestia Madrid	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000010	280474	Hospital Nuestra Señora de América	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	3	0	1	1	0	0	0	0	0	1	1	0
+1328000013	280552	Hospital Ruber Juan Bravo	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	2	0	0	0	0	0	0	1	1	2
+1328000011	280626	Hospital HM Nuevo Belen	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	1	1	0
+1328000054	280647	Clínica Dr. León	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000046	280650	Clínica López Ibor	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000052	280679	Sanatorio Esquerdo, S.A.	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000033	280800	Hospital Asociado Universitario Guadarrama	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000021	280920	Hospital El Escorial	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1328000035	280936	Hospital Virgen de La Poveda	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000065	281087	Clínica Cemtro	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	2	5	0	0	0	0	0	0	0	0	0	0	0
+1328000070	281124	Hospital Quironsalud Sur	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	3
+1328000072	281157	Hospital Universitario HM Torrelodones	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	0	0	0	0	0	0	0	1	0	0
+1328000079	281214	Hospital Centro de Cuidados Laguna	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000088	281326	Casta Guadarrama	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328020932	281371	Hospital HM Valles	28	Madrid	13	Madrid	S	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1328021504	281383	Fraternidad Muprespa, Mutua Colaboradora Con La Seguridad Social Nº 275	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1328000018	280360	Hospital Beata Maria Ana	28	Madrid	13	Madrid	N	02	Concierto parcial	N			N	N	1	3	0	0	0	0	0	1	0	0	1	1	0
+1328000053	280587	Hospital La Milagrosa S.A.	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	2	0	1	1	1	0	2	0	1	1	1	1
+1328000030	280565	Hospital Ruber Internacional	28	Madrid	13	Madrid		01	Sin concierto	N			N	N	2	3	1	1	1	0	0	2	1	1	2	1	0
+1328000074	281179	Hospital Universitario La Moraleja	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	2	2	1	1	1	1	0	0	1	1	2	2	0
+1328016888	281360	Hospital Universitario HM Puerta del Sur	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	3	1	1	1	0	0	2	1	1	1	0	0
+1328019438	280724	Hospital Central de La Defensa Gómez Ulla	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	3	2	2	2	3	1	0	2	2	1	1	1	28
+1328000062	280989	Hospital Universitario de Getafe	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	1	2	0	0	0	2	1	2	0	24
+1328000071	281146	Hospital Universitario de Fuenlabrada	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	3	0	1	1	0	0	3	2	1	2	1	0
+1328000082	281258	Hospital Universitario Infanta Sofia	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	0	1	0	0	0	0	0	2	1	41
+1328000081	281269	Hospital Universitario del Henares	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	2	0	27
+1328000085	281281	Hospital Universitario del Sureste	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	18
+1328000083	281304	Hospital Universitario Infanta Cristina	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	2	0	20
+1328000087	281315	Hospital Universitario Puerta de Hierro Majadahonda	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	3	4	0	2	3	1	0	4	3	2	3	1	33
+1328000089	281337	Hospital Universitario de Torrejón	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	2	0	1	1	0	0	2	0	0	2	1	22
+1328016665	281359	Hospital General de Villalba	28	Madrid	13	Madrid	S	032	Concierto sustitutorio	N			N	N	1	2	1	1	1	0	0	0	1	0	1	1	18
+1328000039	280029	Hospital Universitario Ramon y Cajal	28	Madrid	13	Madrid	S	031	Red de utilización pública (RUP)	N			N	N	7	3	1	3	2	1	0	4	3	1	3	1	27
+1328000017	280035	Hospital Universitario 12 de Octubre	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	6	6	0	5	3	0	0	5	2	2	3	1	40
+1328000023	280127	Hospital Universitario de La Princesa	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	3	3	0	2	2	1	0	2	1	0	1	1	30
+	281168	Complejo Hospitalario La Paz	28	Madrid	13	Madrid	S	01	Sin concierto	N			S	N	7	5	2	3	4	1	0	4	1	1	4	3	45
+	281405	Complejo Hospitalario Infanta Leonor	28	Madrid	13	Madrid	S	01	Sin concierto	N			S	N	3	2	0	0	0	0	0	0	0	0	3	1	40
+	281427	Instituto Psiquiátrico Servicios de Salud Mental José Germain	28	Madrid	13	Madrid	S	01	Sin concierto	N			S	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1328000048	280259	Instituto Provincial de Rehabilitación	28	Madrid	13	Madrid	DC	DC	DC	S	280225	Complejo Hospitalario Gregorio Marañón	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000049	280843	Hospital Universitario José Germain	28	Madrid	13	Madrid	DC	DC	DC	S	281427	Instituto Psiquiátrico Servicios de Salud Mental José Germain	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000086	281270	Hospital Universitario Infanta Leonor	28	Madrid	13	Madrid	DC	DC	DC	S	281405	Complejo Hospitalario Infanta Leonor	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328020933	281438	Hospital Universitario José Germain	28	Madrid	13	Madrid	DC	DC	DC	S	281427	Instituto Psiquiátrico Servicios de Salud Mental José Germain	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000016	280164	Hospital Carlos III	28	Madrid	13	Madrid	DC	DC	DC	S	281168	Complejo Hospitalario La Paz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000019	280210	Hospital de Cantoblanco	28	Madrid	13	Madrid	DC	DC	DC	S	281168	Complejo Hospitalario La Paz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000027	280246	Hospital General Universitario Gregorio Marañón	28	Madrid	13	Madrid	DC	DC	DC	S	280225	Complejo Hospitalario Gregorio Marañón	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000031	280014	Hospital Universitario La Paz	28	Madrid	13	Madrid	DC	DC	DC	S	281168	Complejo Hospitalario La Paz	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1328000066	281071	Hospital Universitario Fundacion Alcorcón	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	2	3	1	1	1	1	0	0	0	1	2	1	34
+1328000043	280072	Hospital Universitario Clínico San Carlos	28	Madrid	13	Madrid	S	01	Sin concierto	N			N	N	4	5	3	5	3	0	0	2	2	2	4	1	16
+1328000009	280421	Hospital Universitario Fundacion Jimenez Diaz	28	Madrid	13	Madrid	S	032	Concierto sustitutorio	N			N	N	4	8	2	1	3	1	0	2	0	1	4	1	25
+1328000015	280376	Hospital Viamed Santa Elena, S.L	28	Madrid	13	Madrid	S	02	Concierto parcial	N			N	N	1	3	0	1	1	1	0	0	0	0	1	1	28
+1328000059	280382	Hospital San Francisco de Asís	28	Madrid	13	Madrid	N	01	Sin concierto	N			N	N	1	2	0	1	1	0	1	1	0	0	1	1	12
+1430000003	300085	Hospital Mesa del Castillo	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	2	0	0
+1430000001	300177	Hospital Ntra. Sra. del Perpetuo Socorro	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1430000348	300384	Hospital C. M. Virgen de La Caridad Cartagena	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1430000067	300032	Hospital Psiquiátrico Román Alberca	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430000056	300098	Sanatorio Dr. Muñoz	30	Murcia	14	Región de Murcia	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430000061	300124	Hospital Comarcal del Noroeste	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	0
+1430000068	300130	Hospital Centro Medico Virgen de La Caridad Caravaca	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430000064	300217	Hospital Virgen del Alcázar de Lorca	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	1	0	0	0	0	1	1	0
+1430000047	300222	Hospital General Universitario Los Arcos del Mar Menor	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	0
+1430000059	300243	Hospital Virgen del Castillo	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1430000057	300275	Hospital Ibermutuamur - Patología Laboral	30	Murcia	14	Región de Murcia	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1430000002	300294	Ribera Hospital de Molina	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	1	0	0	0	0	0	0	0	0	0	1	1	0
+1430000004	300317	Clínica San Felipe	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430002216	300373	Hospital Perpetuo Socorro Alameda	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430000060	300011	Hospital Clínico Universitario Virgen de La Arrixaca	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	6	5	1	3	5	0	0	5	3	2	4	1	37
+1430000063	300256	Hospital Rafael Méndez	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	2	1	0	0	0	0	0	0	0	0	1	0	13
+1430000058	300281	Hospital de La Vega Lorenzo Guirao	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	2	0	0	0	0	0	0	0	0	0	1	1	10
+	300351	Complejo Hospitalario de Cartagena CHC	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			S	N	5	3	1	2	6	0	0	3	1	2	2	0	22
+1430000062	300145	Hospital Santa Maria del Rosell	30	Murcia	14	Región de Murcia	DC	DC	DC	S	300351	Complejo Hospitalario de Cartagena CHC	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1430000051	300269	Hospital G. Universitario J.M. Morales Meseguer	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	3	2	0	0	1	1	0	0	0	0	2	0	0
+1430000055	300050	Hospital Quironsalud Murcia	30	Murcia	14	Región de Murcia	S	02	Concierto parcial	N			N	N	1	1	0	1	1	0	0	0	0	0	1	1	0
+1430006876	300406	Hospital del Guadalentín	30	Murcia	14	Región de Murcia	N	01	Sin concierto	N			N	S	1	1	0	0	0	0	0	0	0	0	1	0	0
+1430006933	300395	Hospital IMED Virgen de La Fuensanta	30	Murcia	14	Región de Murcia	N	01	Sin concierto	N			N	S	1	1	0	0	1	0	0	0	0	0	1	1	0
+1430000005	300026	Hospital General Universitario Reina Sofia	30	Murcia	14	Región de Murcia	S	01	Sin concierto	N			N	N	2	2	0	0	1	0	0	0	0	0	1	1	31
+1430000007	300339	Hospital de Cuidados Medios Villademar	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430000036	300362	Hospital General Universitario Santa Lucia	30	Murcia	14	Región de Murcia	DC	DC	DC	S	300351	Complejo Hospitalario de Cartagena CHC	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1430000053	300079	Hospital La Vega Grupo Ha	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	1	2	0	1	1	0	0	0	0	0	1	1	0
+1430000054	300161	Santo y Real Hospital de Caridad	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1430000065	300119	Hospital Viamed San José	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1430000066	300196	Hospital Asilo de La Real Piedad de Cehegín	30	Murcia	14	Región de Murcia	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1531000738	310076	Clínica Arcángel San Miguel - Pamplona	31	Navarra	15	C. Foral de Navarra	N	01	Sin concierto	N			N	N	1	2	0	1	0	0	0	0	0	0	2	1	0
+1531000739	310039	Centro San Francisco Javier	31	Navarra	15	C. Foral de Navarra	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1531000736	310057	Clínica Psiquiatrica Padre Menni	31	Navarra	15	C. Foral de Navarra	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1531000734	310109	Centro Hospitalario Benito Menni	31	Navarra	15	C. Foral de Navarra	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1531000740	310142	Clínica Psico geriátrica Josefina Arregui	31	Navarra	15	C. Foral de Navarra	S	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1531000729	310137	Hospital Reina Sofia	31	Navarra	15	C. Foral de Navarra	S	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	29
+1531000733	310060	Clínica Universidad de Navarra	31	Navarra	15	C. Foral de Navarra	S	02	Concierto parcial	N			N	N	3	3	0	1	1	1	0	2	2	2	1	1	30
+1531000730	310121	Hospital Garcia Orcoyen	31	Navarra	15	C. Foral de Navarra	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	1	0	0
+1531000737	310044	Hospital San Juan de Dios	31	Navarra	15	C. Foral de Navarra	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	0
+1531002230	310150	Hospital Universitario de Navarra	31	Navarra	15	C. Foral de Navarra	S	01	Sin concierto	N			N	N	7	4	2	2	2	1	0	4	3	1	4	1	81
+1620000007	200185	Organización Sanitaria Integrada Debagoiena	20	Guipúzcoa	16	País Vasco	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1601000007	010035	Red de Salud Mental de Araba (Hospital Psiquiátrico de Araba)	01	Álava	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1620000014	200198	Hospital Aita Menni	20	Guipúzcoa	16	País Vasco	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1620000015	200202	Hospital Psiquiátrico San Juan de Dios	20	Guipúzcoa	16	País Vasco	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1601000004	010053	Hospital Quironsalud Vitoria	01	Álava	16	País Vasco	N	02	Concierto parcial	N			N	N	1	2	0	0	0	0	0	0	0	0	1	1	0
+1620000008	200219	Clínica Santa Maria de La Asunción (Inviza S. A.)	20	Guipúzcoa	16	País Vasco	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1620000016	200230	Sanatorio Usurbil, S. L.	20	Guipúzcoa	16	País Vasco	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1620000006	200258	Hospital de Mendaro (Osi Bajo Deba)	20	Guipúzcoa	16	País Vasco	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+1648000006	480046	Hospital Cruz Roja de Bilbao - Victoria Eugenia	48	Vizcaya	16	País Vasco	N	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648000010	480123	Clínica Guimon, S.A.	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1648000011	480059	Sanatorio Bilbaíno	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648000014	480182	Hospital San Eloy	48	Vizcaya	16	País Vasco	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	2	0	0
+1648000016	480255	Hospital San Juan de Dios	48	Vizcaya	16	País Vasco	N	02	Concierto parcial	N			N	N	1	1	0	0	0	0	0	0	0	0	1	0	0
+1648000018	480025	Hospital Intermutual de Euskadi	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	1	0	0	0	1	0	0	0	0	0	0	0
+1648000021	480216	Hospital de Gorliz	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648004434	480327	Hospital Urduliz Ospitalea	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	2	2	0	0	0	0	0	0	0	0	3	0	2
+1648000023	480195	Hospital de Bermeo	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648000026	480274	Hospital de Zamudio	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648000017	480305	Hospital Quironsalud Bizkaia	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	1	1	1	1	0	1	0	1	0	1	1	1	0
+1620000011	200132	Fundacion Onkologikoa Fundazioa	20	Guipúzcoa	16	País Vasco	S	01	Sin concierto	N			N	N	1	1	2	0	1	0	0	3	1	1	4	0	0
+1648000005	480078	Hospital Universitario Basurto	48	Vizcaya	16	País Vasco	S	01	Sin concierto	N			N	N	5	2	0	1	3	0	0	3	2	0	4	1	15
+1648002635	480316	Clínica Imq Zorrotzaurre	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	2	2	1	1	1	1	0	2	1	1	1	1	0
+1648000015	480209	Hospital Galdakao-Usansolo	48	Vizcaya	16	País Vasco	S	01	Sin concierto	N			N	N	3	0	0	2	2	1	0	0	0	0	3	0	30
+1620000002	200104	Policlínica Gipuzkoa	20	Guipúzcoa	16	País Vasco	N	02	Concierto parcial	N			N	N	1	2	0	2	1	1	0	0	0	0	1	1	21
+1648000008	480097	Clínica Virgen Blanca	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	0	0	20
+1601000510	010090	Hospital Universitario Araba (Sede Txagorritxu y Sede Santiago)	01	Álava	16	País Vasco	S	01	Sin concierto	N			N	N	5	5	0	2	2	1	0	2	2	1	3	1	48
+1648000020	480010	Hospital Santa Marina	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	0
+1648000022	480293	Avances Médicos S.A.	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648000025	480268	Hospital de Zaldibar	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1620000001	200049	Mutualia Clínica Pakea	20	Guipúzcoa	16	País Vasco	N	02	Concierto parcial	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+1620000010	200261	Hospital Universitario Donostia	20	Guipúzcoa	16	País Vasco	S	01	Sin concierto	N			N	N	6	3	0	2	2	0	0	1	0	0	2	1	42
+1601000003	010040	Hospital Vithas Vitoria	01	Álava	16	País Vasco	N	01	Sin concierto	N			N	N	1	2	0	1	0	0	0	0	0	0	1	1	0
+1601000006	010088	Hospital de Leza	01	Álava	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1620000005	200163	Hospital Bidasoa (Osi Bidasoa)	20	Guipúzcoa	16	País Vasco	S	01	Sin concierto	N			N	N	1	0	0	0	0	1	0	0	0	0	0	0	0
+1620000009	200245	Hospital de Zumarraga (Osi Goierri - Alto Urola)	20	Guipúzcoa	16	País Vasco	S	01	Sin concierto	N			N	N	1	0	0	0	0	0	0	0	0	0	0	0	20
+1620000012	200071	Hospital Ricardo Bermingham	20	Guipúzcoa	16	País Vasco	S	02	Concierto parcial	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1620000013	200271	Hospital San Juan de Dios Donostia	20	Guipúzcoa	16	País Vasco	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1648000012	480160	Clínica Indautxu, S.A.	48	Vizcaya	16	País Vasco	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	1	0	0
+1648000013	480176	Hospital Universitario Cruces	48	Vizcaya	16	País Vasco	S	01	Sin concierto	N			N	N	8	2	0	2	3	1	0	3	3	2	3	2	34
+1648000019	480031	Clínica Ercilla Mutualia	48	Vizcaya	16	País Vasco	N	02	Concierto parcial	N			N	N	0	1	0	0	0	0	0	0	0	0	0	0	0
+1726000846	260051	Policlínico Riojano Nuestra Señora de Valvanera	26	La Rioja	17	La Rioja	N	032	Concierto sustitutorio	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1726000383	260121	Centro Sociosanitario de Convalecencia Los Jazmines	26	La Rioja	17	La Rioja	N	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+	260012	Complejo Hospitalario San Pedro Hospital de La Rioja	26	La Rioja	17	La Rioja	S	01	Sin concierto	N			S	N	4	3	1	1	1	1	0	3	1	1	3	1	26
+1726000067	260048	Hospital de La Rioja	26	La Rioja	17	La Rioja	DC	DC	DC	S	260012	Complejo Hospitalario San Pedro Hospital de La Rioja	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1726000576	260027	Hospital Universitario San Pedro	26	La Rioja	17	La Rioja	DC	DC	DC	S	260012	Complejo Hospitalario San Pedro Hospital de La Rioja	N	N	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC	DC
+1726000080	260109	Clínica Los Manzanos	26	La Rioja	17	La Rioja	N	01	Sin concierto	N			N	N	1	2	0	1	0	0	0	0	0	0	0	0	0
+1726000699	260110	Centro Asistencial Albelda de Iregua	26	La Rioja	17	La Rioja	S	01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1726000825	260132	Centro Sociosanitario de Convalecencia Nuestra Señora Virgen del Carmen	26	La Rioja	17	La Rioja	N	031	Red de utilización pública (RUP)	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1726000542	260099	Fundacion Hospital Calahorra	26	La Rioja	17	La Rioja	S	01	Sin concierto	N			N	N	1	1	0	0	0	0	0	0	0	0	1	1	18
+1851000001	510039	Hospital Universitario de Ceuta	51	Ceuta	18	Ceuta	S	01	Sin concierto	N			N	N	1	1	0	0	0	1	0	0	0	0	1	1	0
+1952000109	520018	Hospital Comarcal	52	Melilla	19	Melilla		01	Sin concierto	N			N	N	0	0	0	0	0	0	0	0	0	0	0	0	0
+1952000235	520042	EV Medical-Rusadir	52	Melilla	19	Melilla	N	01	Sin concierto	N			N	S	0	0	0	0	0	0	0	0	0	0	0	0	0

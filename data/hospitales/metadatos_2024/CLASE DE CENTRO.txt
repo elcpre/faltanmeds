@@ -1,0 +1,6 @@
+COD. CLASE DE CENTRO	CLASE DE CENTRO
+C11	Hospitales Generales
+C12	Hospitales especializados
+C13	Hospitales de media y larga estancia
+C14	Hospitales de salud mental y tratamiento de toxicomanías
+C190	Otros Centros con Internamiento
