@@ -10798,5 +10798,829 @@
     "lng": -3.7203173,
     "city": "SANTA FE",
     "address": "CALLE LA PAZ, Nº 2"
+  },
+  {
+    "name": "CHAUCHINA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.201702,
+    "lng": -3.7725654,
+    "city": "CHAUCHINA",
+    "address": "PLAZA DE LA CONSTITUCIÓN, Nº 13"
+  },
+  {
+    "name": "CHIMENEAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1322894,
+    "lng": -3.8241894,
+    "city": "CHIMENEAS",
+    "address": "CALLE AYUNTAMIENTO, S/N"
+  },
+  {
+    "name": "EL JAU",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1957473,
+    "lng": -3.7407933,
+    "city": "JAU (EL)",
+    "address": "AVENIDA ANDALUCÍA, Nº 10"
+  },
+  {
+    "name": "FUENTE VAQUEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2257002,
+    "lng": -3.7822492,
+    "city": "FUENTE VAQUEROS",
+    "address": "CALLE HUERTA BELTARAN, Nº 3"
+  },
+  {
+    "name": "LÁCHAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1873997,
+    "lng": -3.8642628,
+    "city": "LÁCHAR",
+    "address": "CALLE BUENA VISTA, Nº 17"
+  },
+  {
+    "name": "CASTILLO DE TAJARJA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1164347,
+    "lng": -3.8762452,
+    "city": "CASTILLO DE TAJARJA",
+    "address": "CALLE REAL, S/N"
+  },
+  {
+    "name": "PEDRO RUIZ (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2183245,
+    "lng": -3.7515156,
+    "city": "PEDRO RUIZ",
+    "address": "CALLE LA VIRGEN, S/N"
+  },
+  {
+    "name": "PEÑUELAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.1739595,
+    "lng": -3.858065,
+    "city": "PEÑUELAS",
+    "address": "CALLE PINAR, S/N"
+  },
+  {
+    "name": "ROMILLA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2012594,
+    "lng": -3.7945313,
+    "city": "ROMILLA",
+    "address": "CALLE CIJUELA, S/N"
+  },
+  {
+    "name": "DÚRCAL",
+    "type": "PRIMARY_CARE",
+    "lat": 37.0163355,
+    "lng": -3.5550069,
+    "city": "DÚRCAL",
+    "address": "CALLE ANTIGUA NACIONAL 323, VIA DE SERVICIO"
+  },
+  {
+    "name": "ALBUÑUELAS",
+    "type": "PRIMARY_CARE",
+    "lat": 36.92876,
+    "lng": -3.625451,
+    "city": "ALBUÑUELAS",
+    "address": "CALLE CARRETERA, S/N"
+  },
+  {
+    "name": "CÓNCHAR (VILLAMENA) (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 36.9679851,
+    "lng": -3.5918402,
+    "city": "CÓNCHAR",
+    "address": "CALLE CARRETERA, Nº 1"
+  },
+  {
+    "name": "OJUELOS BAJOS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1993376,
+    "lng": -5.3801494,
+    "city": "OJUELOS BAJOS",
+    "address": "CALLE REAL, S/N"
+  },
+  {
+    "name": "VALSEQUILLO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4040306,
+    "lng": -5.3523537,
+    "city": "VALSEQUILLO",
+    "address": "CALLE SANTA RITA, Nº 5"
+  },
+  {
+    "name": "POZOBLANCO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3653083,
+    "lng": -4.8415205,
+    "city": "POZOBLANCO",
+    "address": "CALLE FELIPE II, ESQ MARÍA ZAMBRANO, S/N"
+  },
+  {
+    "name": "ALCARACEJOS",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3879339,
+    "lng": -4.9691859,
+    "city": "ALCARACEJOS",
+    "address": "CALLE MIGUEL LÓPEZ, Nº 9"
+  },
+  {
+    "name": "AÑORA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.410188,
+    "lng": -4.8954463,
+    "city": "AÑORA",
+    "address": "CALLE AMARGURA, S/N"
+  },
+  {
+    "name": "DOS TORRES",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4436816,
+    "lng": -4.8942611,
+    "city": "DOS TORRES",
+    "address": "CALLE PÓSITO, Nº 8"
+  },
+  {
+    "name": "EL VISO",
+    "type": "PRIMARY_CARE",
+    "lat": 40.9973805,
+    "lng": -5.6612228,
+    "city": "VISO (EL)",
+    "address": "CALLE CALLEJÓN DE LA BUENA MANCHEGA, Nº 1"
+  },
+  {
+    "name": "FUENTE LA LANCHA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4234621,
+    "lng": -5.0483602,
+    "city": "FUENTE LA LANCHA",
+    "address": "TRAVESÍA DE LOS PEDROCHES, Nº 46"
+  },
+  {
+    "name": "GUIJO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4964119,
+    "lng": -4.7818655,
+    "city": "GUIJO (EL)",
+    "address": "CALLE REAL, Nº 35"
+  },
+  {
+    "name": "PEDROCHE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4293715,
+    "lng": -4.76383,
+    "city": "PEDROCHE",
+    "address": "CALLE SAN FERNANDO, S/N"
+  },
+  {
+    "name": "SANTA EUFEMIA",
+    "type": "PRIMARY_CARE",
+    "lat": 43.0175294,
+    "lng": -7.3366096,
+    "city": "SANTA EUFEMIA",
+    "address": "CALLE GLORIETA SINDICAL, S/N"
+  },
+  {
+    "name": "TORRECAMPO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3694307,
+    "lng": -4.6276996,
+    "city": "TORRECAMPO",
+    "address": "CALLE REINA, Nº 3"
+  },
+  {
+    "name": "VILLANUEVA DEL DUQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3945525,
+    "lng": -4.9987137,
+    "city": "VILLANUEVA DEL DUQUE",
+    "address": "CALLE VIRGEN DE GUIA, Nº 26"
+  },
+  {
+    "name": "VILLARALTO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4623942,
+    "lng": -4.9772623,
+    "city": "VILLARALTO",
+    "address": "CALLE BUEN SUCESO, Nº 22"
+  },
+  {
+    "name": "VILLANUEVA DE CÓRDOBA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3236706,
+    "lng": -4.6286075,
+    "city": "VILLANUEVA DE CÓRDOBA",
+    "address": "CALLE QUEVEDO, Nº 2"
+  },
+  {
+    "name": "AZUEL",
+    "type": "PRIMARY_CARE",
+    "lat": 38.3278577,
+    "lng": -4.3245462,
+    "city": "AZUEL",
+    "address": "CALLE ALEGRIA, Nº 8"
+  },
+  {
+    "name": "CARDEÑA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2704413,
+    "lng": -4.3223922,
+    "city": "CARDEÑA",
+    "address": "CALLE DOCTOR FLEMING, Nº 13"
+  },
+  {
+    "name": "CONQUISTA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.4077574,
+    "lng": -4.5007059,
+    "city": "CONQUISTA",
+    "address": "CALLE MAYOR, Nº 45"
+  },
+  {
+    "name": "VENTA DEL CHARCO (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 38.2030867,
+    "lng": -4.2785164,
+    "city": "VENTA DEL CHARCO",
+    "address": "CALLE REAL BAJA, S/N"
+  },
+  {
+    "name": "CÓRDOBA CENTRO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8891847,
+    "lng": -4.7861334,
+    "city": "CÓRDOBA",
+    "address": "AVENIDA AMÉRICA, Nº 1"
+  },
+  {
+    "name": "FUENSANTA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8850328,
+    "lng": -4.7581579,
+    "city": "CÓRDOBA",
+    "address": "CALLE NUÑEZ DE BALBOA, S/N"
+  },
+  {
+    "name": "HUERTA DE LA REINA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.893403,
+    "lng": -4.7855997,
+    "city": "CÓRDOBA",
+    "address": "AVENIDA DEL GRAN CAPITAN esquina CALLE ABDERRAMAN III, S/N"
+  },
+  {
+    "name": "LEVANTE SUR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8923699,
+    "lng": -4.7648889,
+    "city": "CÓRDOBA",
+    "address": "CALLE SAGUNTO - ANTIGUO CUARTEL DE LEPANTO, S/N"
+  },
+  {
+    "name": "LEVANTE NORTE DE CÓRDOBA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8962564,
+    "lng": -4.7538632,
+    "city": "CÓRDOBA",
+    "address": "AVENIDA CARLOS III, S/N"
+  },
+  {
+    "name": "LUCANO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8803993,
+    "lng": -4.7750772,
+    "city": "CÓRDOBA",
+    "address": "CALLE LUCANO, S/N"
+  },
+  {
+    "name": "OCCIDENTE \"AZAHARA\"",
+    "type": "PRIMARY_CARE",
+    "lat": 37.605184,
+    "lng": -4.7409678,
+    "city": "CÓRDOBA",
+    "address": "CALLE DEL CAMPO, S/N"
+  },
+  {
+    "name": "GUADALQUIVIR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8613055,
+    "lng": -4.7775234,
+    "city": "CÓRDOBA",
+    "address": "CALLE LIBERTADOR JOAQUÍN DA SILVA XAVIER, S/N"
+  },
+  {
+    "name": "PONIENTE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8809436,
+    "lng": -4.795877,
+    "city": "CÓRDOBA",
+    "address": "CALLE RAFAEL MARQUEZ MAZZANTINI, S/N"
+  },
+  {
+    "name": "SANTA ROSA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8980456,
+    "lng": -4.7805786,
+    "city": "CÓRDOBA",
+    "address": "AVENIDA CRUZ DE JUÁREZ, S/N"
+  },
+  {
+    "name": "SECTOR SUR - SANTA VICTORIA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8655827,
+    "lng": -4.7821564,
+    "city": "CÓRDOBA",
+    "address": "AVENIDA DE CÁDIZ, S/N"
+  },
+  {
+    "name": "ALCOLEA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9325992,
+    "lng": -4.6744813,
+    "city": "ALCOLEA",
+    "address": "CALLE HAZA DEL DEMONIO, S/N"
+  },
+  {
+    "name": "BARRIADA DE LOS ÁNGELES",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9270969,
+    "lng": -4.655349,
+    "city": "CÓRDOBA",
+    "address": "CALLE HERRERIA, S/N"
+  },
+  {
+    "name": "BARRIADA EL NARANJO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9101449,
+    "lng": -4.7792589,
+    "city": "CÓRDOBA",
+    "address": "CALLE PARROCO AGUSTIN MOLINA, Nº 21"
+  },
+  {
+    "name": "CERRO MURIANO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0081641,
+    "lng": -4.7933371,
+    "city": "CERRO MURIANO",
+    "address": "CALLE PROFESORA CATALINA CASTRO, S/N"
+  },
+  {
+    "name": "EL HIGUERÓN",
+    "type": "PRIMARY_CARE",
+    "lat": 37.856745,
+    "lng": -4.8487745,
+    "city": "HIGUERÓN (EL)",
+    "address": "AVENIDA PRINCIPAL DEL HIGUERON, S/N"
+  },
+  {
+    "name": "ENCINAREJO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8315343,
+    "lng": -4.9290436,
+    "city": "ENCINAREJO DE CÓRDOBA",
+    "address": "PLAZA DE LA AUTONOMÍA, S/N"
+  },
+  {
+    "name": "SANTA CRUZ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8706291,
+    "lng": -4.7801604,
+    "city": "CÓRDOBA",
+    "address": "PLAZA ANDALUCÍA, S/N"
+  },
+  {
+    "name": "VILLARRUBIA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8479706,
+    "lng": -4.9137717,
+    "city": "VILLARRUBIA",
+    "address": "PLAZA DE LOS RIOS, S/N"
+  },
+  {
+    "name": "SANTA Mª DE TRASSIERRA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.926668,
+    "lng": -4.8985121,
+    "city": "SANTA MARÍA DE TRASSIERRA",
+    "address": "CALLE SANTA Mª DE TRASSIERRA, S/N"
+  },
+  {
+    "name": "ALBENDÍN",
+    "type": "PRIMARY_CARE",
+    "lat": 37.671761,
+    "lng": -4.238592,
+    "city": "ALBENDÍN",
+    "address": "CALLE ANDALUCÍA, S/N"
+  },
+  {
+    "name": "LUQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5593528,
+    "lng": -4.2768427,
+    "city": "LUQUE",
+    "address": "PLAZA ESPAÑA, S/N"
+  },
+  {
+    "name": "ZUHEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5438627,
+    "lng": -4.3455038,
+    "city": "ZUHEROS",
+    "address": "CALLE BARRENA, S/N"
+  },
+  {
+    "name": "ENCINAS REALES",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2819016,
+    "lng": -4.4812523,
+    "city": "ENCINAS REALES",
+    "address": "PLAZA POSITO, Nº 2"
+  },
+  {
+    "name": "PALENCIANA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.2487197,
+    "lng": -4.5839593,
+    "city": "PALENCIANA",
+    "address": "CALLE SAN ISIDRO, Nº 22"
+  },
+  {
+    "name": "CABRA \"MATRONA ANTONIA MESA FERNÁNDEZ\"",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4719016,
+    "lng": -4.4370449,
+    "city": "CABRA",
+    "address": "AVENIDA GONZALEZ MENESES, S/N"
+  },
+  {
+    "name": "DOÑA MENCÍA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5519107,
+    "lng": -4.3571736,
+    "city": "DOÑA MENCÍA",
+    "address": "CALLE LOPE DE VEGA, Nº 2"
+  },
+  {
+    "name": "NUEVA CARTEYA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5846466,
+    "lng": -4.4693504,
+    "city": "NUEVA CARTEYA",
+    "address": "CALLE ALCALDE JUAN CABALLERO, Nº 15"
+  },
+  {
+    "name": "CASTRO DEL RÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.6919018,
+    "lng": -4.4798497,
+    "city": "CASTRO DEL RÍO",
+    "address": "CALLE MARIANO FUENTES, Nº 6"
+  },
+  {
+    "name": "ESPEJO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.6764587,
+    "lng": -4.5548286,
+    "city": "ESPEJO",
+    "address": "CALLE MONTILLA, S/N"
+  },
+  {
+    "name": "LUCENA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4159386,
+    "lng": -4.4803863,
+    "city": "LUCENA",
+    "address": "CALLE PASEO DE ROJAS, S/N"
+  },
+  {
+    "name": "LUCENA II",
+    "type": "PRIMARY_CARE",
+    "lat": 37.41213,
+    "lng": -4.4755642,
+    "city": "LUCENA",
+    "address": "AVENIDA SANTA TERESA, Nº 4"
+  },
+  {
+    "name": "JAUJA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3013385,
+    "lng": -4.6543488,
+    "city": "JAUJA",
+    "address": "CALLE RONDA, S/N"
+  },
+  {
+    "name": "MONTURQUE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4705044,
+    "lng": -4.5824443,
+    "city": "MONTURQUE",
+    "address": "CALLE CÓRDOBA, Nº 17"
+  },
+  {
+    "name": "MORILES",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4369009,
+    "lng": -4.6103467,
+    "city": "MORILES",
+    "address": "CALLE SEVILLA, S/N"
+  },
+  {
+    "name": "MONTILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5837013,
+    "lng": -4.6428172,
+    "city": "MONTILLA",
+    "address": "AVENIDA DE ANDALUCÍA, Nº 11"
+  },
+  {
+    "name": "PRIEGO DE CÓRDOBA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.439441,
+    "lng": -4.2011479,
+    "city": "PRIEGO DE CÓRDOBA",
+    "address": "CALLE DOCTOR BALBINO POVEDANO RUIZ, S/N"
+  },
+  {
+    "name": "ALMEDINILLA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4400937,
+    "lng": -4.0953055,
+    "city": "ALMEDINILLA",
+    "address": "PASEO DE LAS MORERAS, S/N"
+  },
+  {
+    "name": "CARCABUEY",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4444924,
+    "lng": -4.2704278,
+    "city": "CARCABUEY",
+    "address": "CALLE DEL PILAREJO, S/N"
+  },
+  {
+    "name": "FUENTE - TÓJAR",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5106048,
+    "lng": -4.1464591,
+    "city": "FUENTE-TÓJAR",
+    "address": "CALLE ANCHA, Nº 8"
+  },
+  {
+    "name": "EL ESPARRAGAL (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5001878,
+    "lng": -4.2173744,
+    "city": "ESPARRAGAL (EL)",
+    "address": "CALLE NUEVA, S/N"
+  },
+  {
+    "name": "LA CONCEPCIÓN (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 28.0263145,
+    "lng": -15.4823783,
+    "city": "CONCEPCIÓN (LA)",
+    "address": "LUGAR LA CONCEPCIÓN, S/N"
+  },
+  {
+    "name": "LAS LAGUNILLAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.356013,
+    "lng": -4.2486242,
+    "city": "LAGUNILLAS (LAS)",
+    "address": "AVENIDA PRIEGO, S/N"
+  },
+  {
+    "name": "ZAGRILLA (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.4548631,
+    "lng": -4.2414198,
+    "city": "ZAGRILLA BAJA",
+    "address": "CARRETERA PRIEGO, S/N"
+  },
+  {
+    "name": "ZAMORANOS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.5249547,
+    "lng": -4.1637785,
+    "city": "ZAMORANOS",
+    "address": "CALLE EL MÉDICO, S/N"
+  },
+  {
+    "name": "PUENTE GENIL JOSÉ GALLEGO ARROBA ",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3919028,
+    "lng": -4.7689906,
+    "city": "PUENTE GENIL",
+    "address": "CALLE DOCTOR FLEMING, S/N"
+  },
+  {
+    "name": "PUENTE GENIL II",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3965888,
+    "lng": -4.753512,
+    "city": "PUENTE GENIL",
+    "address": "CALLE MIGUEL QUINTERO MERINO, S/ N"
+  },
+  {
+    "name": "RUTE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3277485,
+    "lng": -4.3719612,
+    "city": "RUTE",
+    "address": "CALLE ANDALUCÍA, Nº 1"
+  },
+  {
+    "name": "ZAMBRA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.3883305,
+    "lng": -4.3852817,
+    "city": "ZAMBRA",
+    "address": "CALLE PORTUGALEJO, S/N"
+  },
+  {
+    "name": "BUJALANCE \"D. ANTONIO FERNANDEZ DE MOLINA Y CAÑAS\"",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8977751,
+    "lng": -4.3836591,
+    "city": "BUJALANCE",
+    "address": "CALLE TRASCASTILLO, S/N"
+  },
+  {
+    "name": "CAÑETE DE LAS TORRES",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8757545,
+    "lng": -4.3108346,
+    "city": "CAÑETE DE LAS TORRES",
+    "address": "CALLE POLÍGONO LOS RUEDOS, S/N"
+  },
+  {
+    "name": "EL CARPIO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9419286,
+    "lng": -4.4887572,
+    "city": "CARPIO (EL)",
+    "address": "AVENIDA ECCE-HOMO, S/N"
+  },
+  {
+    "name": "VALENZUELA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.7748022,
+    "lng": -4.2194822,
+    "city": "VALENZUELA",
+    "address": "CALLE MONTE CALVARIO, S/N"
+  },
+  {
+    "name": "VILLAFRANCA DE CÓRDOBA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9369599,
+    "lng": -4.5317362,
+    "city": "VILLAFRANCA DE CÓRDOBA",
+    "address": "CALLE LA CARRERA, S/N"
+  },
+  {
+    "name": "MARUANAS (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9351317,
+    "lng": -4.4699211,
+    "city": "MARUANAS",
+    "address": "PLAZA MAYOR, S/N"
+  },
+  {
+    "name": "FUENTE PALMERA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.7058442,
+    "lng": -5.1055196,
+    "city": "FUENTE PALMERA",
+    "address": "CALLE SEGOVIA Y MERCEDITA, S/N"
+  },
+  {
+    "name": "FUENTE CARRETEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.6710489,
+    "lng": -5.1544191,
+    "city": "FUENTE CARRETEROS",
+    "address": "CALLE SARGENTO CHAPARRO, Nº 2"
+  },
+  {
+    "name": "OCHAVILLO DEL RIO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.7494666,
+    "lng": -5.1346479,
+    "city": "OCHAVILLO DEL RÍO",
+    "address": "CALLE FUENTE PALMERA, S/N"
+  },
+  {
+    "name": "LA CARLOTA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.6680669,
+    "lng": -4.9333172,
+    "city": "CARLOTA (LA)",
+    "address": "AVENIDA LA PAZ, S/N"
+  },
+  {
+    "name": "EL ARRECIFE",
+    "type": "PRIMARY_CARE",
+    "lat": 37.7053951,
+    "lng": -4.8914485,
+    "city": "ARRECIFE (EL)",
+    "address": "CALLE DE LA PLATA, S/N"
+  },
+  {
+    "name": "LA VICTORIA",
+    "type": "PRIMARY_CARE",
+    "lat": 37.6833473,
+    "lng": -4.8528104,
+    "city": "VICTORIA (LA)",
+    "address": "CALLE VILLACISNEROS, Nº2"
+  },
+  {
+    "name": "SAN SEBASTIÁN DE LOS BALLESTEROS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.65293,
+    "lng": -4.8245338,
+    "city": "SAN SEBASTIÁN DE LOS BALLESTEROS",
+    "address": "CALLE NUEVAS POBLACIONES, S/N"
+  },
+  {
+    "name": "VILLAVICIOSA DE CÓRDOBA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0746628,
+    "lng": -5.0136315,
+    "city": "VILLAVICIOSA DE CÓRDOBA",
+    "address": "CALLE TOMAS CARRETERO , S/N"
+  },
+  {
+    "name": "OBEJO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.130856,
+    "lng": -4.7986848,
+    "city": "OBEJO",
+    "address": "CALLE EUGENIO BARROSO, Nº 6"
+  },
+  {
+    "name": "VILLAHARTA",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1400677,
+    "lng": -4.9035211,
+    "city": "VILLAHARTA",
+    "address": "AVENIDA ANDALUCÍA, Nº 4"
+  },
+  {
+    "name": "EL VACAR (CONSULTORIO AUXILIAR)",
+    "type": "PRIMARY_CARE",
+    "lat": 38.076865,
+    "lng": -4.8517298,
+    "city": "VACAR (EL)",
+    "address": "CALLE EL VACAR, S/N"
+  },
+  {
+    "name": "MONTORO",
+    "type": "PRIMARY_CARE",
+    "lat": 38.0077975,
+    "lng": -4.3822459,
+    "city": "MONTORO",
+    "address": "CALLE SENDA GOLOSILLA, S/N"
+  },
+  {
+    "name": "ADAMUZ",
+    "type": "PRIMARY_CARE",
+    "lat": 38.1060284,
+    "lng": -4.5356098,
+    "city": "ADAMUZ",
+    "address": "PLAZA PUERTA DE LA VILLA, S/N"
+  },
+  {
+    "name": "PEDRO ABAD",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9625952,
+    "lng": -4.4608461,
+    "city": "PEDRO ABAD",
+    "address": "CALLE DOCTOR EDUARDO TELLO, S/N"
+  },
+  {
+    "name": "VILLA DEL RÍO",
+    "type": "PRIMARY_CARE",
+    "lat": 37.9812868,
+    "lng": -4.2836936,
+    "city": "VILLA DEL RÍO",
+    "address": "CALLE RIBERA SAN ISIDRO LABRADOR, Nº 12"
+  },
+  {
+    "name": "PEÑAFLOR",
+    "type": "PRIMARY_CARE",
+    "lat": 43.4029303,
+    "lng": -6.045175,
+    "city": "PEÑAFLOR",
+    "address": "CALLE FERIA (FRENTE A ESTACIÓN), S/N"
+  },
+  {
+    "name": "POSADAS",
+    "type": "PRIMARY_CARE",
+    "lat": 37.8021293,
+    "lng": -5.1057187,
+    "city": "POSADAS",
+    "address": "CALLE GAITAN, Nº 1"
   }
 ]

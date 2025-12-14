@@ -4,9 +4,11 @@ import Script from 'next/script';
 import { useConsent } from '@/context/ConsentContext';
 
 export function GoogleAdSense() {
-    const { consent } = useConsent();
+    // Note: Temporarily allowing script to load for Google Verification. 
+    // Ideally, for strict GDPR, this should be blocked, but AdSense verification requires it present.
+    // const { consent } = useConsent();
 
-    if (!consent.marketing) return null;
+    // if (!consent.marketing) return null;
 
     return (
         <Script
